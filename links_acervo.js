@@ -32014,5 +32014,61 @@ filmes = [
         "link": "https://drive.google.com/file/d/1Sm_2PdmuGRPwRdZeH7S0OLWqjmZaltDn/view?usp=sharing",
         "tags": "DUB",
         "n": 1
+    },
+    {
+        "t": "12 DIAS DE PRESENTES",
+        "c": "https://image.tmdb.org/t/p/w500/A5yg335MX4bMJHguNR2TYT3163P.jpg",
+        "a": "2017",
+        "link": "https://drive.google.com/file/d/1grQhqqOD0oOv0sA0UENoE8l8EPL-AOe1/view",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "12 DOG DAYS TILL CHRISTMAS 12 DIAS DE CÃO",
+        "c": "https://image.tmdb.org/t/p/w500/jKUMGVzFV2lpxqrQpZCNDm0zRPy.jpg",
+        "a": "2014",
+        "link": "https://drive.google.com/file/d/1gks6Mnpm33J_BW9kTtLlcVA59NVhyrxE/view",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "12 MEN OF CHRISTMAS UM NATAL DIFERENTE",
+        "c": "https://image.tmdb.org/t/p/w500/4GIDNspYuIE8P9DycaYTrvDzhaw.jpg",
+        "a": "2009",
+        "link": "https://drive.google.com/file/d/1rVIxN73k5rISC1CzMOvMPMrFwd-s6-2T/view?usp=sharing",
+        "tags": "LEG",
+        "n": 1
+    },
+    {
+        "t": "12 PUPS OF CHRISTMAS",
+        "c": "https://image.tmdb.org/t/p/w500/nH5NFwQAjLDoSaGQqnQ2gCchiSP.jpg",
+        "a": "2019",
+        "link": "https://drive.google.com/file/d/1cIC9QHK7W7rWz5f4z9CyDbRXghWk5ncX/view",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "2ND CHANCE FOR CHRISTMAS",
+        "c": "https://image.tmdb.org/t/p/w500/3BS5Jt5bm0HAFWLddXZ2Z7rDpmk.jpg",
+        "a": "2019",
+        "link": "https://drive.google.com/file/d/1BFCIdlSDIcU_Cd9I0xaVlPiie2gmyhq_/view",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "3 BED 2 BATH 1 GHOST MP4 (LUCIANA)",
+        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "a": "----",
+        "link": "https://drive.google.com/file/d/1C3g4jd75mbpgiQcnsU_JKtgiPg0eILz_/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "9 1/2 NOVE E MEIA SEMANAS DE AMOR",
+        "c": "https://image.tmdb.org/t/p/w500/etP3gu6FZdMdWnTwZEhEpF5UMhq.jpg",
+        "a": "1986",
+        "link": "https://drive.google.com/file/d/1wRoURbQNOFY0mNlJtPLtSyHUuz8Dn-iB/view",
+        "tags": "DUB",
+        "n": 0
     }
 ];

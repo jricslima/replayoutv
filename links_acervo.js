@@ -32230,5 +32230,29 @@ filmes = [
         "link": "https://drive.google.com/file/d/1zjM5ynN_ul4ZuS221Hh1oH69NbkbRYq5/view?usp=sharing",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "OPERAÇÃO NATAL",
+        "c": "https://image.tmdb.org/t/p/w500/zX2UeAmF8XDBJM3sZ0RS0jLQ8Gg.jpg",
+        "a": "2024",
+        "link": "https://drive.google.com/file/d/1NUpuxL-pOAamPpSTaiV7KPf3Z6yUs-Vb/view?usp=drive_open",
+        "tags": "DUB",
+        "n": 1
+    },
+    {
+        "t": "PARA SEMPRE VOCÊ",
+        "c": "https://image.tmdb.org/t/p/w500/iLuHJVcKAYnudYLzmjJNkWPRgr4.jpg",
+        "a": "2018",
+        "link": "https://drive.google.com/file/d/1QMNL6nEClJWirVY2cgRUmmaMg-TX3Jwi/view?usp=drive_open",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "PARADA INESPERADA",
+        "c": "https://image.tmdb.org/t/p/w500/92ffWBFd29zthYjHUEPIzotQ0aH.jpg",
+        "a": "2013",
+        "link": "https://drive.google.com/file/d/1DXaVLraRHZ2ywzKSbz5Q2mIA1gYcx7FA/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

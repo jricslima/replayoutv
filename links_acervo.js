@@ -32134,5 +32134,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1loOYr7JqLwOCLsjgf0TFyQhxKgfrmqlM/view?usp=drivesdk",
         "tags": "DUB",
         "n": 1
+    },
+    {
+        "t": "AMOR AS ESCURAS",
+        "c": "https://image.tmdb.org/t/p/w500/b1FOZOfVWnUGOybxO016ODaRbVt.jpg",
+        "a": "2014",
+        "link": "https://drive.google.com/file/d/1qait2K9eq6E9lz6P8Pdy74at8200sDwB/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

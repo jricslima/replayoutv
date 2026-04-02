@@ -245,12 +245,6 @@ var series = [
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7BanECmWCduOuJ5LzCjY93IdyPU.jpg",
         "link": "https://mega.nz/folder/LdQExDjC#_n8lmzDgC6lolSRaj9brGA"
     },
-    { "t": "A BELA E A FERA (1987)", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vPAEPR7jiugyOPyf2turnQ329Qk.jpg", "link": "https://ok.ru/video/c3191227" },
-    { "t": "JASPION", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5mdeUBc5hQX8NrTCerfAUim7XY0.jpg", "link": "https://mega.nz/folder/uBBV2SSR#2aMR0hTu7JrheKl1aa9Lhw" },
-    { "t": "ORGULHO E PRECONCEITO 1980", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jXj1uEJgPToJmG4bq1mIZeghyv3.jpg", "link": "https://drive.google.com/drive/folders/1dwtuOtT52VIw3eJHS2P8DbwaBTuunUuP" },
-    { "t": "ORGULHO E PRECONCEITO 1995", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kKsM8jzi2q43uQCARVAosTAYSNM.jpg", "link": "https://drive.google.com/drive/folders/17Hg89vCUTGqpsrCa81B7JOJdvOJ2wfCE" },
-    { "t": "RAZÃO E SENSIBILIDADE 2008", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/e1Zhi5xRrjjOosSzBM0RgFdvol3.jpg", "link": "https://drive.google.com/drive/folders/1yR2wUyfdeXUvK8AXWx38d1xsdLTeCHxC" },
-    { "t": "ULTRAMAN", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7BanECmWCduOuJ5LzCjY93IdyPU.jpg", "link": "https://mega.nz/folder/LdQExDjC#_n8lmzDgC6lolSRaj9brGA" },
     { "t": "ULTRASEVEN", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/1AZiI4FJlGmAcp5lvLMZk16xaU4.jpg", "link": "https://drive.google.com/drive/folders/0BynNnqICTkBANmlMd2FzLUFnNnc?resourcekey=0-Y2Vqu7wv9BO80oAwSTk6Kw" },
     { "t": "YELLOWJACKETS", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg", "link": "https://drive.google.com/drive/folders/1saNEd0TM0AC4wQEIeKsfL5hh0XLM5r6E" }
 ];

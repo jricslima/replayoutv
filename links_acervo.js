@@ -32070,5 +32070,29 @@ filmes = [
         "link": "https://drive.google.com/file/d/1wRoURbQNOFY0mNlJtPLtSyHUuz8Dn-iB/view",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "A DELICADEZA DO AMOR",
+        "c": "https://image.tmdb.org/t/p/w500/flj2uNvlfldgPpccXBkQ8Nefrmm.jpg",
+        "a": "2011",
+        "link": "https://drive.google.com/file/d/1sM7yGQbDCNmmcrk5W2bsLfyZD3LO_61v/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "A KISS BEFORE CHRISTMAS (RF)",
+        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "a": "----",
+        "link": "https://drive.google.com/file/d/1zRmSbjlyGxUeryTUPieETO9qOr5kBdMw/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "A MINHA GAROTA PARA SEMPRE",
+        "c": "https://image.tmdb.org/t/p/w500/uNOYr7OGdlzja4a4nCSZsaCtA1V.jpg",
+        "a": "2018",
+        "link": "https://drive.google.com/file/d/1PtV7uiXou9HMoV7mGW0ArhGwBrRl_lIF/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

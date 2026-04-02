@@ -32310,5 +32310,29 @@ filmes = [
         "link": "https://drive.google.com/file/d/1lsl0KZ900hy_eAi7mUXCCTKXk2uMDe9x/view?usp=sharing",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "THE DANCING DETECTIVE A DEADLY TANGO MP4 (LUCIANA)",
+        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "a": "----",
+        "link": "https://drive.google.com/file/d/1swAPqA-x-G8g2f_rQM5KxbxskYolE4-R/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "THE LOST PRINCE PARTE 1 MP4",
+        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "a": "----",
+        "link": "https://drive.google.com/file/d/1wI5o6HNOIMcjcvrz6X-Lnl4r5Q2rp9k4/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "THE LOST PRINCE PARTE 2 MP4",
+        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "a": "----",
+        "link": "https://drive.google.com/file/d/1alYxAyz0ktdTIX6Lz6eLnIAlN4IVQV-6/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

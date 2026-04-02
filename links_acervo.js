@@ -32214,5 +32214,21 @@ filmes = [
         "link": "https://cutt.ly/VtJRVMe",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "NOSSA VIDA COM CÃES",
+        "c": "https://image.tmdb.org/t/p/w500/mJoFG7M9edUIkh8y6tYnLCRHZyO.jpg",
+        "a": "2018",
+        "link": "http://Reupar...",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "O CASAMENTO DO MEU MELHOR AMIGO",
+        "c": "https://image.tmdb.org/t/p/w500/jsj1vxFEUuEKVr7eithwvj2eRxd.jpg",
+        "a": "1997",
+        "link": "https://drive.google.com/file/d/1zjM5ynN_ul4ZuS221Hh1oH69NbkbRYq5/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

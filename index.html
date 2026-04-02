@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="shortcut icon" href="img/replay.png" type="image/png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Replayoutv 2.0 - Acervo</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <style>
+        :root { --primary: #e50914; --dark: #141414; --card-bg: #2f2f2f; --text: #ffffff; }
+        body { background: var(--dark); color: var(--text); font-family: Arial, sans-serif; padding: 20px; margin: 0; }
+        header { text-align: center; border-bottom: 2px solid var(--primary); margin-bottom: 20px; padding: 10px; }
+        
+        .filtros { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 30px; }
+        .btn { background: #333; color: white; border: 1px solid #555; padding: 8px 15px; border-radius: 5px; cursor: pointer; font-size: 0.9rem; transition: 0.2s; }
+        .btn:hover { background: var(--primary); }
+        .btn-natal { background: #2e7d32 !important; border: none !important; }
+
+        .container { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); 
+            gap: 15px; 
+            max-width: 1400px; 
+            margin: 0 auto; 
+        }
+
+        .card { position: relative; background: var(--card-bg); border-radius: 8px; overflow: hidden; display: flex; flex-direction: column; transition: 0.3s; border: 1px solid #444; height: 100%; }
+        .capa { width: 100%; aspect-ratio: 2 / 3; object-fit: cover; background: #000; }
+        .info { padding: 10px; flex-grow: 1; }
+        .titulo { font-weight: bold; margin: 5px 0; font-size: 0.85rem; text-transform: uppercase; min-height: 40px; }
+        .btn-link { background: var(--primary); color: white; text-decoration: none; text-align: center; padding: 10px; font-weight: bold; font-size: 0.8rem; margin-top: auto; display: block; }
+
+        /* Estilo das Etiquetas */
+        .tag-ano, .tag-geral { position: absolute; top: 5px; padding: 2px 5px; border-radius: 3px; font-size: 10px; font-weight: bold; z-index: 10; }
+        .tag-ano { left: 5px; background: rgba(0, 0, 0, 0.8); color: #bbb; }
+        .tag-geral { right: 5px; background: var(--primary); color: white; text-transform: uppercase; }
+
+				/* Botões maiores e com ícones centralizados */
+		.nav-btn {
+			position: fixed;
+			right: 30px;
+			background-color: red;
+			color: white;
+			border: none;
+			width: 55px;   /* Largura fixa */
+			height: 55px;  /* Altura fixa para ser um círculo perfeito */
+			border-radius: 50%;
+			cursor: pointer;
+			z-index: 1000;
+			display: none;
+			font-size: 22px; /* Ícone maior */
+			box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+			transition: transform 0.2s, background-color 0.2s;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		#btnIrAoFim { 
+			background-color: #000; 
+			border: 2px solid white; 
+			font-size: 14px; /* Texto "FIM" um pouco menor que os ícones */
+			font-weight: bold;
+}        .nav-btn:hover { background-color: #b20710; transform: scale(1.1); }
+        
+        #btnTopo { bottom: 20px; }
+        #btnFinal { bottom: 80px; }
+        #btnIrAoFim { bottom: 140px; background-color: #000; border: 2px solid white; border-radius: 10px; }
+
+        /* Filtros de Busca e Letras */
+        .filtros-letras { display: flex; justify-content: center; gap: 4px; flex-wrap: wrap; max-width: 1000px; margin: 0 auto 30px auto; }
+        .btn-l { background: #222; color: #fff; border: 1px solid #444; width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; border-radius: 4px; cursor: pointer; font-size: 14px; font-weight: bold; }
+        .btn-l:hover { background: var(--primary); transform: scale(1.1); }
+
+        .menu-toggle { display: flex; justify-content: center; gap: 10px; margin: 20px 0; }
+        .menu-toggle button { padding: 10px 25px; border: none; border-radius: 20px; background-color: #333; color: white; cursor: pointer; font-weight: bold; }
+        .menu-toggle button.btn-ativo { background-color: #e50914; box-shadow: 0 0 10px rgba(229, 9, 20, 0.5); }
+
+        @media (max-width: 600px) {
+            .container { grid-template-columns: repeat(2, 1fr) !important; gap: 10px; }
+            .nav-btn { right: 15px; }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Replayoutv 2.0 - Acervo</h1>
+    <p id="contador" style="font-weight: bold; color: var(--primary); font-size: 1.1rem; text-align: center;">Carregando acervo...</p>
+</header>
+
+<div id="area-filtros-total" style="background: #000; padding: 30px 0; text-align: center;">
+    <input type="text" id="inputBusca" onkeyup="buscar()" placeholder="🔍 Pesquisar por nome ou ano..." style="width: 85%; max-width: 700px; padding: 15px 25px; border-radius: 30px; border: 2px solid var(--primary); background: #111; color: white; margin-bottom: 20px;">
+
+    <div class="filtros">
+        <button class="btn" onclick="filtrar('todos')">Todos</button>
+        <button class="btn btn-natal" onclick="filtrar('natal')">🎄 Natal</button>
+        <button class="btn" onclick="filtrar('1930')">30s</button>
+        <button class="btn" onclick="filtrar('1940')">40s</button>
+        <button class="btn" onclick="filtrar('1950')">50s</button>
+        <button class="btn" onclick="filtrar('1960')">60s</button>
+        <button class="btn" onclick="filtrar('1970')">70s</button>
+        <button class="btn" onclick="filtrar('1980')">80s</button>
+        <button class="btn" onclick="filtrar('1990')">90s</button>
+        <button class="btn" onclick="filtrar('2000')">00s</button>
+        <button class="btn" onclick="filtrar('2010')">10s</button>
+        <button class="btn" onclick="filtrar('2020')">20s</button>
+    </div>
+
+    <div id="letras" class="filtros-letras"></div>
+</div>
+
+<div class="menu-toggle">
+    <button onclick="alternar('series')" id="btn-series" class="btn-ativo">📺 Séries</button>
+    <button onclick="alternar('filmes')" id="btn-filmes">🎬 Filmes</button>
+</div>
+
+<div id="lista" class="container"></div>
+
+<button onclick="voltarAoTopo()" class="nav-btn" id="btnTopo" title="Ir para o topo"><i class="fa fa-angle-up"></i></button>
+<button onclick="irAoFinal()" class="nav-btn" id="btnFinal" title="Ir para o final suave"><i class="fa fa-angle-down"></i></button>
+<button onclick="saltoInstantaneo()" class="nav-btn" id="btnIrAoFim" title="Salto direto para o fim"><i class="fa fa-angle-double-down"></i> FIM</button>
+
+<div id="chegada-final" style="text-align: center; padding: 50px; clear: both;">--- FIM DO ACERVO ---</div>
+
+<script src="links_acervo.js?v=202604020932"></script>
+<script src="series_acervo.js?v=202604020932"></script>
+
+<script>
+let fonteDados = [];    
+let listaAtual = [];    
+let filmesExibidos = 20;
+
+// 1. INICIALIZAÇÃO
+window.onload = function() {
+    // Começa exibindo as Séries por padrão
+    alternar('series');
+    // Gera as letras do alfabeto
+    gerarLetras();
+};
+
+// 2. GERAR BOTÕES DE LETRAS
+function gerarLetras() {
+    const letrasDiv = document.getElementById('letras');
+    const alfabeto = "#ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+    letrasDiv.innerHTML = "";
+    alfabeto.forEach(l => {
+        const b = document.createElement('button');
+        b.className = 'btn-l';
+        b.innerText = l;
+        b.onclick = () => filtrarPorLetra(l === "#" ? "0-9" : l);
+        letrasDiv.appendChild(b);
+    });
+}
+
+// 3. RENDERIZAR CAPAS E ATUALIZAR CONTADOR (DINÂMICO)
+function renderizar(itens, anexar = false) {
+    const container = document.getElementById("lista");
+    const contador = document.getElementById("contador");
+    if (!container) return;
+    if (!anexar) container.innerHTML = ""; 
+
+    // Atualiza o contador automaticamente baseando-se nos arrays reais
+    const nFilmes = (typeof filmes !== 'undefined') ? filmes.length : 0;
+    const nSeries = (typeof series !== 'undefined') ? series.length : 0;
+    if (contador) {
+        contador.innerHTML = `Total: <strong>${nFilmes}</strong> Filmes + <strong>${nSeries}</strong> Séries = <strong>${nFilmes + nSeries}</strong> títulos`;
+    }
+
+    itens.forEach(item => {
+        const card = document.createElement("div");
+        card.className = "card";
+        const vAno = item.a || item.y || "";
+        const vTag = item.tags || item.g || "";
+        
+        card.innerHTML = `
+            ${vAno ? `<span class="tag-ano">${vAno}</span>` : ''}
+            ${vTag ? `<span class="tag-geral">${vTag}</span>` : ''}
+            <img src="${item.c}" alt="${item.t}" class="capa" loading="lazy" onerror="this.src='img/sem-capa.png'">
+            <div class="info">
+                <p class="titulo">${item.t}</p>
+                <a href="${item.link}" target="_blank" class="btn-link">ASSISTIR DRIVE</a>
+            </div>
+        `;
+        container.appendChild(card);
+    });
+}
+
+// 4. ALTERNAR ENTRE FILMES E SÉRIES
+function alternar(tipo) {
+    const btnS = document.getElementById('btn-series');
+    const btnF = document.getElementById('btn-filmes');
+    
+    if (tipo === 'series') {
+        fonteDados = (typeof series !== 'undefined') ? series : [];
+        if(btnS) btnS.classList.add('btn-ativo'); 
+        if(btnF) btnF.classList.remove('btn-ativo');
+    } else {
+        fonteDados = (typeof filmes !== 'undefined') ? filmes : [];
+        if(btnF) btnF.classList.add('btn-ativo'); 
+        if(btnS) btnS.classList.remove('btn-ativo');
+    }
+    
+    listaAtual = fonteDados; 
+    filmesExibidos = 20;
+    renderizar(listaAtual.slice(0, filmesExibidos));
+}
+
+// 5. FILTROS E BUSCA
+function filtrar(categoria) {
+    filmesExibidos = 20;
+    if (categoria === 'todos') { listaAtual = fonteDados; } 
+    else if (categoria === 'natal') {
+        listaAtual = fonteDados.filter(f => (f.n === 1 || (f.t && (f.t.toLowerCase().includes('natal') || f.t.toLowerCase().includes('christmas')))));
+    } else {
+        const decada = categoria.substring(0, 3);
+        listaAtual = fonteDados.filter(f => f.a && f.a.toString().startsWith(decada));
+    }
+    renderizar(listaAtual.slice(0, filmesExibidos));
+}
+
+function filtrarPorLetra(letra) {
+    filmesExibidos = 20;
+    if (letra === '0-9') { 
+        listaAtual = fonteDados.filter(f => f.t && /^[0-9]/.test(f.t.trim())); 
+    } else { 
+        listaAtual = fonteDados.filter(f => f.t && f.t.trim().toUpperCase().startsWith(letra)); 
+    }
+    renderizar(listaAtual.slice(0, filmesExibidos));
+}
+
+function buscar() {
+    const termo = document.getElementById("inputBusca").value.toLowerCase();
+    listaAtual = fonteDados.filter(f => f.t && f.t.toLowerCase().includes(termo));
+    filmesExibidos = 20;
+    renderizar(listaAtual.slice(0, 20));
+}
+
+// 6. SCROLL INFINITO E BOTÕES
+window.onscroll = function() {
+    const t = document.getElementById("btnTopo");
+    const f = document.getElementById("btnFinal");
+    const i = document.getElementById("btnIrAoFim");
+    const mostrar = (window.scrollY > 100);
+
+    if(t) t.style.display = mostrar ? "flex" : "none";
+    if(f) f.style.display = mostrar ? "flex" : "none";
+    if(i) i.style.display = mostrar ? "flex" : "none";
+
+    if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 800) {
+        if (filmesExibidos < listaAtual.length) {
+            let inicio = filmesExibidos;
+            filmesExibidos += 20;
+            renderizar(listaAtual.slice(inicio, filmesExibidos), true);
+        }
+    }
+};
+
+// 7. FUNÇÕES DE NAVEGAÇÃO
+function voltarAoTopo() { window.scrollTo({ top: 0, behavior: 'smooth' }); }
+function irAoFinal() { window.scrollBy({ top: window.innerHeight * 0.9, behavior: 'smooth' }); }
+
+function saltoInstantaneo() {
+    if (filmesExibidos < listaAtual.length) {
+        filmesExibidos = listaAtual.length;
+        renderizar(listaAtual);
+    }
+    setTimeout(() => {
+        window.scrollTo(0, document.documentElement.scrollHeight);
+    }, 100);
+}
+</script>
+</body>
+</html>

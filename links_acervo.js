@@ -5185,8 +5185,8 @@ filmes = [
     },
     {
         "t": "ACONTECEU NAQUELA NOITE",
-        "c": "https://image.tmdb.org/t/p/w500/2xQmVVitVLJJSaK3FN1d9ezs6D.jpg",
-        "a": "1934",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5ydG6PTJNbRPl5RrD5PNMBpOpCN.jpg",
+        "a": "2003",
         "link": "https://drive.google.com/file/d/1VADdZLI287Rbreu99imDQ4DTCSAxl-Sc/edit",
         "tags": "DUB",
         "n": 0

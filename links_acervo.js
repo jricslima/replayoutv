@@ -5328,14 +5328,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AGENTE 86 SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/agente-86",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "AGORA E PARA SEMPRE",
         "c": "https://image.tmdb.org/t/p/w500/4U2JKmNZLs6CbgaDrZupeB40N57.jpg",
         "a": "1995",
@@ -6232,14 +6224,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ANNE WITH AN E SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://redecanais.gs/anne-with-an-e-dublado-lista-de-episodios_e627a230c.html",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "ANNIE",
         "c": "https://image.tmdb.org/t/p/w500/aKAM9V0izx4VhsdyAdBvAB26UCZ.jpg",
         "a": "2014",
@@ -6612,14 +6596,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/AOVUasq9kPPNiHlAL0KJVQ7TWb.jpg",
         "a": "1987",
         "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6vagH7hkCwHU0doSU5IQkFGSlU%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774901373150342&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6vagH7hkCwHU0doSU5IQkFGSlU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Ub4ZuCjfsNrOgOL7-oTKBbqgfb_dLMjEf0ZKqu_jT0MmRkXQx5PwxcyYnqGfw-rS3uArVWEw",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "ASH VS. EVIL DEAD SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/1SDPNCMZi2Xrg2djptD61G3HD4nOLBCZY",
         "tags": "DUB",
         "n": 0
     },
@@ -7180,14 +7156,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/7EyhcdfiLtH0xa6CZkyYuoWL2GJ.jpg",
         "a": "2005",
         "link": "https://drive.google.com/file/d/1J_fsrYTfsTEtZD9j5lIqHWjffkOLpbr0/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "BATMAN E ROBIN SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/batman",
         "tags": "DUB",
         "n": 0
     },
@@ -8037,14 +8005,6 @@ filmes = [
         "a": "2018",
         "link": "https://drive.google.com/file/d/1h8uZo93NfDOmAtKowWP70HCOeVxkXvlf/view?usp=sharing",
         "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "CASA DE DAVI SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/casa-de-davi-serie-tv",
-        "tags": "DUB",
         "n": 0
     },
     {
@@ -9252,14 +9212,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/4TgSSXmsJnPtqK81BwD0ZOcGK8y.jpg",
         "a": "2006",
         "link": "https://drive.google.com/file/d/1rxBta1oDV7lYBwprikzk9mB9ZVldP8CJ/view",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "COLD CASE SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/cold-case-1-temporada",
         "tags": "DUB",
         "n": 0
     },
@@ -13376,14 +13328,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "GAME OF THRONES SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/game-of-thrones",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "GARÇONETE",
         "c": "https://image.tmdb.org/t/p/w500/eEaZpzAp5bgu9ilQYifli3qYiDB.jpg",
         "a": "2007",
@@ -13452,14 +13396,6 @@ filmes = [
         "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
         "a": "----",
         "link": "https://drive.google.com/file/d/1cHjIhhTmG19IamPUumQ7L9-9r5zarHvQ/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "GEMINI MAN SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/gemini-man",
         "tags": "DUB",
         "n": 0
     },
@@ -14144,14 +14080,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "HOUDINI SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/houdini",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "HOUDINI, O HOMEM MIRACULOSO",
         "c": "https://image.tmdb.org/t/p/w500/9Qz3v7IgaGrSmYfMGyPAPbEJvnV.jpg",
         "a": "1953",
@@ -14608,14 +14536,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "JANE A VIRGEM SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/jane-a-virgem-serie-tv",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "JUSTIÇA PARA NATALEE HOLLOWAY",
         "c": "https://image.tmdb.org/t/p/w500/iRCv2AOdJawGHQNvUjGlBe62lEm.jpg",
         "a": "2011",
@@ -14628,14 +14548,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/tW7uzT7lRcBA00NJw2W2SDSKjCv.jpg",
         "a": "2019",
         "link": "https://drive.google.com/file/d/1-SEU7Q0wCZn3As4M879Fnbt9If2ObYDa/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "JESSICA JONES SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/jessica-jones-temporada-completa",
         "tags": "DUB",
         "n": 0
     },
@@ -14820,22 +14732,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/ckYI4gqqKlSWAVwtLfZSUfwoquW.jpg",
         "a": "1954",
         "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4sY-WeS-_Q-VXZ4cmozaE5PZUE%2Fview%3Fusp%3Dsharing&dsh=S-1959460126%3A1774905948304111&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4sY-WeS-_Q-VXZ4cmozaE5PZUE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VRapHlms4iP3rSB7lKxQTFHl76dH0xC4vn7H977AeT8Ba7q0Iks8pDBnzHHB1A4OppoRCdNA",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "JASPION DUBLADO SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://mega.nz/folder/uBBV2SSR#2aMR0hTu7JrheKl1aa9Lhw",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "JEANNIE É UM GENIO SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/jeannie-e-um-genio-1-temporada-completa",
         "tags": "DUB",
         "n": 0
     },
@@ -15028,14 +14924,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/3wcoaTf0nGm8Xy9sb54NbkCofQe.jpg",
         "a": "1979",
         "link": "https://drive.google.com/file/d/1lLMjAT5TweNOAyBskbuEVrb4aP8AyDj5/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "JORNADA NAS ESTRELAS SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/jornada-nas-estrelas-1-temporada",
         "tags": "DUB",
         "n": 0
     },
@@ -15526,14 +15414,6 @@ filmes = [
         "link": "https://drive.google.com/file/d/1PpjwVltilurqDr8rxuB1iRBx6Fk1E9aM/view?usp=sharing",
         "tags": "LEG",
         "n": 1
-    },
-    {
-        "t": "LOVE COMES SOFTLY SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/love-comes-softly",
-        "tags": "DUB",
-        "n": 0
     },
     {
         "t": "LEAL, SÓ EXISTE UMA MANEIRA DE VIVER",
@@ -16376,14 +16256,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MISTÉRIO NA TV SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/misterio-na-tv",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "MISTÉRIOS DE AMOR A ARTE DO ASSASSINATO (",
         "c": "https://image.tmdb.org/t/p/w500/64Etf6OvzJQ2cg1zgLo70VN5qmB.jpg",
         "a": "2021",
@@ -16404,22 +16276,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/tHbfs94ZbDf9yxMARbw9p28v58u.jpg",
         "a": "2019",
         "link": "https://drive.google.com/file/d/1SnfOfLeDNKMnT_hCsNX4mJzQIhU0R9p5/edit",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "MISTÉRIOS DE AMOR SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/misterios-de-amor-serie-tv",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "MURDER SHE BAKED (TEVE O TÍTULO ALTERADO PELA PRODUÇÃO PARA A HANNAH SWENSEN MYSTERY ) SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/murder-she-baked-hannah-swensen-mysteries-s-tv",
         "tags": "DUB",
         "n": 0
     },
@@ -16776,14 +16632,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MELISSA & JOEY SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/melissa-joey",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "MULHER",
         "c": "https://image.tmdb.org/t/p/w500/5FyEqAihmhGBiOWqLOWMvxE0vq2.jpg",
         "a": "1945",
@@ -16901,14 +16749,6 @@ filmes = [
         "a": "2023",
         "link": "https://drive.google.com/file/d/1VGVMmiy5Mj3P6eiAUwfTd1CMpQF237dE/view?usp=sharing",
         "tags": "DUAL",
-        "n": 0
-    },
-    {
-        "t": "MACGYVER SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/macgyver-serie-tv-1985-1992",
-        "tags": "DUB",
         "n": 0
     },
     {
@@ -17404,14 +17244,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/xWReGRSFuAr7tuPA3k67gtThix1.jpg",
         "a": "1998",
         "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBZm4yUXBKOTBfWFk%2Fview%3Fusp%3Dsharing&dsh=S271553589%3A1774907527615975&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBZm4yUXBKOTBfWFk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WGHmSMSPrvYXeNFzMiOk_7QCK7azYe61HgoFr4Ayv0eOTYcquCrQIlibSBFlGCL1-1P0U5Ww",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "MENTRE ERO VIA ENQUANTO EU ESTAVA FORA SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/mentre-ero-via",
         "tags": "DUB",
         "n": 0
     },
@@ -17980,14 +17812,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/72I82eKXCadZWEYygV9GkJOQNEq.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/1vFxs8pYHp36DfwnUrYFbzhQa-CsNuflS/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "MULHER MARAVILHA SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/mulher-maravilha",
         "tags": "DUB",
         "n": 0
     },
@@ -19584,14 +19408,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O MISTÉRIO DE HAILEY DEAN SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/o-misterio-de-hailey-dean",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "O MISTÉRIO DA FLORICULTURA SEGREDO EM FAMÍLIA (",
         "c": "https://image.tmdb.org/t/p/w500/yi84ZvSedvN063e3RfNFsbKojSA.jpg",
         "a": "2016",
@@ -19612,14 +19428,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/ptQWpm4QaCgEWCRa8QeLd06BDi2.jpg",
         "a": "2016",
         "link": "https://drive.google.com/file/d/1qJcnhRB59xVeYAiPoGZH3JZAlxh3loIc/view",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "O MISTÉRIO DA FLORICULTURA SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/o-misterio-da-floricultura",
         "tags": "DUB",
         "n": 0
     },
@@ -19708,14 +19516,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/vE5BiUSVKiSiDiFMvsgDa0qCQLT.jpg",
         "a": "2021",
         "link": "https://drive.google.com/file/d/1sxTZD1HS7FWy6gIAKHATu5e9bIr88We-/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "O MISTÉRIO DAS PALAVRAS CRUZADAS SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/misterio-das-palavras-cruzadas-serie-tv",
         "tags": "DUB",
         "n": 0
     },
@@ -21208,14 +21008,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O EXORCISTA SERIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://Liberar",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "O EXPRESSO POLAR",
         "c": "https://image.tmdb.org/t/p/w500/adXE99ie9wBdpdvdrB2HDpl9aoV.jpg",
         "a": "2004",
@@ -21388,14 +21180,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/cheo9jDPfyW1GevfPjXtnO91KNe.jpg",
         "a": "2013",
         "link": "https://drive.google.com/open?id=19rbJqyUD2loO1UKkIPcJlQ8nChXGwYsJ",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "O HOMEM DE SEIS MILHÔES DE DÓLARES SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/o-homem-de-seis-milhoes-de-dolares",
         "tags": "DUB",
         "n": 0
     },
@@ -21748,14 +21532,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/r7BBqLe8xE1rjzBqF6MmsLEkzMf.jpg",
         "a": "1996",
         "link": "https://drive.google.com/file/d/1IAUmHoZfSmAl2pzSDWo0mcg0QmpyCnwr/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "O MUNDO É DOS JOVENS SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/o-mundo-e-dos-jovens",
         "tags": "DUB",
         "n": 0
     },
@@ -22374,14 +22150,6 @@ filmes = [
         "link": "https://drive.google.com/file/d/1vFTPCjF-3mFWJEOG5sS4iULWpNcV9q7U/view?usp=sharing",
         "tags": "DUB",
         "n": 1
-    },
-    {
-        "t": "O TÚNEL DO TEMPO SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/o-tunel-do-tempo-completo",
-        "tags": "DUB",
-        "n": 0
     },
     {
         "t": "O ÚLTIMO AMERICANO VIRGEM",
@@ -23932,14 +23700,6 @@ filmes = [
         "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
         "a": "----",
         "link": "https://drive.google.com/file/d/1wYeNKiFFvq7uk5qcSxmzqFfB4WLcwyo3/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "PERDIDOS NO ESPAÇO SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/perdidos-no-espaco-1-temporada",
         "tags": "DUB",
         "n": 0
     },
@@ -25848,14 +25608,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SIGNED SEALED DELIVERED SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/signed-sealed-delivered",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "SINTONIA DE NATAL",
         "c": "https://image.tmdb.org/t/p/w500/oMjYBzQmR4D4A4sajf846iDreGG.jpg",
         "a": "2024",
@@ -27488,14 +27240,6 @@ filmes = [
         "n": 1
     },
     {
-        "t": "THE CHOSEN OS ESCOLHIDOS SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/the-chosen-serie-tv",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "THE CHRISTMAS PLEDGE",
         "c": "https://image.tmdb.org/t/p/w500/jFyRFh0sUUyQ7jgpGwTGxoc8ojm.jpg",
         "a": "2023",
@@ -27565,14 +27309,6 @@ filmes = [
         "a": "2025",
         "link": "https://drive.google.com/file/d/1_iYdtHUENNYW2UgAUO1BG1ArndTy7vBk/view?usp=drive_open",
         "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "TAKEN SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/taken-2002",
-        "tags": "DUB",
         "n": 0
     },
     {
@@ -27716,14 +27452,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/c0W9eFpHFUnwJkpW95bGoe5hilS.jpg",
         "a": "1968",
         "link": "https://drive.google.com/file/d/1XrPs-EhBdvksVq3aR-MX05IfSDvdkdr6/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "TERRA DE GIGANTES SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/terra-de-gigantes-1-temporada-completa",
         "tags": "DUB",
         "n": 0
     },
@@ -29652,22 +29380,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/gLyCJxqEpXoSn1Ic4ngfZ7E1jJO.jpg",
         "a": "1972",
         "link": "https://drive.google.com/file/d/1AY1ovSKQVea_QMpFjV-PSQWYT_HrcwXo/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "ULTRAMAN SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://mega.nz/folder/LdQExDjC#_n8lmzDgC6lolSRaj9brGA",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "ULTRASEVEN SÉRIE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/0BynNnqICTkBANmlMd2FzLUFnNnc?resourcekey=0-Y2Vqu7wv9BO80oAwSTk6Kw&amp;usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -32374,29 +32086,5 @@ filmes = [
         "link": "https://drive.google.com/file/d/1KePULFGq0JG0yjYp6hGSJwB6maw-Mxen/view?usp=sharing",
         "tags": "DUB",
         "n": 1
-    },
-    {
-        "t": "UMA VIAGEM DE NATAL",
-        "c": "https://image.tmdb.org/t/p/w500/7wUQ2oKbLr0Kd154WTIcLSr7z1y.jpg",
-        "a": "2017",
-        "link": "https://drive.google.com/file/d/15xeEQW6QQYWs3PMF6cReLc165jLzXC-1/view",
-        "tags": "DUB",
-        "n": 1
-    },
-    {
-        "t": "VIDA NOVA EM MITFORD",
-        "c": "https://image.tmdb.org/t/p/w500/ykCZstxGmQ1Q2QoIQMy66RmSMGW.jpg",
-        "a": "2017",
-        "link": "https://drive.google.com/file/d/1saioldm80cE5mGygmX2Fzu0Mte8cjnNf/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/mural-de-recados",
-        "tags": "DUB",
-        "n": 0
     }
 ];

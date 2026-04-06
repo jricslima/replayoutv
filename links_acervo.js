@@ -13672,14 +13672,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "HOLCAUSTO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/holocausto-1978-serie-tv",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "HOSPÍCIO MALDITO",
         "c": "https://image.tmdb.org/t/p/w500/nNBXVuK8yNzakmJRdpqISIgW2zK.jpg",
         "a": "2001",
@@ -15520,14 +15512,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "LEGEND OF THE SEEKER",
-        "c": "https://image.tmdb.org/t/p/w500/iX4xpBEH9QRpJUA5lGGpoa2Mex2.jpg",
-        "a": "2021",
-        "link": "https://replayoutv.comunidades.net/legend-of-the-seeker",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
         "t": "LOVE ON THE RIGHT COURSE",
         "c": "https://image.tmdb.org/t/p/w500/iHTGbieCY8R9CORdA4s2EalrbDQ.jpg",
         "a": "2024",
@@ -16281,96 +16265,96 @@ filmes = [
     },
     {
         "t": "MURDER, SHE BAKED UM CRIME NA CONFEITARIA (1)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/8SELC4XCKXOgjqPAyjxQbhvx3CU.jpg",
+        "a": "2015",
         "link": "https://drive.google.com/file/d/1LXOVafNPcKPazvVKFI6GrqZYVAq8cayU/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "MURDER, SHE BAKED UM DOCE ASSASSINATO (2)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zPjhbH6Z3E8ufuhFKxk3YztXKuK.jpg",
+        "a": "2015",
         "link": "https://drive.google.com/file/d/1uC8TujaEoOl3lv8S-TiYSo1BtW5ahcBL/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "MURDER, SHE BAKED O MISTÉRIO DA TORTA DE PÊSSEGO (3)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cM1IgseCi242G6f1PZ9iK8GNTwY.jpg",
+        "a": "2016",
         "link": "https://drive.google.com/file/d/1A-I0kbDFLuM1-beunyDsWUKNJwn3cKyU/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "MURDER, SHE BAKED A RECEITA FATAL (4)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://media.themoviedb.org/t/p/w300_and_h450_face/6T8KruhSbE1opLJqlWzAdEKEKFT.jpg",
+        "a": "2016",
         "link": "https://drive.google.com/file/d/1120OOu2KHkr4Qxy0g7KsDIe_iTwwJjDJ/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "MURDER, SHE BAKED UM CRIME NO CURSO DE SOBREMESAS (5)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5a1f22pS8wz4R7PG2GFhQPhcVJw.jpg",
+        "a": "2017",
         "link": "https://drive.google.com/file/d/1j-fdkUZEiEWD48wr3YC2PW6x6dsN3ovO/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "MURDER, SHE BAKED / A HANNAH SWENSEN MYSTERY DOCE VINGANÇA SWEET REVENGE (6)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/6Wbq2D8VbZ1uVS3WUTYpCr7Iz4I.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1SlzkFISAJXTuUUjUPM8WMGjl8MHByh7k/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "MURDER, SHE BAKED / A HANNAH SWENSEN MYSTERY ASSASSINATO DO BOLO DE CENOURA CARROT CAKE MURDER (7)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hZGyYkniGFfpf4WnO3hhscvr8du.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1TiPBBbjcZgzSdENZzW6Rn-o1U2nVW7hx/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "MURDER, SHE BAKED / A HANNAH SWENSEN MYSTERY A ZEST FOR DEATH (8)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "MURDER, SHE BAKED / TEMPERO FATAL - A ZEST FOR DEATH (8)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/u4zYTfU173SVs8sZELUaNkksgMq.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/17Aw17XTW0rVb7Ib3iro2eo6BYyTm5RbD/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "MURDER, SHE BAKED / A HANNAH SWENSEN MYSTERY ONE BAD APPLE (9)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cJcWag9R2KJt0LNumv2rs24u9Mo.jpg",
+        "a": "2024",
         "link": "https://drive.google.com/file/d/1sOBiu5eA6da--fT2E_sQn_DUmMlUTtmL/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
         "t": "MURDER, SHE BAKED / A HANNAH SWENSEN MYSTERY A SPRINKLE OF DECEIT (10)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zcnCtpViLDoUI5WXSXxQ4CBfnbi.jpg",
+        "a": "2024",
         "link": "https://drive.google.com/file/d/1HLrQSA9YAQEKbu3bdEd_eLA3LQisDPIY/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
         "t": "MURDER, SHE BAKED / A HANNAH SWENSEN MYSTERY REALITY BITES (11)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/yf5VehJTvUh0mIcKVv0mTSWhCkk.jpg",
+        "a": "2025",
         "link": "https://drive.google.com/file/d/1zQ9phHZpCVge5SXZ-xg7Mc0v3JIG94c8/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
         "t": "MURDER, SHE BAKED / A HANNAH SWENSEN MYSTERY PIE TO DIE FOR (12)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pJa8HPUZTjI40kNXLHTnHJ8vhey.jpg",
+        "a": "2025",
         "link": "https://drive.google.com/file/d/16iMikdYvmWxE1B7b6Q-2Gtf7AOkRQ4x0/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -16441,8 +16425,8 @@ filmes = [
     },
     {
         "t": "MONTE CARLO",
-        "c": "https://image.tmdb.org/t/p/w500/eKw9l71pSV2lQpUsfK1pV3KJKaX.jpg",
-        "a": "1930",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dcbqyycrWA56HXq5lm41HYuED8Y.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1DvIMhWppIwvwGXp7yyfQrHAEPvw5qtXb/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -17624,14 +17608,6 @@ filmes = [
         "n": 1
     },
     {
-        "t": "MISTÉRIO DE ANÚBIS 1ª TEMPORADA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/misterio-de-anubis",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "MISTÉRIO NA VENDA DE GARAGEM MORTE NA PRAIA",
         "c": "https://image.tmdb.org/t/p/w500/y6b9wtCVKExBxSaat6ZVlMNJ9K7.jpg",
         "a": "2017",
@@ -18348,14 +18324,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/fH33MyjG59ps9Kli0mHiOiP98Ti.jpg",
         "a": "2004",
         "link": "https://drive.google.com/file/d/1_OqImd1koj2BwGcXnsc9BQRfr7PEyZ0a/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "NACIONAL KID",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/nacional-kid",
         "tags": "DUB",
         "n": 0
     },
@@ -22696,14 +22664,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "OS MISTÉRIO DE AURORA TEAGARDEN FILMES TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/os-misterios-de-aurora-teagarden",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "OS OUTROS",
         "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
         "a": "2016",
@@ -24944,14 +24904,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "RAZÃO E SENSIBILIDADE",
-        "c": "https://image.tmdb.org/t/p/w500/avfV8Se2eTfmFAZf0aAPOdq2WcV.jpg",
-        "a": "1995",
-        "link": "https://drive.google.com/file/d/1DJIH3TzfJJN0qhnvdEVK9os1nVcrBCDj/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "RITMO DO AMOR",
         "c": "https://image.tmdb.org/t/p/w500/b82a4qXDpACqK1v48c8zSEZZeXO.jpg",
         "a": "2009",
@@ -25180,14 +25132,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/8RaoK2PVUWucLXpsE3FGzR81Z4g.jpg",
         "a": "2014",
         "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kPyGMOyAFWYVJnT1lxZW91UTg%2Fview%3Fusp%3Dsharing&dsh=S-284366117%3A1774910365804545&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kPyGMOyAFWYVJnT1lxZW91UTg%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VRHJLQRYH54AS0hX149PpEtIywJKSYGTlD2c122SP9SdLGO0gboXl09ukxl9rGfuwiuO7V4g",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "RAZÃO E SENSIBILIDADE",
-        "c": "https://image.tmdb.org/t/p/w500/avfV8Se2eTfmFAZf0aAPOdq2WcV.jpg",
-        "a": "1995",
-        "link": "https://drive.google.com/drive/folders/1yR2wUyfdeXUvK8AXWx38d1xsdLTeCHxC?usp=drive_open",
         "tags": "DUB",
         "n": 0
     },
@@ -25961,8 +25905,8 @@ filmes = [
     },
     {
         "t": "SANSÃO E DALILA",
-        "c": "https://image.tmdb.org/t/p/w500/81WBTwGTZCxc34oZCbzY2hkf8Ab.jpg",
-        "a": "1949",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gYOVBTv4qzDtnAPSXkrHJpTHPAS.jpg",
+        "a": "1996",
         "link": "https://drive.google.com/file/d/1ndYeFQcqHhQXCxtkmAlWRMLYvCyL0wIv/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -32086,5 +32030,61 @@ filmes = [
         "link": "https://drive.google.com/file/d/1KePULFGq0JG0yjYp6hGSJwB6maw-Mxen/view?usp=sharing",
         "tags": "DUB",
         "n": 1
+    },
+    {
+        "t": "RAZÃO E SENSIBILIDADE",
+        "c": "https://image.tmdb.org/t/p/w500/avfV8Se2eTfmFAZf0aAPOdq2WcV.jpg",
+        "a": "1995",
+        "link": "https://drive.google.com/file/d/1DJIH3TzfJJN0qhnvdEVK9os1nVcrBCDj/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "10 COISAS QUE DEVERÍAMOS FAZER ANTES DE NOS SEPARAR",
+        "c": "https://image.tmdb.org/t/p/w500/bS1rZqjcvk3WPCXVBgHeDY6FVRC.jpg",
+        "a": "2020",
+        "link": "https://drive.google.com/file/d/10GWWVrEDqfwL6QozlPaZDBz1ZY0eEOVA/view",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "10 SEGUNDOS PARA VENCER",
+        "c": "https://image.tmdb.org/t/p/w500/dDj6dAjqXXRJcNZSzGtF2FrhvTh.jpg",
+        "a": "2018",
+        "link": "https://drive.google.com/file/d/1OUp5eBRh7Q89ntWzTRNgPgBV30kzA8wb/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "100 GAROTAS",
+        "c": "https://image.tmdb.org/t/p/w500/nUUbGnf0C0fPromULczpKXiAvPq.jpg",
+        "a": "2000",
+        "link": "https://drive.google.com/file/d/13aFWa3fG3BLRWI44dJV0vLY-lsbqfOJg/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "10X10 O CATIVEIRO",
+        "c": "https://image.tmdb.org/t/p/w500/egMETBYual2JtfFGigXTA0tGkME.jpg",
+        "a": "2018",
+        "link": "https://drive.google.com/file/d/1O9AMp8ot2xRdWagJFem4-x8LDs1iExqi/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "11/11/11",
+        "c": "https://image.tmdb.org/t/p/w500/45lmWuZxwVs4ftEjFHUfPpAXw9t.jpg",
+        "a": "2011",
+        "link": "https://drive.google.com/file/d/1Z5ezs9StCSkKpucb3RGPTUSyirpfqmMt/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "12 ANOS DE ESCRAVIDAO",
+        "c": "https://image.tmdb.org/t/p/w500/o5t8fqcNDyfojYwwlECZEgyD96T.jpg",
+        "a": "2013",
+        "link": "https://drive.google.com/file/d/1nMkK-O8HSJGmPuHOVWsQXDFqPiSgHnJs/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

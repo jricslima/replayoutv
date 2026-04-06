@@ -29488,14 +29488,6 @@ filmes = [
         "n": 1
     },
     {
-        "t": "UM BEIJO DE NATAL MP4 MP4 / MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/file/d/16If46bhHLKIALIe9ZsbbsYYkC4Q5hs8k/view?usp=sharing",
-        "tags": "DUB",
-        "n": 1
-    },
-    {
         "t": "UM BOM ANO",
         "c": "https://image.tmdb.org/t/p/w500/8b0w6UUKtQf1C4HIdEl4oNqdGZa.jpg",
         "a": "2006",
@@ -31944,9 +31936,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TAKE ME BACK FOR CHRISTMAS MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TAKE ME BACK FOR CHRISTMAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/eNZUnfDR1ThpiE9F1jOG7paby16.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1xaSTkqYX1sR5WzWn6QmA79WCmxeWtnaO/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -31968,27 +31960,27 @@ filmes = [
         "n": 0
     },
     {
-        "t": "THE DANCING DETECTIVE A DEADLY TANGO MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "THE DANCING DETECTIVE A DEADLY TANGO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/91RCUBGYRbzfNztAobF0YhYbRvQ.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1swAPqA-x-G8g2f_rQM5KxbxskYolE4-R/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
         "t": "THE LOST PRINCE PARTE 1 MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zZpxLBO57UWkYIzjyTUOYabmc3v.jpg",
+        "a": "2003",
         "link": "https://drive.google.com/file/d/1wI5o6HNOIMcjcvrz6X-Lnl4r5Q2rp9k4/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "LEG",
         "n": 0
     },
     {
         "t": "THE LOST PRINCE PARTE 2 MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jrVLyB87DKfx7YNaCc5pSlALmhK.jpg",
+        "a": "2003",
         "link": "https://drive.google.com/file/d/1alYxAyz0ktdTIX6Lz6eLnIAlN4IVQV-6/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -31998,14 +31990,6 @@ filmes = [
         "link": "https://drive.google.com/file/d/19H5AX-E287WltIucFun9udNNDHmmSWeN/view?usp=sharing",
         "tags": "DUB",
         "n": 0
-    },
-    {
-        "t": "UM BEIJO DE NATAL MP4 MP4 / MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/file/d/16If46bhHLKIALIe9ZsbbsYYkC4Q5hs8k/view",
-        "tags": "DUB",
-        "n": 1
     },
     {
         "t": "UM CONVITE DE DIVÓRCIO",

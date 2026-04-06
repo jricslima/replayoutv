@@ -31824,17 +31824,17 @@ filmes = [
         "n": 0
     },
     {
-        "t": "JINGLE BELL PRINCESS MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "JINGLE BELL PRINCESS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jqxh21dySEujfIvxQaIV3ti6oj5.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1kt2JI6Buuo4m5zIH3wmnoOjsPJ6KM11B/view",
         "tags": "LEG",
         "n": 0
     },
     {
-        "t": "JOGO DO AMOR MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "JOGO DO AMOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cnOvRDoYqcrOVjOBqRAP5NlhpkS.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1wHy4TpzV1YdviPPi4UaQQpqwFJFcX8_5/view?usp=sharing",
         "tags": "DUB",
         "n": 0

@@ -246,5 +246,6 @@ var series = [
         "link": "https://mega.nz/folder/LdQExDjC#_n8lmzDgC6lolSRaj9brGA"
     },
     { "t": "ULTRASEVEN", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/1AZiI4FJlGmAcp5lvLMZk16xaU4.jpg", "link": "https://drive.google.com/drive/folders/0BynNnqICTkBANmlMd2FzLUFnNnc?resourcekey=0-Y2Vqu7wv9BO80oAwSTk6Kw" },
-    { "t": "YELLOWJACKETS", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg", "link": "https://drive.google.com/drive/folders/1saNEd0TM0AC4wQEIeKsfL5hh0XLM5r6E" }
+    { "t": "YELLOWJACKETS", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg", "link": "https://drive.google.com/drive/folders/1saNEd0TM0AC4wQEIeKsfL5hh0XLM5r6E" },
+    { "t": "ASH VS. EVIL DEAD", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zsX1atjvymc4CKu72jE400QJGzL.jpg", "link": "https://drive.google.com/drive/folders/1SDPNCMZi2Xrg2djptD61G3HD4nOLBCZY" }
 ];

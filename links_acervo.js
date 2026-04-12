@@ -5064,14 +5064,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A VIDA EM SI",
-        "c": "https://image.tmdb.org/t/p/w500/nR8amsjlJSPwDQ7REmAmOJdxbvL.jpg",
-        "a": "2018",
-        "link": "https://drive.google.com/file/d/1xgrYOPLU9fU0lanwdxqZqG6YHZcFrNPM/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "A VIDA SECRETA DE ZOE",
         "c": "https://image.tmdb.org/t/p/w500/hvPGpjm1rIvIM0VoNkMXbYf9BwG.jpg",
         "a": "2014",
@@ -16288,14 +16280,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MURDER, SHE BAKED A RECEITA FATAL (4)",
-        "c": "https://media.themoviedb.org/t/p/w300_and_h450_face/6T8KruhSbE1opLJqlWzAdEKEKFT.jpg",
-        "a": "2016",
-        "link": "https://drive.google.com/file/d/1120OOu2KHkr4Qxy0g7KsDIe_iTwwJjDJ/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "MURDER, SHE BAKED UM CRIME NO CURSO DE SOBREMESAS (5)",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5a1f22pS8wz4R7PG2GFhQPhcVJw.jpg",
         "a": "2017",
@@ -27424,14 +27408,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TESTEMUNHA DO SILENCIO",
-        "c": "https://image.tmdb.org/t/p/w500/5F6sC0mqgiaoN6fwVaNLIqRQAMJ.jpg",
-        "a": "1994",
-        "link": "https://drive.google.com/drive/folders/13pjsHfsNvmleJIwPsLIkHBwFQwyqQIMq?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "THE AGE OF INNOCENSE",
         "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
         "a": "----",
@@ -28616,7 +28592,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN O SEGREDO DA CAVEIRA (1)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN O SEGREDO DA CAVEIRA (1)",
         "c": "https://image.tmdb.org/t/p/w500/wj2IZSQxrEN06cUNASsSqrSio1K.jpg",
         "a": "2015",
         "link": "https://drive.google.com/file/d/1bk5ZmkXludh02NcaZLd7bJZ-2u8dBZVZ/view",
@@ -28624,7 +28600,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN ASSASSINATOS REAIS (2)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN ASSASSINATOS REAIS (2)",
         "c": "https://image.tmdb.org/t/p/w500/uUbRI0iu2FJpQc1X2GgNGgOlmAm.jpg",
         "a": "2015",
         "link": "https://drive.google.com/file/d/1UknT6ABVkswCI11q1av9IHjpdXLip7Fg/view",
@@ -28632,7 +28608,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN TRÊS QUARTOS E UM CORPO (3)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN TRÊS QUARTOS E UM CORPO (3)",
         "c": "https://image.tmdb.org/t/p/w500/ro0oLW8AfGYiSWtt2HS8Fl3iQi7.jpg",
         "a": "2016",
         "link": "https://drive.google.com/file/d/1EsJ34abL1lBD_LnAu194s4KHX3GuyhVJ/edit",
@@ -28640,7 +28616,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN A CASA DOS JULIUS (4)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN A CASA DOS JULIUS (4)",
         "c": "https://image.tmdb.org/t/p/w500/52ElA7nExphFZBj4eFYSzx7gxxJ.jpg",
         "a": "2016",
         "link": "https://drive.google.com/file/d/1o7ahS1fDlnymEIi1Z-1yMbidH7Ud445y/view",
@@ -28656,7 +28632,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN UMA PILHA DE PROBLEMAS (6)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN UMA PILHA DE PROBLEMAS (6)",
         "c": "https://image.tmdb.org/t/p/w500/q7zVvKoLFtRicOpkS8WlF5Y5aO1.jpg",
         "a": "2017",
         "link": "https://drive.google.com/file/d/1_-NdWoByj4SrEusYOWUNwvRCm4L4RiXp/view",
@@ -28664,7 +28640,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN A ÚLTIMA CENA (7)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN A ÚLTIMA CENA (7)",
         "c": "https://image.tmdb.org/t/p/w500/kAUXYxERpY1vGKLYejk4Rv1IgdD.jpg",
         "a": "2018",
         "link": "https://drive.google.com/file/d/1Lc8kJ4hMed5nEgXOqViMHksDCdFrrQ0Z/view",
@@ -28672,7 +28648,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN COLHENDO O QUE PLANTOU (8)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN COLHENDO O QUE PLANTOU (8)",
         "c": "https://image.tmdb.org/t/p/w500/jwmic5tc1Vxq0Bg4G5b94d4Vne9.jpg",
         "a": "2018",
         "link": "https://drive.google.com/file/d/1yDAMvn3XIlVcJN2-SM-MAVBOp2rOcvYE/view",
@@ -28689,8 +28665,8 @@ filmes = [
     },
     {
         "t": "UM MISTÉRIO DE AURORA TEAGARDEN UM JOGO DE GATO E RATO (10)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pb15uoxtqbK8JdSPbjEx1K0KPA7.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/1TpgJnccSgZOyfzh3EJOXj8yd3vr0PTj4/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -28704,7 +28680,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN JOGO SUJO (12)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN JOGO SUJO (12)",
         "c": "https://image.tmdb.org/t/p/w500/v0r26ldAdFPqx2ulEs5VZJrEWwI.jpg",
         "a": "2019",
         "link": "https://drive.google.com/file/d/1OjKDbJkxVigaIfuQlu9MrWn2G_Yat2hu/view",
@@ -28712,7 +28688,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN O ROUBO DA COROA (13)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN O ROUBO DA COROA (13)",
         "c": "https://image.tmdb.org/t/p/w500/gY2QagwufXrigz0Kmveo8P7Fcuw.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/15p-AcMPQpdcqgREdB0sseUIiyrKSBnJY/view",
@@ -28720,7 +28696,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN REENCONTRO MORTAL (14)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN REENCONTRO MORTAL (14)",
         "c": "https://image.tmdb.org/t/p/w500/oQiMgbjobAys2wNQmNfAJ87DdbB.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/1o9Vort-Vxf8S9i4aAuF1g2dYgv9beKo7/view",
@@ -28728,7 +28704,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN COMO ENGANAR UM GOLPISTA (15)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN COMO ENGANAR UM GOLPISTA (15)",
         "c": "https://image.tmdb.org/t/p/w500/dNJR3pQYgQex1FicV4nrDOGA9wZ.jpg",
         "a": "2021",
         "link": "https://drive.google.com/file/d/1n-fmmJySRaSBS9OgCV2BYNtKnvcFAZas/view",
@@ -28736,7 +28712,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN ATÉ QUE A MORTE NOS SEPARE (16)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN ATÉ QUE A MORTE NOS SEPARE (16)",
         "c": "https://image.tmdb.org/t/p/w500/2xQsXF9cKziTIfPtC6yfLhfKOWL.jpg",
         "a": "2021",
         "link": "https://drive.google.com/file/d/1uo98JhuyPeKngjr_fEaJHZXyJJB70JVB/view",
@@ -28744,7 +28720,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN UMA LUA DE MEL NAO TAO DOCE (17)",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN UMA LUA DE MEL NAO TAO DOCE (17)",
         "c": "https://image.tmdb.org/t/p/w500/mCSahQy7jxquTFYE1ju5NEN9nxd.jpg",
         "a": "2021",
         "link": "https://drive.google.com/file/d/1RuUT3NakDbupzSfOarWKXbBX2QqTwmY-/view",
@@ -28752,9 +28728,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MISTERIO DE AURORA TEAGARDEN HAUNTED BY MURDER (18)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM MISTÉRIO DE AURORA TEAGARDEN HAUNTED BY MURDER (18)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/76U8bHFPFXgfsdqLNOuNOzTk5tA.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1TTH_fMLKQfevcGDRPQj1F72n0Ek0yeQw/view",
         "tags": "LEG",
         "n": 0
@@ -31568,14 +31544,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A VERY COUNTRY CHRISTMAS HOMECOMING VOLTAN DO D A LUA DE MEL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/file/d/1GOGrCTdNCk_amYAZqSPq8i_Lq428_sA4/view?usp=sharing",
-        "tags": "DUAL",
-        "n": 0
-    },
-    {
         "t": "NATAL CASEIRO",
         "c": "https://image.tmdb.org/t/p/w500/ybvbEKTzvQubMDV2CziqB1lnBCK.jpg",
         "a": "2018",
@@ -31656,9 +31624,9 @@ filmes = [
         "n": 1
     },
     {
-        "t": "12 DIAS DE NATAL 12 ENCONTROS DE NATAL MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "12 DIAS DE NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hvIWv3ifI30wzP6e4NCsfQFq1xq.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1Sm_2PdmuGRPwRdZeH7S0OLWqjmZaltDn/view?usp=sharing",
         "tags": "DUB",
         "n": 1
@@ -31704,9 +31672,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "3 BED 2 BATH 1 GHOST MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "3 BED 2 BATH 1 GHOST",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hrOWLQxK7zXybn7RUqBRLYxzPqP.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1C3g4jd75mbpgiQcnsU_JKtgiPg0eILz_/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -31744,27 +31712,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A RECEITA FATAL",
-        "c": "https://image.tmdb.org/t/p/w500/6T8KruhSbE1opLJqlWzAdEKEKFT.jpg",
-        "a": "2016",
-        "link": "https://drive.google.com/file/d/1VHBP_4ber9LbZeSi6Wq1pQNJViVzguc3/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "A VERY COUNTRY WEDDING MEU NOIVO É UMA CELEBRIDADE",
         "c": "https://image.tmdb.org/t/p/w500/Lgs8dkNw7YUalgqV6ZEeIpaPMT.jpg",
         "a": "2019",
         "link": "https://drive.google.com/file/d/1jL_7YTZqTwGE3z9geBoDpTsxPmbt41R_/view?usp=sharing",
         "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "A VIDA EM SI",
-        "c": "https://image.tmdb.org/t/p/w500/nR8amsjlJSPwDQ7REmAmOJdxbvL.jpg",
-        "a": "2018",
-        "link": "https://drive.google.com/file/d/1D4cUl7-FlQ3wid0xE-PObcIhuazHX6lo/view?usp=sharing",
-        "tags": "DUB",
         "n": 0
     },
     {
@@ -32068,6 +32020,134 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/o5t8fqcNDyfojYwwlECZEgyD96T.jpg",
         "a": "2013",
         "link": "https://drive.google.com/file/d/1nMkK-O8HSJGmPuHOVWsQXDFqPiSgHnJs/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "A SAGA CREPUSCULO AMANHECER PARTE 1",
+        "c": "https://image.tmdb.org/t/p/w500/a6PexAo0jJRLlPNBfdiXXr0HYyz.jpg",
+        "a": "2011",
+        "link": "https://drive.google.com/file/d/0B8S56XOJY1VgTTJzNTlNUTRTVlE/view?resourcekey=0-w_oH23F4tW4K0VEpx_4PDw",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "A VIDA EM SI",
+        "c": "https://image.tmdb.org/t/p/w500/nR8amsjlJSPwDQ7REmAmOJdxbvL.jpg",
+        "a": "2018",
+        "link": "https://drive.google.com/file/d/1xgrYOPLU9fU0lanwdxqZqG6YHZcFrNPM/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "MURDER, SHE BAKED A RECEITA FATAL (4)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/6T8KruhSbE1opLJqlWzAdEKEKFT.jpg",
+        "a": "2016",
+        "link": "https://drive.google.com/file/d/1120OOu2KHkr4Qxy0g7KsDIe_iTwwJjDJ/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "1984",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hrdQlicxuyTg3zyVqq78EsA4Z6J.jpg",
+        "a": "1984",
+        "link": "https://drive.google.com/file/d/1sHfaz-5wiDgH14ELNGTxRGQjQRVLhOff/view",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "14 ESTAÇÕES DE MARIA",
+        "c": "https://image.tmdb.org/t/p/w500/9BAzHJitmoi041iLqdbIa7dlU0p.jpg",
+        "a": "2014",
+        "link": "https://drive.google.com/file/d/0B95hdk-jrbehVTU2cmEtTTQzT2M/view?resourcekey=0-3icJi0kIgKp8ZjEfZi2U_A",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "1492 A CONQUISTA DO PARAISO",
+        "c": "https://image.tmdb.org/t/p/w500/vLQMpD6eAvs0DOGZdgpTYHTP4Mu.jpg",
+        "a": "1992",
+        "link": "https://drive.google.com/file/d/10ogzsD7HZWnhbKMRFXxr7J_Ptx8hHWfY/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "15 METROS DE MULHER",
+        "c": "https://image.tmdb.org/t/p/w500/xklTXjnDMYKkmWJTe5HlyQ4Mc0T.jpg",
+        "a": "1994",
+        "link": "https://drive.google.com/file/d/1YsdiNz1p6cagU2Uw76z16Xir1uPqNMcW/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "15 MINUTOS DE GUERRA",
+        "c": "https://image.tmdb.org/t/p/w500/iwXNed7a2TERq4D7AUY3wltGrqw.jpg",
+        "a": "2019",
+        "link": "https://drive.google.com/file/d/1TWJaehRW2BjoBudyM6c1QfY5pqY_a1Ex/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "15H17 TREM PARA PARIS",
+        "c": "https://image.tmdb.org/t/p/w500/bLfcN4pTbG78sxS4rQGciJCoNAb.jpg",
+        "a": "2018",
+        "link": "https://drive.google.com/file/d/1SfEcwITnCrmoIOzxjI7MtSxI4e4JWp6P/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "17 OUTRA VEZ",
+        "c": "https://image.tmdb.org/t/p/w500/1nYYLgmwm4yK29ircaEGKXwXNj3.jpg",
+        "a": "2009",
+        "link": "https://drive.google.com/file/d/1s-APiHGpeIoC48UtVOQi0kYIBc8RVGaR/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "1911 - A REVOLUÇÃO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rqppYmxtnQfs8yFKjtpWXjbWLzT.jpg",
+        "a": "2011",
+        "link": "https://drive.google.com/file/d/1LG0KplCbmTWDZ0GjRuhHlaiPWZcmthvV/view",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "2001 - UMA ODISSÉIA NO ESPAÇO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9jPHKChBVWfWxXYO1yN4FZF1U2S.jpg",
+        "a": "1968",
+        "link": "https://drive.google.com/file/d/1NxWThEMs_fVBxDWjxwuRTYNmpvt-yC77/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "2010 - O ANO EM QUE FAREMOS CONTATO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2sE18DBdlpnpWGF9CjABAnMPmoi.jpg",
+        "a": "1984",
+        "link": "https://drive.google.com/file/d/1_gBHl6-RrpaERCoQ0cGHKDdhf7Jqq63B/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "2012 - O FILME",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3OyC6YVOrTqXpSjgXQ1L8LDrUFp.jpg",
+        "a": "2009",
+        "link": "https://drive.google.com/file/d/0B_C9S49FPUtxVjNWUDZhUnpXalU/view?usp=sharing&resourcekey=0-KcovicW4PetbWVjbRQ3nbw",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "2019 - O ANO DA EXTINÇÃO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/yWkkCjHaJaxEEbWTTNunYPNxqYo.jpg",
+        "a": "2009",
+        "link": "https://drive.google.com/file/d/1oNPID2YBHUNRH4TzLY_ytQdWb-bJ9C6D/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "211 O GRANDE ASSALTO",
+        "c": "https://image.tmdb.org/t/p/w500/igeyazOK26e0RSG0uiOYiDWHi1.jpg",
+        "a": "2018",
+        "link": "https://drive.google.com/file/d/1YsIVaUlBKEbXU5Eh8iLXdOOdKUhqfBSX/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
     }

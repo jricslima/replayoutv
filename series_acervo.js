@@ -259,5 +259,6 @@ var series = [
     { "t": "Os Pássaros Feridos 1983", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kEMqoRE8tPw6Lyv1bsCeun3839z.jpg", "link": "https://drive.google.com/drive/folders/1jMedTibRYbk5V1KdpmDsbPc5EiEsh0Rm" },
     { "t": "Os Intocáveis 1959", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/80IDXgaHmcxj6CKRImkpHjnIMcd.jpg", "link": "https://ok.ru/video/c2053563" },
     { "t": "Jesus de Nazaré 1977", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/n1NBkVmtADLRMky8iYwk2BbKYXp.jpg", "link": "https://drive.google.com/drive/folders/1mGae5wfUn9xAWON1NpkHzi-dUVx6NtGn" },
-    { "t": "Catherine Cookson - Collection", "c": "https://i.pinimg.com/originals/8b/50/b9/8b50b976593db179472aad7e569487a8.jpg", "link": "https://drive.google.com/drive/folders/1GlxAL0hO6ICZu9Jg9IG-VOUia5_1v3V3" }
+    { "t": "Catherine Cookson - Collection", "c": "https://i.pinimg.com/originals/8b/50/b9/8b50b976593db179472aad7e569487a8.jpg", "link": "https://drive.google.com/drive/folders/1GlxAL0hO6ICZu9Jg9IG-VOUia5_1v3V3" },
+    { "t": "EXPEDIÇÃO RIO DOC TV", "c": "https://i.pinimg.com/originals/89/fc/0b/89fc0b4ccf54fb05e869d392b9c57ecd.jpg", "link": "https://replayoutv.comunidades.net/expedicao-rio-16" }
 ];

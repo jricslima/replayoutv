@@ -11560,14 +11560,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "EXPEDIÇÃO RIO DOC TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/expedicao-rio-16",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "EXMAS",
         "c": "https://image.tmdb.org/t/p/w500/4WfzdlUXUAd1QA6xmbbNH89Kgbo.jpg",
         "a": "2023",

@@ -248,5 +248,15 @@ var series = [
     { "t": "ULTRASEVEN", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/1AZiI4FJlGmAcp5lvLMZk16xaU4.jpg", "link": "https://drive.google.com/drive/folders/0BynNnqICTkBANmlMd2FzLUFnNnc?resourcekey=0-Y2Vqu7wv9BO80oAwSTk6Kw" },
     { "t": "YELLOWJACKETS", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg", "link": "https://drive.google.com/drive/folders/1saNEd0TM0AC4wQEIeKsfL5hh0XLM5r6E" },
     { "t": "ASH VS. EVIL DEAD", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zsX1atjvymc4CKu72jE400QJGzL.jpg", "link": "https://drive.google.com/drive/folders/1SDPNCMZi2Xrg2djptD61G3HD4nOLBCZY" },
-    { "t": "A História de Deus com Morgan Freeman", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mKyqyZdXZ985PJ3UsajZnqKUZ6q.jpg", "link": "https://ok.ru/video/c14791431" }
+    { "t": "A História de Deus com Morgan Freeman", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mKyqyZdXZ985PJ3UsajZnqKUZ6q.jpg", "link": "https://ok.ru/video/c14791431" },
+    { "t": "Guerra e Paz 1966", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2cuxbaWZ8Sq5B2Iv6tL01nKhPqg.jpg", "link": "https://drive.google.com/drive/folders/1TuUPYJ23_iL2-f68ZOzyw-xH76CWE-N-" },
+    { "t": "Little Dorrit 2008", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/sTHWNjit8JX7pBPOiFGjY5KoS0Z.jpg", "link": "https://drive.google.com/drive/folders/12bsJS9IPvtG3r83r0ix7LPNzmMGW5y8Z" },
+    { "t": "Elisa di Rivombrosa", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mz9U083ClJ47yGJdABLK0JgBHRD.jpg", "link": "https://ok.ru/video/c17390673" },
+    { "t": "UMA CINDERELA EM ROMA 1/2", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ra9BmF5ZYVBuGqK6fMFexiexShg.jpg", "link": "https://drive.google.com/file/d/1AeEBme4Kl7byqMYhrT-iyh4TMlrokriq/view" },
+    { "t": "UMA CINDERELA EM ROMA 2/2", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ra9BmF5ZYVBuGqK6fMFexiexShg.jpg", "link": "https://drive.google.com/file/d/1fcVAJ2NnJpNTDUitpSDGuvzk8yOAHiuG/view" },
+    { "t": "Robô Gigante (1967)", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kLqjBFkHWYOQKL5fQs03pG1iGSt.jpg", "link": "https://drive.google.com/drive/folders/0B4WlaP9UqBqEWENSVVNWalBna3M?resourcekey=0-V9hcm1dCfVQje4Pr3heQmw&usp=sharing" },
+    { "t": "Guerra e Paz  2016", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vwnhS1lAnVXRmDmhMqecmtRLh6L.jpg", "link": "https://drive.google.com/drive/folders/1FNLoKbXSYVPq82I9dvfEyELNjpE7U1Dl" },
+    { "t": "Os Pássaros Feridos 1983", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kEMqoRE8tPw6Lyv1bsCeun3839z.jpg", "link": "https://drive.google.com/drive/folders/1jMedTibRYbk5V1KdpmDsbPc5EiEsh0Rm" },
+    { "t": "Os Intocáveis 1959", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/80IDXgaHmcxj6CKRImkpHjnIMcd.jpg", "link": "https://ok.ru/video/c2053563" },
+    { "t": "Jesus de Nazaré 1977", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/n1NBkVmtADLRMky8iYwk2BbKYXp.jpg", "link": "https://drive.google.com/drive/folders/1mGae5wfUn9xAWON1NpkHzi-dUVx6NtGn" }
 ];

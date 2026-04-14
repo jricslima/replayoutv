@@ -5296,9 +5296,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AFTER EVERYTHING MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "AFTER EVERYTHING",
+        "c": "https://image.tmdb.org/t/p/w500/2smZAv5ghBo1I7HnuLgekxxBP2n.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1Y1ryA9pU1zbCDd5lix_JRdxNDHqqMPMY/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -5425,8 +5425,8 @@ filmes = [
     },
     {
         "t": "ALISHA AMOR IMPOSSÍVEL PYAAR IMPOSSIBLE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/k8aqtzrGYLVZQTKgi7wU8Qg0Ikg.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/1JNrEOCsz9PW7WnEvRIuMwauTLG5KiXDM/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -5745,8 +5745,8 @@ filmes = [
     },
     {
         "t": "AMOR & GELATO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2qXCNa3w1rOZ4w7VXivVxXK4s0l.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1qymbPAIoKok6zM5pYtorXI-8s8XUJDln/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -9137,10 +9137,10 @@ filmes = [
     },
     {
         "t": "CLANNAD AFTER STORY EP.13 FORMATURA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://image.tmdb.org/t/p/original/sYbibWLFW4JgdznDJbZmjcfD61r.jpg",
+        "a": "2008",
         "link": "https://drive.google.com/file/d/1k6OYRYCKcgqw2m99gaUNjm1IH9hYdlcx/view?usp=drive_open",
-        "tags": "DUB",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -10985,8 +10985,8 @@ filmes = [
     },
     {
         "t": "DOMINGOS EM TIFFANY / O MEU AMIGO IMAGINÁRIO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/95wNSQvguF9XdGP3KMeIbsVHU6b.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/1pd4G4UXLRwC3jKzDtvpD9QFg7k-psEXE/view?usp=drive_open",
         "tags": "DUB",
         "n": 0
@@ -11761,10 +11761,10 @@ filmes = [
     },
     {
         "t": "EIN FREUND VON MIR (UM AMIGO MEU)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gdt7uSDGtUD18p5HUhqSH1Scky6.jpg",
+        "a": "2006",
         "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7BQwCUfXt3rMU1BUEIzaWlzUG8%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774904755793176&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7BQwCUfXt3rMU1BUEIzaWlzUG8%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VkzhcmdSR3TXW-d-2RanfHXnoO5IhXHyR0d_Dt3wyTzi3eHTzNHLFBB61uo_3IgEsKTnldgg",
-        "tags": "DUB",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -25472,9 +25472,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ROYALLY EVER AFTER NAMORANDO COM UM PRÍNCIPE MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "ROYALLY EVER AFTER NAMORANDO COM UM PRÍNCIPE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/1k5HpDPTWGIh24cvW5wQmV7YOuP.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/1p7BEPVKVL9c_aoVDMQ8m2VIALAIBEzGq/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -31688,42 +31688,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A DELICADEZA DO AMOR",
-        "c": "https://image.tmdb.org/t/p/w500/flj2uNvlfldgPpccXBkQ8Nefrmm.jpg",
-        "a": "2011",
-        "link": "https://drive.google.com/file/d/1sM7yGQbDCNmmcrk5W2bsLfyZD3LO_61v/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "A KISS BEFORE CHRISTMAS (RF)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/file/d/1zRmSbjlyGxUeryTUPieETO9qOr5kBdMw/view?usp=sharing",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "A MINHA GAROTA PARA SEMPRE",
-        "c": "https://image.tmdb.org/t/p/w500/uNOYr7OGdlzja4a4nCSZsaCtA1V.jpg",
-        "a": "2018",
-        "link": "https://drive.google.com/file/d/1PtV7uiXou9HMoV7mGW0ArhGwBrRl_lIF/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "A VERY COUNTRY WEDDING MEU NOIVO É UMA CELEBRIDADE",
         "c": "https://image.tmdb.org/t/p/w500/Lgs8dkNw7YUalgqV6ZEeIpaPMT.jpg",
         "a": "2019",
         "link": "https://drive.google.com/file/d/1jL_7YTZqTwGE3z9geBoDpTsxPmbt41R_/view?usp=sharing",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "ACCIDENTALLY ENGAGED",
-        "c": "https://image.tmdb.org/t/p/w500/lArOsPsD5e0W0paC7vReirclHNw.jpg",
-        "a": "2016",
-        "link": "https://drive.google.com/file/d/1feyt8CAOamKZqT4GKr492B_i0gC6frYh/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },

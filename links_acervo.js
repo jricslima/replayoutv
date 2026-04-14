@@ -1880,7 +1880,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ANNE OF GREEN GABLES",
+        "t": "ANNE OF GREEN GABLES 1985 2/2",
         "c": "https://image.tmdb.org/t/p/w500/z1owlDzKO3DQpFKNFBnuQlPF891.jpg",
         "a": "1985",
         "link": "https://drive.google.com/file/d/1dHtX7t7puvvt9ztI3YqI59HYmzFezLQ6/view?usp=sharing",
@@ -1888,7 +1888,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ANNE OF GREEN GABLES",
+        "t": "ANNE OF GREEN GABLES 1985 1/2",
         "c": "https://image.tmdb.org/t/p/w500/z1owlDzKO3DQpFKNFBnuQlPF891.jpg",
         "a": "1985",
         "link": "https://drive.google.com/file/d/1fSD6KklQvJd2UB5UZM_-pXY2CmqV8Vq9/view?usp=sharing",
@@ -1897,8 +1897,8 @@ filmes = [
     },
     {
         "t": "ANNE OF GREEN GABLES",
-        "c": "https://image.tmdb.org/t/p/w500/z1owlDzKO3DQpFKNFBnuQlPF891.jpg",
-        "a": "1985",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xkXXyY8rqToMwCkGndUk9I3GAl8.jpg",
+        "a": "1934",
         "link": "https://drive.google.com/file/d/1-5PHfE8IQJMa1yWO8XzjOCdaz0UN6XSZ/view?usp=sharing",
         "tags": "LEG",
         "n": 0

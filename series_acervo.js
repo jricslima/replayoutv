@@ -185,41 +185,17 @@ var series = [
         "c": "https://i.pinimg.com/originals/d0/04/dd/d004dda737b8bc83a337053eb2e2f89e.jpg",
         "link": "https://replayoutv.comunidades.net/taken-2002"
     },
-    {
-        "t": "Terra de Gigantes 1ª Temporada (Completa)",
-        "c": "https://img.comunidades.net/rep/replayoutv/terra_de_gigantes1.jpg",
-        "link": "http://replayoutv.comunidades.net/terra-de-gigantes-1-temporada-completa"
-    },
-    {
-        "t": "The Chosen - Série TV",
-        "c": "https://img.comunidades.net/rep/replayoutv/The_Chosen.jpg",
-        "link": "https://replayoutv.comunidades.net/the-chosen-serie-tv"
-    },
+    { "t": "Terra de Gigantes", "c": "https://img.comunidades.net/rep/replayoutv/terra_de_gigantes1.jpg", "link": "http://replayoutv.comunidades.net/terra-de-gigantes-1-temporada-completa" },
+    { "t": "The Chosen", "c": "https://img.comunidades.net/rep/replayoutv/The_Chosen.jpg", "link": "https://replayoutv.comunidades.net/the-chosen-serie-tv" },
     {
         "t": "V - A Minissérie",
         "c": "https://i.pinimg.com/originals/25/41/34/254134f01fbc1c57dfda06ac2ffbe6a5.jpg",
         "link": "https://replayoutv.comunidades.net/v-a-minisserie"
     },
-    {
-        "t": "V - Visitantes 1ª e 2ª Temporadas",
-        "c": "https://i.pinimg.com/originals/6a/09/19/6a0919960af3b83accdc3b957ac7262e.jpg",
-        "link": "https://replayoutv.comunidades.net/v-visitantes-1-e-2-temporadas"
-    },
-    {
-        "t": "Viagem ao Fundo do Mar - 1ª Temporada",
-        "c": "https://i.pinimg.com/originals/5e/fd/7f/5efd7f46c6a6a11ffdae9a358fcf9158.jpg",
-        "link": "https://replayoutv.comunidades.net/viagem-ao-fundo-do-mar-1-temporada"
-    },
-    {
-        "t": "Zorro - 1ª Temporada",
-        "c": "https://i.pinimg.com/originals/ec/d1/06/ecd10650e566231c561d20466270d6bc.png",
-        "link": "https://replayoutv.comunidades.net/zorro-1-temporada"
-    },
-    {
-        "t": "A BELA E A FERA (1987)",
-        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vPAEPR7jiugyOPyf2turnQ329Qk.jpg",
-        "link": "https://ok.ru/video/c3191227"
-    },
+    { "t": "V - VISITANTES", "c": "https://i.pinimg.com/originals/6a/09/19/6a0919960af3b83accdc3b957ac7262e.jpg", "link": "https://replayoutv.comunidades.net/v-visitantes-1-e-2-temporadas" },
+    { "t": "VIAGEM AO FUNDO DO MAR", "c": "https://i.pinimg.com/originals/5e/fd/7f/5efd7f46c6a6a11ffdae9a358fcf9158.jpg", "link": "https://replayoutv.comunidades.net/viagem-ao-fundo-do-mar-1-temporada" },
+    { "t": "ZORRO", "c": "https://i.pinimg.com/originals/ec/d1/06/ecd10650e566231c561d20466270d6bc.png", "link": "https://replayoutv.comunidades.net/zorro-1-temporada" },
+    { "t": "A BELA E A FERA 1987", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vPAEPR7jiugyOPyf2turnQ329Qk.jpg", "link": "https://ok.ru/video/c3191227" },
     {
         "t": "JASPION",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5mdeUBc5hQX8NrTCerfAUim7XY0.jpg",
@@ -254,11 +230,12 @@ var series = [
     { "t": "Elisa di Rivombrosa", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mz9U083ClJ47yGJdABLK0JgBHRD.jpg", "link": "https://ok.ru/video/c17390673" },
     { "t": "UMA CINDERELA EM ROMA 1/2", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ra9BmF5ZYVBuGqK6fMFexiexShg.jpg", "link": "https://drive.google.com/file/d/1AeEBme4Kl7byqMYhrT-iyh4TMlrokriq/view" },
     { "t": "UMA CINDERELA EM ROMA 2/2", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ra9BmF5ZYVBuGqK6fMFexiexShg.jpg", "link": "https://drive.google.com/file/d/1fcVAJ2NnJpNTDUitpSDGuvzk8yOAHiuG/view" },
-    { "t": "Robô Gigante (1967)", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kLqjBFkHWYOQKL5fQs03pG1iGSt.jpg", "link": "https://drive.google.com/drive/folders/0B4WlaP9UqBqEWENSVVNWalBna3M?resourcekey=0-V9hcm1dCfVQje4Pr3heQmw&usp=sharing" },
+    { "t": "Robô Gigante 1967", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kLqjBFkHWYOQKL5fQs03pG1iGSt.jpg", "link": "https://drive.google.com/drive/folders/0B4WlaP9UqBqEWENSVVNWalBna3M?resourcekey=0-V9hcm1dCfVQje4Pr3heQmw&usp=sharing" },
     { "t": "Guerra e Paz  2016", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vwnhS1lAnVXRmDmhMqecmtRLh6L.jpg", "link": "https://drive.google.com/drive/folders/1FNLoKbXSYVPq82I9dvfEyELNjpE7U1Dl" },
     { "t": "Os Pássaros Feridos 1983", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kEMqoRE8tPw6Lyv1bsCeun3839z.jpg", "link": "https://drive.google.com/drive/folders/1jMedTibRYbk5V1KdpmDsbPc5EiEsh0Rm" },
     { "t": "Os Intocáveis 1959", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/80IDXgaHmcxj6CKRImkpHjnIMcd.jpg", "link": "https://ok.ru/video/c2053563" },
     { "t": "Jesus de Nazaré 1977", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/n1NBkVmtADLRMky8iYwk2BbKYXp.jpg", "link": "https://drive.google.com/drive/folders/1mGae5wfUn9xAWON1NpkHzi-dUVx6NtGn" },
     { "t": "Catherine Cookson - Collection", "c": "https://i.pinimg.com/originals/8b/50/b9/8b50b976593db179472aad7e569487a8.jpg", "link": "https://drive.google.com/drive/folders/1GlxAL0hO6ICZu9Jg9IG-VOUia5_1v3V3" },
-    { "t": "EXPEDIÇÃO RIO DOC TV", "c": "https://i.pinimg.com/originals/89/fc/0b/89fc0b4ccf54fb05e869d392b9c57ecd.jpg", "link": "https://replayoutv.comunidades.net/expedicao-rio-16" }
+    { "t": "EXPEDIÇÃO RIO DOC TV", "c": "https://i.pinimg.com/originals/89/fc/0b/89fc0b4ccf54fb05e869d392b9c57ecd.jpg", "link": "https://replayoutv.comunidades.net/expedicao-rio-16" },
+    { "t": "GUERRA E PAZ 2007", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/8QTiqjGxq6SGXV8BDUofcSo7Owh.jpg", "link": "https://drive.google.com/drive/folders/1Duc_NKttWtM_IxwJYfNdfqDSQIGHtnrZ" }
 ];

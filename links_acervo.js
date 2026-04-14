@@ -8672,14 +8672,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CATHERINE COOKSON COLLECTION UK TELEVISION",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/1GlxAL0hO6ICZu9Jg9IG-VOUia5_1v3V3?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "CAVALO DE GUERRA",
         "c": "https://image.tmdb.org/t/p/w500/8KCu49IhGK5IpqKRO1i2UGLQt6A.jpg",
         "a": "2011",

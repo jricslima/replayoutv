@@ -5539,16 +5539,16 @@ filmes = [
         "t": "AMERICAN SNIPER",
         "c": "https://image.tmdb.org/t/p/w500/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg",
         "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B456RVrRYnkddm9iSzhjTnVPcmc%2Fview%3Fusp%3Dsharing&dsh=S-1271814163%3A1774900206830898&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B456RVrRYnkddm9iSzhjTnVPcmc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WFxbZS28HHFR5Jb-Nb539in0aSiI-mCylMt4hea4q728eYusrrU4Ojo-mbGVRuOv-DM1ksCg",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B456RVrRYnkddm9iSzhjTnVPcmc/view?usp=sharing&resourcekey=0-X78CwGSaR4fLBDWvdbiQ3w",
+        "tags": "DUAL",
         "n": 0
     },
     {
         "t": "AMERICAS SWEETHEARTS",
         "c": "https://image.tmdb.org/t/p/w500/5unaiZfpchAHJSYVZY12zy5sWqR.jpg",
         "a": "2001",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5JBvcxRbgWkUV94dUZIQm8tclU&dsh=S573530077%3A1774900209009549&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5JBvcxRbgWkUV94dUZIQm8tclU&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VUBeT11AvJNmPhLVd1TFikMHpTjmSrB6aGCskHQ23cQO_a6rQkJOJR4nnCIfJt6lpV2Wi5",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B5JBvcxRbgWkUV94dUZIQm8tclU/view?usp=sharing&resourcekey=0-jyWF8scQlpUKxg1lkg1AWA",
+        "tags": "LEG",
         "n": 0
     },
     {

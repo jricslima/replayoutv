@@ -7112,14 +7112,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "BATLESTAR GALACTICA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/batlestar-galactica",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "BATMAN O CAVALEIRO DAS TREVAS",
         "c": "https://image.tmdb.org/t/p/w500/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
         "a": "2008",
@@ -11360,14 +11352,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ELISA DI RIVOMBROSA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://ok.ru/video/c17390673",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "É TEMPO DO AMAR",
         "c": "https://image.tmdb.org/t/p/w500/6NAbvGZs4rlzatUeBlsggW56esW.jpg",
         "a": "2023",
@@ -13369,8 +13353,8 @@ filmes = [
     },
     {
         "t": "GEMINI MAN PILOTO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://i.pinimg.com/originals/25/b5/79/25b579cae257bb431481a9f69b2be32c.jpg",
+        "a": "1976",
         "link": "https://drive.google.com/file/d/1cHjIhhTmG19IamPUumQ7L9-9r5zarHvQ/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -22640,14 +22624,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "OS PÁSSAROS FERIDOS",
-        "c": "https://image.tmdb.org/t/p/w500/ayczgdkIc6oozpSVrbdW98hhDjc.jpg",
-        "a": "1996",
-        "link": "https://drive.google.com/drive/folders/1jMedTibRYbk5V1KdpmDsbPc5EiEsh0Rm?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "OS PÁSSAROS",
         "c": "https://image.tmdb.org/t/p/w500/y0EJ31AZhsTX3mRaIcqn3sZ2XK0.jpg",
         "a": "1963",
@@ -25348,14 +25324,6 @@ filmes = [
         "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
         "a": "----",
         "link": "https://drive.google.com/file/d/1HkczcmXIkuGtm9YQhkhr5yCLgAKIV5kK/edit",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "ROBÔ GIGANTE",
-        "c": "https://image.tmdb.org/t/p/w500/K4xx58kvsTEFm5eBAaHI3ATshJ.jpg",
-        "a": "1992",
-        "link": "https://drive.google.com/drive/folders/0B4WlaP9UqBqEWENSVVNWalBna3M?resourcekey=0-V9hcm1dCfVQje4Pr3heQmw&amp;usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -28736,17 +28704,17 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UMA CINDERELA EM ROMA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UMA CINDERELA EM ROMA 1/2",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ra9BmF5ZYVBuGqK6fMFexiexShg.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1AeEBme4Kl7byqMYhrT-iyh4TMlrokriq/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "UMA CINDERELA EM ROMA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UMA CINDERELA EM ROMA 2/2",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ra9BmF5ZYVBuGqK6fMFexiexShg.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1fcVAJ2NnJpNTDUitpSDGuvzk8yOAHiuG/view?usp=sharing",
         "tags": "DUB",
         "n": 0

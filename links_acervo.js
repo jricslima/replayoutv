@@ -6304,9 +6304,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AROMAS E SENSIBILIDADE DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "AROMAS E SENSIBILIDADE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gWrDknpiyxji7dZPij4gFhfk9JU.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1XUxcsemijfeAoBj5JLu4LxVUTcOWsW64/view?usp=drive_open",
         "tags": "DUB",
         "n": 0
@@ -6393,8 +6393,8 @@ filmes = [
     },
     {
         "t": "AS APIMENTADAS TEENAGERS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jxU5QbhUq3b3yexhuk3jgZAJv6C.jpg",
+        "a": "2000",
         "link": "https://drive.google.com/file/d/1n7gmAM6pedrjLopiF4oLEFM1gb3oTCX-/view?usp=drive_open",
         "tags": "DUB",
         "n": 0
@@ -6433,24 +6433,24 @@ filmes = [
     },
     {
         "t": "AS BRUMAS DE AVALON",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/iVEbAgsYBVwKH8goTkUVd59fIWB.jpg",
+        "a": "2001",
         "link": "https://drive.google.com/file/d/1bU-arASjH-BYYHzAVOpzrSs95BA0vcVj/edit",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "AS BUXAS DE SALÉM",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mDyyLKremgYAJlY8LoxwyO1danF.jpg",
+        "a": "1996",
         "link": "https://drive.google.com/file/d/1m_EsyEANCkO06ru3FT_l7cMfrNl8dnHn/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "AS ESCOLHAS DO AMOR MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "AS ESCOLHAS DO AMOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jNTGRX5MqWpZQuaa0ViNL7rV3Cj.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/16Z8O9w2a90mxH_xeCbQWwqNfwVjiVXpR/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -6480,9 +6480,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AS LÁGRIMAS AMARGAS DE PETRA VON KANT LEGENDA ACOPLADA / LEGENDADO 360P",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "AS LÁGRIMAS AMARGAS DE PETRA VON KANT",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5F0YPfAtqfwZsykcGtZjj6zW37K.jpg",
+        "a": "1972",
         "link": "https://drive.google.com/file/d/1-5TV0PMhm7_rujHafiv45MQ3KG5HakcZ/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -6497,10 +6497,10 @@ filmes = [
     },
     {
         "t": "AS NOVE VIDAS DO NATAL THE NINE LIVES OF CHRISTMAS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3cuqfM6A2JtTGlNAjBRWX6BrSy9.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/1idxTRdc8xrblui7zxgfsHREnt_MFBDfn/view?usp=drive_open",
-        "tags": "DUB",
+        "tags": "SEM LEG",
         "n": 1
     },
     {
@@ -6616,9 +6616,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ATÉ A PRÓXIMA VEZ MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "ATÉ A PRÓXIMA VEZ",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3OEVTXt455NkA4X9slqeEn5Yz0n.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1wXxOUAahdXxu_emw96cEwJuL62ds8r_f/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -6680,9 +6680,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ATRAVÉS DA MINHA JANELA ALÉM MAR MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "ATRAVÉS DA MINHA JANELA ALÉM MAR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7me7eFBoFEZqaiobZuo180Hk3ds.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1LfTYmz9lL-DH3yKMo-T8kQghaMZv5Zkf/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -6736,9 +6736,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AUTUMN STABLES MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "AUTUMN STABLES",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gENzLIHsMKqMwHvNj8qsIHDGIhu.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/18zE0_Bu9x-8-zKZpX2kC4u28ql5qTyZl/view?usp=sharing",
         "tags": "LEG",
         "n": 0

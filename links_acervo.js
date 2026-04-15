@@ -2225,8 +2225,8 @@ filmes = [
     },
     {
         "t": "A VIAGEM",
-        "c": "https://image.tmdb.org/t/p/w500/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg",
-        "a": "2001",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9ebLINqOLXzRRFJ3X7WdTCspdpn.jpg",
+        "a": "2012",
         "link": "https://drive.google.com/file/d/1u2m90HTmcktccEjtRl2VR1tA2APMujVc/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -15232,7 +15232,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "LOVE COMES SOFTLY O AMOR CHEGA SUAVEMENTE",
+        "t": "LOVE COMES SOFTLY O AMOR CHEGA SUAVEMENTE (1/12)",
         "c": "https://image.tmdb.org/t/p/w500/t8da72SKuqOqiRydt5Z4b1CF3fI.jpg",
         "a": "2003",
         "link": "https://drive.google.com/file/d/1e0LyJ-TMd66ebvTkMzTe1UYRuaSPQwWF/view?usp=sharing",
@@ -15240,89 +15240,89 @@ filmes = [
         "n": 0
     },
     {
-        "t": "LOVE COMES SOFTLY PROMESSA DE AMOR",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LOVE COMES SOFTLY PROMESSA DE AMO (2/12)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dDkeH0miAJCs8RjTk8JG9RYo5hp.jpg",
+        "a": "2004",
         "link": "https://drive.google.com/file/d/1DzmXNyxYW30-LJzsGS9HlyE0PWITfya8/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
-        "t": "LOVE COMES SOFTLY A LONGA VIAGEM DO AMOR",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LOVE COMES SOFTLY A LONGA VIAGEM DO AMOR (3/12)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/n70pPA96buGt3EHmWla96LbCCi7.jpg",
+        "a": "2005",
         "link": "https://drive.google.com/file/d/1PVB8ZxIHKdnJnjs3Ok2PQqkuJYIKcv0S/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "LOVE COMES SOFTLY A ALEGRIA DO AMOR LOVE'S ABIDING JOY",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LOVE COMES SOFTLY A ALEGRIA DO AMOR LOVE'S ABIDING JOY (4/12)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3Tq3TB452R4NPW2b4j16BpjK4Fa.jpg",
+        "a": "2006",
         "link": "https://drive.google.com/file/d/1H_9zqCtsItj18lih1ebGHce2iCZ_r4lQ/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
-        "t": "LOVE COMES SOFTLY O ETERNO LEGADO DO AMOR",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LOVE COMES SOFTLY O ETERNO LEGADO DO AMOR (5/12)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fHchnItox53PQRKuRPmxs11buVJ.jpg",
+        "a": "2007",
         "link": "https://drive.google.com/file/d/1keoBoZS--RxRBUSaAipnyVum1WXpqD3U/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "DUB",
         "n": 0
     },
     {
-        "t": "LOVE COMES SOFTLY O SONHO DO AMOR PERFEITO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LOVE COMES SOFTLY O SONHO DO AMOR PERFEITO (6/12)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3kqYRAgPLtSfEEoTi4vEA5aPvT.jpg",
+        "a": "2007",
         "link": "https://drive.google.com/file/d/1B6-nJJ80ASqomyryLsWFhSS8mMXEi468/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "LOVE COMES SOFTLY O AMOR TOMA ASAS LOVE TAKES WING",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LOVE COMES SOFTLY O AMOR TOMA ASAS LOVE TAKES WING (7/12)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/g31haV7QXhNVHLxflPjrKaCA4c9.jpg",
+        "a": "2009",
         "link": "https://drive.google.com/file/d/1Fb5lkcK4HEL_G8oqpq-g6LIJHpsPu_f6/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
-        "t": "LOVE COMES SOFTLY O AMOR ENCONTRA REPOUSO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LOVE COMES SOFTLY O AMOR ENCONTRA REPOUSO (8/12)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kVvwPWEp4BhvmcwFdwcTcHxoMfE.jpg",
+        "a": "2009",
         "link": "https://drive.google.com/file/d/1bp_zwOZUAWKW94p_-efbR8AuEtYPqIvU/view",
         "tags": "LEG",
         "n": 0
     },
     {
-        "t": "LOVE COMES SOFTLY ONDE NASCE O AMOR",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LOVE COMES SOFTLY ONDE NASCE O AMOR (9/12)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/sVfUMHJF8wG0rIuynrLLrrpuw4N.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1w-7inA4IN9VbaIOM1iSUT-fe3aEij4b9/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "LOVE COMES SOFTLY ETERNO AMOR",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LOVE COMES SOFTLY ETERNO AMOR (10/12)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/c3T8b6BuKkyCQc82SvnX1Ut9lJ.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1UTpY7YfNwBVZzdl9koxYT2cdH_O_pSpH/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "LOVE COMES SOFTLY A VIAGEM DO AMOR DE NATAL LOVE'S CHRISTMAS JOURNEY",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LOVE COMES SOFTLY A VIAGEM DO AMOR DE NATAL LOVE'S CHRISTMAS JOURNEY (11/12)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jYqWZG3f5FRy8oUwZYOn77h9I59.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1iemE6Nit2RqYqr5FCQdkV4q61JAvYx48/view?usp=sharing",
         "tags": "LEG",
         "n": 1
     },
     {
-        "t": "LOVE COMES SOFTLY A VIAGEM DO AMOR DE NATAL LOVE'S CHRISTMAS JOURNEY",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LOVE COMES SOFTLY A VIAGEM DO AMOR DE NATAL LOVE'S CHRISTMAS JOURNEY (12/12)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jYqWZG3f5FRy8oUwZYOn77h9I59.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1PpjwVltilurqDr8rxuB1iRBx6Fk1E9aM/view?usp=sharing",
         "tags": "LEG",
         "n": 1

@@ -4817,9 +4817,9 @@ filmes = [
     },
     {
         "t": "A REDE",
-        "c": "https://image.tmdb.org/t/p/w500/ff3UnsJsXNbCVNR0xdkqmjO8nIi.jpg",
-        "a": "2024",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0ByYoqq6J6r_COE9aM1BIWVZFbFE%2Fview%3Fusp%3Dsharing&dsh=S-284366117%3A1774899449276542&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0ByYoqq6J6r_COE9aM1BIWVZFbFE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VZRNe-G4Avt4jsKRBPHA3CZpuIbuMbMEI_ND5RoPhlc7fZl2qWkF5vmkGsgajcGLEt5Waj4w",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cRb3PYrt3YvCsi9FsGpq61FeDZt.jpg",
+        "a": "1995",
+        "link": "https://drive.google.com/file/d/1SQVTbfn35Kegyu5B-ulp0qI_RX3yuBIo/view",
         "tags": "DUB",
         "n": 0
     },

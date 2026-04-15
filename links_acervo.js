@@ -315,7 +315,7 @@ filmes = [
         "t": "2ND CHANCE FOR CHRISTMAS",
         "c": "https://image.tmdb.org/t/p/w500/3BS5Jt5bm0HAFWLddXZ2Z7rDpmk.jpg",
         "a": "2019",
-        "link": "https://Assistir",
+        "link": "https://drive.google.com/file/d/1uCHVsJDG1O8CfH7Sdi5r7e-t0N9e2UJE/view",
         "tags": "DUB",
         "n": 0
     },
@@ -4832,9 +4832,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A RESSURREIÇÃO DE GAVIN STONE DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "A RESSURREIÇÃO DE GAVIN STONE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7VC8RKKKxYBmHGfFAoWj2G53Kyj.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/1lpy8_wj81alMyGhGBFj2QDQ9M3tTmHhc/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -4848,9 +4848,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A ROYAL CHRISTMAS CRUSH MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "A ROYAL CHRISTMAS CRUSH",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xQhIhzrw3vzqqZJiOJ0UASjX78p.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1lLgXpmvIDu3zwebHNEHkQj7XG7Em_H01/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -4864,57 +4864,57 @@ filmes = [
         "n": 1
     },
     {
-        "t": "A ROYAL CHRISTMAS MATCH MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "A ROYAL CHRISTMAS MATCH",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mwYSQsM07HBgVicqW5C43HgyRny.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1IKLYNZuniH1Bj6Y8LQP8fwHOxE0kT9VU/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
-        "t": "A ROYAL CHRISTMAS ON ICE MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "A ROYAL CHRISTMAS ON ICE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vOM1wQc997qHnbHl8ZbTw4r6nfX.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1pJJJ6_V_8clAh1EG8GDJQzWy3UQ3Bhgr/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
-        "t": "A ROYAL CORGI CHRISTMAS MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "A ROYAL CORGI CHRISTMAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vyodaf69cRhpOMiObnht6FkKpXk.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1oy5ka5gj2eAkhCmC7Jv-HBTmnI6dxr9h/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "SEM LEG",
         "n": 0
     },
     {
-        "t": "A ROYAL IN PARADISE MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "A ROYAL IN PARADISE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/l8yoTbj7Bm54A3mxBaAErKwDKdT.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1prsfMtP86zWocWrheOYtbAw4Ij7QhsVx/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
-        "t": "A ROYAL RECIPE FOR LOVE MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "A ROYAL RECIPE FOR LOVE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/guScHxRbyBQQjKWArJLCUDCV9R9.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/18yo-82NN2rylnJGPo1O-WgAN-qAKJBFd/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
-        "t": "A ROYAL RUNAWAY ROMANCE MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "A ROYAL RUNAWAY ROMANCE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/78YbxVTXFwZ08kfqHb6abWF1WBY.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1QkcNXiX3g8WjjRvIUmbRwsVeCxH4Sgvd/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
-        "t": "A ROYAL SEASIDE ROMANCE MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "A ROYAL SEASIDE ROMANCE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ihhHKmRyloQFtx1fKfZ6FGS5omN.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1JaElki6lSmo_16dVtvIcJOXDNvhxvkXw/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -4937,8 +4937,8 @@ filmes = [
     },
     {
         "t": "A SONG TO THE SUN TAIYÔ NO UTA UMA CANÇÃO PARA O SOL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/4PORUkBptEA26aIIgCzPE8iUzP9.jpg",
+        "a": "2006",
         "link": "https://drive.google.com/file/d/1neZgpRJhsD_sCEzaGGwKC1h0NNKmqNDe/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -5120,9 +5120,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A WINTER PRINCESS MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "A WINTER PRINCESS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/srLvqEJIr2uaV0eIhZkZwZxsZH8.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/15p4XHRyAMgkUlPsnAMnKWyp6J7hv81l1/view",
         "tags": "LEG",
         "n": 0
@@ -32100,6 +32100,14 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/2Wv6a0yNxTl7NH1f0FbPYC2kZvg.jpg",
         "a": "1999",
         "link": "https://drive.google.com/file/d/0ByYoqq6J6r_CYm5yYmc4VUJqcGM/view?usp=sharing&amp;resourcekey=0-0waQbT4REExCTIQr3z7wTQ",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "400 CONTRA 1 – UMA HISTÓRIA DO CRIME ORGANIZADO",
+        "c": "https://image.tmdb.org/t/p/w500/vYjpX0uLBCtjJBf42zJk4OxepPx.jpg",
+        "a": "2010",
+        "link": "https://drive.google.com/file/d/16GEdC5vrAfkHPRr6zFbtVuRgPiyLAOLQ/view",
         "tags": "DUB",
         "n": 0
     }

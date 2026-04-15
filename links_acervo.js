@@ -5840,9 +5840,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AMOR GARANTIDO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "AMOR GARANTIDO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kgoAd6HFGQ4gHBABWXL17mBwte2.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1HFQps0yg2zBzfXYRPUY31kT8ManBidiv/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -5865,8 +5865,8 @@ filmes = [
     },
     {
         "t": "AMOR NA PREVISÃO LOVE IN THE FORECAST",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://image.tmdb.org/t/p/w500/jM2D5NgBvl7ifSJ5PsreYAxO9vA.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1RA06WvMMbIcI--c1xTC6IiVWfzKgNJj3/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -5920,9 +5920,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AMOR PARA SEMPRE MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "AMOR PARA SEMPRE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cD67jLjJcPKFyIRlyLmECyENrz6.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/17qDOhMhOXzXTCc0SEq_xSKBtXoryi74R/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -6081,8 +6081,8 @@ filmes = [
     },
     {
         "t": "ANGEL FALLS A NOVEL HOLIDAY UM ROMANCE DE NATAL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/c5OmtFtwAxXjW9JlOwvp4CAtCV.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/1AwjrxFiEjwd9BphkVyrRNrhnaF9EYsMY/view",
         "tags": "DUB",
         "n": 1
@@ -6112,17 +6112,17 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ANJO DE NATAL MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "ANJO DE NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/orFAXSxLsg1r7SMXr2T7QyNXMHR.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/16O0A6GVToJuMen1kyAymloq38ou6-aU1/view?usp=sharing",
         "tags": "DUB",
         "n": 1
     },
     {
-        "t": "ANJO DE VIDRO NOEL MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "ANJO DE VIDRO NOEL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kee3AZcRMMEJBkQsMeMJIDMrPN6.jpg",
+        "a": "2004",
         "link": "https://drive.google.com/file/d/1TWBrp2KucxqhSr6rDER0McsIyTDHn971/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -6272,10 +6272,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AQUELA CANÇÃO DE NATAL MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/file/d/1hy6nAGlG2x40ov6yp8hDTakO6W01ZJa9/view?usp=sharing",
+        "t": "AQUELA CANÇÃO DE NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/czbebgWqCJ7Nv0aHNGUCWh1caRq.jpg",
+        "a": "2022",
+        "link": "https://drive.google.com/file/d/12RO-wRNUc9ut7Pd-oyVE8HSqJxwlZxVJ/view?usp=sharing",
         "tags": "DUB",
         "n": 1
     },

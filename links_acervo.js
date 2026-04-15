@@ -5203,7 +5203,7 @@ filmes = [
         "t": "ADEUS GRINGO",
         "c": "https://image.tmdb.org/t/p/w500/lCjjIgUQvtOKKLb6kO8WoZhrhL5.jpg",
         "a": "1965",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IaFZFSjhyUXBNYzQ%2Fview%3Fusp%3Dsharing&dsh=S-1271814163%3A1774900132208116&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IaFZFSjhyUXBNYzQ%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_X8vkJXHEU6BfJn5xH3ZxL3fu9cnxczI-cNhfSqIbVUG91d9mOvOsOV28HRFkbfnxeie8w8uw",
+        "link": "https://drive.google.com/file/d/0B5D1SaJxbV4IaFZFSjhyUXBNYzQ/view?usp=sharing&resourcekey=0-AMy_JTRvd22Xt3TLCE8Vuw",
         "tags": "DUB",
         "n": 0
     },
@@ -5361,10 +5361,10 @@ filmes = [
     },
     {
         "t": "ALÉM DA LIBERDADE",
-        "c": "https://image.tmdb.org/t/p/w500/c4BBPwBP9Vh7fdWADUHGn8zeQyD.jpg",
-        "a": "2017",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9SnN2mtCSl-X000aXhZZDNjcU0%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774900164112014&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9SnN2mtCSl-X000aXhZZDNjcU0%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UmvlWNCIrmUQKSfjNFvj5UGu_qTml64oEYhlz2deiXs3hUzM2rRq456vkORfmPTLwvPe-_7w",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/lPNKaoKFZnS4ytbcZ8h4R4woUgK.jpg",
+        "a": "2012",
+        "link": "https://drive.google.com/file/d/0B9SnN2mtCSl-X000aXhZZDNjcU0/view?usp=sharing&resourcekey=0-59RInJ2vFGFqlNYvLW1JIw",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -5411,7 +5411,7 @@ filmes = [
         "t": "ALINE BARROS EXTRAORDINÁRIA GRAÇA",
         "c": "https://image.tmdb.org/t/p/w500/64c9TBe2BHJrH43ZBCPSXJtC5Cr.jpg",
         "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2vsb91p1MdwWkRvcFhDT1V3LVk%2Fview%3Fusp%3Dsharing&dsh=S354902304%3A1774900177708338&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2vsb91p1MdwWkRvcFhDT1V3LVk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V4xAXOMIsuIo2AqR8FKfEh3g7Ri9J7Xhbs0iiaIythq9azpPXH0rPLS2LQ6F9zjCEzEbWv5g",
+        "link": "https://drive.google.com/file/d/0B2vsb91p1MdwWkRvcFhDT1V3LVk/view?usp=sharing&resourcekey=0-fHpd59jQyxT7Y9PhhSAMuQ",
         "tags": "DUB",
         "n": 0
     },

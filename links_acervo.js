@@ -976,14 +976,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AMOR ALÉM DA VIDA AMOR ETERNO",
-        "c": "https://image.tmdb.org/t/p/w500/djwr7uUZZk9taeUaNdA5HY93Cvg.jpg",
-        "a": "2019",
-        "link": "https://drive.google.com/file/d/1uYB3upWqEEnYxMWoIzhPcISHewCwYLXd/view?usp=sharing",
-        "tags": "DUAL",
-        "n": 0
-    },
-    {
         "t": "AMORES MATERIALISTAS",
         "c": "https://image.tmdb.org/t/p/w500/gDC0Qwkaah9BRsDiPZcFPDZtCcN.jpg",
         "a": "2025",
@@ -4856,9 +4848,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A ROYAL CHRISTMAS ENGAGEMENT UM COMPROMISSO DE NATAL MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "A ROYAL CHRISTMAS ENGAGEMENT UM COMPROMISSO DE NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xQhIhzrw3vzqqZJiOJ0UASjX78p.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/18CWT-q3ZvERKxR6sC4_87ddl8YQJGFis/view?usp=sharing",
         "tags": "LEG",
         "n": 1
@@ -5232,9 +5224,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ADORO PROBLEMAS DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "ADORO PROBLEMAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2uyytK3XFRPFXoTchFDtsWiSujn.jpg",
+        "a": "1994",
         "link": "https://drive.google.com/file/d/16q8O7n7H5jyYj2X5ziBRm0gt47kvpWuE/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -5257,8 +5249,8 @@ filmes = [
     },
     {
         "t": "ADRENALINA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "2007",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg",
+        "a": "2006",
         "link": "https://drive.google.com/file/d/1iowlWmUodS3BLuGsBF4HiX-MOfGKEdgR/view?usp=drive_open",
         "tags": "DUB",
         "n": 0
@@ -5312,9 +5304,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AGENTE 85 O FILME",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "AGENTE 86 O FILME",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cXSsrlaR5nEtnO86TaOjBrF0A5K.jpg",
+        "a": "2008",
         "link": "https://drive.google.com/file/d/1EgAk1hEQbZgMJI6fGnNn6z5jrULuu-EH/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -5401,8 +5393,8 @@ filmes = [
     },
     {
         "t": "ALICE E O NOVO PAÍS DAS MARAVILHAS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mqwWzF2ZmTYczDurejf4ZLJHd6a.jpg",
+        "a": "2009",
         "link": "https://drive.google.com/file/d/14PRmQJKcPU-CgukWs5KcBsRtS7ACpVLv/view?usp=drive_open",
         "tags": "DUB",
         "n": 0
@@ -5449,16 +5441,16 @@ filmes = [
     },
     {
         "t": "ALL OF MY HEART THE WEDDING (3)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/1n8xrAuu8la18SXw852tzy46lNO.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/1u6teVOi8j8bD-uHrdvXJuJawDsz-c2Sd/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
         "t": "ALL OF MY HEART (1)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ov9AMJqOmJ50ruJUTYQfxJqXNWb.jpg",
+        "a": "2015",
         "link": "https://drive.google.com/file/d/1OcIqWIUfSFMOd3KfA7dXgoezc4D8gDEm/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -5529,18 +5521,10 @@ filmes = [
     },
     {
         "t": "AMANHÃ EM HONG KONG",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xpUvdhpUE5ASmLga3sqL0N3k1uh.jpg",
+        "a": "2016",
         "link": "https://drive.google.com/file/d/1Jzg7DVef_DEzD-d27J76i49AqHu5yRbB/view?usp=sharing",
         "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "AMAR NÃO TEM PREÇO DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0E6dWRRFYg4NWtJbXF4dVZpMjg&dsh=S909493217%3A1774900202867588&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0E6dWRRFYg4NWtJbXF4dVZpMjg&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WKLDdhOC9Oquyc1KOUcu6rJ2PY8WcIU2afA5KMfpDIQh8ymP3SWN7h6fd-JmPfE_R4fa38",
-        "tags": "DUB",
         "n": 0
     },
     {
@@ -5776,9 +5760,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AMOR EM FOCO MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "AMOR EM FOCO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/iiKXokniuqAwhVZjLhIGJhXIKzk.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1GrG9xkY9u5nDUwVVcuaErlMeoUZSINIL/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -5841,16 +5825,16 @@ filmes = [
     },
     {
         "t": "AMOR EN VIENA COUP DE FOUDRE SUR UN AIR DE NOËLL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/odJfmAupACvSP59CVIC9p3VZp87.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/19fSLv15WptC4Pr7PBtoRaas3fYUMvPk3/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "ESP",
         "n": 0
     },
     {
-        "t": "AMOR ETERNO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TESTE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fI383DEL7bvSOALWVKDkpj1VRdy.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/1JGulfDnBfhXiID-AsVzcfuLXhwcutvXY/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -13500,30 +13484,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/i2UpjQ5CI9STnyv1UZitM6QBqwv.jpg",
         "a": "2017",
         "link": "https://drive.google.com/file/d/1cRRbvf6SMEGoHQvnlvdVov8wO84b__X7/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "TESTE",
-        "c": "https://image.tmdb.org/t/p/w500/yJhHXe3Zf0jlkikAUq0DzXRYXn9.jpg",
-        "a": "1956",
-        "link": "https://drive.google.com/drive/folders/1TuUPYJ23_iL2-f68ZOzyw-xH76CWE-N-",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "TESTE2",
-        "c": "https://image.tmdb.org/t/p/w500/yJhHXe3Zf0jlkikAUq0DzXRYXn9.jpg",
-        "a": "1956",
-        "link": "https://drive.google.com/drive/folders/1Duc_NKttWtM_IxwJYfNdfqDSQIGHtnrZ",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "TESTE3",
-        "c": "https://image.tmdb.org/t/p/w500/yJhHXe3Zf0jlkikAUq0DzXRYXn9.jpg",
-        "a": "1956",
-        "link": "https://drive.google.com/drive/folders/1FNLoKbXSYVPq82I9dvfEyELNjpE7U1Dl",
         "tags": "DUB",
         "n": 0
     },
@@ -32109,6 +32069,30 @@ filmes = [
         "a": "2010",
         "link": "https://drive.google.com/file/d/16GEdC5vrAfkHPRr6zFbtVuRgPiyLAOLQ/view",
         "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "AMAR NÃO TEM PREÇO",
+        "c": "https://image.tmdb.org/t/p/w500/57WjWlcDYjCNQO2If8JLHdO9m4T.jpg",
+        "a": "2006",
+        "link": "https://drive.google.com/file/d/0B0E6dWRRFYg4SWNaY1dQOE1zbjA/view?usp=sharing&amp;resourcekey=0-JJVpCakq0Clsgz6VX4ku4g",
+        "tags": "SEM LEG",
+        "n": 0
+    },
+    {
+        "t": "AMAR NÃO TEM PREÇO",
+        "c": "https://image.tmdb.org/t/p/w500/57WjWlcDYjCNQO2If8JLHdO9m4T.jpg",
+        "a": "2006",
+        "link": "https://drive.google.com/file/d/0B0E6dWRRFYg4NWtJbXF4dVZpMjg/view?resourcekey=0-fZaV11dn2CJ-TQIxHy-ybQ",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "AMOR ALÉM DA VIDA AMOR ETERNO",
+        "c": "https://image.tmdb.org/t/p/w500/djwr7uUZZk9taeUaNdA5HY93Cvg.jpg",
+        "a": "2019",
+        "link": "https://drive.google.com/file/d/1uYB3upWqEEnYxMWoIzhPcISHewCwYLXd/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     }
 ];

@@ -32070,5 +32070,37 @@ filmes = [
         "link": "https://drive.google.com/file/d/1s3V6ewD5r3aGY04BgSHS1UaXvLF4NHZQ/view?usp=sharing",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "12 HOMENS E UMA SENTENÇA",
+        "c": "https://image.tmdb.org/t/p/w500/aiHIhV8c45FzIlbqYlswrrNyQD6.jpg",
+        "a": "1957",
+        "link": "https://drive.google.com/file/d/1rJLiBIAV-Xn6RD5erCFM2aBCW6cWLutL/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "12 HORAS",
+        "c": "https://image.tmdb.org/t/p/w500/fESXNmZBy1jlKI4IZazK9JYWMxP.jpg",
+        "a": "2012",
+        "link": "https://drive.google.com/file/d/0ByYoqq6J6r_CMXp4bGczVmNKZm8/view?usp=sharing&amp;resourcekey=0-v3jHDlklODt6gJLmeVhsnw",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "13 MINUTOS",
+        "c": "https://image.tmdb.org/t/p/w500/lVVrVSQNeiisXVFLsfDLjMCz8Vm.jpg",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/1FMODPdR9ISAQtwF0S4sIwrbIodcvbkYB/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "13º ANDAR",
+        "c": "https://image.tmdb.org/t/p/w500/2Wv6a0yNxTl7NH1f0FbPYC2kZvg.jpg",
+        "a": "1999",
+        "link": "https://drive.google.com/file/d/0ByYoqq6J6r_CYm5yYmc4VUJqcGM/view?usp=sharing&amp;resourcekey=0-0waQbT4REExCTIQr3z7wTQ",
+        "tags": "DUB",
+        "n": 0
     }
 ];

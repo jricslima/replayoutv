@@ -5832,14 +5832,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TESTE",
-        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fI383DEL7bvSOALWVKDkpj1VRdy.jpg",
-        "a": "2019",
-        "link": "https://drive.google.com/file/d/1JGulfDnBfhXiID-AsVzcfuLXhwcutvXY/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "AMOR GARANTIDO",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kgoAd6HFGQ4gHBABWXL17mBwte2.jpg",
         "a": "2020",
@@ -8581,14 +8573,6 @@ filmes = [
         "a": "2008",
         "link": "https://drive.google.com/file/d/1x2HsTIoU7-CO38fUZZpjNmyEZSUGGZ9W/view?usp=sharing",
         "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "CASANDO COM SR. DARCY",
-        "c": "https://image.tmdb.org/t/p/w500/1pOXjaiBKbkEaHGOQ9Ss2MeaxrY.jpg",
-        "a": "2018",
-        "link": "https://drive.google.com/file/d/1HwwRIOAlkdSHITFfhtgsQybF-ZEicfmQ/view?usp=sharing",
-        "tags": "DUB",
         "n": 0
     },
     {
@@ -31608,14 +31592,6 @@ filmes = [
         "n": 1
     },
     {
-        "t": "CASANDO COM SR. DARCY",
-        "c": "https://image.tmdb.org/t/p/w500/1pOXjaiBKbkEaHGOQ9Ss2MeaxrY.jpg",
-        "a": "2018",
-        "link": "http://Reupar",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "CHRISTMAS WITH A PRINCE BECOMING ROYAL",
         "c": "https://image.tmdb.org/t/p/w500/QEFHxYVmnypAoR2yqNpxxlB3Bm.jpg",
         "a": "2019",
@@ -32093,6 +32069,14 @@ filmes = [
         "a": "2019",
         "link": "https://drive.google.com/file/d/1uYB3upWqEEnYxMWoIzhPcISHewCwYLXd/view?usp=sharing",
         "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "CASANDO COM SR. DARCY",
+        "c": "https://image.tmdb.org/t/p/w500/1pOXjaiBKbkEaHGOQ9Ss2MeaxrY.jpg",
+        "a": "2018",
+        "link": "https://drive.google.com/file/d/1HwwRIOAlkdSHITFfhtgsQybF-ZEicfmQ/view?usp=sharing",
+        "tags": "DUB",
         "n": 0
     }
 ];

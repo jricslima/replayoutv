@@ -8609,8 +8609,8 @@ filmes = [
     },
     {
         "t": "CASTELOS DE GELO",
-        "c": "https://image.tmdb.org/t/p/w500/owObgU3HURbnItTRKtz3MM8a17V.jpg",
-        "a": "1978",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xTKPbJ1mFw25H91nZWdM7kFHMUz.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/1XVSCcHekIduDsu2_Bn4Cprgj5vC2vhLw/view?usp=sharing",
         "tags": "DUB",
         "n": 0

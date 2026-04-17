@@ -1841,8 +1841,8 @@ filmes = [
     },
     {
         "t": "ANNE OF GREEN GABLES",
-        "c": "https://image.tmdb.org/t/p/w500/z1owlDzKO3DQpFKNFBnuQlPF891.jpg",
-        "a": "1985",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/naohj9jmNggrodVingNs1veCwXJ.jpg",
+        "a": "2016",
         "link": "https://drive.google.com/file/d/1fQO0KN4l1qid3rJnYRptaKhrKmEkeL-5/view?usp=sharing",
         "tags": "LEG",
         "n": 0

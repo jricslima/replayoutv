@@ -148,8 +148,8 @@
 
 <div id="chegada-final" style="text-align: center; padding: 50px; clear: both;">--- FIM DA OPÇÃO PESQUISADA ---</div>
 
-<script src="links_acervo.js?v=202604151811"></script>
-<script src="series_acervo.js?v=202604151811"></script>
+<script src="links_acervo.js?v=202604171127"></script>
+<script src="series_acervo.js?v=202604171127"></script>
 
 <script>
 let fonteDados = [];    
@@ -245,18 +245,32 @@ function filtrarPorLetra(letra) {
     if (letra === '0-9') {
         listaAtual = fonteDados.filter(f => /^[0-9]/.test(f.t));
     } else {
-        listaAtual = fonteDados.filter(f => f.t && f.t.trim().toUpperCase().startsWith(letra));
+        listaAtual = fonteDados.filter(f => {
+            if (!f.t) return false;
+            // Essa linha abaixo limpa os acentos e compara
+            const tituloLimpo = f.t.trim().toUpperCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+            return tituloLimpo.startsWith(letra.toUpperCase());
+        });
     }
     renderizar(listaAtual.slice(0, filmesExibidos));
     voltarAoTopo();
 }
-
 function buscar() {
-    const termo = document.getElementById("inputBusca").value.toLowerCase();
-    listaAtual = fonteDados.filter(f => f.t && f.t.toLowerCase().includes(termo));
+    // 1. Pega o que foi digitado e limpa os acentos
+    const termo = document.getElementById("inputBusca").value
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase();
+
+    // 2. Filtra os filmes comparando títulos também sem acentos
+    listaAtual = fonteDados.filter(f => {
+        if (!f.t) return false;
+        const tituloLimpo = f.t.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+        return tituloLimpo.includes(termo);
+    });
+
     renderizar(listaAtual.slice(0, 20));
 }
-
 window.onscroll = function() {
     const t = document.getElementById("btnTopo"), f = document.getElementById("btnFinal"), i = document.getElementById("btnIrAoFim");
     const mostrar = (window.scrollY > 100);

@@ -6937,8 +6937,8 @@ filmes = [
     },
     {
         "t": "BRAVETOWN EMBALADOS PELO RITMO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/aM5c1cu9dqt8Rqrv1FdMna4oThD.jpg",
+        "a": "2015",
         "link": "https://drive.google.com/file/d/1WKlcliGhxD7NhlQz4ggx4Hl2gVzB4W8z/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -7025,24 +7025,24 @@ filmes = [
     },
     {
         "t": "BABY, IT'S COLD INSIDE QUERIDA, ESTÁ FRIO POR DENTRO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/nKNnK3rk5k3koiDWiM0RnZH23T9.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1vclbScGwQXvuPt7XoaqI4uhMSvkBb9-f/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
         "t": "BACIAMI ANCORA BEIJE ME OUTRA VEZ",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7rU1NwjibQvYl48H3Z1rLHyAckY.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/1_XwjZmjJMsxviniJ-AdgljxSxdzU_75U/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "LEG",
         "n": 0
     },
     {
-        "t": "BAMBOO PANDA MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "BAMBOO PANDA",
+        "c": "https://i.pinimg.com/736x/e6/64/32/e6643260892c6646a7010eafbf2931d2.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/1fZ0IeEAh_Psj3fQQyvkrE7C7k0VcfnJT/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -7080,9 +7080,9 @@ filmes = [
         "n": 1
     },
     {
-        "t": "BARES, BOLOS E AMIZADES / DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "BARES, BOLOS E AMIZADES",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/98trDKdoX997KOF4i3xJL6vuXKl.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1SxuyKBUuxjMgCvzUJBVuiPy3KQPcfi30/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -7248,9 +7248,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "BELO DESASTRE / DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "BELO DESASTRE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/uLOPRqoglXJJPrqFcCBueUOvB0p.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1A1Ma9i9Qc4f2ujtWzD-KkHkubUaxR2rR/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -7393,8 +7393,8 @@ filmes = [
     },
     {
         "t": "BORROWED HEARTS FAMÍLIA DE ALUGUEL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/nWPuWqgswN5UAsEZoAnDo1hPO6L.jpg",
+        "a": "1997",
         "link": "https://drive.google.com/file/d/1nPPqc0SKyEeRI1pGvVooA8EmeA1K_UF8/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -7416,9 +7416,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "BREAKIN ALL THE RULES QUEBRANDO AS REGRAS MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "BREAKIN ALL THE RULES QUEBRANDO AS REGRAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/l5hRLghpfmZ6RvyymCNRcfXpSei.jpg",
+        "a": "2004",
         "link": "https://drive.google.com/file/d/1lRD6h-oprv_ENIvNOPy4mpNu3dYx4e8Q/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -7441,9 +7441,9 @@ filmes = [
     },
     {
         "t": "BRIGA DE MULHER",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B37evpT_4mqIb2MwSjFlRnpRVFk%2Fview%3Fusp%3Dsharing&dsh=S-284366117%3A1774902263792239&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B37evpT_4mqIb2MwSjFlRnpRVFk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_W5tBodlBQOPUYKY0uFJ7LAs365dzIeGcd1fK9sKrWbazXFQyzimTb29mB9aLqc-qKLZZ-LNA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2Ut0II3UlSrkrexUfffjUmHSNod.jpg",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/0B37evpT_4mqIb2MwSjFlRnpRVFk/view?usp=sharing&resourcekey=0-GA8O5vjDMUDf7-lNGjzSDw",
         "tags": "DUB",
         "n": 0
     },
@@ -7464,9 +7464,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "BRINCANDO COM O NATAL MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "BRINCANDO COM O NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/1S7JONfCpdBGg3IWq4wl9vqmfwm.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1hwfz7k4dUpfmUG0Ut3C3wh9W44ger-zt/view?usp=sharing",
         "tags": "DUB",
         "n": 1

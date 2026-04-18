@@ -7235,7 +7235,7 @@ filmes = [
         "t": "BEM VINDO A VIDA",
         "c": "https://image.tmdb.org/t/p/w500/x4vmkiNRk8ssZx6dOkGGIlTShOL.jpg",
         "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_HwkC3lXD4CaDNvQUhTejB2LXc%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774902222369969&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_HwkC3lXD4CaDNvQUhTejB2LXc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Xp1_XJ4-GOgjAyLaQE518XLDWbyDDmFXxi6w1K_UlEe5EATPxopheM6SQh7PeTeZStMG0uaw",
+        "link": "https://drive.google.com/file/d/14lvn4K-FdQIsAuaBdCCO1BbHiWyW4VrD/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -7419,7 +7419,7 @@ filmes = [
         "t": "BRILHO DE UMA PAIXÃO",
         "c": "https://image.tmdb.org/t/p/w500/r9Kkc4oXJAbcDMHWXqvPpjeZdQK.jpg",
         "a": "2009",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B17K-dABLTktbXNhMUF3emI3aFk&dsh=S1394476296%3A1774902266215313&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B17K-dABLTktbXNhMUF3emI3aFk&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XQBBh4LpKW3KoYmfCmf8QhF5jTN2TS7F7x3vd5e42rkCvmxj36lt3NwSPb1wj9mqbzdHRBJA",
+        "link": "https://drive.google.com/file/d/0B17K-dABLTktbXNhMUF3emI3aFk/view?usp=sharing&resourcekey=0-C9FBhjkqbwbuCybC4bgKJw",
         "tags": "DUB",
         "n": 0
     },
@@ -32061,6 +32061,14 @@ filmes = [
         "a": "2009",
         "link": "https://drive.google.com/file/d/1MnEJqNHOy2rT-F2W9jEQ5IaHpv0QHgVp/view",
         "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "BEM VINDO A VIDA",
+        "c": "https://image.tmdb.org/t/p/w500/x4vmkiNRk8ssZx6dOkGGIlTShOL.jpg",
+        "a": "2012",
+        "link": "https://drive.google.com/file/d/1zfu_WWH_IH6WwLNrGw9lTvGAWI_Zj7L0/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     }
 ];

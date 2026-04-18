@@ -5739,7 +5739,7 @@ filmes = [
         "t": "AMOR E REVOLUÇÃO COLONIA",
         "c": "https://image.tmdb.org/t/p/w500/cCRZzRIlmtg6xFPwSWQy0dFiEQs.jpg",
         "a": "2016",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kVhZQ7U7RFVGNCRnBkVG4wT2s%2Fview%3Fusp%3Dsharing&dsh=S573530077%3A1774900407169371&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kVhZQ7U7RFVGNCRnBkVG4wT2s%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UvKpxQ0e7Znc287e-71V_ZlG3ViQERilYu3_P65x0u6CZolhtNBJoXScWeDomIDScU11pcZw",
+        "link": "https://drive.google.com/file/d/1pvlnq2M87vtEOAUkjpdDR978vttG0WqH/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

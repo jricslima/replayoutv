@@ -1080,14 +1080,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A PANTERA COR DE ROSA",
-        "c": "https://image.tmdb.org/t/p/w500/vsA6L6kNdkr3Zhi03u3PFxUSWz1.jpg",
-        "a": "2006",
-        "link": "https://drive.google.com/file/d/0B3UQWxpf80TobDlGTnBvc2djSnM/view?usp=sharing&amp;resourcekey=0-x0k0RddkgXaQQUZL0PoDEQ",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "A VOLTA AO MUNDO EM 80 DIAS",
         "c": "https://image.tmdb.org/t/p/w500/5Gc6zKgg7NWtXE00NWbkuomJSrL.jpg",
         "a": "1956",
@@ -2281,8 +2273,8 @@ filmes = [
     },
     {
         "t": "A MEGERA DOMADA",
-        "c": "https://image.tmdb.org/t/p/w500/2LpU3kyg1PowiQoEHf7oUXOUmVa.jpg",
-        "a": "1967",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/murrfrqgaetHayjBmA0V1SMFFyh.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/10o3UrvGidB7vdubXGxiG1zFAkAsfQfpA/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -3089,8 +3081,8 @@ filmes = [
     },
     {
         "t": "A CHRISTMAS STAR",
-        "c": "https://image.tmdb.org/t/p/w500/1Ybq4hgblQOjlZLLVXYnn8gyKAw.jpg",
-        "a": "2015",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zOgCEhmLz6NoKO3FXqePBcql8tY.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1MFiGcKr7JBvjTNHs5TqZfAq68Ikya60P/edit",
         "tags": "LEG",
         "n": 0
@@ -3521,8 +3513,8 @@ filmes = [
     },
     {
         "t": "A FANTÁSTICA FÁBRICA DE CHOCOLATE",
-        "c": "https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg",
-        "a": "2005",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/noanwChjqswpEz5FTaqdbztfSsB.jpg",
+        "a": "1971",
         "link": "https://drive.google.com/file/d/1Jf_MpLV_Tx6bmHWVde0-L_dE6WCsC4T1/view",
         "tags": "DUB",
         "n": 0
@@ -3569,7 +3561,7 @@ filmes = [
     },
     {
         "t": "A FERA",
-        "c": "https://image.tmdb.org/t/p/w500/8JkXzfzwpZNZV72vSbG5c3Vn6Tt.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/lySW4nkzn7durlfx47yFHxJ6921.jpg",
         "a": "2017",
         "link": "https://drive.google.com/file/d/1M9pUhlV9hfl2YBwiD3mYMVmJbgqi8grN/view?usp=sharing",
         "tags": "DUB",
@@ -4401,8 +4393,8 @@ filmes = [
     },
     {
         "t": "A MORTE PEDE CARONA",
-        "c": "https://image.tmdb.org/t/p/w500/pavKmi6Alyiav67GLUmsorXDxLn.jpg",
-        "a": "1986",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/sncxZ0KhvEmta6tw5PwIf7eHSTU.jpg",
+        "a": "2007",
         "link": "https://drive.google.com/file/d/1sd7MhUwkA8yjGnhrv97hY3SUM6nhgLVE/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -4597,22 +4589,6 @@ filmes = [
         "a": "2023",
         "link": "https://drive.google.com/file/d/1A3cXdnv3PIlozV3Cb7-biLKF7ENgiV94/view?usp=sharing",
         "tags": "HTTPS://WWW.THEMOVIEDB.ORG/T/P/W600_AND_H900_FACE/9LZD2RV8JGUPU2BGTVGAHKJ5GVC.JPG",
-        "n": 0
-    },
-    {
-        "t": "A PANTERA COR DE ROSA",
-        "c": "https://image.tmdb.org/t/p/w500/vsA6L6kNdkr3Zhi03u3PFxUSWz1.jpg",
-        "a": "2006",
-        "link": "https://drive.google.com/file/d/17rbmiVKa7Ha82om7x-yoN9-AB_SNuB91/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "A PANTERA COR DE ROSA 2",
-        "c": "https://image.tmdb.org/t/p/w500/kLwENFAtw8BZp3BKycm98eemdIM.jpg",
-        "a": "2009",
-        "link": "https://drive.google.com/file/d/1MnEJqNHOy2rT-F2W9jEQ5IaHpv0QHgVp/view?usp=sharing",
-        "tags": "DUB",
         "n": 0
     },
     {
@@ -32068,6 +32044,22 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/1pOXjaiBKbkEaHGOQ9Ss2MeaxrY.jpg",
         "a": "2018",
         "link": "https://drive.google.com/file/d/1HwwRIOAlkdSHITFfhtgsQybF-ZEicfmQ/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "A PANTERA COR DE ROSA",
+        "c": "https://image.tmdb.org/t/p/w500/vsA6L6kNdkr3Zhi03u3PFxUSWz1.jpg",
+        "a": "2006",
+        "link": "https://drive.google.com/file/d/0B3UQWxpf80TobDlGTnBvc2djSnM/view?usp=sharing&amp;resourcekey=0-x0k0RddkgXaQQUZL0PoDEQ",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "A PANTERA COR DE ROSA 2",
+        "c": "https://image.tmdb.org/t/p/w500/kLwENFAtw8BZp3BKycm98eemdIM.jpg",
+        "a": "2009",
+        "link": "https://drive.google.com/file/d/1MnEJqNHOy2rT-F2W9jEQ5IaHpv0QHgVp/view",
         "tags": "DUB",
         "n": 0
     }

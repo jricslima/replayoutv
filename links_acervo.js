@@ -9032,7 +9032,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CINDERELLA THE CAT",
+        "t": "CINDERELA THE CAT",
         "c": "https://image.tmdb.org/t/p/w500/nOsUW2vJ8NRtordn0kO9LXlr95h.jpg",
         "a": "2017",
         "link": "https://drive.google.com/file/d/1zcevHBp0aDSP95qh6d05UnJLg8cgijgT/view?usp=drive_open",

@@ -7905,8 +7905,8 @@ filmes = [
     },
     {
         "t": "CINDERELA E O PRÍNCIPE SECRETO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/caMtietnPdDz8EHSgH3nzijhEws.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/11ajuUZOj8egtv_-B9w_6Nxkk6fSZ_mqi/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -8489,8 +8489,8 @@ filmes = [
     },
     {
         "t": "CASAMENTO DE NATAL",
-        "c": "https://image.tmdb.org/t/p/w500/ntLh3CTvte6TSk0Y3gkb58EqdkG.jpg",
-        "a": "2006",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5RdfCZj17K7sUq5SaXZ6LPfs5io.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/1DpsbjGV3MDjk4jWdIXZ44em_WXziIuZy/view",
         "tags": "DUB",
         "n": 1
@@ -9009,16 +9009,16 @@ filmes = [
     },
     {
         "t": "CINDERELA",
-        "c": "https://image.tmdb.org/t/p/w500/97uGphrufb7Yr2sP6EmHqPrE3Vc.jpg",
-        "a": "2011",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/x8MnNc8zaKMPo5W4TuWN0xVIbNy.jpg",
+        "a": "2015",
         "link": "https://drive.google.com/file/d/1A7k1729oTgRBVVlHaIvdPAddD86m2ebT/edit",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "CINDERELA",
-        "c": "https://image.tmdb.org/t/p/w500/97uGphrufb7Yr2sP6EmHqPrE3Vc.jpg",
-        "a": "2011",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/d0Is6WCU5yPOfdq2hlIqnhPgLHn.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1TTJLh-pSW3D4toYHRQ8Iqa9pf7kDAls6/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -29417,8 +29417,8 @@ filmes = [
     },
     {
         "t": "UM CASAMENTO DE NATAL",
-        "c": "https://image.tmdb.org/t/p/w500/ntLh3CTvte6TSk0Y3gkb58EqdkG.jpg",
-        "a": "2006",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9THoph1bwrqyinlDMPeEU7zRxGQ.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/19oX0CEfPOCGlTkXI6TtH1lxYvxzN0fCr/view?usp=sharing",
         "tags": "DUB",
         "n": 1

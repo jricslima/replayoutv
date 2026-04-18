@@ -6403,7 +6403,7 @@ filmes = [
         "t": "AS AVENTURAS DE PI",
         "c": "https://image.tmdb.org/t/p/w500/nAE3BCzE5S4NmUHSmO9mXVqZRUa.jpg",
         "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bw2Pp3dPqB3IRXhJby1nYVVSSU0%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774901335985289&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bw2Pp3dPqB3IRXhJby1nYVVSSU0%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_X5B2dnFKXvZLgG1olFCTCoR2JJdiKPBOnjDC5QQPOJ730DIJ38nbRjz-WO0OTE0NGN46Vu",
+        "link": "https://drive.google.com/file/d/13BfWtGKTFOArGqKkm7h2nz8HqFS5EDVq/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -6467,8 +6467,8 @@ filmes = [
         "t": "AS FILHAS DO BOTÃNICO",
         "c": "https://image.tmdb.org/t/p/w500/8FRnusvcTz3xfPL7GTChXHfeoH5.jpg",
         "a": "2006",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4yAJsaqrigySUk3eEQ4aFAwRVU%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774901349967740&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4yAJsaqrigySUk3eEQ4aFAwRVU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Xsb29JQIWsEj-53ncmgbV3mpyCzxzJ6ijQneuO28x2Ni2hzHUj77AWSzGso5XG5yOs4mT4",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B4yAJsaqrigySUk3eEQ4aFAwRVU/view?usp=sharing&resourcekey=0-8QLq7Ft84rSJqTksf0kk5w",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -6515,15 +6515,15 @@ filmes = [
         "t": "AS PETROLEIRAS",
         "c": "https://image.tmdb.org/t/p/w500/51NA6iiYSkyc37inzMWqcwSWiG9.jpg",
         "a": "1971",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6ZBSHqEDEhcLVFmcVFZNDhTZlU%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774901361357933&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6ZBSHqEDEhcLVFmcVFZNDhTZlU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Ve1VcyWN1_KKW4dnRFX1idwb2QFCs-3EL0rvsy8wHub-JTIKvMCDC8c0L_0QGj9C4E9WOWaw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1ApO7yRlssQjYo9M1R1U1MjwnQAkyrW2N/view?usp=sharing",
+        "tags": "SEM LEG",
         "n": 0
     },
     {
         "t": "AS SUFRAGISTAS",
         "c": "https://image.tmdb.org/t/p/w500/uNHonNhcFMNRvXKsiFWLouxmbFA.jpg",
-        "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B725-vWLGHtcUllSUUFLV2ZmXzA%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774901364247414&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B725-vWLGHtcUllSUUFLV2ZmXzA%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VhQCS39VQ8dXp6ArCXuCoLTknjyeBJc5jeGit8yvDYVRYIsBLUS208xRb9nR85Hb9gdmBpZQ",
+        "a": "2016",
+        "link": "https://drive.google.com/file/d/18Oekrq3Ws1ciX4CxCAo1WBINSCqkT-Ao/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -6563,8 +6563,8 @@ filmes = [
         "t": "ASAS DO DESEJO",
         "c": "https://image.tmdb.org/t/p/w500/AOVUasq9kPPNiHlAL0KJVQ7TWb.jpg",
         "a": "1987",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6vagH7hkCwHU0doSU5IQkFGSlU%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774901373150342&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6vagH7hkCwHU0doSU5IQkFGSlU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Ub4ZuCjfsNrOgOL7-oTKBbqgfb_dLMjEf0ZKqu_jT0MmRkXQx5PwxcyYnqGfw-rS3uArVWEw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/19IvSfyRB7QMDTgR9AKXzliKyff3OmjiH/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -6579,7 +6579,7 @@ filmes = [
         "t": "ASSASSINOS POR NATUREZA",
         "c": "https://image.tmdb.org/t/p/w500/uv7UHQedLPtotiQuI6S0hTUdz3I.jpg",
         "a": "1994",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-qwfV7YInAHeXM5OC1nRzZvLXM&dsh=S-1758961639%3A1774901380030304&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-qwfV7YInAHeXM5OC1nRzZvLXM&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XkH0QDDlWLtfFYCb_V-KBMiCrIRJcsINBX3H5P29XOEAxQ1Y7iENQR63WjC5bJORVcXDPd",
+        "link": "https://drive.google.com/file/d/0B-qwfV7YInAHeXM5OC1nRzZvLXM/view?usp=sharing&resourcekey=0-aDjryq_SQDof7wmYQX_tpA",
         "tags": "DUB",
         "n": 0
     },
@@ -6691,8 +6691,8 @@ filmes = [
         "t": "AU PAIR 3 ADVENTURE IN PARADISE",
         "c": "https://image.tmdb.org/t/p/w500/1qpY1O4eUWesxO7z6ZF5P4SiKkq.jpg",
         "a": "2009",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B983o6iRCChqU01lajFHQXY5bzQ&dsh=S1480233536%3A1774901400594436&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B983o6iRCChqU01lajFHQXY5bzQ&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V5FcgSSbmbZnNzppjmTQ_P6Z3TnVZ7jxFPBadfw2QNmzIzRxKT3uG5zxJNplXVu3BgbZNw7g",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B983o6iRCChqU01lajFHQXY5bzQ/view?usp=sharing&resourcekey=0-lRwmR15ylunEzQwbQz86LA",
+        "tags": "SEM LEG",
         "n": 0
     },
     {

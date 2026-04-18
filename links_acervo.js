@@ -5841,9 +5841,9 @@ filmes = [
     },
     {
         "t": "AMOR INCONDICIONAL",
-        "c": "https://image.tmdb.org/t/p/w500/cC07GVBXzNpMhgAASsXjgVYIwot.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cC07GVBXzNpMhgAASsXjgVYIwot.jpg",
         "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0GlGy_xOBgrOWJfdUs4WFRMM00%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774900428517059&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0GlGy_xOBgrOWJfdUs4WFRMM00%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Vn5b34bAXY3iGW7td1e374829G67CTZ_eHWnLyt5YzZZcPo6v-Kvn_0q_gi79BrdfWyxbZdw",
+        "link": "https://drive.google.com/file/d/0B0GlGy_xOBgrOWJfdUs4WFRMM00/view?usp=sharing&resourcekey=0-eZxnOmTeyCugrzrfyrgcug",
         "tags": "DUB",
         "n": 0
     },
@@ -6091,7 +6091,7 @@ filmes = [
         "t": "ANGELIQUE",
         "c": "https://image.tmdb.org/t/p/w500/cma4LpfIUmdKHfRVMr6BjLOhzeM.jpg",
         "a": "2013",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6YDeOkBf2TUdnRDejMwWTA1MFU%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774900683221523&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6YDeOkBf2TUdnRDejMwWTA1MFU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Ux0T_ntVnG6vueTldWuIR-eIXs7AD4tklBAuXf0p2ejRmZFJaEX4ydO2oH-F8pfrI-lUSDdg",
+        "link": "https://drive.google.com/file/d/0B6YDeOkBf2TUdnRDejMwWTA1MFU/view?usp=sharing&resourcekey=0-y0gyVAWgoU77uge7CV3-lQ",
         "tags": "DUB",
         "n": 0
     },
@@ -6211,7 +6211,7 @@ filmes = [
         "t": "AO MESTRE COM CARINHO",
         "c": "https://image.tmdb.org/t/p/w500/hkbKK59BKH4HFf4e0OvOyGuWmu8.jpg",
         "a": "1967",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwX7_ZsOyJ1EVl9rbHdUOVh0SFU%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774900708030191&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwX7_ZsOyJ1EVl9rbHdUOVh0SFU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_U5skyBFPhyk6Pzv2-xDWQ0xvRKBMGdJ1iDog2nnsIfKfIGrsy9N4gqC_7ipO2nVZR1gOBj",
+        "link": "https://drive.google.com/file/d/0BwX7_ZsOyJ1EVl9rbHdUOVh0SFU/view?usp=sharing&resourcekey=0-M5ZlrEIm1XbebCp5UdljBw",
         "tags": "DUB",
         "n": 0
     },
@@ -6234,9 +6234,9 @@ filmes = [
     {
         "t": "APENAS UMA VEZ",
         "c": "https://image.tmdb.org/t/p/w500/5ZDrayRg7RGcJvsJJOOzKaJ6rKQ.jpg",
-        "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwX7_ZsOyJ1EbHJ1QmQwRGhwNTA%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774900714824967&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwX7_ZsOyJ1EbHJ1QmQwRGhwNTA%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_X_4XaMXzcByRx_B6Tlh0XEKa_hQKUStZwwrcLMu-wJNTF4z2rRC0wu6WxezjO9rjwyKfg",
-        "tags": "DUB",
+        "a": "2006",
+        "link": "https://drive.google.com/file/d/0BwX7_ZsOyJ1EbHJ1QmQwRGhwNTA/view?usp=sharing&resourcekey=0-tiLQuzuOXXM9Lodd_WU04A",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -6259,7 +6259,7 @@ filmes = [
         "t": "AQUAMARINE",
         "c": "https://image.tmdb.org/t/p/w500/ygaNIj6w1BWOeMFcgRBw9q168RG.jpg",
         "a": "2006",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B8S56XOJY1VgZTgwa3pONmlwYkU%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774900720176993&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B8S56XOJY1VgZTgwa3pONmlwYkU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UbckmZwi8Axf0MeISOMtleClT0oShPbdJsmig7i0UxWE_T8mlIpn6zzBLsouURxSIHk-rX7w",
+        "link": "https://drive.google.com/file/d/0B8S56XOJY1VgZTgwa3pONmlwYkU/view?pli=1&resourcekey=0-C_jPlPmpAjXhQNfzqDrftA",
         "tags": "DUB",
         "n": 0
     },
@@ -6291,7 +6291,7 @@ filmes = [
         "t": "ARIZONA NUNCA MAIS",
         "c": "https://image.tmdb.org/t/p/w500/jasrpGKeMk19uOYBqlqF0aG8AGn.jpg",
         "a": "1987",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4sY-WeS-_Q-clQ4akhxWlRIZEk%2Fview%3Fusp%3Dsharing&dsh=S-1959460126%3A1774900726559951&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4sY-WeS-_Q-clQ4akhxWlRIZEk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WxyHWRd4ehehAoVwKGjLE5aJJfRw-C53m2yF5veiYDFkR-2lsKsI0j8E23aKrA96L7NdvSPw",
+        "link": "https://drive.google.com/file/d/0B4sY-WeS-_Q-clQ4akhxWlRIZEk/view?usp=sharing&resourcekey=0-9VtfQaQlSbx9xVML-rKmiQ",
         "tags": "DUB",
         "n": 0
     },

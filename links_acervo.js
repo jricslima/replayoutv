@@ -5920,15 +5920,15 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AMOR SEM FIM (",
-        "c": "https://image.tmdb.org/t/p/w500/slvVVYVxiKQ5rVKPIrFczozdomF.jpg",
-        "a": "2014",
+        "t": "AMOR SEM FIM",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/wqc2HgnOnw1rs6HVeY6839io8ny.jpg",
+        "a": "1981",
         "link": "https://drive.google.com/file/d/1cFVfISOoaKXtAGW5K7lNTjat_C4RnSmO/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "AMOR SEM FIM (",
+        "t": "AMOR SEM FIM",
         "c": "https://image.tmdb.org/t/p/w500/slvVVYVxiKQ5rVKPIrFczozdomF.jpg",
         "a": "2014",
         "link": "https://drive.google.com/file/d/1i92hFnZZPvtEmxBwrPtphuhpErUuZVN1/view?usp=sharing",

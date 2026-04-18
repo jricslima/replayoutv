@@ -7067,7 +7067,7 @@ filmes = [
         "t": "BARBIE E SUAS IRMÃS EM UMA AVENTURA DE CACHORRINHOS",
         "c": "https://image.tmdb.org/t/p/w500/lhRdNP1wx1wnz5aZSHVXmvoTufs.jpg",
         "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6YDeOkBf2TUSE9NSzBFSGJZV3M%2Fview%3Fusp%3Dsharing&dsh=S-1271814163%3A1774901942194145&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6YDeOkBf2TUSE9NSzBFSGJZV3M%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Xyh7ULYr1EcktYjcXGa5ffTQXMLA4Ry2Z0DcgekbZjdWmXdLUlj5vIwFb9P2KTuDt-JtZlrw",
+        "link": "https://drive.google.com/file/d/0B6YDeOkBf2TUSE9NSzBFSGJZV3M/view?pli=1&resourcekey=0-TOrwEzw4XAgWzJFC3ssCug",
         "tags": "DUB",
         "n": 0
     },
@@ -7163,7 +7163,7 @@ filmes = [
         "t": "BEE MOVIE A HISTÓRIA DE UMA ABELHA",
         "c": "https://image.tmdb.org/t/p/w500/puW6ynGLcCowqiYvhPhdbNH8Zzj.jpg",
         "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7BQwCUfXt3rQ0F6bV85cjg0VkE%2Fview%3Fusp%3Dsharing&dsh=S573530077%3A1774902200025834&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7BQwCUfXt3rQ0F6bV85cjg0VkE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V9cDRPZRl-WXz9XAGyL8mmCR-TGVUyTACRQPCuqJuJbblTk8bdRQccJfKOtF1UsAGxc542",
+        "link": "https://drive.google.com/file/d/0B7BQwCUfXt3rQ0F6bV85cjg0VkE/view?usp=sharing&resourcekey=0-9mLLGycT6QFhHVHgwMukqw",
         "tags": "DUB",
         "n": 0
     },
@@ -7184,18 +7184,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "BEHIND ENEMY LINES",
-        "c": "https://image.tmdb.org/t/p/w500/DdqL8MwxTsvDYB4oJ6Izr86lQu.jpg",
-        "a": "2001",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4yAJsaqrigyQkcyMFdrcHBNSHM%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774902205945418&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4yAJsaqrigyQkcyMFdrcHBNSHM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UWpVECBNtN2iJLZ6bN5fwB7eYsbrKJkQsj9lxppxVVkU3yUoxFSX-MTQ0QHx2yKRRb_3dF",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "BELAS E MIMADAS",
         "c": "https://image.tmdb.org/t/p/w500/dqmWcg7NHzlDLAHIWYptFowe0zf.jpg",
         "a": "2006",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B77mza-lJWUyWVQzVDBIOXJoWE0%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774902208392930&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B77mza-lJWUyWVQzVDBIOXJoWE0%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_U_-wI8VUx3DtFz8ko6QeKuuRX9gK-EerH6FBhoW6Pm2mzI-hqZ7nYkCuaAYRmsg1YhO5Kkow",
+        "link": "https://drive.google.com/file/d/0B77mza-lJWUyWVQzVDBIOXJoWE0/view?usp=sharing&resourcekey=0-O_6DOB4jaIFGhnaCwA70Fg",
         "tags": "DUB",
         "n": 0
     },

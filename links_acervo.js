@@ -10305,10 +10305,10 @@ filmes = [
     },
     {
         "t": "DE NOVO NATAL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mo13I9sQURkQCkGxbNjMSiUkGsI.jpg",
         "a": "2021",
         "link": "https://drive.google.com/file/d/1YdNGezdnS-bw7EYg6SwwST827nm1sDRp/view?usp=sharing",
-        "tags": "HTTPS://WWW.THEMOVIEDB.ORG/T/P/W600_AND_H900_FACE/MO13I9SQURKQCKGXBNJMSIUKGSI.JPG",
+        "tags": "DUB",
         "n": 1
     },
     {

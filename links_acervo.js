@@ -10353,8 +10353,8 @@ filmes = [
     },
     {
         "t": "DE REPENTE É AMOR",
-        "c": "https://image.tmdb.org/t/p/w500/tapstDw4Wi0VJwUIBV1CczvK3M4.jpg",
-        "a": "2005",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/p8DBnMb9k5vpywy3n7sMpKnbV5X.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1mHVQN9kzbZP29ptn5FbEaZDcaCnsxH2_/view?usp=sharing",
         "tags": "DUB",
         "n": 0

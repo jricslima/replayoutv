@@ -10251,7 +10251,7 @@ filmes = [
         "t": "DA MAGIA À SEDUÇÃO",
         "c": "https://image.tmdb.org/t/p/w500/A8sD1vfkDOPLhIpNU9dqtpx4AZc.jpg",
         "a": "1998",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1b41N9wDOlQanR1c2JsNzdDX2s%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774904171541474&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1b41N9wDOlQanR1c2JsNzdDX2s%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XNAMYSowz3PHR1-QjIoyUrFmHxUhL52ii-xYeiQWK61m_0bOdS9h0UM0WxxpJ5sXvI2peVtw",
+        "link": "https://drive.google.com/file/d/0B1b41N9wDOlQanR1c2JsNzdDX2s/view?usp=sharing&resourcekey=0-9bl39FSJcKJmQ5QnaTSOHQ",
         "tags": "DUB",
         "n": 0
     },
@@ -10267,7 +10267,7 @@ filmes = [
         "t": "DANÇA COM LOBOS",
         "c": "https://image.tmdb.org/t/p/w500/uWsXlrzsHKCwI2fPrrpW0QFwjMZ.jpg",
         "a": "1990",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwGtuf4LwftScXNLbXpTcjk0cFU%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774904177215430&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwGtuf4LwftScXNLbXpTcjk0cFU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WxDI2aOiPmf5-_sttSA3b32fg8tQopM0JbLVmDiqWBHHpTDKcW72SNHPxyU1_sLWlXuoUH",
+        "link": "https://drive.google.com/file/d/0BwGtuf4LwftScXNLbXpTcjk0cFU/view?usp=sharing&resourcekey=0-7MFTxsdaa6LjTpEhmDdCHA",
         "tags": "DUB",
         "n": 0
     },
@@ -10275,7 +10275,7 @@ filmes = [
         "t": "DANÇANDO NO ESCURO",
         "c": "https://image.tmdb.org/t/p/w500/uQvZJngcelbZLiROMwmNMkarlzB.jpg",
         "a": "2000",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3UQWxpf80TocFlra1RwOFl6TWs%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774904181092489&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3UQWxpf80TocFlra1RwOFl6TWs%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XK6ibfOVXHeswIMJCC7K8hW8E1feGrNlurdE7V0K2cNa85HjUxUztUUyZ2OxwKSSwPR0IE",
+        "link": "https://drive.google.com/file/d/0B3UQWxpf80TocFlra1RwOFl6TWs/view?usp=sharing&resourcekey=0-fZ7xOVwTJ7zGmfJIlZpWOw",
         "tags": "DUB",
         "n": 0
     },
@@ -10515,7 +10515,7 @@ filmes = [
         "t": "DEIXE ME ENTRAR",
         "c": "https://image.tmdb.org/t/p/w500/bbnagLfiFfkwJrWdK1N4H8bF8aO.jpg",
         "a": "2010",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4yAJsaqrigyMUJ3RktaRUs4UFE%2Fview%3Fusp%3Dsharing&dsh=S-284366117%3A1774904226543312&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4yAJsaqrigyMUJ3RktaRUs4UFE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V6R_U19r5QV16s506Ns8QfzUcK3JiT2m9qC4ZXa106NluOX0RaXl_Ya_t4m2feVdGMa_xn7g",
+        "link": "https://drive.google.com/file/d/0B4yAJsaqrigyMUJ3RktaRUs4UFE/view?resourcekey=0-zjXn0E00_cWR3bhcGTju8A",
         "tags": "DUB",
         "n": 0
     },
@@ -10603,7 +10603,7 @@ filmes = [
         "t": "DESCONECTADOS",
         "c": "https://image.tmdb.org/t/p/w500/8Wad2HeJg4Y67dFRGC6oGKqLJWO.jpg",
         "a": "2022",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3avdMUAzo8sRFp5bkNxLTJndWM%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774904301711277&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3avdMUAzo8sRFp5bkNxLTJndWM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VYSEkhJTiMVuIcyDzGD3gdnKPHyQBR2bbvonTqtpg76r9TQjUmlj38YdDg8OwDQinYwPFpew",
+        "link": "https://drive.google.com/file/d/0B3avdMUAzo8sRFp5bkNxLTJndWM/view?usp=sharing&resourcekey=0-iI1y-9PAXMSr_wLnHanbuQ",
         "tags": "DUB",
         "n": 0
     },
@@ -10618,8 +10618,8 @@ filmes = [
     {
         "t": "DESEJO E ESPERANÇA",
         "c": "https://image.tmdb.org/t/p/w500/aZtI4q8304FblTVO1LtSexpGkQI.jpg",
-        "a": "",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bzbyf3Pzam0ZNUZVTEpBOWxzVFE%2Fview%3Fusp%3Dsharing&dsh=S-1271814163%3A1774904305297788&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bzbyf3Pzam0ZNUZVTEpBOWxzVFE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XegInDpgns-LUaI5Hm1JeB0L4_qY6o32aUxEQZSlLe5fHaItxhQiA4-au_bW_9DF_kOWnBWA",
+        "a": "2014",
+        "link": "https://drive.google.com/file/d/0Bzbyf3Pzam0ZNUZVTEpBOWxzVFE/view?usp=sharing&resourcekey=0-2VKPTAymea4p9HC7ZvGBow",
         "tags": "DUB",
         "n": 0
     },
@@ -10723,8 +10723,8 @@ filmes = [
         "t": "DEUS PERDOA, EU NÃO",
         "c": "https://image.tmdb.org/t/p/w500/ruPLKOGSim2i3KHO0pUHb64QChN.jpg",
         "a": "1967",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B67Su-96pCjZaVc5Y1BFWjdiSk0%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774904323044864&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B67Su-96pCjZaVc5Y1BFWjdiSk0%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Vs0qE15BRe8cSqub3sApmONKbqd6Wu-f_rVbY9a5s7mhxxJAnnRZBfYYQ75CErex5qI5bp",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1mGNQuC-sCXpFnjViiqVKYfKjMSCHi4JP/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -10739,8 +10739,8 @@ filmes = [
         "t": "DIA DAS BRUXINHAS FEITIÇO DAS GÊMEAS",
         "c": "https://image.tmdb.org/t/p/w500/3nMrq5z9b8pADKGop7aAFk0DUtP.jpg",
         "a": "1993",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BxGPV1cw10iea1NVVUxPWU5sMXM%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774904327176415&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BxGPV1cw10iea1NVVUxPWU5sMXM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VXSoaWXSXQphDR_yYP4sUqFCV1o6wTkoF9u93H1GKV6g6AIOzoHD1AzftBlVlyQL8Fk8E46A",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0BxGPV1cw10iea1NVVUxPWU5sMXM/view?resourcekey=0-WtygADUeg0FXlm0hsBqPeQ",
+        "tags": "LEG",
         "n": 0
     },
     {

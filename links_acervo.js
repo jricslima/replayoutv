@@ -19,8 +19,8 @@ filmes = [
         "t": "007 CONTRA O SATÂNICO DR. NO",
         "c": "https://image.tmdb.org/t/p/w500/hO3fOAHnmhMkB3NuBzxlsKesrCR.jpg",
         "a": "1962",
-        "link": "https://drive.google.com/file/d/1rV2L4sWrzKPp",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1rV2L4sWrzKPpD0pTNHjdLjx2Na3Rfkes/view",
+        "tags": "DUAL",
         "n": 0
     },
     {

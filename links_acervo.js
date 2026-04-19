@@ -7465,8 +7465,8 @@ filmes = [
     },
     {
         "t": "COMO SE APAIXONAR NO NATAL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/IGcAAhIggmT5ilLJewh5bTYlMe.jpg",
+        "a": "2024",
         "link": "https://drive.google.com/file/d/12TQXW2ZutuAJjUKlvolzSUeBMBfMnBOW/view?usp=sharing",
         "tags": "DUB",
         "n": 1
@@ -7656,9 +7656,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CÓDIGO DE HONRA RAGE AND HONOR ASS ISTI R /",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "CÓDIGO DE HONRA RAGE AND HONOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hzv8NrWUrVLkkXcWHAwhw7wnrXB.jpg",
+        "a": "1992",
         "link": "https://drive.google.com/file/d/1t4oD9XFX5z3usXdIynRU52r-7RolVKPh/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -7849,8 +7849,8 @@ filmes = [
     },
     {
         "t": "CONSEQUÊNCIAS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "2009",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/u92tB5bowfcEynSpAWOQ4OTbmd1.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/1aDMABuflmzDEzQVBAYiaJImz1wtPRPnL/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -8288,9 +8288,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CAMINHOS DO CORAÇÃO DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "CAMINHOS DO CORAÇÃO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7sAH7A1yz5tORFg9W5wTKwwwvxK.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/1m_qthaBQSC0a0ll87dbXf4MJOk0DF_8U/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -8304,9 +8304,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CAN'T BUY MY LOVE AMOR NÃO TEM PREÇO MP4 LEGENDADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "CAN'T BUY MY LOVE AMOR NÃO TEM PREÇO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pS5sUhDvNp7EJXuYLvI8SKQ0eWA.jpg",
+        "a": "2017",
         "link": "https://drive.google.com/file/d/15KSyLruwSMTUcNW2yJ3qsH3EoiHOn7Cm/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -8496,9 +8496,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CASAMENTO GREGO 3 MY BIG FAT GREEK WEDDING 3 MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "CASAMENTO GREGO 3 MY BIG FAT GREEK WEDDING 3",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hVmsjW1QEIJ8ixG0H6ymqBqaxEc.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/16_Ruap1NMVsTgcJbBjhsbmckzN0LbU5H/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -8520,17 +8520,17 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CASAMENTO REAL MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "CASAMENTO REAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9Vv5U02ucLAONPR9FNPRdLqVXTm.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/1VgCFw-K8SCoWV2UU3L2VYtWZXKAk59Jh/view",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "CASAMENTO SANGRENTO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "CASAMENTO SANGRENTO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vWMXRFvpxxs5p0IKZdqWph10jIn.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/1p_X2EhYUbEfIZkmcHuI9d6iTLUgl1jED/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -8545,16 +8545,16 @@ filmes = [
     },
     {
         "t": "CASE SE COMIGO MARRY ME PARTE 1",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/qc1RrwXA5xjFE8kPRrRLRVYWhDI.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/1Qjx9trDzycJtO4HS9rUefgPc8R3s7I5Z/edit",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "CASE SE COMIGO MARRY ME PARTE 2",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/qc1RrwXA5xjFE8kPRrRLRVYWhDI.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/1jXnIXa4vV_FdS0RK2m1KNPkRSVqaKMjQ/edit",
         "tags": "DUB",
         "n": 0
@@ -8624,10 +8624,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CHANTAL <A HREF=\"",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/file/d/1sdv3lvLNJAfhw5bd7aXSNynwcyG7laCw",
+        "t": "CHANTAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/wnC8mYDqzB5KNSV8agvb0bSJVyk.jpg",
+        "a": "2007",
+        "link": "https://drive.google.com/file/d/1sdv3lvLNJAfhw5bd7aXSNynwcyG7laCw/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -8745,8 +8745,8 @@ filmes = [
     },
     {
         "t": "CHRISTMAS BY CHANCE NATAL POR ACASO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9ttkCRs3uV9cDOJDv5DJrcIHzic.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1TiU9Cxepg9LD32LnZy9VNtDqGS24kC5p/view?usp=sharing",
         "tags": "LEG",
         "n": 1
@@ -8768,9 +8768,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CHRISTMAS CEO MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "CHRISTMAS CEO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/sEr64YRNev9EW7YIyUqpcxK8Z9T.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1iNCxF8yub9lHaXrmtyn2VGnAo6OjmsGk/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -8841,8 +8841,8 @@ filmes = [
     },
     {
         "t": "CHRISTMAS IN WASHINGTON",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "1984",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/yPIqthDbUOGgIZgmVU2ri2h6dCB.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1_yRE_E_bLzBwdZyqHiAU088zhfdKw0KG/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -9136,9 +9136,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "COLORS OF LOVE CORES DO AMOR LEGENDADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "COLORS OF LOVE CORES DO AMOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jMsJanDCFJLPloxURLPOSMOTPT8.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1RCRwVkInsQGOijqLEANQWHGqwEJCcHXa/view",
         "tags": "LEG",
         "n": 0
@@ -9200,9 +9200,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "COMBINAÇÃO PERFEITA MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "COMBINAÇÃO PERFEITA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xBdOs8RqlOAhhgVuqvDDCv4xzsU.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1by3B4F1e73ASEZMmwR9TtL1dcHTEx9zy/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -9256,9 +9256,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "COMO CASAR COM UM MILIONÁRIO MKV (RF) / MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "COMO CASAR COM UM MILIONÁRIO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/s3n3swgSLQzTZSZsnUueQBBnvTy.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/13Dz_KuBMV6Mwsb5hsvlOWARBvkWC_5aS/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -9353,8 +9353,8 @@ filmes = [
     },
     {
         "t": "CONFIRMADO ALIENÍGENAS ESTÃO ENTRE NÓS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://media.fstatic.com/udqWTRN0Nh0luZhnw7WXStD7e5Q=/322x478/smart/filters:format(webp)/media/movies/covers/2010/11/e0fe8c36874ded711b5e06d8be4d83d5.jpg",
+        "a": "1999",
         "link": "https://drive.google.com/file/d/1Q-dd2oD0TO_LElvzKe-UEOLlXmj258Uv/view?usp=drive_open",
         "tags": "LEG",
         "n": 0
@@ -9464,9 +9464,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CONTINÊNCIA DO AMOR MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "CONTINÊNCIA DO AMOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ncBNV5G7EBLPK2X6cO55krYrPRw.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1-OUqhNOcup2R_RAa6a1CFPkSZoN9oap2/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -9568,9 +9568,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CORPO INDECENTE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "CORPO INDECENTE BODY OF INFLUENCE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/b6rMLugMP6WAHNqdTNBcLoxyNhp.jpg",
+        "a": "1993",
         "link": "https://drive.google.com/file/d/1oSOXh8YdTe07rao4p73AF4LtTY3bwJY6/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -9617,8 +9617,8 @@ filmes = [
     },
     {
         "t": "CRASHING THROUGHT THE SNOW",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/4biEo7gMRiDP50efRtc8Hft6zys.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1_qgcgbVl5GXq6kon53uJl-eic9sOnlKO/edit",
         "tags": "LEG",
         "n": 0
@@ -9656,9 +9656,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CROWN PRINCE OF CHRISTMAS MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "CROWN PRINCE OF CHRISTMAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/4mLIqKkEksm5MnVe70CJPSjpE0u.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1AtcaI1MQFtif7TFZM1ttfWvEZsrz2D9F/view?usp=sharing",
         "tags": "LEG",
         "n": 0

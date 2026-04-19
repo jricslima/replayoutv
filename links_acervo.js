@@ -8211,7 +8211,7 @@ filmes = [
         "t": "C.R.A.Z.Y LOUCOS DE AMOR",
         "c": "https://image.tmdb.org/t/p/w500/whVgPVCyxJPGnkbIG7zwwkAr2N.jpg",
         "a": "2005",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kPyGMOyAFWcGhkRW1fVG1GWGM%2Fview%3Fusp%3Dsharing&dsh=S1394476296%3A1774902793362274&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kPyGMOyAFWcGhkRW1fVG1GWGM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VH7HCOML4a1WsA7SBrjGDnXYULQ2bx2_WoRlivIuhJqiGrhGCTBq--Z-cwAPIal2WNVpFLBg",
+        "link": "https://drive.google.com/file/d/0B3kPyGMOyAFWcGhkRW1fVG1GWGM/view?resourcekey=0--gdMBZhrJiQOqrT9cL1Sdg",
         "tags": "DUB",
         "n": 0
     },
@@ -8235,7 +8235,7 @@ filmes = [
         "t": "CAÇADORES DE TRÓIA",
         "c": "https://image.tmdb.org/t/p/w500/9ZO3UpUMgVKTB1DSVxvcLUOX5T6.jpg",
         "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_uWXG5HJ_B5dkZJeDlxVklsbVU%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774902800144861&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_uWXG5HJ_B5dkZJeDlxVklsbVU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V4fuMjBuqHPOaI_7AoTV_NBKSLqmdOkWBqDVu-JsehWU_JpZy2kKw9KCZ1p0i9ggvI5DZcTg",
+        "link": "https://drive.google.com/file/d/0B_uWXG5HJ_B5dkZJeDlxVklsbVU/view?usp=sharing&resourcekey=0-vj2EdnjLwYfTsgicw5pvNg",
         "tags": "DUB",
         "n": 0
     },
@@ -8267,7 +8267,7 @@ filmes = [
         "t": "CALCULO MORTAL",
         "c": "https://image.tmdb.org/t/p/w500/pGNzvmkpRtRJe1NwPYtA3vz7MKl.jpg",
         "a": "2002",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4sY-WeS-_Q-T2x0OUF0MEs5YkE%2Fview%3Fusp%3Dsharing&dsh=S573530077%3A1774903064606001&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4sY-WeS-_Q-T2x0OUF0MEs5YkE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VEx-SSGkBv33Ud-pof2Ux4FwUhPbzOK9VchMkJz2bTwl2nkA4GwsCaPv7gIzt_UfvmVjOBYw",
+        "link": "https://drive.google.com/file/d/0B4sY-WeS-_Q-T2x0OUF0MEs5YkE/view?usp=sharing&resourcekey=0-1OMD72Y1rbn6h5g8YLXTGQ",
         "tags": "DUB",
         "n": 0
     },
@@ -8299,8 +8299,8 @@ filmes = [
         "t": "CAMP X RAY",
         "c": "https://image.tmdb.org/t/p/w500/eKtW2VY2dil9fTTWuLlkCyD1Nkf.jpg",
         "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6NwfoA3BzMMOGpFd2cwNVQtbkE%2Fview%3Fusp%3Dsharing&dsh=S-1758961639%3A1774903071203550&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6NwfoA3BzMMOGpFd2cwNVQtbkE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XgHD8fC1FAIqbqWa9x7u2zvBHEO_hlEE3-jP8nDL0Qzo9Xq8oGR03tMRaRZbbPRz5D0Qw1dg",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B6NwfoA3BzMMOGpFd2cwNVQtbkE/view?usp=sharing&resourcekey=0-BMOZa1j8OHpJQvLt1IEqkw",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -8315,8 +8315,8 @@ filmes = [
         "t": "CANADIAN BACON",
         "c": "https://image.tmdb.org/t/p/w500/bzK2aQ8xUB67kwCR5LHTSY99HtT.jpg",
         "a": "1995",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5JBvcxRbgWkWV9FelM5bVE2dDQ&dsh=S271553589%3A1774903074401253&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5JBvcxRbgWkWV9FelM5bVE2dDQ&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WCGJ7BLxnuZWAUPwO94dbv3UlGHm00h3Hi3CLSHbYuhWGqWJhpNVVQ_33yv_g0SJXu6eVhUQ",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B5JBvcxRbgWkWV9FelM5bVE2dDQ/view?usp=sharing&resourcekey=0-2L6TOqBexvilgTtThWqnQA",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -8379,7 +8379,7 @@ filmes = [
         "t": "CAPITÃO FANTÁSTICO",
         "c": "https://image.tmdb.org/t/p/w500/t4UH0AJql4paQMq4Dlg1gk2tqhk.jpg",
         "a": "2016",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8owNGE9rUjgRnZBWHl1b01uMTQ&dsh=S488483084%3A1774903088016457&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8owNGE9rUjgRnZBWHl1b01uMTQ&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UTLw0scD5MHDZw-lkmNCYIkPKKxZnrGj8pbeDcaannRgGqh3aKt2onaZETKGd62AOUwpMz",
+        "link": "https://drive.google.com/file/d/0B8owNGE9rUjgRnZBWHl1b01uMTQ/view?usp=sharing&resourcekey=0-2TMz8uWEZD793PYbAzCXCg",
         "tags": "DUB",
         "n": 0
     },
@@ -8603,7 +8603,7 @@ filmes = [
         "t": "CAVALO DE GUERRA",
         "c": "https://image.tmdb.org/t/p/w500/8KCu49IhGK5IpqKRO1i2UGLQt6A.jpg",
         "a": "2011",
-        "link": "https://drive.google.com/file/d/1n-uR5Izc0SDQ7if_Ae_E6DqGocL0BAZX/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1j7N3lnOWaL8LQnf53oUifiNZT-b9PP-Y/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -8611,7 +8611,7 @@ filmes = [
         "t": "CHAMADA DE EMERGÊNCIA",
         "c": "https://image.tmdb.org/t/p/w500/nEbXurcoi0u1bp1ZgR4PfXuBpPL.jpg",
         "a": "2013",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B_xnTVaQrPPFdWI2Nm9wXzE1LUk&dsh=S1480233536%3A1774903139581084&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B_xnTVaQrPPFdWI2Nm9wXzE1LUk&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_W1wLq4Qv0rWCht64zgoo57dDPBzZWfRBmB7Wxg91ELw8XDCKbngU3uPAfCdCcv8A1e35HXFg",
+        "link": "https://drive.google.com/file/d/0B0_f2IPi6T-0bW1HN1RDMkM1ZXM/view?usp=sharing&resourcekey=0-kNzhd125iZMjkfP0-CLVHg",
         "tags": "DUB",
         "n": 0
     },
@@ -8635,7 +8635,7 @@ filmes = [
         "t": "CHAPPIE",
         "c": "https://image.tmdb.org/t/p/w500/cg93jYwHiDVkesAkllPfeiO6brm.jpg",
         "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6k5ch7SyQ-qQ0FWbmV0Z3NUTVk%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774903319794225&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6k5ch7SyQ-qQ0FWbmV0Z3NUTVk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UDKoSMDMrr4XddfYTROQB6KcnTOoYyaNPrUqSws9s7u7saU4eon2NayK04Osq7dpWNysjlcA",
+        "link": "https://drive.google.com/file/d/0B6k5ch7SyQ-qQ0FWbmV0Z3NUTVk/view?usp=sharing&resourcekey=0-T22BtJ5QviYvl0WpwejX7A",
         "tags": "DUB",
         "n": 0
     },
@@ -8675,7 +8675,7 @@ filmes = [
         "t": "CHEN ZHEN A LENDA DOS PUNHOS DE AÇO",
         "c": "https://image.tmdb.org/t/p/w500/anGK386aQicfwSW1wzYUjb4d58R.jpg",
         "a": "2010",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2wpCUNxmdiHM3IteFZtZnJ1cWs%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774903329611054&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2wpCUNxmdiHM3IteFZtZnJ1cWs%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WwqtjE3V5VHGQEcJ8NqG6OGwlgh3ol_3P6pWU4Zu2ucHNfXdCLv7Pqj6C_8WYD6ULLl1p7kA",
+        "link": "https://drive.google.com/file/d/1dwuoW6ORoLOHkaGjqSG1k2aNAi-Jah-R/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -8963,15 +8963,15 @@ filmes = [
         "t": "CIDADES DE PAPEL",
         "c": "https://image.tmdb.org/t/p/w500/4th6QFCdko42nuAVK9yu2d9ikFQ.jpg",
         "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6YDeOkBf2TUT3paR0xVSl9MQVk%2Fview%3Fusp%3Dsharing&dsh=S573530077%3A1774903385373518&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6YDeOkBf2TUT3paR0xVSl9MQVk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VXsyM0t6xU162OtXu9VTsLiQc5DSCWR9KM40CPhm7dJ9SkeK8uw6VuF7YXpE-iLSCcBsv9IQ",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B6YDeOkBf2TUT3paR0xVSl9MQVk/view?usp=sharing&resourcekey=0-HHKJPtXAawScOGSqPtQzOw",
+        "tags": "DUAL",
         "n": 0
     },
     {
         "t": "CINCO ANOS DE NOIVADO",
         "c": "https://image.tmdb.org/t/p/w500/fcUnjgrxu6TpOR2EYBYJPS1B7wm.jpg",
         "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7_EsOEFM1FcRWYwRGdpYXVTTkE%2Fview%3Fusp%3Dsharing&dsh=S573530077%3A1774903387820730&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7_EsOEFM1FcRWYwRGdpYXVTTkE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XeKbZ0bU2HF2Hdv38DNKvV_VsOW37AsyES3N-kLqRgbPLYjR-T3xUN85uhfrKFcnKpO3U75w",
+        "link": "https://drive.google.com/file/d/1ZgvBBF8nuzbAkB_J5i_9pg_n_eXv2OQM/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -9051,8 +9051,8 @@ filmes = [
         "t": "CITY HUNTER O CAÇADOR DE ENCRENCAS",
         "c": "https://image.tmdb.org/t/p/w500/kiI6SZNweOy7R4l02RUwVu6hVfF.jpg",
         "a": "1993",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Byn0M6_OwzFOOWFoQ1hDLWh5X2s%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774903517336131&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Byn0M6_OwzFOOWFoQ1hDLWh5X2s%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UEY2dOist0H17g7tEQGidlcKnYfvALwzlOz-lKXS02cXOXf2lp1zs36HvSCFHu2rxsn0w6tw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0Byn0M6_OwzFOOWFoQ1hDLWh5X2s/view?usp=sharing&resourcekey=0-1uO3ZC1bpy_Oh5nWPP-6jA",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -9081,10 +9081,10 @@ filmes = [
     },
     {
         "t": "CLÍTORIS, PRAZER PROIBIDO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwES4y1skhyQRXVMNklJOGY2RnM%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774903525123046&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwES4y1skhyQRXVMNklJOGY2RnM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V0SAgCYyZAnwiCBFtXDqKPwXS0L4TYh15giTOn46oFbEKQkSCQ61EeA0K4WYDvOtk4631THQ",
-        "tags": "DUB",
+        "c": "https://media.fstatic.com/4Vjk3wO-n1RHcEw2B_SqwwDwO8M=/322x478/smart/filters:format(webp)/media/movies/covers/2016/09/Le_Clitoris_ce_cher_inconnu_1.jpg",
+        "a": "2003",
+        "link": "https://drive.google.com/file/d/0BwES4y1skhyQRXVMNklJOGY2RnM/view?usp=sharing&resourcekey=0-zn_YM5g5qJfa39h0uLLphA",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -9195,7 +9195,7 @@ filmes = [
         "t": "COMBATE MORTAL",
         "c": "https://image.tmdb.org/t/p/w500/sdEVEzJt3bEdGzDtni3wiDYDGnq.jpg",
         "a": "1978",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8sj5gqpTXV5clpFaEEtN0plUG8&dsh=S1345337409%3A1774903555779759&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8sj5gqpTXV5clpFaEEtN0plUG8&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WUVN4LDeQU3BT5JS-hxRIrIk70aYAeeiSI04VrOUwny9-O3Iul5tE5qk6UG4HqlCbd00xFiQ",
+        "link": "https://drive.google.com/file/d/0B8sj5gqpTXV5clpFaEEtN0plUG8/view?usp=sharing&resourcekey=0-4fN8CHOqOFnPLf6vklu4Hg",
         "tags": "DUB",
         "n": 0
     },
@@ -9371,8 +9371,8 @@ filmes = [
         "t": "CONFISSÕES DE UM JOVEM APAIXONADO",
         "c": "https://image.tmdb.org/t/p/w500/kiiYhyJfRmgeDXxX4CSMRbisV9M.jpg",
         "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8sj5gqpTXV5eU1KdV84TEo0Q0U&dsh=S909493217%3A1774903592588628&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8sj5gqpTXV5eU1KdV84TEo0Q0U&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WAOhDM3loMKHYUv7Kw1WtLz1Pxv3iMvXmX5jgrfIC76vpJp_TS73OgrevuYfGZBb2OdmTE8w",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B8sj5gqpTXV5eU1KdV84TEo0Q0U/view?usp=sharing&resourcekey=0-qtqR9WBcT7XFvWK2p39qIA",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -9403,8 +9403,8 @@ filmes = [
         "t": "CONQUISTANDO LONDRES",
         "c": "https://image.tmdb.org/t/p/w500/2wzA0yGuwpoIjduC6OoTXigWtMg.jpg",
         "a": "2001",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9SnN2mtCSl-VFRWNWp1SGhQT1E%2Fview%3Fusp%3Dsharing&dsh=S-1271814163%3A1774903600439130&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9SnN2mtCSl-VFRWNWp1SGhQT1E%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VQiZfsv6YQzs1a_NCjpBwO5idtcMVVtVfxcg7rmKMbwgXWVUbL4rEZYeNEcB4M67pjOlNV4Q",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B9SnN2mtCSl-VFRWNWp1SGhQT1E/view?usp=sharing&resourcekey=0-FWj6UW9frdQMzJcgXYd4Ww",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -9419,8 +9419,8 @@ filmes = [
         "t": "CONSTANTINE",
         "c": "https://image.tmdb.org/t/p/w500/dd4uzgUAbBIiRW7dcY0AcgSWohJ.jpg",
         "a": "2005",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B95hdk-jrbehX2FLUU1rNGc3YXc&dsh=S488483084%3A1774903806471505&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B95hdk-jrbehX2FLUU1rNGc3YXc&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WsVki-AmGCIrJxrGETrMzOkehXVMuP-vTju7DEpFEtKL7Ei6gNhAQlqtG0WlLBDhCgNd-dtQ",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1Ce3q9sN6pIkLYgatEsRtDszFkxMvBbrA/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -9499,7 +9499,7 @@ filmes = [
         "t": "CORAÇÃO DE TINTA",
         "c": "https://image.tmdb.org/t/p/w500/4VxEXnbDUdxOGAqdf5NjpR7WIiP.jpg",
         "a": "2008",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0I7DU1D-U-dTTFUTWRJT3NzeVE%2Fview%3Fusp%3Dsharing&dsh=S-284366117%3A1774903819718128&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0I7DU1D-U-dTTFUTWRJT3NzeVE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UzyEWkK-jLuDApVUKjyc2mr-1ZUbbZxEz3HL5IUxyvyLTno1xIKet-V1rx9pqf6_JncHdZ9A",
+        "link": "https://drive.google.com/file/d/0B0I7DU1D-U-dTTFUTWRJT3NzeVE/view?usp=sharing&resourcekey=0-nga3-o-DqFQfAQTXLEznOg",
         "tags": "DUB",
         "n": 0
     },
@@ -11666,8 +11666,8 @@ filmes = [
     {
         "t": "EIN FREUND VON MIR (UM AMIGO MEU)",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gdt7uSDGtUD18p5HUhqSH1Scky6.jpg",
-        "a": "2006",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7BQwCUfXt3rMU1BUEIzaWlzUG8%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774904755793176&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7BQwCUfXt3rMU1BUEIzaWlzUG8%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VkzhcmdSR3TXW-d-2RanfHXnoO5IhXHyR0d_Dt3wyTzi3eHTzNHLFBB61uo_3IgEsKTnldgg",
+        "a": "2009",
+        "link": "https://drive.google.com/file/d/0B7BQwCUfXt3rMU1BUEIzaWlzUG8/view?usp=sharing&resourcekey=0-TzglpJX157TDjPn6egnIlA",
         "tags": "LEG",
         "n": 0
     },

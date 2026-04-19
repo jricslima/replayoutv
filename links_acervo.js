@@ -10984,14 +10984,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "DRIBLANDO O DESTINO",
-        "c": "https://image.tmdb.org/t/p/w500/x2F5wAxjyTNJH2HP4KqrzJMac8y.jpg",
-        "a": "2002",
-        "link": "https://drive.google.com/file/d/1qzyjci5jafLoXCOQYxtbeepEk5TMSPDI/view?usp=drive_open",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
         "t": "DUAS IRMÃS, UMA PAIXÃO",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/aa1Bl3tzuZqw6h9iQyF98VAWBvQ.jpg",
         "a": "2014",
@@ -11009,16 +11001,16 @@ filmes = [
     },
     {
         "t": "DUNA",
-        "c": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
-        "a": "2024",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3QOlGVuY2jeo0lX4XMMsTWkqmUg.jpg",
+        "a": "1984",
         "link": "https://drive.google.com/file/d/14zNfkvGnh8wwWJKv4KHO7sI0HUx_hAQR/edit",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "DUNA",
-        "c": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
-        "a": "2024",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1qYncyOnIsYYqCcMirFKdMBhT3WnMXkDj/edit",
         "tags": "DUB",
         "n": 0

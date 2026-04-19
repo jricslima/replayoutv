@@ -11875,7 +11875,7 @@ filmes = [
         "t": "EM BUSCA DO VALE ENCANTADO",
         "c": "https://image.tmdb.org/t/p/w500/AgdpO2FE5B1pqOa6e9PPaDeFl3U.jpg",
         "a": "1988",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bx10rH9uV71QVW9vcFV0a0k2cFU%2Fview%3Fusp%3Dsharing&dsh=S1480233536%3A1774904899142085&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bx10rH9uV71QVW9vcFV0a0k2cFU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Un7WKS8VXiqPqABrFobCtbslckvUceRMtkZWSy8rcmYa5ijvXovZEX5rUiDf8uaqAhHRIrUQ",
+        "link": "https://drive.google.com/file/d/0Bx10rH9uV71QVW9vcFV0a0k2cFU/view?usp=sharing&resourcekey=0-3msgiUX_hnM9S9-n80QlDw",
         "tags": "DUB",
         "n": 0
     },

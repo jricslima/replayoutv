@@ -9777,8 +9777,8 @@ filmes = [
     },
     {
         "t": "DISFARCE PERIGOSO O MATADOR THE HITMAN",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gRyEYAGBO4EiqhRS98ORFcCLfiO.jpg",
+        "a": "1991",
         "link": "https://drive.google.com/file/d/1yYZHlA8-Q6WgQUGEUP8ouDpCzoH6Z6MY/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -10281,17 +10281,17 @@ filmes = [
     },
     {
         "t": "DATER'S HANDBOOK THE GUIDE LOVE LESSONS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dfApVxduwspMGVDyYSMN4WjdfsX.jpg",
+        "a": "2016",
         "link": "https://drive.google.com/file/d/1_f98NBtMylqI-57fzgeStebsFAXTBPzR/edit",
         "tags": "LEG",
         "n": 0
     },
     {
-        "t": "DE FÉRIAS PARA O AMOR MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/file/d/1z68g2wvhG5Z_KraWvmj_7gsnNMhQGBlf/view?usp=sharing",
+        "t": "DE FÉRIAS PARA O AMOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/92H1ZRhTMXljh8KA5oI1ZhPe8Gf.jpg",
+        "a": "2021",
+        "link": "https://www.themoviedb.org/t/p/w600_and_h900_face/92H1ZRhTMXljh8KA5oI1ZhPe8Gf.jpg",
         "tags": "DUB",
         "n": 0
     },
@@ -10304,11 +10304,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "DE NOVO NATAL MKV",
+        "t": "DE NOVO NATAL",
         "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1YdNGezdnS-bw7EYg6SwwST827nm1sDRp/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "HTTPS://WWW.THEMOVIEDB.ORG/T/P/W600_AND_H900_FACE/MO13I9SQURKQCKGXBNJMSIUKGSI.JPG",
         "n": 1
     },
     {
@@ -10361,8 +10361,8 @@ filmes = [
     },
     {
         "t": "DE REPENTE GRÁVIDA ENTRE DOIS AMORES PLAYING HOUSE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rWKAGqblRjEBmIavN3VtDpIRl71.jpg",
+        "a": "2006",
         "link": "https://drive.google.com/file/d/1pSqvVCv_KB_N4U0YinhQfpOJA2hcVMRq/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -10424,9 +10424,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "DEAR CHRISTMAS QUERIDO NATAL LEGENDADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "DEAR CHRISTMAS QUERIDO NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5Izo5eJ9aOCd6Ikf0M5sxCzZnNc.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1tqBxeLmBQIU4Thzj61MBFuOWWUVFZt0f/view?usp=sharing",
         "tags": "LEG",
         "n": 1
@@ -10529,10 +10529,10 @@ filmes = [
     },
     {
         "t": "DEMETRIUS E OS GLADIADORES",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/6K1Bt6Jr6uABDArnJjYqupOXioW.jpg",
+        "a": "1954",
         "link": "https://drive.google.com/file/d/0B3OiC2I-r5n-SW93NkhLSDlfb28/view?usp=sharing&amp;resourcekey=0-y5WRvfA2CQ4mErqNXJUNRQ",
-        "tags": "DUB",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -10560,9 +10560,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "DEPOIS DO UNIVERSO NACIONAL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "DEPOIS DO UNIVERSO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1JBrSIMUxnyop_WadsMeDUfhqZBKxSoZT/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -10640,9 +10640,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "DESFILE DE CORAÇÕES MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "DESFILE DE CORAÇÕES",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/A48bE3SKZKdaEXYXgOM9jYusp4I.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1z76OisqRUXNRrU-C1w-UJ9NOmawya0Cu/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -10664,9 +10664,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "DESTINOS TRAÇADOS MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "DESTINOS TRAÇADOS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xfxdIBdNHhPhIVCWWDVfzsKG03Y.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1eG3Bci5XIF_7NTvyxGslc8MUsIZDzWtt/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -10745,8 +10745,8 @@ filmes = [
     },
     {
         "t": "DIA DE CASAMENTO 1",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/6yELZWmnvcfKkTjWyNv06076J6D.jpg",
+        "a": "2016",
         "link": "https://drive.google.com/file/d/199TWylPpTKkPkF1q1lf-RRrAbv5SK7aU/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -10781,14 +10781,6 @@ filmes = [
         "a": "2019",
         "link": "https://drive.google.com/file/d/1wsSWHIkLWtey3K9us0TEaEzIxzPaG7eO/view?usp=sharing",
         "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "DIA DE CASAMENTO 6",
-        "c": "https://image.tmdb.org/t/p/w500/2MwTmrsD4RPF9Eu7w9dgZaXupjr.jpg",
-        "a": "2021",
-        "link": "https://drive.google.com/file/d/1EHiDLAZnpa7a1oG8jCmaaqZiVrFYJ4WG/view?usp=sharing",
-        "tags": "LEG",
         "n": 0
     },
     {
@@ -10912,9 +10904,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "DORMINDO COM O INIMIGO DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "DORMINDO COM O INIMIGO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/h3uUp7kJm4UDrCQ7pRvjcVfOZIy.jpg",
+        "a": "1991",
         "link": "https://drive.google.com/file/d/1AMgWA7yjS_PzJcWNEgVHLbd0smvyGy7S/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -11000,9 +10992,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "DUAS IRMÃS, UMA PAIXÃO MP4 / MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "DUAS IRMÃS, UMA PAIXÃO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/aa1Bl3tzuZqw6h9iQyF98VAWBvQ.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/12DZT8zOMgaiFZW3pf5K-ENkhWUgs5HpQ/view?usp=sharing",
         "tags": "DUB",
         "n": 0

@@ -1817,8 +1817,8 @@ filmes = [
     },
     {
         "t": "ARMAGEDON",
-        "c": "https://image.tmdb.org/t/p/w500/cXCWqtb7oRtkQfpxjdPS4G2c3RR.jpg",
-        "a": "1989",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/uSS6G9K14Qe6Ywh4IMkgjQBM3a3.jpg",
+        "a": "1998",
         "link": "https://drive.google.com/file/d/1RuUpDUairA5Ql5U32o5slwu4brD8YqbQ/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -5057,8 +5057,8 @@ filmes = [
     },
     {
         "t": "A VIRADA",
-        "c": "https://image.tmdb.org/t/p/w500/15hzyOCCiPbSQkgtUr4sdOJjQwO.jpg",
-        "a": "1996",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gP8SLm29PL31W8Un77BANx0m3Dx.jpg",
+        "a": "2003",
         "link": "https://drive.google.com/file/d/1M5mTWKdbnyn6STACIAVOLPH3hgRr0-nx/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

@@ -1291,8 +1291,8 @@ filmes = [
         "t": "AS TRAPACEIRAS",
         "c": "https://image.tmdb.org/t/p/w500/x0CuE0YQw5knH8GRsG52uENfFW6.jpg",
         "a": "2019",
-        "link": "https://drive.google.com/file/d/1wS7uWXPunXhC6xEwvMTLjvfZgoSVyMkg/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1QKEO5nmir67W4zFZn_49U7HTj7WVvP1-/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

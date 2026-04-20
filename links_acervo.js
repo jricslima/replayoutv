@@ -7857,8 +7857,8 @@ filmes = [
     },
     {
         "t": "CASSINO",
-        "c": "https://image.tmdb.org/t/p/w500/iO4CXhVwgrANZnToW9Cc5zUZU2w.jpg",
-        "a": "2024",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5tch5Gllpawf5triVw4cSsIQHTV.jpg",
+        "a": "1995",
         "link": "https://drive.google.com/file/d/1kUYFyrATAmyQlUn3m71u3Vn2jzkXGQdX/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

@@ -4017,8 +4017,8 @@ filmes = [
     },
     {
         "t": "A ILHA",
-        "c": "https://image.tmdb.org/t/p/w500/n2jOVSDeaJSjrf8OX1s6tiQsDVb.jpg",
-        "a": "1963",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ffEUkHn4uaBSSB23hsX0pJrWRGS.jpg",
+        "a": "2005",
         "link": "https://drive.google.com/file/d/1cePOPAAj0rKDj9ILDl4666ngBoHQAPW6/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

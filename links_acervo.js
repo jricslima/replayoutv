@@ -26314,7 +26314,7 @@ filmes = [
     {
         "t": "SOB A PELE",
         "c": "https://image.tmdb.org/t/p/w500/1OavhhNiy2LPIMkIs25HNI8bdhZ.jpg",
-        "a": "",
+        "a": "2013",
         "link": "https://drive.google.com/file/d/1c5SP_7zrfVW9ynDeu-IrvANSBDtI3YRp/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

@@ -9160,7 +9160,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "COM QUEM SERÁ",
+        "t": "TESTE2",
         "c": "https://image.tmdb.org/t/p/w500/bfWQzMsa9iBD5s8VKDwvDFdTSa3.jpg",
         "a": "2018",
         "link": "https://drive.google.com/file/d/1XkbmfKZHuv-9CGxnnK3aN6EMkUFYPAJL/view?usp=drive_open",
@@ -9529,8 +9529,8 @@ filmes = [
     },
     {
         "t": "CORAJOSOS",
-        "c": "https://image.tmdb.org/t/p/w500/odEZ7CY6TlELZHptwEyNy65XaRg.jpg",
-        "a": "2026",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/idu8n3xLO12u6l2QMxtbCOaF7cU.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1g8Gc1iM6T8A-3CmixuWX1nD_89Lpx6-q/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

@@ -12136,9 +12136,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ESPOSA DE ALUGUEL MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "ESPOSA DE ALUGUEL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1HV2zfrQo1Tn073s0_Gh07CZY3OMi25sv/view?usp=sharing",
         "tags": "DUB",
         "n": 0

@@ -11584,10 +11584,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ECLIPSE MORTAL OPERAÇÃO NERVO DE AÇO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/1HXDUkzxMSkE7qZeDx5MNciTRbsVMKLxd?usp=drive_open",
+        "t": "ECLIPSE TOTAL OPERAÇÃO NERVOS DE AÇO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ajWGxXnrLOAyuCrVGGfH8oFFjey.jpg",
+        "a": "1993",
+        "link": "https://drive.google.com/file/d/1V3gTLvrkmne-Kr4j59w8yZ5IS933XF6Z/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -11640,9 +11640,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "EHRENGARD THE ART OF SEDUCTION MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "EHRENGARD THE ART OF SEDUCTION",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7gXPtMckzLAFOA8V2niy54HqQ4e.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1QWJIXUANqTDDPq86BeavW4ri7SPAWxbO/view?usp=sharing",
         "tags": "LEG",
         "n": 0

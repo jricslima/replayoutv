@@ -7953,8 +7953,8 @@ filmes = [
     },
     {
         "t": "CHANCE DE RECOMEÇAR",
-        "c": "https://image.tmdb.org/t/p/w500/jrQIRVYVEl98jZrZJYCGtTj2ks7.jpg",
-        "a": "2021",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jHbTxcShPyWBu9gI8kh0svJs4cH.jpg",
+        "a": "2012",
         "link": "https://drive.google.com/file/d/16tdVm7NguHnTb06VNnSyHGL7DJ0opps9/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

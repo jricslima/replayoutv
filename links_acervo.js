@@ -12336,9 +12336,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "EXPRESSO DE NATAL LEGENDADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "EXPRESSO DE NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/8e5D2P6bfc3wxtaHWe4J7YLsZuP.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1SFfxZ1BnYHxqn4mnx78EB6ILaU1BOrvQ/view?usp=sharing",
         "tags": "LEG",
         "n": 1

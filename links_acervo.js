@@ -1305,8 +1305,8 @@ filmes = [
     },
     {
         "t": "AVATAR",
-        "c": "https://image.tmdb.org/t/p/w500/9k2zKeUfcKkAz1dGt5MP6dZMm4G.jpg",
-        "a": "2025",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jKKHa8MvDpYh4bf4rAmgC5uNKvR.jpg",
+        "a": "2009",
         "link": "https://drive.google.com/file/d/1iu23mmWFdJkEw5qILO2Dkt_nMlZMIqOE/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

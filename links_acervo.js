@@ -11057,8 +11057,8 @@ filmes = [
     },
     {
         "t": "ELA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "2007",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/yyDGhBY8RYXyXYADeFq1BDxpLkl.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/1G3aaBHp8gyYsXwtzixZz2zu8_ZoPCsLX/view",
         "tags": "DUB",
         "n": 0
@@ -11345,8 +11345,8 @@ filmes = [
     },
     {
         "t": "EMMA KATE BECKINSALE TV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bhxz7QAAFnHInksmaasMntI5Qva.jpg",
+        "a": "1996",
         "link": "https://drive.google.com/file/d/1PSjMDtbryJxnwO4hSORcg3kzMEjULBOu/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -11417,8 +11417,8 @@ filmes = [
     },
     {
         "t": "EM DEFESA DE CRISTO O CASO DE CRISTO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pyxN3LztDtPus5JSOv1HiRHkSco.jpg",
+        "a": "2017",
         "link": "https://drive.google.com/file/d/15IbfY6C99-MZJVQAQ22k6OQ8bdgFiSqf/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

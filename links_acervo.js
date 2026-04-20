@@ -1913,8 +1913,8 @@ filmes = [
     },
     {
         "t": "A REBELIÃO",
-        "c": "https://image.tmdb.org/t/p/w500/o4fCyv6MPiBbI1W9vmmgqallGct.jpg",
-        "a": "2026",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fyE9mKbJ0JSx6K2l77VWVIkmCXa.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/1kldc4JIq92WeQdhv2aE3KFvlNE_iQO9B/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

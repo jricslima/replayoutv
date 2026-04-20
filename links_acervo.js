@@ -29280,9 +29280,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM ASSASSINO ENTRE NÓS LEGENDADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM ASSASSINO ENTRE NÓS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/8chaJ9rXgm5hdC8zJCDZDl4xQRD.jpg",
+        "a": "2012",
         "link": "https://drive.google.com/file/d/1UcfdwBgFB4wUvJ3ZrB2Z9llha0e6ew3C/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -32053,6 +32053,14 @@ filmes = [
         "a": "2012",
         "link": "https://drive.google.com/file/d/1zfu_WWH_IH6WwLNrGw9lTvGAWI_Zj7L0/view?usp=sharing",
         "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "UM ASSASSINO ENTRE NÓS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/8chaJ9rXgm5hdC8zJCDZDl4xQRD.jpg",
+        "a": "2012",
+        "link": "https://drive.google.com/file/d/1d5c6i86MhRf0jpZsGveT-s8Y64bEubOS/view?usp=sharing",
+        "tags": "DUB",
         "n": 0
     }
 ];

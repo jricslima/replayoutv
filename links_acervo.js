@@ -4739,8 +4739,8 @@ filmes = [
         "t": "À PROVA DE FOGO",
         "c": "https://image.tmdb.org/t/p/w500/fX1n097j6l7Y47jtph8Z4SwJkbR.jpg",
         "a": "2008",
-        "link": "https://drive.google.com/file/d/1XNb1EUm8P2ujdNljjw7_tbMb9fmYhFYS/view",
-        "tags": "DUB",
+        "link": "\u001bhttps://drive.google.com/file/d/18jiE28lTJyeaumTzKqAbuE6VihsjsSv7/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

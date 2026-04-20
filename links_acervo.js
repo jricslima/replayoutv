@@ -4305,8 +4305,8 @@ filmes = [
     },
     {
         "t": "A MENINA E O PORQUINHO",
-        "c": "https://image.tmdb.org/t/p/w500/5c8JKbiVLWLKMCNior7bfijRYry.jpg",
-        "a": "2006",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/99VFNWidqSTJWamzBOJflFzeh2I.jpg",
+        "a": "1973",
         "link": "https://drive.google.com/file/d/1uxP7K8Tc7YHicCqtbi2134jesLf8UWCM/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

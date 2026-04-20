@@ -2097,8 +2097,8 @@ filmes = [
     },
     {
         "t": "A SEGUNDA CHANCE",
-        "c": "https://image.tmdb.org/t/p/w500/yC3byha23vhC2GMR139p4W42n36.jpg",
-        "a": "2026",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3F6nnNSYhjqGllblDxTqy2fQzLS.jpg",
+        "a": "2006",
         "link": "https://drive.google.com/file/d/1Ks4TOPNRRHqWtBiqJXqkSa803EvYdwFY/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

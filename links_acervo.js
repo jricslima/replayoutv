@@ -4409,8 +4409,8 @@ filmes = [
     },
     {
         "t": "A MOSCA",
-        "c": "https://image.tmdb.org/t/p/w500/jXNZY2MOkcV51cm1kkUET2EsxwP.jpg",
-        "a": "2017",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gSqhIzGB76RbSFHXTnRXa0pnKmG.jpg",
+        "a": "1986",
         "link": "https://drive.google.com/file/d/13dPmAR7XJn0yAitRQhTKD6qQzMFC9tn4/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

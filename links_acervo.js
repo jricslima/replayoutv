@@ -2009,7 +2009,7 @@ filmes = [
     },
     {
         "t": "A GAROTA MAIS LINDA DO MUNDO",
-        "c": "https://image.tmdb.org/t/p/w500/7lHLzx5w0olArxEY4uxKsjpqkvO.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7lHLzx5w0olArxEY4uxKsjpqkvO.jpg",
         "a": "2025",
         "link": "https://drive.google.com/file/d/1DJFRAw2WsPlbqTwtAEg6ml7uwa5C0n8C/view?usp=sharing",
         "tags": "DUAL",
@@ -2857,8 +2857,8 @@ filmes = [
     },
     {
         "t": "A CABANA",
-        "c": "https://image.tmdb.org/t/p/w500/vjFQRohM0WhGGa8dzJDVBhb5sjk.jpg",
-        "a": "2024",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg",
+        "a": "2017",
         "link": "https://drive.google.com/file/d/1Og_ghC2VZahyImGcomEYLqaZa3OiP12g/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -2905,8 +2905,8 @@ filmes = [
     },
     {
         "t": "A CARGA",
-        "c": "https://image.tmdb.org/t/p/w500/3pU6C8KM4NsUNyVFHD0H86yktpi.jpg",
-        "a": "2024",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2HSReOybjuKNzecbe2IocauIU5A.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/144pYH_xT5uuorL5exyEUpO634c2USMT2/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -2961,8 +2961,8 @@ filmes = [
     },
     {
         "t": "A CHAMADA",
-        "c": "https://image.tmdb.org/t/p/w500/wK3TtT1xoeaXjb0Rn2UA5Df0TU4.jpg",
-        "a": "2021",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/tLONoNwwWSIJfRgsZE9Am7piNLc.jpg",
+        "a": "2009",
         "link": "https://drive.google.com/file/d/1KWy8Kyl4dCe4aaFuU13YuucONYfsfkD-/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -3137,16 +3137,16 @@ filmes = [
     },
     {
         "t": "A COISA",
-        "c": "https://image.tmdb.org/t/p/w500/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg",
-        "a": "2017",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/qZtKQ7AuxQ1FyAbwA7cTy7XNAka.jpg",
+        "a": "1985",
         "link": "https://drive.google.com/file/d/1g3YCeo8BZTJsIe-Qij8H7q9cHEfi0w6j/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
     },
     {
         "t": "A COLÔNIA",
-        "c": "https://image.tmdb.org/t/p/w500/uwrBFoZFCJZHoJdnNcaslSshleL.jpg",
-        "a": "2013",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3iJo11qHvGKInhoB5Ur1PbJeT6h.jpg",
+        "a": "1997",
         "link": "https://drive.google.com/file/d/1HzXTNh_yHx3fxuPMTnxYCTTs3iY15Ihw/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -10432,9 +10432,9 @@ filmes = [
         "n": 1
     },
     {
-        "t": "/",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "DEAR CHRISTMAS QUERIDO NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5Izo5eJ9aOCd6Ikf0M5sxCzZnNc.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1j8ebzR8luBLCFeJypwHIVfH6aBagEqTm/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -16547,7 +16547,7 @@ filmes = [
         "t": "METEORO A FUGA",
         "c": "https://image.tmdb.org/t/p/w500/rwzvwEELD5uWJdJBmbS7h7xc0Wz.jpg",
         "a": "2021",
-        "link": "https://cloud.mail.ru/public/D7n7/2RwRmSnd2",
+        "link": "https://drive.google.com/file/d/13CC4_v6kuewJBEc9qB75PgxA9DCVxF-Y/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -22656,14 +22656,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://replayoutv.comunidades.net/index.php",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "PROCURANDO DORY",
         "c": "https://image.tmdb.org/t/p/w500/5MOyKnmtE2hd778bIybw9v8HkiP.jpg",
         "a": "2016",
@@ -23792,11 +23784,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/file/d/1B6omnhj0I0CNZ7SynV9ansYo4bgtpwxz/view?usp=sharing",
-        "tags": "DUB",
+        "t": "POLO NORTE",
+        "c": "https://image.tmdb.org/t/p/w500/iJBQqFq3jDdHpckoephqIIMlPvf.jpg",
+        "a": "2014",
+        "link": "https://drive.google.com/file/d/1OhY-AIEaWq4AMMUzWHrXme7xXYDOJOtR/view",
+        "tags": "LEG",
         "n": 0
     },
     {

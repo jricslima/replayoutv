@@ -32054,5 +32054,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1d5c6i86MhRf0jpZsGveT-s8Y64bEubOS/view?usp=sharing",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "DE ENCONTRO COM O AMOR",
+        "c": "https://image.tmdb.org/t/p/w500/zAugaFKkGYjM5UwPbt1YitvoWmc.jpg",
+        "a": "2005",
+        "link": "https://drive.google.com/file/d/1PkgEpLLNO_gE56avKvHKAGkGDl03Rkc0/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

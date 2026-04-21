@@ -12393,8 +12393,8 @@ filmes = [
     },
     {
         "t": "FUGA ALUCINADA",
-        "c": "https://image.tmdb.org/t/p/w500/rw1RDOrhKwv6e3eu119PBmkNIkv.jpg",
-        "a": "2002",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9Bno9FCa06yJggegzciyrBOFwCf.jpg",
+        "a": "1974",
         "link": "https://drive.google.com/file/d/1b6NW2475iNaFkDF176YcZrwRCyDeDylP/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -12619,8 +12619,8 @@ filmes = [
         "t": "FELICIDADE PARA PRINCIPIANTES",
         "c": "https://image.tmdb.org/t/p/w500/wkSjGd6wSUl9WnJQIHMnBvlWjDq.jpg",
         "a": "2023",
-        "link": "https://drive.google.com/file/d/1G8lRorpCNBS1DcVdgvrkx_Vu7wqjQ3hv/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1bI6lPF8HKhOXfHU-zT_wF7nlU8T-Hl1u/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

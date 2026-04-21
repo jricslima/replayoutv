@@ -11344,7 +11344,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "EMMA KATE BECKINSALE TV",
+        "t": "EMMA KATE BECKINSALE",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bhxz7QAAFnHInksmaasMntI5Qva.jpg",
         "a": "1996",
         "link": "https://drive.google.com/file/d/1PSjMDtbryJxnwO4hSORcg3kzMEjULBOu/view?usp=sharing",
@@ -11353,8 +11353,8 @@ filmes = [
     },
     {
         "t": "EMMA",
-        "c": "https://image.tmdb.org/t/p/w500/rzVlyZRQQnYe0rDuLrHSnVtDD3j.jpg",
-        "a": "2020",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/aqHbWqRLFgYOCIUtQ3HIO86XMP6.jpg",
+        "a": "1996",
         "link": "https://drive.google.com/file/d/1CpVYmyB0-cFo8iaxndIOdKe16PvF4Rzk/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -11836,14 +11836,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/liJ4HcdAl8oizjZ8maOJ9ddW9Fv.jpg",
         "a": "2022",
         "link": "https://drive.google.com/file/d/1QN7F0nOEj4bP3B71vBLbFR06HlOnzIwv/view",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "EM BUSCA DO BAILE",
-        "c": "https://image.tmdb.org/t/p/w500/8DbX6kHYPQlzwSpO876Be6x5JNO.jpg",
-        "a": "2015",
-        "link": "https://drive.google.com/file/d/1OyrYJ2TUnXLbeTroL7rCeTVKQBLa25sp/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

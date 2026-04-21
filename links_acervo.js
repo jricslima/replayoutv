@@ -9160,14 +9160,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TESTE2",
-        "c": "https://image.tmdb.org/t/p/w500/bfWQzMsa9iBD5s8VKDwvDFdTSa3.jpg",
-        "a": "2018",
-        "link": "https://drive.google.com/file/d/1XkbmfKZHuv-9CGxnnK3aN6EMkUFYPAJL/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "COMANDO DELTA 2 CONEXÃO COLÔMBIA",
         "c": "https://image.tmdb.org/t/p/w500/y2H55f48lM9mYhtq2a5GDA42Fgm.jpg",
         "a": "1990",
@@ -11264,14 +11256,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "É HORA DO SHOW",
-        "c": "https://image.tmdb.org/t/p/w500/wodpfawSQqXQ5mkzF5OOZXwtZvI.jpg",
-        "a": "2002",
-        "link": "https://drive.google.com/file/d/1gHQPImTly13V9Gfif59IAk55QFXlg9fH/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "É TEMPO DO AMAR",
         "c": "https://image.tmdb.org/t/p/w500/6NAbvGZs4rlzatUeBlsggW56esW.jpg",
         "a": "2023",
@@ -12153,8 +12137,8 @@ filmes = [
     },
     {
         "t": "ESQUECERAM DE MIM",
-        "c": "https://image.tmdb.org/t/p/w500/qffLHZU9mU0zqmOISnjir2oDEsR.jpg",
-        "a": "1992",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/6aYqgBePv3s654B7C7WAO6HnCBg.jpg",
+        "a": "1990",
         "link": "https://drive.google.com/file/d/1BFyb6LawhFkzKnzV07BWr9D-iJsTh-gV/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -31533,22 +31517,6 @@ filmes = [
         "a": "2019",
         "link": "https://drive.google.com/file/d/19391SOVE-XidCRF-nA_43-tcw4U64Lqs/view?usp=sharing",
         "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "ERA UMA VEZ UM CASAMENTO",
-        "c": "https://image.tmdb.org/t/p/w500/6AvDenAws6MmF4Y6ZahRINYLbud.jpg",
-        "a": "2017",
-        "link": "https://drive.google.com/file/d/1XKQzg-0SUoP0bS-EB0yihRE5ItfDXc17/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "ESQUECERAM DE MIM 3",
-        "c": "https://image.tmdb.org/t/p/w500/2KFSpBBHbVf4lHiwPL2c8bwbwLJ.jpg",
-        "a": "1997",
-        "link": "https://drive.google.com/file/d/1Kxzu5l9Aurg96PObWj4TiBK1i9aWkqeU/view?usp=sharinghttps://drive.google.com/file/d/1Kxzu5l9Aurg96PObWj4TiBK1i9aWkqeU/view?usp=sharing",
-        "tags": "DUB",
         "n": 0
     },
     {

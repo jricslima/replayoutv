@@ -8360,14 +8360,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CAPITÃO AMÉRICA GUERRA CIVIL",
-        "c": "https://image.tmdb.org/t/p/w500/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg",
-        "a": "2016",
-        "link": "https://drive.google.com/open?id=1LLiu9Lgl6DLrYe2OuVJhjoTw0UJoUuoi",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "CAPITAO AMERICA O PRIMEIRO VINGADOR",
         "c": "https://image.tmdb.org/t/p/w500/19wxfSXHhuJBRbbfUweCsfXFhpv.jpg",
         "a": "2011",
@@ -13088,9 +13080,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "GARRAS DE AÇO",
-        "c": "https://image.tmdb.org/t/p/w500/6H6ILS9abxGOn88MpOnHaPIwZNH.jpg",
-        "a": "1993",
+        "t": "GARRAS DE AÇO FLIGHT OF BLACK ANGEL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/exlx52E7p5jwRYlS33bRJH7L05o.jpg",
+        "a": "1991",
         "link": "https://drive.google.com/file/d/1svB57G4M43wX5Cm_0hVXWAgZAZtN2Kxd/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -13121,8 +13113,8 @@ filmes = [
     },
     {
         "t": "GUERRA CIVIL",
-        "c": "https://image.tmdb.org/t/p/w500/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg",
-        "a": "2016",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg",
+        "a": "2024",
         "link": "https://drive.google.com/file/d/1BmH-HVrobz0HQQ2VzIXWm8vGj9WyA1f-/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -13157,22 +13149,6 @@ filmes = [
         "a": "1978",
         "link": "https://drive.google.com/file/d/0B4J-RYNjMKufQWItemhlaG55RXM/view?usp=sharing&resourcekey=0-3W1p3hvLev9L11PjBnvGzA",
         "tags": "DUAL",
-        "n": 0
-    },
-    {
-        "t": "GALACTICA",
-        "c": "https://image.tmdb.org/t/p/w500/98juEKgC3T4KuYepzIvYVijiLWM.jpg",
-        "a": "2025",
-        "link": "https://drive.google.com/drive/folders/0B5De3LnS2TDAYnNDNkpGWnV6Wk0?resourcekey=0-Jvz-QZWDMaM6o8QT3_nnUw&usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "GALACTICA",
-        "c": "https://image.tmdb.org/t/p/w500/98juEKgC3T4KuYepzIvYVijiLWM.jpg",
-        "a": "2025",
-        "link": "https://drive.google.com/drive/folders/0B0E6dWRRFYg4cm5MQ2VaX2ZBRXc?resourcekey=0-UgBYjSAIW0oh5x_d9BeyKw&usp=sharing",
-        "tags": "DUB",
         "n": 0
     },
     {
@@ -17809,8 +17785,8 @@ filmes = [
     },
     {
         "t": "NATAL NO GLOBO DE NEVE A SNOW GLOBE CHRISTMAS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ynzywv0RDmpQq2N2k6KtugEimHS.jpg",
+        "a": "2013",
         "link": "https://drive.google.com/file/d/1K3pmLgnV78_nLmkSGGPSZM6rVJ_xMgTW/view?usp=sharing",
         "tags": "LEG",
         "n": 1

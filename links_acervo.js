@@ -13313,8 +13313,8 @@ filmes = [
     },
     {
         "t": "GNADE AKA MERCY",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rDlybV21PTVTZlYTm0hdWtOF0Y3.jpg",
+        "a": "2012",
         "link": "https://drive.google.com/file/d/1RmdkjxvtjyvA_ysuaPzNnBw_bj7lQUWb/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -13344,9 +13344,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "GRANDE MENINA, PEQUENA MULHER MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "GRANDE MENINA, PEQUENA MULHER",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/wCAbCoD5qPyMxrzaAl1os9pPjGK.jpg",
+        "a": "2003",
         "link": "https://drive.google.com/file/d/1UzYe9Xas-zskBlEqsewVs3J36Ms3t90m/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -13360,9 +13360,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "GRÁVIDA DE DOIS HOMENS /",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "GRÁVIDA DE DOIS HOMENS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pneCHBDaMnoxxxqlzbEdENR3cjr.jpg",
+        "a": "2016",
         "link": "https://drive.google.com/file/d/1-ZK6X3vUpduVBroiK6kQCekikumQRxR7/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -13400,9 +13400,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "GUIA DE VIAGEM PARA O AMOR MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "GUIA DE VIAGEM PARA O AMOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2nhTfuDkks0MZgx0gncPvz1L59p.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1ip-_UmmMyYUZJPGUAsHduXN_q0mHeZd9/view?usp=sharing",
         "tags": "DUB",
         "n": 0

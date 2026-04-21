@@ -13083,8 +13083,8 @@ filmes = [
         "t": "GARRAS DE AÇO FLIGHT OF BLACK ANGEL",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/exlx52E7p5jwRYlS33bRJH7L05o.jpg",
         "a": "1991",
-        "link": "https://drive.google.com/file/d/1svB57G4M43wX5Cm_0hVXWAgZAZtN2Kxd/view?usp=sharing",
-        "tags": "DUAL",
+        "link": "https://drive.google.com/file/d/19ZSVndgwJQFgQ6y7xp2wQPOG5aIsQ5MT/view",
+        "tags": "DUB",
         "n": 0
     },
     {
@@ -32012,6 +32012,14 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/75YBLsA38KAJfL4D4plgcmquAE1.jpg",
         "a": "2024",
         "link": "https://drive.google.com/file/d/1mpQQpl--O9ho8_Tn7PxSsj9W5DaY9rMN/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "GARRAS DE AÇO",
+        "c": "https://image.tmdb.org/t/p/w500/6H6ILS9abxGOn88MpOnHaPIwZNH.jpg",
+        "a": "1993",
+        "link": "https://drive.google.com/file/d/1I_WrlCdxfCDeDyFKWETR-HzTVeTG940y/view",
         "tags": "DUB",
         "n": 0
     }

@@ -11875,7 +11875,7 @@ filmes = [
         "t": "EM LUTA PELO AMOR",
         "c": "https://image.tmdb.org/t/p/w500/y0afHL3za003973ffGfuKXpikq4.jpg",
         "a": "1998",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5fVDz8aQP37aEhRUXY3YUdSSWc&dsh=S573530077%3A1774904902883429&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5fVDz8aQP37aEhRUXY3YUdSSWc&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WfuMvjDMtn7zRVXIb2cWHro-VkuQWlQlSq_ZIZz0kmYl0rEkp8m-QZWbp202Pl6jyIQu64",
+        "link": "https://drive.google.com/file/d/0B5fVDz8aQP37aEhRUXY3YUdSSWc/view?usp=sharing&resourcekey=0-ev-FNxjavL6d7GrKCdPGFg",
         "tags": "DUB",
         "n": 0
     },

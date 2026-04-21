@@ -11979,8 +11979,8 @@ filmes = [
         "t": "ENROLADOS",
         "c": "https://image.tmdb.org/t/p/w500/wZzVkdnc0kw20lSJc13ZmgTPah3.jpg",
         "a": "2010",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2kdbvIAb9EcY1BUc2RtSEdPeWM%2Fview%3Fusp%3Dsharing&dsh=S271553589%3A1774904921928316&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2kdbvIAb9EcY1BUc2RtSEdPeWM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XnyDS8u8BCndalhS3Mf71-SYl_snH_pJv4A1W5U0bZPQO7JJK73Sl1pF4fOYyZVARptDql",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B2kdbvIAb9EcY1BUc2RtSEdPeWM/view?usp=sharing&resourcekey=0-uUEG7Mk_grNYyPmS-anLyw",
+        "tags": "DUAL",
         "n": 0
     },
     {

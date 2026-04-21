@@ -27208,9 +27208,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TENTAÇÃO PROIBIDA FRANCESCA UM AMOR IMPOSSÍVEL /",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TENTAÇÃO PROIBIDA FRANCESCA UM AMOR IMPOSSÍVEL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dZhxRzIG0B4G6MFbZNcOOGrEaFQ.jpg",
+        "a": "1978",
         "link": "https://drive.google.com/file/d/1A5DEpz-iGmlRY2HaVUCDmPydO7PE7yMz/view?usp=sharing",
         "tags": "DUB",
         "n": 0

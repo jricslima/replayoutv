@@ -11552,11 +11552,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "É CULPA DA ALEGRIA MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "É CULPA DA ALEGRIA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/sp2JMBYeOAPf38zAGSF0cNyEhtW.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/11GMclMi55O1t1yloHwEnHaN88wkpqbYx/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "DUB",
         "n": 0
     },
     {

@@ -12259,8 +12259,8 @@ filmes = [
         "t": "EU SOU O NÚMERO QUATRO",
         "c": "https://image.tmdb.org/t/p/w500/AnKKqP6pRZah0KayZMiT6ifZde4.jpg",
         "a": "2011",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B4Cd9dT1lBbBNGNfN1RNZnlkTzg&dsh=S2083215377%3A1774904982317481&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B4Cd9dT1lBbBNGNfN1RNZnlkTzg&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XG3yX0wcqhSS0xlGk0CsSz1lUjoXlx3tLlnv0oCCGVkA8zlzUN7zgawbSqFzqehQ66-0Of",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B4Cd9dT1lBbBNGNfN1RNZnlkTzg/view?usp=sharing&resourcekey=0-eRe9jD-q-L8yUtQfkD_5gw",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -12291,7 +12291,7 @@ filmes = [
         "t": "EU, VOCÊ, ELE E OS OUTROS",
         "c": "https://image.tmdb.org/t/p/w500/gmo7STsDlHjz3gnUMqHSZbXpBNv.jpg",
         "a": "1984",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3f99Cxl3tXod1E1clloSjBvQnc%2Fview%3Fusp%3Dsharing&dsh=S1345337409%3A1774904990576471&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3f99Cxl3tXod1E1clloSjBvQnc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_X7HKwAKP0CR2sKz_Kw10PKfCCWJUImymV3HKj1P5v4u11pO3_Y9onm3zdgPbOuryOzwmxdNw",
+        "link": "https://drive.google.com/file/d/0B3f99Cxl3tXod1E1clloSjBvQnc/view?resourcekey=0-o58nwm60hdEC-qJq09DW4A",
         "tags": "DUB",
         "n": 0
     },

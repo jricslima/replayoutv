@@ -11819,8 +11819,8 @@ filmes = [
         "t": "ELYSIUM",
         "c": "https://image.tmdb.org/t/p/w500/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg",
         "a": "2013",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IbVJyRXpMYXBuejQ%2Fview%3Fusp%3Dsharing&dsh=S1480233536%3A1774904889174503&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IbVJyRXpMYXBuejQ%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UUQSl8lY51S7oBz4jkKeQf-HFo25nhyawE4Yg1XAUsVyIGhH-3OhImkheYfPy8DDFDJgFBjQ",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B5D1SaJxbV4IbVJyRXpMYXBuejQ/view?resourcekey=0-D6nTPjaM4cDyi_k68LhcZA",
+        "tags": "DUAL",
         "n": 0
     },
     {

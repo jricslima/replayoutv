@@ -12579,7 +12579,7 @@ filmes = [
         "t": "FAZENDA DOS CISNES",
         "c": "https://image.tmdb.org/t/p/w500/6g5XBL6R7ueNFH4SylHjTn7yBkW.jpg",
         "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_BxFSU2_K8AdE0xN3F1X3NueWc%2Fview%3Fusp%3Dsharing&dsh=S-1959460126%3A1774905136122650&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_BxFSU2_K8AdE0xN3F1X3NueWc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VLmUyI-UHTHzYfykER1w52SnuxuX8jXXdLMXQXHEvVLQNdw2gPt5lS9Rx3OYRMuq9FTymK1g",
+        "link": "https://drive.google.com/file/d/0B_BxFSU2_K8AdE0xN3F1X3NueWc/view?usp=sharing&resourcekey=0-0hJdPOTHg522ZT9m6xs3ig",
         "tags": "DUB",
         "n": 0
     },
@@ -12696,10 +12696,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "FILHO DO NOBEL",
+        "t": "O FILHO DO NOBEL",
         "c": "https://image.tmdb.org/t/p/w500/xNpKyKVcnwbRyhnzqGbADX8tlnS.jpg",
         "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7ASGQ1Y0hzalp6T3c%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774905262685361&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7ASGQ1Y0hzalp6T3c%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WE4maRW7Mpe_7XbnqOaZFnHvrUlfNEEBUBNXaUj5FUWSZEaJsUCVAwsX-07-94pyCRkvMJ8w",
+        "link": "https://drive.google.com/file/d/16G60e8xViVIQ35o6PcaV_YOGUN4veA8a/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -12771,8 +12771,8 @@ filmes = [
         "t": "FLIRTING WITH FORTY FLERTANDO AOS 40",
         "c": "https://image.tmdb.org/t/p/w500/nY3OyvqyCUPANbWorAcHdyg7uFn.jpg",
         "a": "2008",
-        "link": "http://bit.do/fShXK",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1P68q1bhRoRbOx6KhmDjQoFHJdiYfcfAm/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -12945,9 +12945,9 @@ filmes = [
     },
     {
         "t": "FUGA ALUCINANTE",
-        "c": "https://image.tmdb.org/t/p/w500/lcZRLBKNv8a4yrEtRt3bvwVFOyw.jpg",
-        "a": "2003",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1NXA7QKT8BcSXluRUZ6ZGIxSFE%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774905331646795&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1NXA7QKT8BcSXluRUZ6ZGIxSFE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XCerT8FC-Zlpnh1WmRXooVbKHsQV1bFKlq9iPjvo6Bvwv2cbM8y_e4Ngq60SaOo-Hr0yQvqg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hV0f361rrsoN3SoP33itdj36tSa.jpg",
+        "a": "2011",
+        "link": "https://drive.google.com/file/d/0B1NXA7QKT8BcSXluRUZ6ZGIxSFE/view?resourcekey=0-MKFrd5sHCoP117TRu3LyvQ",
         "tags": "DUB",
         "n": 0
     },
@@ -32028,6 +32028,14 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w500/vnwcFy2j4pLRX4oD3dafnaxHD6F.jpg",
         "a": "1985",
         "link": "https://drive.google.com/file/d/1dWnEbYmIu1lwht7UFtf94PHsXDf5KoBe/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "ESCAPE",
+        "c": "https://image.tmdb.org/t/p/w500/75YBLsA38KAJfL4D4plgcmquAE1.jpg",
+        "a": "2024",
+        "link": "https://drive.google.com/file/d/1mpQQpl--O9ho8_Tn7PxSsj9W5DaY9rMN/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     }

@@ -12544,9 +12544,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "FASCINACAO MORTAL 3 A VINGANCA",
+        "t": "FASCINAÇAO MORTAL 3 A VINGANCA",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bq7ZTBrevjQTneGZjxReXL4CQGK.jpg",
-        "a": "2019",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/1tBGC7APj8RHj2DfmLVsgyBT_H6QSuRYy/view?usp=sharing",
         "tags": "DUB",
         "n": 0

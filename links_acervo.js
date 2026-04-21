@@ -11409,8 +11409,8 @@ filmes = [
     },
     {
         "t": "EU SÓ POSSO IMAGINAR",
-        "c": "https://image.tmdb.org/t/p/w500/A4A8YgAzBwDnlXDzuxoc5ZLchO7.jpg",
-        "a": "2026",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/78aGSMuS3BXJqd3t7rc4CkoHxyD.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/1tXXo4vexDv8nym8_uF5xIAAMRzKOgBtD/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

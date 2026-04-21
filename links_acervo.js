@@ -11169,8 +11169,8 @@ filmes = [
     },
     {
         "t": "ENCONTROS E DESENCONTROS",
-        "c": "https://image.tmdb.org/t/p/w500/gXrA8NMHAs3X9kegmoqtqNF8mXW.jpg",
-        "a": "2003",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/iPZoB5igycefqnXshZ0qiWTlajA.jpg",
+        "a": "1979",
         "link": "https://drive.google.com/file/d/17Cth-DG0qM_PlVsTM4wLl19oTIEykhCq/view?usp=sharing",
         "tags": "DUB",
         "n": 0

@@ -13219,15 +13219,15 @@ filmes = [
         "t": "GAROTAS INOCENTES",
         "c": "https://image.tmdb.org/t/p/w500/po9W0rPgjUookSjvp6t9OGR68Ib.jpg",
         "a": "2013",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3avdMUAzo8sMDVPVl9lTjRBVkE%2Fview%3Fusp%3Dsharing&dsh=S-1758961639%3A1774905448932827&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3avdMUAzo8sMDVPVl9lTjRBVkE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WhsuYY94iDYXuG7gW__Nh0Pl0nOhlXrLx2p99Q3SvuZ_468v-fGrj7fO4akUNDv6pL2kIJ",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B3avdMUAzo8sMDVPVl9lTjRBVkE/view?usp=sharing&resourcekey=0-sWsZ-6ntfKJZ5VwkXl54pg",
+        "tags": "DUAL",
         "n": 0
     },
     {
         "t": "GASPARZINHO",
         "c": "https://image.tmdb.org/t/p/w500/dbmPaZqKa9VP2PB9khdlXd1EsXU.jpg",
         "a": "1995",
-        "link": "https://drive.google.com/a/my.riohondo.edu/file/d/1pkFJgEy_aVg57Xy2WPkmGuKQj0KMQNi1/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/166NIaEomQ87FaHxm5GV7rwj4p67scpYL/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -13259,7 +13259,7 @@ filmes = [
         "t": "GERAÇÃO PROTEUS",
         "c": "https://image.tmdb.org/t/p/w500/wxsZo9mPWsswviGpiu8PNcFbQnL.jpg",
         "a": "1977",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7Ap_clAqkb6YmtjVmdzbXhKem8%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774905460260973&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7Ap_clAqkb6YmtjVmdzbXhKem8%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VjGDYzfXnPLyDRG1dntec8oZjzneuIWByABh_TAPAp1TxIsOnGpm_FhB4b499BIFXnzn3Dlg",
+        "link": "https://drive.google.com/file/d/1n2tJIFkxAd6X2MZ6byOIiIGxueIbVOyZ/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -13323,7 +13323,7 @@ filmes = [
         "t": "GONZAGA DE PAI PRA FILHO",
         "c": "https://image.tmdb.org/t/p/w500/8LRWQiq43cIc03sC5ZLGB8zYrjU.jpg",
         "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0ByYoqq6J6r_CZnJNWFFPR09UYkE%2Fview%3Fusp%3Dsharing&dsh=S-1271814163%3A1774905471670540&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0ByYoqq6J6r_CZnJNWFFPR09UYkE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VCh9M4PPPsvaKq65cp7uA1N9wjStgoBU82QBgYQ69o1d5oTWkOwUkpVB4LiIE2FkDh_nSRMA",
+        "link": "https://drive.google.com/file/d/1QwAdmChcva3Wkvw138jYEknMq5wNqv6x/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

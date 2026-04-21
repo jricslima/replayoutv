@@ -12529,25 +12529,25 @@ filmes = [
     },
     {
         "t": "FASCINAÇAO MORTAL 1",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/1CzJosmNbmSiedBwONDpHyqqRgSgL2wCb?usp=drive_open",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fJn7Mo1RjC0mTqiiVY0T2VlSmwz.jpg",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/1Hzw43p8syBsO3SoXmjBRI4ocQ2XrN84e/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "FASCINAÇAO MORTAL 2",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/151xkjZchvI34cRyRKaRqB3j4QnLItM-y?usp=drive_open",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cNR9qhsV05lZpFCgT8YfTqnsHCP.jpg",
+        "a": "2016",
+        "link": "https://drive.google.com/file/d/1IPmVnYETr9Raw43rvKNDHhtDxXtKKmP-/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "FASCINACAO MORTAL 3 A VINGANCA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/1x99U16A-8_66E9XOECdrBcSRmDHuVzz_?usp=drive_open",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bq7ZTBrevjQTneGZjxReXL4CQGK.jpg",
+        "a": "2019",
+        "link": "https://drive.google.com/file/d/1tBGC7APj8RHj2DfmLVsgyBT_H6QSuRYy/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

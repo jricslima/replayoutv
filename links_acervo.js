@@ -12568,9 +12568,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "FATWA GUERRA DECLARADA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "FATWA GUERRA DECLARADA - AÇÕES E CONSEQUÊNCIAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/e2dwZ2HcP5e7jabGYMvTNFxNIws.jpg",
+        "a": "2006",
         "link": "https://drive.google.com/file/d/1pFctpUMwWhXMqRppICLm5aC5JgD8h_Zt/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -12705,18 +12705,10 @@ filmes = [
     },
     {
         "t": "FILL THE VOID PREENCHENDO O VAZIO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/6rQcdi6EVsGXf3duICC5DdTvEyS.jpg",
+        "a": "2012",
         "link": "https://drive.google.com/file/d/1N1-5yGhsyZKcJ1dD2Jhjh9Odqx6DrEia/view?usp=sharing",
         "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "FILMOGRAFIAS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://replayoutv.comunidades.net/filmografias-4",
-        "tags": "DUB",
         "n": 0
     },
     {
@@ -12736,9 +12728,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "FIRST LADY MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "FIRST LADY",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kh41zicqM0EeE08FvN49MXlx7xI.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1w-FD4ONzucBLirvsmP2Ca2iKtbcHXS3L/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -12753,8 +12745,8 @@ filmes = [
     },
     {
         "t": "FIVE MORE MINUTES FOR FREE APENAS CINCO MINUTOS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/Pq9YCayI788MXeLnCcOJijWNZD.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1YAd0PYMu5BfNYxH-m5b0uHbeR60T4SmE/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -12968,9 +12960,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "FUGINDO DO AMOR LEGENDADO MP4 / DUBLADO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "FUGINDO DO AMOR RESORT TO LOVE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7HLmInDfP8uOOWR8xjLIJsD6bHq.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1YjHdd7ZAOMvyaOralUDnnvUQylgMpFQo/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -12985,8 +12977,8 @@ filmes = [
     },
     {
         "t": "FUGLY",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "2007",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pQKofB6iwy9C2Gm3rH8gdlPEBYe.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/0B80HOCVyW2FTckhEU1AxV0lMeGs/view?usp=sharing&amp;resourcekey=0-zRIQ1Oak3yXtDITwgExVZQ",
         "tags": "DUB",
         "n": 0

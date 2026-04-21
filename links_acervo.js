@@ -12025,9 +12025,9 @@ filmes = [
     },
     {
         "t": "ENTREGA A DOMICÍLIO",
-        "c": "https://image.tmdb.org/t/p/w500/9iOy1Blr0wHOw4VShCV02xva97l.jpg",
-        "a": "2024",
-        "link": "https://drive.google.com/file/d/18d28-bV9-XGePKlve_0wxpS2NZXTgkPt/view?usp=sharing",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/47fZq85OahkW9Vv0vNU3O7XUAAV.jpg",
+        "a": "1998",
+        "link": "https://drive.google.com/file/d/1Yo561T8CqEv60Eaq84jH1D6cCwEmw0pg/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

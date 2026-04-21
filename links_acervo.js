@@ -12088,11 +12088,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ESCAPE",
-        "c": "https://image.tmdb.org/t/p/w500/75YBLsA38KAJfL4D4plgcmquAE1.jpg",
-        "a": "2024",
-        "link": "https://drive.google.com/file/d/0B2p-yLr9gRrSaU1pMGZWemEyQ0E/view?usp=sharing",
-        "tags": "DUB",
+        "t": "ESCAPEE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3jccactKCyZVo4wDjhL8hQLZYYD.jpg",
+        "a": "2023",
+        "link": "https://drive.google.com/file/d/1ZIEmPmloh_PSyeR9YaJ98Im2kGeAGaun/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

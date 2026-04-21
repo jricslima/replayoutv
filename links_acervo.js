@@ -12049,9 +12049,9 @@ filmes = [
     },
     {
         "t": "ERA UMA VEZ",
-        "c": "https://image.tmdb.org/t/p/w500/zgr02U2Fh0sR5JtaAXY5yBU1wka.jpg",
-        "a": "2019",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4yAJsaqrigyMDB2dUdGZ3dwZVk%2Fview%3Fusp%3Dsharing&dsh=S-1758961639%3A1774904936665682&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4yAJsaqrigyMDB2dUdGZ3dwZVk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VBPK1OuGCmDVt872Fndply0PbSlPMHcmSPOF05c4DLL4qJIq8VPVJeHZI8tGr5Rd5LDOluhg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jElNxtDNw0YNn7s17sneQOZBINh.jpg",
+        "a": "2008",
+        "link": "https://drive.google.com/file/d/0B4yAJsaqrigyMDB2dUdGZ3dwZVk/view?usp=sharing&resourcekey=0-bwOSErP8osZYBYSwGuF5FQ",
         "tags": "DUB",
         "n": 0
     },
@@ -12123,8 +12123,8 @@ filmes = [
         "t": "ESCRITORES DA LIBERDADE",
         "c": "https://image.tmdb.org/t/p/w500/2hyEEPT57d0rkXYmCH7vm5rKhKH.jpg",
         "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0PipzbCZE2qNmlLMzR6NFRENFU%2Fview%3Fusp%3Dsharing&dsh=S-1221112150%3A1774904952593488&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0PipzbCZE2qNmlLMzR6NFRENFU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WMrjOEHvYPABwWVThpAV4rQI1NDBVwBgxU5GlL6raeCPsCm6kQIcLVzDdp3XrzDOLAJWoYFg",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B0PipzbCZE2qNmlLMzR6NFRENFU/view?usp=sharing&resourcekey=0-zPf5YOFoXk1MFUEDVrdZgg",
+        "tags": "DUAL",
         "n": 0
     },
     {

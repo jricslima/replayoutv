@@ -12665,8 +12665,8 @@ filmes = [
     },
     {
         "t": "FICA COMIGO",
-        "c": "https://image.tmdb.org/t/p/w500/vCNaUhNsK7AgfhIQzTnvOjPMPkq.jpg",
-        "a": "2017",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/27P88OQSMmQ7IlyynkfQYF4dkZH.jpg",
+        "a": "1999",
         "link": "https://drive.google.com/file/d/1o8u8bSiVY6i_1QF38q16Lmn0FbP1qix9/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -13153,8 +13153,8 @@ filmes = [
     },
     {
         "t": "GALACTICA ASTRONAVE DE COMBATE O FILME",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/w4OURxDqAJF7KOZOXGTJirnnKmr.jpg",
+        "a": "1978",
         "link": "https://drive.google.com/file/d/0B4J-RYNjMKufQWItemhlaG55RXM/view?usp=sharing&resourcekey=0-3W1p3hvLev9L11PjBnvGzA",
         "tags": "DUAL",
         "n": 0

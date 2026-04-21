@@ -11771,7 +11771,7 @@ filmes = [
         "t": "ELEKTRA",
         "c": "https://image.tmdb.org/t/p/w500/delKBZg2QeVH2FMdU7YOuZSIG4Q.jpg",
         "a": "2005",
-        "link": "https://drive.google.com/file/d/0B1o7Vpi-eZkAbDlld3FNNVZFUzA/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1ekEggSdlUhDiMwI0x299By2jWZGu-WB8/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

@@ -9425,8 +9425,8 @@ filmes = [
     },
     {
         "t": "CONTATO",
-        "c": "https://image.tmdb.org/t/p/w500/wjfx9OC7mpby21fOYCmwE0pSlkE.jpg",
-        "a": "2020",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/h0gZKEAFCjVUhvRf33lHHSxKFWu.jpg",
+        "a": "1997",
         "link": "https://drive.google.com/file/d/0B0qC7HeoQLWvOFJKaHMwTlNjT2s/view?usp=sharing&amp;resourcekey=0-Bhh1oHIb-r-jqq8OYOJ6Uw",
         "tags": "DUB",
         "n": 0

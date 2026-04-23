@@ -158,8 +158,8 @@
 
 <div id="chegada-final" style="text-align: center; padding: 50px; clear: both;">--- FIM DA OPÇÃO PESQUISADA ---</div>
 
-<script src="links_acervo.js?v=202604231656" defer></script>
-<script src="series_acervo.js?v=202604231656" defer></script>
+<script src="links_acervo.js?v=202604231720" defer></script>
+<script src="series_acervo.js?v=202604231720" defer></script>
 
 <script>
 let fonteDados = [];
@@ -354,8 +354,13 @@ window.addEventListener('scroll', () => {
 
 function voltarAoTopo() { window.scrollTo({ top: 0, behavior: 'smooth' }); }
 function irAoFinal() { window.scrollBy({ top: window.innerHeight * 0.9, behavior: 'smooth' }); }function saltoInstantaneo() {
+    if (filmesExibidos >= listaAtual.length) {
+        window.scrollTo(0, document.documentElement.scrollHeight);
+        return;
+    }
+
     const lote = 400;
-    const delay = 200; // respira 200ms entre lotes
+    const delay = 200;
     
     function carregarLote() {
         if (filmesExibidos >= listaAtual.length) {
@@ -364,7 +369,10 @@ function irAoFinal() { window.scrollBy({ top: window.innerHeight * 0.9, behavior
         }
         const inicio = filmesExibidos;
         filmesExibidos = Math.min(filmesExibidos + lote, listaAtual.length);
+        
+        // Manda só o pedaço novo e avisa que é pra adicionar
         renderizar(listaAtual.slice(inicio, filmesExibidos), true);
+        
         setTimeout(carregarLote, delay);
     }
     carregarLote();

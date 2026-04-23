@@ -158,8 +158,8 @@
 
 <div id="chegada-final" style="text-align: center; padding: 50px; clear: both;">--- FIM DA OPÇÃO PESQUISADA ---</div>
 
-<script src="links_acervo.js?v=202604231240" defer></script>
-<script src="series_acervo.js?v=202604231240" defer></script>
+<script src="links_acervo.js?v=202604231249" defer></script>
+<script src="series_acervo.js?v=202604231249" defer></script>
 
 <script>
 let fonteDados = [];
@@ -353,9 +353,7 @@ window.addEventListener('scroll', () => {
 }, { passive: true });
 
 function voltarAoTopo() { window.scrollTo({ top: 0, behavior: 'smooth' }); }
-function irAoFinal() { window.scrollBy({ top: window.innerHeight * 0.9, behavior: 'smooth' }); }function saltoInstantaneo() {
-    filmesExibidos = listaAtual.length;
-    renderizar(listaAtual);
+function irAoFinal() { window.scrollBy({ top: window.innerHeight * 0.9, behavior: 'smooth' }); }function saltoInstantaneo() {filmesExibidos = listaAtual.length; renderizar(listaAtual);
     
     // Espera renderizar e desce com animação suave
     setTimeout(() => {

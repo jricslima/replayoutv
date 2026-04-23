@@ -158,8 +158,8 @@
 
 <div id="chegada-final" style="text-align: center; padding: 50px; clear: both;">--- FIM DA OPÇÃO PESQUISADA ---</div>
 
-<script src="links_acervo.js?v=202604231249" defer></script>
-<script src="series_acervo.js?v=202604231249" defer></script>
+<script src="links_acervo.js?v=202604231656" defer></script>
+<script src="series_acervo.js?v=202604231656" defer></script>
 
 <script>
 let fonteDados = [];
@@ -353,17 +353,22 @@ window.addEventListener('scroll', () => {
 }, { passive: true });
 
 function voltarAoTopo() { window.scrollTo({ top: 0, behavior: 'smooth' }); }
-function irAoFinal() { window.scrollBy({ top: window.innerHeight * 0.9, behavior: 'smooth' }); }function saltoInstantaneo() {filmesExibidos = listaAtual.length; renderizar(listaAtual);
+function irAoFinal() { window.scrollBy({ top: window.innerHeight * 0.9, behavior: 'smooth' }); }function saltoInstantaneo() {
+    const lote = 400;
+    const delay = 200; // respira 200ms entre lotes
     
-    // Espera renderizar e desce com animação suave
-    setTimeout(() => {
-        window.scrollTo({ 
-            top: document.documentElement.scrollHeight, 
-            behavior: 'smooth' 
-        });
-    }, 150); // 150ms dá tempo do DOM atualizar
-}
-</script>
+    function carregarLote() {
+        if (filmesExibidos >= listaAtual.length) {
+            window.scrollTo(0, document.documentElement.scrollHeight);
+            return;
+        }
+        const inicio = filmesExibidos;
+        filmesExibidos = Math.min(filmesExibidos + lote, listaAtual.length);
+        renderizar(listaAtual.slice(inicio, filmesExibidos), true);
+        setTimeout(carregarLote, delay);
+    }
+    carregarLote();
+}</script>
 
 <div style="text-align: center; margin-top: 30px; font-size: 12px; color: #444;">
     <p>&copy; Replay Filmes - Replayoutv 2.0</p>

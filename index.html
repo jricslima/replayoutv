@@ -148,8 +148,8 @@
 
 <div id="chegada-final" style="text-align: center; padding: 50px; clear: both;">--- FIM DA OPÇÃO PESQUISADA ---</div>
 
-<script src="links_acervo.js?v=202604231815"></script>
-<script src="series_acervo.js?v=202604231815"></script>
+<script src="links_acervo.js?v=202604231843"></script>
+<script src="series_acervo.js?v=202604231843"></script>
 
 <script>
 let fonteDados = [];    
@@ -290,10 +290,19 @@ window.onscroll = function() {
 function voltarAoTopo() { window.scrollTo({ top: 0, behavior: 'smooth' }); }
 function irAoFinal() { window.scrollBy({ top: window.innerHeight * 0.9, behavior: 'smooth' }); }
 function saltoInstantaneo() {
+    // Se já carregou tudo, só desce instantâneo sem overlay
+    if (filmesExibidos >= listaAtual.length) {
+        window.scrollTo({ 
+            top: document.documentElement.scrollHeight, 
+            behavior: 'smooth' 
+        });
+        return; // Para aqui, nem cria loading
+    }
+
+    // Se chegou aqui é porque ainda falta carregar → mostra overlay
     const btn = event?.target || document.getElementById('btnSalto');
     if (btn) btn.disabled = true;
     
-    // Cria overlay de loading
     const overlay = document.createElement('div');
     overlay.id = 'loadingOverlay';
     overlay.innerHTML = `
@@ -322,20 +331,17 @@ function saltoInstantaneo() {
     `;
     document.body.appendChild(overlay);
 
-    // requestAnimationFrame = espera o navegador desenhar o overlay
     requestAnimationFrame(() => {
         requestAnimationFrame(() => {
             filmesExibidos = listaAtual.length;
             renderizar(listaAtual);
             
-            // Espera renderizar e desce
             setTimeout(() => {
                 window.scrollTo({ 
                     top: document.documentElement.scrollHeight, 
                     behavior: 'smooth' 
                 });
                 
-                // Remove overlay e libera botão
                 overlay.remove();
                 if (btn) btn.disabled = false;
             }, 200);

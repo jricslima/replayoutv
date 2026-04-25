@@ -13547,7 +13547,7 @@ filmes = [
         "t": "HAIRSPRAY EM BUSCA DA FAMA",
         "c": "https://image.tmdb.org/t/p/w300/6xIvGhsiZeY5wKTKw8o0Fi7bey8.jpg",
         "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BynNnqICTkBANzBKU3pLRkN0Vmc%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774905603637875&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BynNnqICTkBANzBKU3pLRkN0Vmc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XMTwDxy7XqDdEJdprm2IUnWW7lakwWES0o_vxFVz_TS3kJMzQB2WADIGtEFFgOeSMRlofk9Q",
+        "link": "https://drive.google.com/file/d/0BynNnqICTkBANzBKU3pLRkN0Vmc/view?usp=sharing&resourcekey=0-Nu_TLD6uxa1IHNwZMKKZ3A",
         "tags": "DUB",
         "n": 0
     },
@@ -13555,8 +13555,8 @@ filmes = [
         "t": "HANGAR 18",
         "c": "https://image.tmdb.org/t/p/w300/kORjGwOggAmJb0r5l8xoapXiBTW.jpg",
         "a": "1980",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBdGNRUVBrVlZPVEk%2Fview%3Fusp%3Dsharing&dsh=S-1271814163%3A1774905606054488&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBdGNRUVBrVlZPVEk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XqNXuSfVsgl-uaSw9VeB1npeszaqEuA9Xn73OggK4sRRjkmTmBgjiCeLt9Tz5R6PtO1hTh",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B4Cd9dT1lBbBdGNRUVBrVlZPVEk/view?usp=sharing&resourcekey=0-poQJR9qVkQjupcRU1DYTBA",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -13602,8 +13602,8 @@ filmes = [
     {
         "t": "HARRY POTTER E A CAMARA SECRETA",
         "c": "https://image.tmdb.org/t/p/w300/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg",
-        "a": "2002",
-        "link": "https://drive.google.com/open?id=0B-iTXh4bTHseVk9va1JVckItaVk",
+        "a": "2001",
+        "link": "https://drive.google.com/file/d/1FlPFpsbwBo6rYfOL-u9dWafMZg1L2HoS/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -13611,7 +13611,7 @@ filmes = [
         "t": "HARRY POTTER E A ORDEM DA FÊNIX",
         "c": "https://image.tmdb.org/t/p/w300/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
         "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-iTXh4bTHseQ0F2VE5fS3lwNlE&dsh=S573530077%3A1774905616202651&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-iTXh4bTHseQ0F2VE5fS3lwNlE&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VJvp1P8Rw0WcL-sao-6LFIddliR-1baVqBGpyEWfARXRhmo-W9Ne05fpyRO1WKQMWj9wCW-Q",
+        "link": "https://drive.google.com/file/d/1rUPNVvCPCc-Jd0n65CHqVI5e3TAuMVGh/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -13619,7 +13619,7 @@ filmes = [
         "t": "HARRY POTTER E A PEDRA FILOSOFAL",
         "c": "https://image.tmdb.org/t/p/w300/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",
         "a": "2001",
-        "link": "https://drive.google.com/open?id=0B-iTXh4bTHsed3dfUUh1aG5lSVk",
+        "link": "https://drive.google.com/file/d/1_PoEI0L5crI1ibnD_z7z97WpF9eZKUsU/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -13627,7 +13627,7 @@ filmes = [
         "t": "HARRY POTTER E AS RELÍQUIAS DA MORTE 1/2",
         "c": "https://image.tmdb.org/t/p/w300/67FVFOTaeBUQnimhCWpUkDawDct.jpg",
         "a": "2010",
-        "link": "https://drive.google.com/file/d/0B1WTylnHUVB8VWxDUlBFeWFRaFk/view?usp=sharing&resourcekey=0-YkJVhIYoXMNGNBFc5Ey36g",
+        "link": "https://drive.google.com/file/d/17T5wMqSlknF4Oct4xhfc_BX55fz5hJ4e/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -13635,7 +13635,7 @@ filmes = [
         "t": "HARRY POTTER E AS RELÍQUIAS DA MORTE 2/2",
         "c": "https://image.tmdb.org/t/p/w300/67FVFOTaeBUQnimhCWpUkDawDct.jpg",
         "a": "2010",
-        "link": "https://drive.google.com/file/d/0B1WTylnHUVB8ZjlnMWdncUhoaG8/view?usp=sharing&resourcekey=0-CwJpEdObn9jpqHWqgO-KpQ",
+        "link": "https://drive.google.com/file/d/1KdlDeZW4iLlBM3TjxVlEbfBEc-nfRxSM/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -13643,7 +13643,7 @@ filmes = [
         "t": "HARRY POTTER E O CÁLICE DE FOGO",
         "c": "https://image.tmdb.org/t/p/w300/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",
         "a": "2005",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-iTXh4bTHsebUYxOFVXVkh3X2M&dsh=S-653678632%3A1774905623248993&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-iTXh4bTHsebUYxOFVXVkh3X2M&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WhA-_uWJPpQMBqEAKzUonTcoXlWWrtQFpYHM2zPJCZIBoWfE4O9gO9naG7hZuoMOx7538FlA",
+        "link": "https://drive.google.com/file/d/1pjxvHhVd3IjOvYXFDcjtgNg8R3pHZes0/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -13651,7 +13651,7 @@ filmes = [
         "t": "HARRY POTTER E O ENIGMA DO PRINCIPE",
         "c": "https://image.tmdb.org/t/p/w300/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg",
         "a": "2009",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-iTXh4bTHseRFQxeEVVamVtbzA&dsh=S-2062413408%3A1774905625592874&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-iTXh4bTHseRFQxeEVVamVtbzA&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UAGNlfzoH0jBOZIhxpQ5AN7XviAHff9c9gsLQVNh-d_dB9TCN466EDaxsseaAuH6oE42Sj4Q",
+        "link": "https://drive.google.com/file/d/1eUNERZO1jiJSUD6t8-hFC_Byk48Zf3lC/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -13659,7 +13659,7 @@ filmes = [
         "t": "HARRY POTTER E O PRISIONEIRO DE AZKABAN",
         "c": "https://image.tmdb.org/t/p/w300/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg",
         "a": "2004",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-iTXh4bTHseMkFjZHlDNm8yZWc&dsh=S-2062413408%3A1774905627795860&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-iTXh4bTHseMkFjZHlDNm8yZWc&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UZvELHPS43emcBjPdYQ9Ni4MZ6LKQaYlfE86yIlR3o3Nxo71j1JbKDqcqjR2EXn0cVc6MRig",
+        "link": "https://drive.google.com/file/d/1o1dtZKMxHi9cIY8ERf24VgTbRAwNd0E6/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -13680,11 +13680,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "HEARTBREAKERS",
+        "t": "HEARTBREAKERS DOCE TRAPAÇA MATADORAS",
         "c": "https://image.tmdb.org/t/p/w300/5XMLRutKAyZhvHFFJvAvIJyhw6t.jpg",
         "a": "2001",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B92HM7k37WcfTm50dEZKcXAwQnc%2Fview%3Fusp%3Dsharing&dsh=S-1221112150%3A1774905634144075&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B92HM7k37WcfTm50dEZKcXAwQnc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_ViPPiKSwQrhZu2saD3wrxL3QuQYYU2GJkSUQKXWRq_LPSUuBsyKazcWHY6gQevQVaGxcrN-g",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/16w4HXIFTPwx8sUxh7sTwhTxCFeliiNzN/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -13713,9 +13713,9 @@ filmes = [
     },
     {
         "t": "HERANÇA MALDITA",
-        "c": "https://image.tmdb.org/t/p/w300/5DvLfZRW1uvjHiL9XQnA85HZ3j4.jpg",
-        "a": "2020",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bx_XNf_ywrRCY0pma2QzSkdfWTQ%2Fview%3Fusp%3Dsharing&dsh=S-284366117%3A1774905640658483&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bx_XNf_ywrRCY0pma2QzSkdfWTQ%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UeVgaHLdYp2-dHMcs2s7gdnwX6oWV73KejAs-hB2Tnee4ryP2lPzLmL1lzpWhyfEEAUl13ZA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rZv3aUkNngyZeiCgAjOEF5n0tve.jpg",
+        "a": "1995",
+        "link": "https://drive.google.com/file/d/0Bx_XNf_ywrRCY0pma2QzSkdfWTQ/view?usp=sharing&resourcekey=0-SnwzcSVDpAKD_yh98ibQxw",
         "tags": "DUB",
         "n": 0
     },
@@ -13739,15 +13739,15 @@ filmes = [
         "t": "HIDDEN SECRETS",
         "c": "https://image.tmdb.org/t/p/w300/mcMYNa3p8ZqFr8GuohQwTPdojnA.jpg",
         "a": "2006",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BzY-CK2ueye4MkY2UXZIVHN2Uzg%2Fview%3Fusp%3Dsharing&dsh=S-284366117%3A1774905646652120&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BzY-CK2ueye4MkY2UXZIVHN2Uzg%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XDxK3SFcNYscUtAx85vg3ELtVoqN8la3_aIDrkEfwZaWEIrTFsK8PGD5u1fgLuZs3Nhttusw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1Idx0Uy4Dhzyi1h8f6HwtX_8tInKl8iE9/view?usp=sharing",
+        "tags": "SEM LEG",
         "n": 0
     },
     {
         "t": "HIGH SCHOOL MUSICAL 2",
         "c": "https://image.tmdb.org/t/p/w300/kqImEYXsDIlzPpu0KxyTXIx7smW.jpg",
         "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5JBvcxRbgWkOG03ZnRYUWxpcXc&dsh=S488483084%3A1774905648985930&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5JBvcxRbgWkOG03ZnRYUWxpcXc&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VuKyBkrZ7P33nBNorJMLNr10q4rBdB0PUxPUUHh8aYgWmqh0SyWg0Y7hXpptZXshCSfVPi",
+        "link": "https://drive.google.com/file/d/0B5JBvcxRbgWkOG03ZnRYUWxpcXc/view?usp=sharing&resourcekey=0-J67Lohk2_iuDkHhCGTfgVw",
         "tags": "DUB",
         "n": 0
     },
@@ -13755,7 +13755,7 @@ filmes = [
         "t": "HIGH SCHOOL MUSICAL",
         "c": "https://image.tmdb.org/t/p/w300/3AywI4DpqhZvRyIn9o82p6Og22P.jpg",
         "a": "2006",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BxacpsnS08rrS0tkZ3JPMFRTVFk%2Fview%3Fusp%3Dsharing&dsh=S-1959460126%3A1774905651415234&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BxacpsnS08rrS0tkZ3JPMFRTVFk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XEcN4fIvfqYnUXS5ez7uba2DHJaUkfydHAxLyZXzyV6-idcRa1tZaN1bEmIUvpTGuEo95aRg",
+        "link": "https://drive.google.com/file/d/1bTWbAUDg_iAkWymSZag0tE30bqBZxHu2/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

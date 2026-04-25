@@ -13520,14 +13520,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "HACKER",
-        "c": "https://image.tmdb.org/t/p/w300/6zHdhfnreagE3Bv6n7BXtC8gk6r.jpg",
-        "a": "2016",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9cyUs4KSYdnU0RkNkRabWZ3Vjg%2Fview%3Fusp%3Dsharing&dsh=S1394476296%3A1774905594747778&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9cyUs4KSYdnU0RkNkRabWZ3Vjg%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WSy0y_VJHwEdENtExFO6_kTZKxOBTpztODDKWpxYdxrD0Fxz-S1XBp_iKU-KC_eKhh2H4Thw",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "HACKERS CRIMINOSOS E ANJOS",
         "c": "https://image.tmdb.org/t/p/w300/6jtuBXmL2Bm8lXGZLltUfi8EMI1.jpg",
         "a": "2002",
@@ -13547,8 +13539,8 @@ filmes = [
         "t": "HAIL CAESAR",
         "c": "https://image.tmdb.org/t/p/w300/osT5RueioIRlOxaE9tSj8JABuFU.jpg",
         "a": "2016",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6NwfoA3BzMMQmxCSU9Rd3BNTDg%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774905601035752&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6NwfoA3BzMMQmxCSU9Rd3BNTDg%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Xomi43YzaZ3JAHns8qDZpSd8kL-uDXpj3Xe7lgTfXCS_SkJHYpuc0gHTeZhuCo5Rysexuu",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B6NwfoA3BzMMQmxCSU9Rd3BNTDg/view?usp=sharing&resourcekey=0-5n7giiD9qougsCMUr3SfEQ",
+        "tags": "LEG",
         "n": 0
     },
     {

@@ -13937,8 +13937,8 @@ filmes = [
     },
     {
         "t": "INFIDELIDADE DUAS VIDAS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2xr3vkb7fwWnI4GnTDxfrxRA6mu.jpg",
+        "a": "1988",
         "link": "https://drive.google.com/file/d/1SruYcq_3jfMVcXfNp7yI5JtZ_jdG3eiq/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -14040,19 +14040,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "IL MARE AKA SIWORAE LEGENDADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4J-RYNjMKufYng4NDF5ZTFTam8%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774905778850158&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4J-RYNjMKufYng4NDF5ZTFTam8%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Uh6ytdI5cUX3uxID3q109QrAw8n3BAug1lpNUFmIRz7SDAW8dOj1ztVUJMWoygl7u2JFwP",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "IL MARE AKA SIWORAE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B4J-RYNjMKufVzhrbFV1ZU9vQzg%3Fusp%3Dsharing&dsh=S-1959460126%3A1774905781137913&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B4J-RYNjMKufVzhrbFV1ZU9vQzg%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UN52wVU1y1xYUWkjp1BMwnhHl1U0Vnrv_NlLQPT--2oWCLPQBU0DUJk5k3VFo8hIh5HnkFZg",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dnFnGiVMDYNcV5sF9cjl1XeZFWc.jpg",
+        "a": "2000",
+        "link": "https://drive.google.com/file/d/1nJ1DxsGho-wyb6m81Q7_7Has09Uwx9nE/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -14065,8 +14057,8 @@ filmes = [
     },
     {
         "t": "ILLUMINATI O SISTEMA CONTROLADOR",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://media.themoviedb.org/t/p/w300_and_h450_face/3pYfPLdGOvZNazAa5LKXII5dKD8.jpg",
+        "a": "2012",
         "link": "https://drive.google.com/file/d/1Xsmyo8BuJQF8V3e4By2Uu84D5XRLjQhj/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -14305,8 +14297,8 @@ filmes = [
     },
     {
         "t": "IT WAS ALWAYS YOU SEMPRE FOI VOCÊ",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dyJ8GOYVYxCfNOcMEKkblJK0o16.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/10DIZWUGE5P9lyC7UEx3n2TwRaLUT0o4W/view?usp=sharing",
         "tags": "LEG",
         "n": 0

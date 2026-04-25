@@ -17,6 +17,39 @@
     body { background: var(--dark); color: var(--text); font-family: Arial, sans-serif; padding: 20px; margin: 0; }
     header { text-align: center; border-bottom: 2px solid var(--primary); margin-bottom: 20px; padding: 10px; }
     
+    
+    .toast-dica {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 10px;
+    background: #ff6b00;
+    color: #fff;
+    padding: 10px 16px;
+    border-radius: 8px;
+    font-size: 13px;
+    border: 2px solid #fff;
+    font-weight: bold;
+    box-shadow: 0 0 15px rgba(255, 107, 0, 0.6);
+    z-index: 9999;
+    opacity: 0; /* ← FALTAVA ISSO PRA COMEÇAR INVISÍVEL */
+    transition: all 0.3s ease;
+    pointer-events: none;
+    white-space: nowrap;
+}
+
+.toast-dica.mostrar {
+    opacity: 1;
+    animation: piscar 0.5s ease 2; /* ← ANIMAÇÃO SÓ QUANDO MOSTRAR */
+}
+
+@keyframes piscar {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+}   
+ 
+    
     .filtros { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 30px; }
     .btn { background: #333; color: white; border: 1px solid #555; padding: 8px 15px; border-radius: 5px; cursor: pointer; font-size: 0.9rem; transition: 0.2s; }
     .btn:hover { background: var(--primary); }
@@ -117,10 +150,12 @@
 </header>
 
 <div id="area-filtros-total" style="width: 100vw; margin-left: calc(-50vw + 50%); background: #000; padding: 30px 0; text-align: center; box-sizing: border-box;">
-    <div style="margin-bottom: 25px;">
-        <input type="text" id="inputBusca" onkeyup="buscar()" placeholder="🔍 Pesquisar por nome ou palavra..." style="width: 85%; max-width: 700px; padding: 15px 25px; border-radius: 30px; border: 2px solid var(--primary); background: #111; color: white; font-size: 1.1rem; outline: none; display: inline-block;">
+    <div style="margin-bottom: 25px; position: relative; width: 85%; max-width: 700px; display: inline-block;">
+        <input type="text" id="inputBusca" onkeyup="buscar()" placeholder="🔍 Pesquisar nome, dub 90s..." style="width: 100%; padding: 15px 25px; border-radius: 30px; border: 2px solid var(--primary); background: #111; color: white; font-size: 1.1rem; outline: none; box-sizing: border-box;">
+        
+        <div id="toast-dica" class="toast-dica">💡 Dica: Combine com Década, ex: "dub 90s"</div>
     </div>
-    <div class="filtros">
+    </div>    <div class="filtros">
         <button class="btn" onclick="filtrar('todos')">Todos</button>
         <button class="btn btn-natal" onclick="filtrar('natal')">🎄 Natal</button>
         <button class="btn" onclick="filtrar('1950')">50s</button>
@@ -148,8 +183,8 @@
 
 <div id="chegada-final" style="text-align: center; padding: 50px; clear: both;">--- FIM DA OPÇÃO PESQUISADA ---</div>
 
-<script src="links_acervo.js?v=202604231843"></script>
-<script src="series_acervo.js?v=202604231843"></script>
+<script src="links_acervo.js?v=202604251014"></script>
+<script src="series_acervo.js?v=202604251014"></script>
 
 <script>
 let fonteDados = [];    
@@ -210,6 +245,7 @@ function renderizar(itens, anexar = false) {
 }
 
 function alternar(tipo) {
+    document.getElementById("inputBusca").value = '';
     const btnS = document.getElementById('btn-series');
     const btnF = document.getElementById('btn-filmes');
     if (tipo === 'series') {
@@ -225,7 +261,8 @@ function alternar(tipo) {
 }
 
 function filtrar(categoria) {
-    filmesExibidos = 20;
+	document.getElementById("inputBusca").value = '';    
+	filmesExibidos = 20;
     if (categoria === 'todos') { listaAtual = fonteDados; } 
     else if (categoria === 'natal') {
         listaAtual = fonteDados.filter(f => {
@@ -241,7 +278,8 @@ function filtrar(categoria) {
 }
 
 function filtrarPorLetra(letra) {
-    filmesExibidos = 20;
+         document.getElementById("inputBusca").value = '';
+	 filmesExibidos = 20;
     if (letra === '0-9') {
         listaAtual = fonteDados.filter(f => /^[0-9]/.test(f.t));
     } else {
@@ -256,19 +294,74 @@ function filtrarPorLetra(letra) {
     voltarAoTopo();
 }
 function buscar() {
-    // 1. Pega o que foi digitado e limpa os acentos
     const termo = document.getElementById("inputBusca").value
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "")
-        .toLowerCase();
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .trim();
 
-    // 2. Filtra os filmes comparando títulos também sem acentos
+    if ((termo === 'dub' || termo === 'leg' || termo === 'dual' || termo === 'dublado' || termo === 'legendado') && !localStorage.getItem('dicaAudioVista')) {
+        const toast = document.getElementById('toast-dica');
+        toast.classList.add('mostrar');
+        localStorage.setItem('dicaAudioVista', '1');
+        setTimeout(() => {
+            toast.classList.remove('mostrar');
+        }, 5000);
+    }
+
+    if (!termo) {
+        listaAtual = fonteDados; // ← TROCA ESSA LINHA
+        filmesExibidos = 20;
+        renderizar(listaAtual.slice(0, 20));
+        return;
+    }
+
+    const palavras = termo.split(' ').filter(p => p.length > 0);
+
     listaAtual = fonteDados.filter(f => {
         if (!f.t) return false;
+        
         const tituloLimpo = f.t.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-        return tituloLimpo.includes(termo);
+        const tagLimpa = (f.tags || f.g || '').toString().normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+        const ano = parseInt(f.a || f.ano || 0);
+
+        return palavras.every(palavra => {
+            // 1. Década: 80s, 90s, 2000s, 00s, 10s, 20s
+if (/^\d{2,4}s$/.test(palavra)) {
+    const decada = parseInt(palavra.replace('s', ''));
+    let inicioDecada;
+    
+    if (decada < 30) {
+        // 00s, 10s, 20s = anos 2000
+        inicioDecada = 2000 + decada;
+    } else if (decada < 100) {
+        // 30s até 99s = anos 1900
+        inicioDecada = 1900 + decada;
+    } else {
+        // 2000s, 2010s já vem completo
+        inicioDecada = decada;
+    }
+    
+    return ano >= inicioDecada && ano < inicioDecada + 10;
+}
+            
+            if (palavra === 'dub' || palavra === 'dublado') {
+                return tagLimpa.indexOf('dub') !== -1;
+            }
+            
+            if (palavra === 'leg' || palavra === 'legendado') {
+                return tagLimpa.indexOf('leg') !== -1;
+            }
+            
+            if (palavra === 'dual') {
+                return tagLimpa.indexOf('dual') !== -1;
+            }
+            
+            return tituloLimpo.indexOf(palavra) !== -1;
+        });
     });
 
+    filmesExibidos = 20;
     renderizar(listaAtual.slice(0, 20));
 }
 window.onscroll = function() {

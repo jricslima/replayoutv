@@ -14067,7 +14067,7 @@ filmes = [
         "t": "IMAGINE SÓ",
         "c": "https://image.tmdb.org/t/p/w300/5NpLfSEcvoMPjScMMSl0KsBD17p.jpg",
         "a": "2009",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0I7DU1D-U-dV2I0RGlfVlFHMU0%2Fview%3Fusp%3Dsharing&dsh=S-284366117%3A1774905786025834&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0I7DU1D-U-dV2I0RGlfVlFHMU0%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_W0Pvvfgd-CSg78Z77RQPpN1H_Ipv9hVap8xjKWwHYbbm2Xl1RHy3-dZFLGODcbeZIptVzV",
+        "link": "https://drive.google.com/file/d/0B0I7DU1D-U-dV2I0RGlfVlFHMU0/view?usp=sharing&resourcekey=0-W9lXGiVq6xhcNlXl8ttenQ",
         "tags": "DUB",
         "n": 0
     },
@@ -14075,7 +14075,7 @@ filmes = [
         "t": "IMAGINEM SÓ",
         "c": "https://image.tmdb.org/t/p/w300/tTVBirU6n14yGiMeq9LLsAXyfHG.jpg",
         "a": "2008",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6e8bBDUYtvgUFpkRHVGeHkzYjg%2Fview%3Fusp%3Dsharing&dsh=S1394476296%3A1774905788477712&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6e8bBDUYtvgUFpkRHVGeHkzYjg%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XE9gfNBjdgyFaEM4HKhZb9ZTFO1YkN4LBXQnTuPox9g_ZjIOt_S9-yEHmDnkesTS9yjLcxuA",
+        "link": "https://drive.google.com/file/d/0B6e8bBDUYtvgUFpkRHVGeHkzYjg/view?usp=sharing&resourcekey=0-w55LsFTktmLij70Cn1rfJA",
         "tags": "DUB",
         "n": 0
     },
@@ -14131,8 +14131,8 @@ filmes = [
         "t": "INIMIGO DO ESTADO",
         "c": "https://image.tmdb.org/t/p/w300/rP2GmnXqZHZHbM4HTbuHVA3i6DZ.jpg",
         "a": "1998",
-        "link": "https://drive.google.com/file/d/19O9N9q3wdXV3_O8CRm7YGUg_YuwcYOlb/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/10qEx9XcHkwc-241BAsRHHShvrt5i4bzP/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -14147,7 +14147,7 @@ filmes = [
         "t": "INIMIGO MEU",
         "c": "https://image.tmdb.org/t/p/w300/6lQJNiNnOmeWzXya37Zi3q2eOY2.jpg",
         "a": "1985",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2wBOxEXsRBOREF1QlhmMUh2eDA%2Fview%3Fusp%3Dsharing&dsh=S1345337409%3A1774905802417481&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2wBOxEXsRBOREF1QlhmMUh2eDA%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XeXvu0V6ogMKWxHg0CpT47GA7RIAJS3g7gXnfwvMQMw1ubMFCGFn8dlDhlWtVkjijDfqSSTA",
+        "link": "https://drive.google.com/file/d/1sJ2ceIUD9jwthkg5hCo4Macgue8iSb22/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -14161,17 +14161,17 @@ filmes = [
     },
     {
         "t": "INQUIETOS",
-        "c": "https://image.tmdb.org/t/p/w300/wb2wq94VU7kDusSxCYvJKZhzrxK.jpg",
-        "a": "2020",
-        "link": "http://inquietos/",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/sB8wn9EYMcxXXMhfoXTEap8ggN6.jpg",
+        "a": "2011",
+        "link": "https://drive.google.com/file/d/1T66Zxap5six4dNEla9sjLPUdBOLrWO33/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
         "t": "INSTINTO SELVAGEM 2",
         "c": "https://image.tmdb.org/t/p/w300/kkOu8gVgkbuSEPDQi0BGCl3rVTI.jpg",
         "a": "2006",
-        "link": "https://drive.google.com/file/d/1sQGDDDOAmgu-Dwp-AgCzrBZVwUpdCPOn/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1P6WF6MQ1x-b-Xr8VS8zd8z8hTTorTxzf/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -14179,8 +14179,8 @@ filmes = [
         "t": "INSTINTO SELVAGEM",
         "c": "https://image.tmdb.org/t/p/w300/2is4I2PjBQ2CPd6w349vMxuSkji.jpg",
         "a": "1992",
-        "link": "https://drive.google.com/file/d/1jOVmUeyklAvTW0tMIt3a3VVUALOdyh4s/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/16fU_7nDa0B5qL26wBKwHPxSJUMq9Slzw/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -14192,10 +14192,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "INTOCAVEIS",
-        "c": "https://image.tmdb.org/t/p/w300/l0Xqmj5zW5QIw3437VkP1bFHMfr.jpg",
-        "a": "1987",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B8S56XOJY1VgTC1ta1BZV1d2aWc%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774905812686460&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B8S56XOJY1VgTC1ta1BZV1d2aWc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XmuGBT2nBHvKwKRdPxUhQ0W8nI7l6zK6JFIlQZVy-a8N0iyaaVriNOhTVErlyr6jKddyXuUg",
+        "t": "INTOCÁVEIS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/sHcqCSjDAdQI5g0SFJOZGmLGr9Z.jpg",
+        "a": "2012",
+        "link": "https://drive.google.com/file/d/0B4nLNe9HQwT1RG9iZmRzNUMzZFU/view?usp=sharing&resourcekey=0-f-GuB8GoStaNJJZwI8xKNA",
         "tags": "DUB",
         "n": 0
     },
@@ -14211,7 +14211,7 @@ filmes = [
         "t": "INVASÃO DE PRIVACIDADE",
         "c": "https://image.tmdb.org/t/p/w300/tVqDVZ5AcejdYvrigNGRI9Jc61m.jpg",
         "a": "1993",
-        "link": "https://drive.google.com/file/d/1mfQrkiQOCSy1lXcrUo1CPz-FQOQwvbqR/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1LsMsYhdXvuNM_ZjSFOUKCEWDuPEV_EQm/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -14227,15 +14227,15 @@ filmes = [
         "t": "INVASÃO USA",
         "c": "https://image.tmdb.org/t/p/w300/n38Da1K9TfjzcPgMKIgky0HNBzF.jpg",
         "a": "1985",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7AM3QyRWhxTDJLd1k%2Fview%3Fusp%3Dsharing&dsh=S-1758961639%3A1774905821473403&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7AM3QyRWhxTDJLd1k%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UVv_LxqVfnXvAdRpc0iwE00qDQM2oXgzdutfXP4D9dVUc-aX9Z3vsrFW0EkvCVPFnWHQbFOg",
+        "link": "https://drive.google.com/file/d/1f6CgBvANS_dD7odOW61-Vh1tsxt4X6qT/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "INVASORES",
-        "c": "https://image.tmdb.org/t/p/w300/ckela6NlOJZvxQKwq0D7M2pzxQ0.jpg",
-        "a": "2016",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBSlVrZi0weVJvdXM%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774905823945576&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBSlVrZi0weVJvdXM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VRbhmDhZtIDd67p1U0qB_wEIIcv2Byf48b4xn4fKl9G3gocr2XUpXCiXZqEGEBiJNlSfba",
+        "c": "https://media.themoviedb.org/t/p/w300_and_h450_face/yTUkutZAY9KVMgLtE5yCE3MXDX9.jpg",
+        "a": "2007",
+        "link": "https://drive.google.com/file/d/1rlLEuZLF2Szxh6FOox-uikKNer4_v0Ai/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -14256,10 +14256,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "IRON SKY",
+        "t": "IRON SKY DEU A LOUCA NOS NAZIS",
         "c": "https://image.tmdb.org/t/p/w300/bGGPBYaR2Eb7HmMacjsQ3iwBwi9.jpg",
         "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3FePtzQmSfhU1VydnFnS1pRMGc%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774905829464344&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3FePtzQmSfhU1VydnFnS1pRMGc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UeIVFLGqOADli0xh5lD8Rc-vAgS-XWhhYOJLY_rxvyqGgb3dZQBeiDpxWGIpgvCV52OsCWNw",
+        "link": "https://drive.google.com/file/d/0B3FePtzQmSfhU1VydnFnS1pRMGc/view?usp=sharing&resourcekey=0-E8tV1P0jAKhvpUdMTE7BMA",
         "tags": "DUB",
         "n": 0
     },
@@ -22395,22 +22395,22 @@ filmes = [
         "t": "OS INVASORES DE CORPOS",
         "c": "https://image.tmdb.org/t/p/w300/7j0fFHJrG6QYkSgnR4X1xHGg0uu.jpg",
         "a": "1978",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBU1VkX1B1c0JDS28%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774909526068993&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBU1VkX1B1c0JDS28%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UhmibJMSiW2Ozzux6s3vdB_wZdIQwz9luRiPkw8i1f3QyV2QjliNQ6m34AMHfR4AG5WVpt",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B4Cd9dT1lBbBU1VkX1B1c0JDS28/view?usp=sharing&resourcekey=0-lMin38UGYXq_ts3ehztthA",
+        "tags": "DUAL",
         "n": 0
     },
     {
-        "t": "OS INVASORES DE CORPOS",
-        "c": "https://image.tmdb.org/t/p/w300/7j0fFHJrG6QYkSgnR4X1xHGg0uu.jpg",
-        "a": "1978",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B-ihMU1XOM8fcGxXN2JOQU5fZlE%2Fview%3Fusp%3Dsharing&dsh=S-1959460126%3A1774909528744036&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B-ihMU1XOM8fcGxXN2JOQU5fZlE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_U1E7oUFuTiM_ViUpN2ydAtGFkMISgI19c7TRhXa2aOD1VljR1iy1I0IOBbmr5K4OWvT5ptOQ",
+        "t": "OS INVASORES DE CORPOS A  INVASÃO CONTINUA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/r6tFSYCbjA72VAMfy2tKPH11ozT.jpg",
+        "a": "1993",
+        "link": "https://drive.google.com/file/d/1OkJqZM_mRMXEAv_Kprez7rQJ-PbKoQBU/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "OS INVASORES DE SHAOLIM",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7QC3CGC0ZkueBHVMcXcjtcB6t7k.jpg",
+        "a": "1983",
         "link": "https://drive.google.com/file/d/1Ijo8mcQ61VpCO0xCU5fiOm9qoa4xDPJh/view?usp=drive_open",
         "tags": "DUB",
         "n": 0

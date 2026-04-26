@@ -44,11 +44,52 @@
     animation: piscar 0.5s ease 2; /* ← ANIMAÇÃO SÓ QUANDO MOSTRAR */
 }
 
+#cortina-series {
+    max-height: 0;
+    overflow: hidden;
+    background: #ff6b00;
+    color: #fff;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 0 0 8px 8px;
+    margin-top: -2px;
+    transition: max-height 0.4s ease, padding 0.4s ease;
+    padding: 0 16px;
+    border: 0 solid #fff; /* ← começa sem borda */
+    border-top: none;
+    box-shadow: 0 0 0 rgba(255, 107, 0, 0);
+}
+
+#cortina-series.aberta {
+    max-height: 60px;
+    padding: 10px 16px;
+    border-width: 2px; /* ← borda só aparece quando aberta */
+    box-shadow: 0 5px 15px rgba(255, 107, 0, 0.4);
+}
 @keyframes piscar {
     0%, 100% { opacity: 1; }
     50% { opacity: 0.3; }
 }   
- 
+
+#helpLamp {
+    background: none; 
+    border: none; 
+    font-size: 20px; 
+    cursor: pointer;
+    margin-left: 8px;
+}
+.tip-cabeca-oca {
+    position: fixed; 
+    bottom: 20px; 
+    right: 20px;
+    background: #222; 
+    color: #fff; 
+    padding: 12px; 
+    border-radius: 8px;
+    border: 1px solid #f1c40f; /* amarelo lâmpada */
+    z-index: 9999;
+} 
     
     .filtros { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 30px; }
     .btn { background: #333; color: white; border: 1px solid #555; padding: 8px 15px; border-radius: 5px; cursor: pointer; font-size: 0.9rem; transition: 0.2s; }
@@ -151,10 +192,23 @@
 
 <div id="area-filtros-total" style="width: 100vw; margin-left: calc(-50vw + 50%); background: #000; padding: 30px 0; text-align: center; box-sizing: border-box;">
     <div style="margin-bottom: 25px; position: relative; width: 85%; max-width: 700px; display: inline-block;">
-        <input type="text" id="inputBusca" onkeyup="buscar()" placeholder="🔍 Pesquisar nome, dub 90s..." style="width: 100%; padding: 15px 25px; border-radius: 30px; border: 2px solid var(--primary); background: #111; color: white; font-size: 1.1rem; outline: none; box-sizing: border-box;">
-        
-        <div id="toast-dica" class="toast-dica">💡 Dica: Combine com Década, ex: "dub 90s"</div>
-    </div>
+        <!-- Container da busca + lâmpada -->
+<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+    <input type="text" id="inputBusca" onkeyup="buscar()" placeholder="🔍 Pesquisar nome, dub 90s..." 
+           style="flex: 1; padding: 15px 25px; border-radius: 30px; border: 2px solid var(--primary); background: #111; color: white; font-size: 1.1rem; outline: none; box-sizing: border-box;">        
+    
+    <button id="helpLamp" title="Ver dicas novamente" 
+            style="background: #e74c3c; border: 2px solid #c0392b; border-radius: 50%; width: 45px; height: 45px; font-size: 20px; cursor: pointer; flex-shrink: 0;">💡</button>
+</div>
+
+<!-- Container do toast + cortina -->
+<div style="position: relative;">
+    <div id="toast-dica" class="toast-dica">💡 Dica: Combine com Década, ex: "dub 90s"</div>
+    <div id="cortina-series">Com SÉRIES ativo você vê só séries. Clique em FILMES para voltar aos filmes.</div>
+</div>
+
+<!-- AQUI COMEÇA OS FILTROS -->
+<div class="filtros">
     </div>    <div class="filtros">
         <button class="btn" onclick="filtrar('todos')">Todos</button>
         <button class="btn btn-natal" onclick="filtrar('natal')">🎄 Natal</button>
@@ -183,8 +237,8 @@
 
 <div id="chegada-final" style="text-align: center; padding: 50px; clear: both;">--- FIM DA OPÇÃO PESQUISADA ---</div>
 
-<script src="links_acervo.js?v=202604261243"></script>
-<script src="series_acervo.js?v=202604261243"></script>
+<script src="links_acervo.js?v=202604261826"></script>
+<script src="series_acervo.js?v=202604261826"></script>
 
 <script>
 let fonteDados = [];    
@@ -441,10 +495,49 @@ function saltoInstantaneo() {
         });
     });
 }
-</script>
+// Ao clicar na lâmpada
+document.getElementById('helpLamp').onclick = () => {
+    localStorage.removeItem('hideWelcome'); // Reseta o "não mostrar mais"
+    showWelcomeMessage(); // Mostra a msg de 5s de novo
+    
+    setTimeout(() => {
+        showTooltip('Dica: Com o botão SÉRIES ativo, os filtros mostram só séries. Clique em FILMES para voltar aos filmes.');
+    }, 5000);
+};
 
-    <div style="text-align: center; margin-top: 30px; font-size: 12px; color: #444;">
-    <p>&copy; Replay Filmes - Replayoutv 2.0</p>
-</div>
+// Função do tooltip fixo
+function showTooltip(texto) {
+    const tip = document.createElement('div');
+    tip.className = 'tip-cabeca-oca';
+    tip.innerHTML = `${texto} <button onclick="this.parentElement.remove()">Entendi</button>`;
+    document.body.appendChild(tip);
+}
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const lampada = document.getElementById('helpLamp');
+    const toast = document.getElementById('toast-dica');
+    const cortina = document.getElementById('cortina-series');
+    
+    if (lampada) {
+        lampada.onclick = function() {
+            // 1. Mostra toast laranja piscando
+            toast?.classList.add('mostrar');
+            
+            // 2. Depois de 5s: some o toast, abre a cortina
+            setTimeout(() => {
+                toast?.classList.remove('mostrar');
+                cortina?.classList.add('aberta');
+                
+                // 3. Depois de 4s: fecha a cortina
+                setTimeout(() => {
+                    cortina?.classList.remove('aberta');
+                }, 4000);
+            }, 5000);
+        };
+    }
+});
+</script>
+</body>
 </body>
 </html>

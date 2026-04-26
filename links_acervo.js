@@ -13945,8 +13945,8 @@ filmes = [
     },
     {
         "t": "INFIDELIDADE",
-        "c": "https://image.tmdb.org/t/p/w300/ina8zdMp5CHRd59cupyRbMFCTAz.jpg",
-        "a": "2002",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7yT4niX7K8PA582N0SwqbkooXsP.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/1JH7bU2XRM8n45OxHRe1hWMwviy6-LC3c/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -14025,15 +14025,15 @@ filmes = [
     },
     {
         "t": "I'LL BE WATCHING DE OLHO EM VOCÊ",
-        "c": "https://image.tmdb.org/t/p/w300/680Eq5pdk04Nq9w1kPaj7LIpyP3.jpg",
-        "a": "2018",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dSKPthtzwF1yyds8po13yx2zPp1.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1fm3IkZEzg6wkCYO4cpdEwsjYcxavwSYT/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
         "t": "I'LL BE WATCHING DE OLHO EM VOCÊ",
-        "c": "https://image.tmdb.org/t/p/w300/680Eq5pdk04Nq9w1kPaj7LIpyP3.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hQqAzWbFehxXBLGnoJq7o3gcdiS.jpg",
         "a": "2018",
         "link": "https://drive.google.com/file/d/18CVv0RvgXW-EaIRDv-tePyZFUltOIf66/view?usp=sharing",
         "tags": "LEG",

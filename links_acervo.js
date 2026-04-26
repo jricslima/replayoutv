@@ -14345,8 +14345,8 @@ filmes = [
     },
     {
         "t": "JANE EYRE",
-        "c": "https://image.tmdb.org/t/p/w300/gBMnTttofQUOykDz8oPELCMZ12b.jpg",
-        "a": "1996",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2SoEmLFBLLB5Uv4EiXCD70EZMpE.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/12Hi0GcXKDRk9mLncGXs1aCrv_uRyOelG/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -14481,8 +14481,8 @@ filmes = [
     },
     {
         "t": "JACKIE CHAN MINHA HISTÓRIA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kJnVff7qqEWeRZbILeZLW6fsn62.jpg",
+        "a": "1998",
         "link": "https://drive.google.com/file/d/1saVpeIUJM_rtsyGOyrEn8pTP2duQyc9X/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -14524,38 +14524,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/15hzyOCCiPbSQkgtUr4sdOJjQwO.jpg",
         "a": "1996",
         "link": "https://drive.google.com/drive/folders/0B9yioP60C30RZjBfOXNIQ1VQaTg?resourcekey=0-qWxii4Bc3Nj0EoUZ0ld2Tw&usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "JESUS DE NAZARE DISCO 1",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0E6dWRRFYg4UUwxQTZSRzRDM0E&dsh=S909493217%3A1774905967444419&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0E6dWRRFYg4UUwxQTZSRzRDM0E&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Vn_5byFY3IN23AkxZD9HcVORuDXiLX__8b1MKeMaYN1AA4FNi0A2B3UdBLi-nkFU8ma9K8IA",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "JESUS DE NAZARE DISCO 2",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0E6dWRRFYg4ZjRjWTN4dG45Mlk&dsh=S271553589%3A1774905969758167&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0E6dWRRFYg4ZjRjWTN4dG45Mlk&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VmjYqUOFSUlMk4po16yHQ3Sj7WHaYMbz73xJsoaT96uRnZUd7gQUU9eihUqJrGN8SegeFT",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "JESUS DE NAZARE DISCO 3",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0E6dWRRFYg4TXRnTk5aaU5ZNUE&dsh=S2083215377%3A1774905972357226&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0E6dWRRFYg4TXRnTk5aaU5ZNUE&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_W0HKFRy2xqHpyOyIhsRSLdiIDUpMFkGRlM8zi6NyzJ9EYCCCqeUI_-LC1Ba1KW4xb5DRn5Zg",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "JESUS DE NAZARE DISCO 4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0E6dWRRFYg4WXFBVFZOYnhaZ1E&dsh=S488483084%3A1774905974594109&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0E6dWRRFYg4WXFBVFZOYnhaZ1E&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XZzMuxYlVPmTNN8BvaO2um7JGWE6L21WiAPXSyVD_86jEot2rymBkKHEE5RqG9CU1YyEA8hg",
         "tags": "DUB",
         "n": 0
     },

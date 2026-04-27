@@ -14539,15 +14539,15 @@ filmes = [
         "t": "JOÃO E MARIA CAÇADORES DE BRUXAS",
         "c": "https://image.tmdb.org/t/p/w300/pNAOG8mvstBhUE1jhbGkB87G2VV.jpg",
         "a": "2013",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IZGdmbXRzU1hNWFk%2Fview%3Fusp%3Dsharing&dsh=S354902304%3A1774905980243406&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IZGdmbXRzU1hNWFk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UPU8nwPo1YxhyeRs2mUKyg3n7tEjCw3wLyyz10Pmal9AtqiK-rTzuk55_Q8b1rlVClfLiVyg",
+        "link": "https://drive.google.com/file/d/0B5D1SaJxbV4IZGdmbXRzU1hNWFk/view?usp=sharing&resourcekey=0-YPmyRZcsFnrxnqAnwz8--Q",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "JOE",
-        "c": "https://image.tmdb.org/t/p/w300/numu669Pf8wOPcqImONWORYx0Pp.jpg",
-        "a": "2014",
-        "link": "https://drive.google.com/file/d/0BxGPV1cw10iebWVIQ0M5T3Z4MHM/view?usp=sharing",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fIuCEkEAb4qzKPB6DOadDCiDsHD.jpg",
+        "a": "2013",
+        "link": "https://drive.google.com/file/d/0Bz2QRX--_UJ8b3E4by1ZbUhGWEk/view?resourcekey=0-D4MmztFBBZYtGvClFEf1pA",
         "tags": "DUB",
         "n": 0
     },
@@ -14563,7 +14563,7 @@ filmes = [
         "t": "JOGADA DE MESTRE",
         "c": "https://image.tmdb.org/t/p/w300/5P2DKAHm7vnIffBZQngpXLPVKG5.jpg",
         "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BxH99VHallX2T2dZenVtUEIycWc%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774905986918290&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BxH99VHallX2T2dZenVtUEIycWc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Xhy4QSIvWFnqR_PP82KF9eQFyRYs8jDWe2V5xQLS8BphsTEnB__3wrLXnlsqagdGKg8H8m",
+        "link": "https://drive.google.com/file/d/0BxH99VHallX2T2dZenVtUEIycWc/view?usp=sharing&resourcekey=0-CWu-Ggvn4w_iUXtRkNfhEg",
         "tags": "DUB",
         "n": 0
     },
@@ -14715,16 +14715,16 @@ filmes = [
         "t": "JOVENS DEMAIS PARA MORRER",
         "c": "https://image.tmdb.org/t/p/w300/7Rj2pI7xTXLVRgiXV4O30NN4y2M.jpg",
         "a": "1990",
-        "link": "https://drive.google.com/file/d/1k6xvSUjH-Xef-FONigUFELkvVrVDpYDk/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1BGEsp48bSPnIQT3uQQK5nxEO2HsYu2It/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
         "t": "JOY O NOME DO SUCESSO",
         "c": "https://image.tmdb.org/t/p/w300/7icWz22RlPltHdIpR1iF95fuSrs.jpg",
         "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BxGPV1cw10iea3Zaa0Z6Mnhuc1U%2Fview%3Fusp%3Dsharing&dsh=S-1959460126%3A1774906025183214&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BxGPV1cw10iea3Zaa0Z6Mnhuc1U%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VNZl9T_cNROhf5gzshaJWHsD28s6hbB_52U9gFSxVpRa8TnX4-Tn6mXAunfOxfEwu4G0C4MA",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1AmeCyI3qhA3whxjwtKE4yfqx9FYm8WZZ/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -14747,8 +14747,8 @@ filmes = [
         "t": "JUNO",
         "c": "https://image.tmdb.org/t/p/w300/hbNYIjJN7bDTk0pngpoWARvjHRH.jpg",
         "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2wBOxEXsRBOMkxNR19rTnlqNEU%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774906030779175&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2wBOxEXsRBOMkxNR19rTnlqNEU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XDIoJ-3PHEq66s0t4dUgv3V1hL-ZxxeeK5QTDt5uAg-GahuHSpasZclanvTEasVpr9zmcdbw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1s5tAYFbtZGS1AICl9OBprCZRVjO9RLTp/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -14800,11 +14800,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "JUSTIÇA SOB TUTELA",
+        "t": "JUSTIÇA SOB TUTELA - ONE GOOD COP",
         "c": "https://image.tmdb.org/t/p/w300/iyOYQnNjE3CV4LpLZDjdYPGG65G.jpg",
         "a": "1991",
-        "link": "https://drive.google.com/file/d/1_I6RMuA55I5OVmFUXEeyf7nLkdLK-L2b/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1Ag7fUjT3lPzq-RQpMCPWIzStR09zgVuy/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -14817,8 +14817,8 @@ filmes = [
     },
     {
         "t": "KIMI NI SHIKA KIKOENAI ONLY YOU CAN HEAR ME SÓ VOCÊ PODE OUVIR",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7xZTXsDvHq7q1wBQHNrqL5wHjOx.jpg",
+        "a": "2007",
         "link": "https://drive.google.com/file/d/1ULMZiGhH3lUdCNN_ZkkIHuUs4Kswnhhl/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -14864,11 +14864,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "K PAX",
+        "t": "K PAX O CAMINHO DA LUZ",
         "c": "https://image.tmdb.org/t/p/w300/47ucFK7drrSE5SECPkLVl6uuc5k.jpg",
         "a": "2001",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBQmlPY05pWlV2Umc%2Fview%3Fusp%3Dsharing&dsh=S-284366117%3A1774906110256316&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBQmlPY05pWlV2Umc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UqXA5D4a2MdIeZDBqD3kdS5o_oT362sSGFiOvsFO-xYH5vi6SKFEgAIvc_flAu5uZPN_Upkw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B4Cd9dT1lBbBQmlPY05pWlV2Umc/view?usp=sharing&resourcekey=0-mQmvXypfw8fE3j0CZQOlYg",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -14897,8 +14897,8 @@ filmes = [
     },
     {
         "t": "KHOOBSURAT BEAUTIFUL A DOUTORA APAIXONADA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bjWWxsc2uglSDm9TEbavhJDwXr7.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/1PHkuBdP6-0bJgcfFCkFb-5EEWjhHoAF5/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -14922,8 +14922,8 @@ filmes = [
     {
         "t": "KING OF FIGHTERS A BATALHA FINAL",
         "c": "https://image.tmdb.org/t/p/w300/dyzSWQBkDC4sicUrPo8pnO7KD6r.jpg",
-        "a": "2009",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7Ad2tSNDE3c3ZDRXM%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774906121787177&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7Ad2tSNDE3c3ZDRXM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WYdPAYVt79BaF0jLEKjrUu5C_5P52832fiK8EcsdbAMhXBqx3mUpKUvCJ8-_JKszxk6ZD3dw",
+        "a": "2010",
+        "link": "https://drive.google.com/file/d/1ycXKzMc6ssXhZ_6txpqqXhvyCZ2cI4y0/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -14939,8 +14939,8 @@ filmes = [
         "t": "KLEINRUPPIN FOREVER",
         "c": "https://image.tmdb.org/t/p/w300/7uV58p1QACUo9RRIZyRrW9V1Ra9.jpg",
         "a": "2004",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7BQwCUfXt3rVURKVHFfTnRDTXc%2Fview%3Fusp%3Dsharing&dsh=S-1221112150%3A1774906126733990&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7BQwCUfXt3rVURKVHFfTnRDTXc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XvXTngkrGWClJ6Q0aiM4pZdpTkoFpo0y3hp9ML-SX-Qd_ArnP9dEyqErw4E3VJ_Zj6zpt7Mg",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B7BQwCUfXt3rVURKVHFfTnRDTXc/view?usp=sharing&resourcekey=0-JDiz3_KcnjEHyTZKXDxJjA",
+        "tags": "LEG AC",
         "n": 0
     },
     {
@@ -14955,48 +14955,32 @@ filmes = [
         "t": "KOIZORA",
         "c": "https://image.tmdb.org/t/p/w300/95qyhqSlbdnc9nrvrrLw6WFXE5K.jpg",
         "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5_SY9ogvbpxdGF3Q002QlBIMUU%2Fview%3Fusp%3Dsharing&dsh=S354902304%3A1774906130490123&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5_SY9ogvbpxdGF3Q002QlBIMUU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Vp1BcdTRXCttP6ShZRHiHAMi86sW8z8IgqIfs0LXG6GYcN9EpOsJU_mTSvGLV8G-P4wwZ3Jg",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B5_SY9ogvbpxdGF3Q002QlBIMUU/view?usp=sharing&resourcekey=0-gE7LmUdj02bkiqYuHa8bfg",
+        "tags": "LEG",
         "n": 0
     },
     {
         "t": "KRAKATOA O INFERNO DE JAVA",
         "c": "https://image.tmdb.org/t/p/w300/4c5Z9DkivG1JrpWuO3y4ILloG2U.jpg",
-        "a": "1969",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7AbjluQ2pHWGtiMm8%2Fview%3Fusp%3Dsharing&dsh=S1394476296%3A1774906132931277&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7AbjluQ2pHWGtiMm8%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VFXviAq1nOo42oRpL7hIhkwlwGlAFuVHSUY5D-GsuX0BK6eZCpPO4-N-84RsYM4OdlnXqr",
-        "tags": "DUB",
+        "a": "1968",
+        "link": "https://drive.google.com/file/d/1cb3e2x8zbJBtkxATOTYkUGW7TtAxk5gK/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
         "t": "KRISTIN'S CHRISTMAS PAST LAST CHANCE HOLIDAY O NATAL DE KRISTIN",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/m3QeiZlAbixGwddpAaEBBhThzmx.jpg",
+        "a": "2013",
         "link": "https://drive.google.com/file/d/1yITHnFwC_U2m_hxX6bE7YvJqIjx2HTnP/edit",
         "tags": "LEG",
         "n": 1
     },
     {
-        "t": "KUKOLKA",
-        "c": "https://image.tmdb.org/t/p/w300/j9omjmVXsxAeu9k2lgHyruJqgv5.jpg",
-        "a": "1980",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B1CIRREaMxJuOGFFRHdvRk1JY2s&dsh=S354902304%3A1774906138049518&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B1CIRREaMxJuOGFFRHdvRk1JY2s&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V7YkI3grLSK_as_gtJCQiepPw6tufQBCkdEIaDPKyscR2WJcxkF_bYkoJhv8TWV1aF4Ws9",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "KUNG FU",
-        "c": "https://image.tmdb.org/t/p/w300/vTs5wUu3Wi6TwIyFmM7PxBQU60P.jpg",
-        "a": "2004",
-        "link": "http://replayoutv.comunidades.net/kung-fu-o-filme",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "KUNG FU",
-        "c": "https://image.tmdb.org/t/p/w300/vTs5wUu3Wi6TwIyFmM7PxBQU60P.jpg",
-        "a": "2004",
-        "link": "http://replayoutv.comunidades.net/kung-fu-1-temporada",
-        "tags": "DUB",
+        "t": "KUKOLKA A LITTLE DOLL",
+        "c": "https://media.themoviedb.org/t/p/w300_and_h450_face/4Fmoh3I0CUQz0g0HWr5jHcSjjra.jpg",
+        "a": "1989",
+        "link": "https://drive.google.com/file/d/0B1CIRREaMxJuOGFFRHdvRk1JY2s/view?usp=sharing&resourcekey=0-sqp93Ny4E-z4-vYC1naRaQ",
+        "tags": "SEM LEG",
         "n": 0
     },
     {

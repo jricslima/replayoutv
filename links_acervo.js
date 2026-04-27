@@ -31966,5 +31966,21 @@ filmes = [
         "link": "https://drive.google.com/file/d/1YDJT5qhBvanypL1Ra4Bkfs3O7U7Cx102/view",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "HACKER TODO CRIME TEM UM INÍCIO \"SEM CORTES\"",
+        "c": "https://image.tmdb.org/t/p/w300/6zHdhfnreagE3Bv6n7BXtC8gk6r.jpg",
+        "a": "2016",
+        "link": "https://drive.google.com/file/d/1u0h7uXBd9itIjjCEgfViA9FnTpGRg6t_/view?usp=sharing",
+        "tags": "LEG AC",
+        "n": 0
+    },
+    {
+        "t": "HACKER TODO CRIME TEM UM INÍCIO",
+        "c": "https://image.tmdb.org/t/p/w300/6zHdhfnreagE3Bv6n7BXtC8gk6r.jpg",
+        "a": "2016",
+        "link": "https://drive.google.com/file/d/1XlpTbOd20SujTmbV4jGOi3VNYpp0L4nA/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

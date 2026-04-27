@@ -14595,15 +14595,7 @@ filmes = [
         "t": "JOGO DA MORTE 2",
         "c": "https://image.tmdb.org/t/p/w300/amxV1WwFI2sDzJ5i5n82jyYqSXN.jpg",
         "a": "1981",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8sj5gqpTXV5Mm9XaG85Tkd4bm8&dsh=S909493217%3A1774905993712299&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8sj5gqpTXV5Mm9XaG85Tkd4bm8&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VOUIRq31JQeoO_W9Dtbln_F_pJS3e9q1t8Wi3kYxU3ve0FXNjtFbzb2bUfTviK4X8jlEVtUQ",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "JOGO DA MORTE",
-        "c": "https://image.tmdb.org/t/p/w300/z6Le2lNTx8ySBd311RlOxkFaTsI.jpg",
-        "a": "1978",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_s87pjxoqmYWFVkSWI4Tkh1U28%2Fview%3Fusp%3Ddrivesdk&dsh=S-1271814163%3A1774905996049323&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_s87pjxoqmYWFVkSWI4Tkh1U28%2Fview%3Fusp%3Ddrivesdk&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XvZIw-04N8sHjiNlV7Ai72bq4RjL3rM_SuSmO3of7SgrpJ_Q956DvL-VtskEuTIVn6pNHk",
+        "link": "https://drive.google.com/file/d/0B8sj5gqpTXV5Mm9XaG85Tkd4bm8/view?usp=sharing&resourcekey=0-Rezt4xLUMX3Iec1FJW_jWw",
         "tags": "DUB",
         "n": 0
     },
@@ -18187,7 +18179,7 @@ filmes = [
         "t": "NÃO SOU LOUCA",
         "c": "https://image.tmdb.org/t/p/w300/3sKxwc8x0Nx9iR9CVDkopDRu9YE.jpg",
         "a": "2013",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B77mza-lJWUyWEtfSUJ2NEsxem8%2Fview%3Fusp%3Dsharing&dsh=S-1758961639%3A1774908057157426&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B77mza-lJWUyWEtfSUJ2NEsxem8%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V4nkNziW6zUhyg_qkPLej0NqAeec6_lP-mdX5bP6UW5fiRLJOFJfsaNT_zCzA63AVZ0UVQ2Q",
+        "link": "https://drive.google.com/file/d/0B77mza-lJWUyWEtfSUJ2NEsxem8/view?usp=sharing&resourcekey=0-4xpTJhtkcHN9mbQOx4-Oww",
         "tags": "DUB",
         "n": 0
     },

@@ -15248,9 +15248,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "L'ESTATE PIÙ CALDA O VERÃO MAIS QUENTE LEGENDADO MP4 / MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "L'ESTATE PIÙ CALDA O VERÃO MAIS QUENTE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fZcqdIN4EJcqTVklbwqA0DAaUUZ.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1-PIERQPCMxPfosvaNMmQgj3DUmJVdDxn/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -15353,8 +15353,8 @@ filmes = [
     },
     {
         "t": "LE CODE A CHANGÉ MUDANÇA DE PLANOS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pHkWBvsZKuJD0aKsguPaYKaY6Vc.jpg",
+        "a": "2009",
         "link": "https://drive.google.com/file/d/1iH7LLhG3sr-f05aZ3NIasAnCQnO2Ph_a/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -15408,25 +15408,25 @@ filmes = [
         "n": 0
     },
     {
-        "t": "LIÇÃO DE AMOR SCUSA MA TI CHIAMO AMORE SORRY IF I LOVE YOU MKV DUBLADO / MP4 LEGENDADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LIÇÃO DE AMOR SCUSA MA TI CHIAMO AMORE SORRY IF I LOVE YOU",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/z395gVQdI8hKA9EVYOe7DYhTzhC.jpg",
+        "a": "2008",
         "link": "https://drive.google.com/file/d/1p-5O1_HYiFeLbWMCgbaBfEEu9mKZZ9x8/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "LIEBE MAUER BELOVED BERLIN WALL QUERIDO MURO DE BERLIM",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/nkVTiIJjp6qoUqgyv8TEagRpSTm.jpg",
+        "a": "2009",
         "link": "https://drive.google.com/file/d/19wsSLlhVagdXHO7vkFtL2xdHCI9mLzcB/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
-        "t": "LIEBESDINGS COISAS DO AMOR MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LIEBESDINGS COISAS DO AMOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/4WlPD2RWH7rl75oYNu3IapropxV.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1a6_tXFAQYgV0-BMunV3_wmDVHjFmBbbu/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -15494,14 +15494,6 @@ filmes = [
         "link": "https://drive.google.com/file/d/19knFRDsAsbfJYeGJGBNXZEYpPnoIc8Pw/view?usp=sharing",
         "tags": "DUB",
         "n": 1
-    },
-    {
-        "t": "LITTLE DOTTIT",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/12bsJS9IPvtG3r83r0ix7LPNzmMGW5y8Z?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
     },
     {
         "t": "LITTLE GIRL",

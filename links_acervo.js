@@ -15656,9 +15656,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "LOVE IN THE SUN AMOR CONECTADO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "LOVE IN THE SUN AMOR CONECTADO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kVGDmH9oNXtQgXfrqPj0mljXRVU.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/1tBstECxxOXYUFIA2W23aVWlNg63e0PnM/view",
         "tags": "LEG",
         "n": 0
@@ -15737,10 +15737,10 @@ filmes = [
     },
     {
         "t": "LOVERS AND OTHER STRANGERS AS MIL FACES DO AMOR",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mi1KISkgUXfXnn3wsAsj4bH9XPN.jpg",
+        "a": "1970",
         "link": "https://drive.google.com/file/d/1Ijac0mGefh59iERO8lFGo7ZYL7x0ipcr/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {

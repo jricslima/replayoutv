@@ -15505,10 +15505,10 @@ filmes = [
     },
     {
         "t": "LIZZIE MACGUIRE UM SONHO POP STAR",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bz5YqErzhH4DOGlsaWhlZ2tsNGM%2Fview%3Fusp%3Dsharing&dsh=S-1271814163%3A1774907013065928&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bz5YqErzhH4DOGlsaWhlZ2tsNGM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VJ93WyOoDW0E79AzK3GkQB3IP2hCK2tF9IVLAcjfJq2k7Xe4AQy7W-anemixsGCdGZUG6G",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/qgPaGDE00m895H8DjkvHVL1W7XU.jpg",
+        "a": "2003",
+        "link": "https://drive.google.com/file/d/0Bz5YqErzhH4DOGlsaWhlZ2tsNGM/view?usp=sharing&resourcekey=0-LjPqIozgQkeYfhQ7YgoeqA",
+        "tags": "DUAL",
         "n": 0
     },
     {

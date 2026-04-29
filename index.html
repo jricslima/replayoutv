@@ -179,14 +179,30 @@
     .btn-l { background: #222; color: #fff; border: 1px solid #444; width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; border-radius: 4px; cursor: pointer; font-size: 14px; font-weight: bold; }
     .btn-l:hover { background: var(--primary); }
 
-    @media (max-width: 600px) {
-        .container { grid-template-columns: repeat(2, 1fr) !important; gap: 10px; }
-        .btn-l { width: 28px; height: 28px; font-size: 12px; }
+    /* Tudo do celular fica aqui dentro */
+@media (max-width: 600px) {
+    .container { 
+        grid-template-columns: repeat(2, 1fr) !important; 
+        gap: 10px; 
     }
     
-    /* Correção só pra celular */
-@media (max-width: 600px) {
-    /* Força o input a encolher */
+    .btn-l { 
+        width: 28px; 
+        height: 28px; 
+        font-size: 12px; 
+    }
+    
+    /* Usa largura toda no celular */
+    #area-filtros-total > div {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+    
+    #area-filtros-total {
+        padding: 20px 12px !important;
+    }
+    
+    /* Input encolhe e estica */
     #inputBusca {
         min-width: 0 !important;
         flex-shrink: 1 !important;
@@ -194,7 +210,7 @@
         font-size: 0.95rem !important;
     }
     
-    /* Lâmpada menor e garantida na tela */
+    /* Lâmpada garantida na tela */
     #helpLamp {
         width: 36px !important;
         height: 36px !important;
@@ -203,11 +219,30 @@
         margin-left: 6px !important;
     }
     
-    /* Reduz o gap entre eles */
     .container-busca-lampada {
         gap: 6px !important;
-        padding: 0 10px !important;
+        padding: 0 !important;
     }
+    
+    /* OPCIONAL: Letras em 1 linha com scroll - descomenta se quiser */
+    /*
+    .filtros-letras {
+        flex-wrap: nowrap !important;
+        overflow-x: auto !important;
+        justify-content: flex-start !important;
+        padding: 0 10px 10px !important;
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    .filtros-letras::-webkit-scrollbar {
+        height: 4px;
+    }
+    
+    .filtros-letras::-webkit-scrollbar-thumb {
+        background: var(--primary);
+        border-radius: 2px;
+    }
+    */
 }
     
     </style>
@@ -265,8 +300,8 @@
 
 <div id="chegada-final" style="text-align: center; padding: 50px; clear: both;">--- FIM DA OPÇÃO PESQUISADA ---</div>
 
-<script src="links_acervo.js?v=202604290914"></script>
-<script src="series_acervo.js?v=202604290914"></script>
+<script src="links_acervo.js?v=202604290925"></script>
+<script src="series_acervo.js?v=202604290925"></script>
 
 <script>
 let fonteDados = [];    

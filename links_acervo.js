@@ -15596,15 +15596,15 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/uPEh48HZN9qqewkF2Hsi9BD6oz7.jpg",
         "a": "1994",
         "link": "https://drive.google.com/file/d/1fmSlLdifdIyzoMCOMOFMYo8YNziObg8c/view?usp=drive_open",
-        "tags": "LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {
         "t": "LOVE AFFAIR",
-        "c": "https://image.tmdb.org/t/p/w300/uPEh48HZN9qqewkF2Hsi9BD6oz7.jpg",
-        "a": "1994",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9me1LTilTy4ekpkXzJiWW5USXM%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774907034628240&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9me1LTilTy4ekpkXzJiWW5USXM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XCCjkYUxYho8N7e8XvYiSh7tNtmS4ozHRcFfRQvruFFG4YJZffxe6iQKQoRqDlxiZ9zZVTWQ",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/sJrL0B71oUK60cda2HUB1pIIYr.jpg",
+        "a": "1939",
+        "link": "https://drive.google.com/file/d/0B9me1LTilTy4ekpkXzJiWW5USXM/view?usp=sharing&resourcekey=0-h_pg27s2IP04NGL64zyjVQ",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -15761,10 +15761,10 @@ filmes = [
     },
     {
         "t": "LUA DE SANGUE",
-        "c": "https://image.tmdb.org/t/p/w300/hr4yWDEJA5FGI6vWEDCP5Gllqtg.jpg",
-        "a": "2021",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1RoysJZ34h_emhkekJXRkg4QVk%2Fview%3Fusp%3Dsharing&dsh=S573530077%3A1774907066439515&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1RoysJZ34h_emhkekJXRkg4QVk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WvnKiQ2pwWXGHfHTvheYAnD09AKUl-DLvyrusW1YhY2dzK0tZIWw1R--SGiZcPYTdDLB79nQ",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rOTKUckzQkBMeEBDh1YheUHHxdF.jpg",
+        "a": "2007",
+        "link": "https://drive.google.com/file/d/0B1RoysJZ34h_emhkekJXRkg4QVk/view?usp=sharing&resourcekey=0-XQFDpCbtuLOgZPUuQfGPmA",
+        "tags": "DUAL",
         "n": 0
     },
     {

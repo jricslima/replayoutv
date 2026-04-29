@@ -183,6 +183,33 @@
         .container { grid-template-columns: repeat(2, 1fr) !important; gap: 10px; }
         .btn-l { width: 28px; height: 28px; font-size: 12px; }
     }
+    
+    /* Correção só pra celular */
+@media (max-width: 600px) {
+    /* Força o input a encolher */
+    #inputBusca {
+        min-width: 0 !important;
+        flex-shrink: 1 !important;
+        padding: 12px 15px !important;
+        font-size: 0.95rem !important;
+    }
+    
+    /* Lâmpada menor e garantida na tela */
+    #helpLamp {
+        width: 36px !important;
+        height: 36px !important;
+        font-size: 16px !important;
+        flex-shrink: 0 !important;
+        margin-left: 6px !important;
+    }
+    
+    /* Reduz o gap entre eles */
+    .container-busca-lampada {
+        gap: 6px !important;
+        padding: 0 10px !important;
+    }
+}
+    
     </style>
 </head>
 <body>
@@ -195,7 +222,7 @@
 <div id="area-filtros-total" style="width: 100%; background: #000; padding: 30px 20px; text-align: center; box-sizing: border-box;">
     <div style="margin-bottom: 25px; position: relative; width: 85%; max-width: 700px; display: inline-block;">
         <!-- Container da busca + lâmpada -->
-        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+        <div class="container-busca-lampada" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
             <input type="text" id="inputBusca" onkeyup="buscar()" placeholder="🔍 Pesquisar nome, dub 90s..." 
                    style="flex: 1; padding: 15px 25px; border-radius: 30px; border: 2px solid var(--primary); background: #111; color: white; font-size: 1.1rem; outline: none; box-sizing: border-box;">        
             
@@ -238,8 +265,8 @@
 
 <div id="chegada-final" style="text-align: center; padding: 50px; clear: both;">--- FIM DA OPÇÃO PESQUISADA ---</div>
 
-<script src="links_acervo.js?v=202604290906"></script>
-<script src="series_acervo.js?v=202604290906"></script>
+<script src="links_acervo.js?v=202604290914"></script>
+<script src="series_acervo.js?v=202604290914"></script>
 
 <script>
 let fonteDados = [];    

@@ -1136,14 +1136,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ANÔNIMO",
-        "c": "https://image.tmdb.org/t/p/w300/6ObRyIQHJAY2X575hLVgKsnNlar.jpg",
-        "a": "2025",
-        "link": "https://drive.google.com/file/d/1aW_-lgKa4NOzsbFAONm3IvtrB49fcDZT/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "ANTES DA MEIA NOITE",
         "c": "https://image.tmdb.org/t/p/w300/mo5hzbw0xofhFsBpnDWlnniCbFl.jpg",
         "a": "2013",
@@ -6172,14 +6164,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/aKAM9V0izx4VhsdyAdBvAB26UCZ.jpg",
         "a": "2014",
         "link": "https://drive.google.com/file/d/1AMguxy2ViYXu-_KUTz7JpyuXVkX-4Pop/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "ANONIMO",
-        "c": "https://image.tmdb.org/t/p/w300/6ObRyIQHJAY2X575hLVgKsnNlar.jpg",
-        "a": "2025",
-        "link": "https://drive.google.com/file/d/1h7ggRStuNd9hnz8rnK9eT4XgVboG9JLf/view",
         "tags": "DUB",
         "n": 0
     },
@@ -31980,6 +31964,22 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/6zHdhfnreagE3Bv6n7BXtC8gk6r.jpg",
         "a": "2016",
         "link": "https://drive.google.com/file/d/1XlpTbOd20SujTmbV4jGOi3VNYpp0L4nA/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "ANÔNIMO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/k3tyiHtv38mk31S99Fk2PSkW3Bo.jpg",
+        "a": "2011",
+        "link": "https://drive.google.com/file/d/1aW_-lgKa4NOzsbFAONm3IvtrB49fcDZT/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "ANONIMO",
+        "c": "https://image.tmdb.org/t/p/w300/qvW0h99en3sE8p1KQYZfO34VhZh.jpg",
+        "a": "2021",
+        "link": "https://drive.google.com/file/d/1h7ggRStuNd9hnz8rnK9eT4XgVboG9JLf/view",
         "tags": "DUB",
         "n": 0
     }

@@ -17387,7 +17387,7 @@ filmes = [
         "t": "MOONLIGHT IN VERMONT",
         "c": "https://image.tmdb.org/t/p/w300/wITyFvOffnDi09fqBmORUhE6zS6.jpg",
         "a": "2017",
-        "link": "https://drive.google.com/file/d/1dSvafZlUPPwv3ihNvg3GmIBFBrJ--mVA/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1KeIQHHEbL0v6H99WbFjCrtYesfeagS3u/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -31412,22 +31412,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/fsz2G4zwjsRMdhod6L9ZRS7ILvO.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/1XMtlvKsra2kT79k5V1CiOHUiIuYpqEEk/view?usp=sharing",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "MATEMÁTICA DO AMOR",
-        "c": "https://image.tmdb.org/t/p/w300/boeiQe9Wds0q5YYGRIBGHxWDX8W.jpg",
-        "a": "2010",
-        "link": "https://drive.google.com/file/d/1ShAQ7hXa62FOCjSsNWz2lS7FlHBXzwIq/edit",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "MOONLIGHT IN VERMONT",
-        "c": "https://image.tmdb.org/t/p/w300/wITyFvOffnDi09fqBmORUhE6zS6.jpg",
-        "a": "2017",
-        "link": "https://cutt.ly/VtJRVMe",
         "tags": "LEG",
         "n": 0
     },

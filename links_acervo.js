@@ -15387,7 +15387,7 @@ filmes = [
         "t": "LENDAS DA PAIXÃO",
         "c": "https://image.tmdb.org/t/p/w300/bC6MpOWguWuZ0DyQUrIeUfxrd6B.jpg",
         "a": "1994",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B17K-dABLTkta3RDWDgySjVmcnc&dsh=S573530077%3A1774906984836218&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B17K-dABLTkta3RDWDgySjVmcnc&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Vc3jcboCqsXHdIp8pU1C8d0PMMTRWLJ3JL62hbOCzLVt90wtWUsedSKIw2DmK3r_W9VEZBkA",
+        "link": "https://drive.google.com/file/d/1QETD1417Aqoisf7gzCN7By78_iZSftKz/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -15456,11 +15456,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "LIKE FATHER LIKE SON",
-        "c": "https://image.tmdb.org/t/p/w300/bLnsOyu3Rv5b3JkgADgQGiGTm5m.jpg",
-        "a": "1987",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0dkClYJrWIaaGhCUWxVa1ExSFk%2Fview%3Fusp%3Dsharing&dsh=S1394476296%3A1774906999444350&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0dkClYJrWIaaGhCUWxVa1ExSFk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UeknGQJNqx19_Z8qf3sTUVng6NpDQWFcd68DqFIfjFIGYiRTw7XG0DrVBKuipXLYPDzr4Ohg",
-        "tags": "DUB",
+        "t": "LIKE FATHER LIKE SON PAIS E FILHOS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/r0nejXOf6e4leWhnLuEQOmC5hrX.jpg",
+        "a": "2013",
+        "link": "https://drive.google.com/file/d/1u0HS4P5Ni5Bg1lp-2NC95vCkBzb-2vPl/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -15483,7 +15483,7 @@ filmes = [
         "t": "LION UMA JORNADA PARA CASA",
         "c": "https://image.tmdb.org/t/p/w300/78Jj9BjEnycYsvurXQCMo3dafIx.jpg",
         "a": "2016",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0_f2IPi6T-0OEtXRDd6VmJ6ckk&dsh=S1345337409%3A1774907004088710&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0_f2IPi6T-0OEtXRDd6VmJ6ckk&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XvbzGf1AZPSrrT9Jqx_XlqwBHU1tS6s6epgL9T1RfgO9nfKQKSM3LtdVJ7PCwHo8YdnlRm",
+        "link": "https://drive.google.com/file/d/0B0_f2IPi6T-0OEtXRDd6VmJ6ckk/view?usp=sharing&resourcekey=0-ldSlC0ISA7F-leHsvThgNQ",
         "tags": "DUB",
         "n": 0
     },
@@ -15523,23 +15523,23 @@ filmes = [
         "t": "LOLITA",
         "c": "https://image.tmdb.org/t/p/w300/fABjUtQdvRpjqdw1UYJmmlnpCtz.jpg",
         "a": "1997",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B1HkZz9-ieqSMGJUV1E5WW41VUU%3Fusp%3Dsharing&dsh=S-1758961639%3A1774907016176896&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B1HkZz9-ieqSMGJUV1E5WW41VUU%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UlpBFFPpbYxcP-O6ltFVvB0q5Q-2S5h6_r-btL-mw-LVgzJSA8ZBz_k89ZkmiqetppTJKLrw",
+        "link": "https://drive.google.com/file/d/1WTGW-2ec9q7_EgGhll2jinOHS2YuUjpa/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "LONDON HAS FALLEN",
+        "t": "LONDON HAS FALLEN INVASÃO A LONDRES",
         "c": "https://image.tmdb.org/t/p/w300/tWpB4lK4RFEQf0CHsVgDWZOmUbl.jpg",
         "a": "2016",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kVhZQ7U7RFRUgyXzdmLTIzdDA%2Fview%3Fusp%3Dsharing&dsh=S-1221112150%3A1774907019141384&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kVhZQ7U7RFRUgyXzdmLTIzdDA%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WMKp_NfNxDLyBBX5le06CM00cqwTMgfwWDPhWECh2Ns0fB3W70Te1TeXmsOZaEk8DbVal9Bw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B3kVhZQ7U7RFRUgyXzdmLTIzdDA/view?usp=sharing&resourcekey=0-QDXEVvSieUl9EIWDtq9UrQ",
+        "tags": "LEG",
         "n": 0
     },
     {
         "t": "LONGE DESTE INSENSATO MUNDO",
         "c": "https://image.tmdb.org/t/p/w300/1GsWLlFnS79kpz9DgW91M6yB46H.jpg",
         "a": "2015",
-        "link": "https://drive.google.com/file/d/0B0R2_29VSnYcdV84ejNOd0drYUU/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1SG8DWbNk3Xjwxpg9iLIPI7D6nZkWi-U3/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -15555,8 +15555,8 @@ filmes = [
         "t": "LOS ANGELES CIDADE PROIBIDA",
         "c": "https://image.tmdb.org/t/p/w300/yCzn6ZNhYjCBIin58TePBco64rC.jpg",
         "a": "1997",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6YDeOkBf2TUUzB5YVI4cDZlZ1k%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774907025125028&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6YDeOkBf2TUUzB5YVI4cDZlZ1k%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WqrvidxZ3wCy0jAif2PnEKqwRmAFSL6z634ae-xYNia2uioyh-XERAMOwjbC7Y06gezqoAzQ",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B6YDeOkBf2TUUzB5YVI4cDZlZ1k/view?usp=sharing&resourcekey=0-HtDovDn-JHOfBudgNALNVQ",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -15571,8 +15571,8 @@ filmes = [
         "t": "LOUCO POR ELAS",
         "c": "https://image.tmdb.org/t/p/w300/oK63C3dGUDKC1TPFLlgJx8RrHX0.jpg",
         "a": "2003",
-        "link": "https://drive.google.com/file/d/14sl2qeQ6ivuqPfweLwzV_dTuukjg-TOV/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1I6k3YDQfb0l6Zcxod4yGHC6S4FWxk13Q/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -15595,7 +15595,7 @@ filmes = [
         "t": "LOVE AFFAIR SEGREDOS DO CORAÇÃO",
         "c": "https://image.tmdb.org/t/p/w300/uPEh48HZN9qqewkF2Hsi9BD6oz7.jpg",
         "a": "1994",
-        "link": "https://drive.google.com/file/d/1fmSlLdifdIyzoMCOMOFMYo8YNziObg8c/view?usp=drive_open",
+        "link": "https://drive.google.com/file/d/1fmSlLdifdIyzoMCOMOFMYo8YNziObg8c/view",
         "tags": "LEG AC",
         "n": 0
     },

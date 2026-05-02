@@ -16208,9 +16208,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MISSÃO IMPOSSÍVEL HTTS://",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "MISSÃO IMPOSSÍVEL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fkrhyLSOuh0hgIoVKUGXRdDyVWE.jpg",
+        "a": "1996",
         "link": "https://drive.google.com/file/d/1f13XiJsRe_MtSpgP_FNAFUCdlCcyHCFB/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -16473,8 +16473,8 @@ filmes = [
     },
     {
         "t": "MAIS QUE VENCEDORES UM ENCONTRO DE SUPERAÇÃO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/6nkIoaeSPOBjn49EV2ykwKo0DeT.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/1iVTGDA5BpFcWATJsOBuLUeClspD2mVh3/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -16816,11 +16816,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MEGARRROMÂNTICO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/file/d/14d1Q3yjr3-0UGWpA9pV-jeWKT5yzo1oT/view?usp=sharing",
-        "tags": "DUB",
+        "t": "MEGARROMÂNTICO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/y8Do066qGx8LNEMYAGZAaNADQC8.jpg",
+        "a": "2019",
+        "link": "https://drive.google.com/file/d/1HBSdoNzdWKKYrcjWr7ccAcY6lZXAadzH/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -16832,9 +16832,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MEGATUBARÃO / DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "MEGATUBARÃO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/wrJkShDPK4TcV0nHix3HASEmkul.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/1yvp5viFUskbuf4A2v7DIxoTHzgFbvteR/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -16849,8 +16849,8 @@ filmes = [
     },
     {
         "t": "MELANCOLIA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "2025",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/v5jrWxgcA9KYVENQVHJ6ZPSht2I.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1jNY6_Hjx8GtkeV4I7SGWq2QK2NV1YDZu/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -16960,9 +16960,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MESA PARA QUATRO MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "MESA PARA QUATRO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/oYCNbQH7QjilbVrcfIkBi1RxsrE.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/16lY96RmB2ESfZAyT6Lg6OZFTNt20S5g-/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -16992,9 +16992,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MEU AMOR É UM PRÍNCIPE MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "MEU AMOR É UM PRÍNCIPE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pV6GDpT6nzlAhl9GNjZiG6y8UsO.jpg",
+        "a": "2017",
         "link": "https://drive.google.com/file/d/1nY_IX9gYQkpFx2GAjbEJVWccy6MH90gf/view",
         "tags": "DUB",
         "n": 0
@@ -17184,9 +17184,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MINHA CULPA DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "MINHA CULPA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dKeSPbCnBLjg298Y29UMlYD1sEe.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1SPzsDWTGfSMk36amlMZzqRSMEnKvQFma/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -17256,9 +17256,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MINUTEMEN VIAJANTES NO TEMPO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "MINUTEMEN VIAJANTES DO TEMPO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7aWTk1pgVddhtRG4stLQBM9KeGY.jpg",
+        "a": "2008",
         "link": "https://drive.google.com/file/d/1Vw52XHouWU40yU7cqRHysaS3CdYUNrJ7/view?usp=drive_open",
         "tags": "DUB",
         "n": 0
@@ -17560,9 +17560,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MY CHRISTMAS PRINCE MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "MY CHRISTMAS PRINCE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hRkbJ4gM1XdiOg013w7VokdKDWC.jpg",
+        "a": "2017",
         "link": "https://drive.google.com/file/d/1KLFSxhPRiMoJlrORa5zWZjx327NN6ZSg/view?usp=sharing",
         "tags": "LEG",
         "n": 0

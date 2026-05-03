@@ -729,8 +729,8 @@ filmes = [
     },
     {
         "t": "AMOR²",
-        "c": "https://image.tmdb.org/t/p/w300/slvVVYVxiKQ5rVKPIrFczozdomF.jpg",
-        "a": "2014",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9WaHDLUB8p03Cd6pYGnW4jZDYVX.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/17hopu4O4x_krTW4G75mJkI227-4vUigL/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -1329,8 +1329,8 @@ filmes = [
     },
     {
         "t": "A SAGA CREPUSCULO CREPÚSCULO",
-        "c": "https://image.tmdb.org/t/p/w300/z39dbVwa1iIihdUDHGiRy4tc2Ov.jpg",
-        "a": "2009",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vXEIFy6OPkEn3JRPSdhmWVXvaGa.jpg",
+        "a": "2008",
         "link": "https://drive.google.com/file/d/0B4nLNe9HQwT1TW5EVVc1bk1EU2c/view?usp=sharing&amp;resourcekey=0-vP__GkokdHgiaQDfYI4acA",
         "tags": "DUB",
         "n": 0
@@ -3377,10 +3377,10 @@ filmes = [
     },
     {
         "t": "A ESPIÃ",
-        "c": "https://image.tmdb.org/t/p/w300/bft6EuB96z0ureK832edqwAplDS.jpg",
-        "a": "2015",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/1jwOKQ9vPopoWkOW3SJ2lbPCUoQ.jpg",
+        "a": "2006",
         "link": "https://drive.google.com/file/d/0B6YDeOkBf2TUd1RBSkEwRHF0R3c/view?usp=sharing&amp;resourcekey=0-n8f4ZYE0xtX8JufZLhidfw",
-        "tags": "DUB",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -4561,8 +4561,8 @@ filmes = [
     },
     {
         "t": "A OUTRA",
-        "c": "https://image.tmdb.org/t/p/w300/a1a2JYoBTchMy1stqpSHxS5MMle.jpg",
-        "a": "2025",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rnSojBIuBZjyiVAj7eDHQvv1OGf.jpg",
+        "a": "2008",
         "link": "https://drive.google.com/file/d/1xf9wcNm8QVo4FAhK964Yy0NhXEIm2WHB/view?usp=drive_open",
         "tags": "DUB",
         "n": 0
@@ -4809,7 +4809,7 @@ filmes = [
     },
     {
         "t": "A ROYAL CHRISTMAS CRUSH",
-        "c": "https://www.themoviedb.org/t/p/w300/xQhIhzrw3vzqqZJiOJ0UASjX78p.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/znk6frNlEd90QATu40qsh997KvU.jpg",
         "a": "2023",
         "link": "https://drive.google.com/file/d/1lLgXpmvIDu3zwebHNEHkQj7XG7Em_H01/view?usp=sharing",
         "tags": "LEG",
@@ -5248,26 +5248,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AFTER DEPOIS DA VERDADE",
-        "c": "https://image.tmdb.org/t/p/w300/aduKXG7H0z0osY8KNQjcLB3cWO5.jpg",
-        "a": "2020",
-        "link": "https://drive.google.com/file/d/1ByEs_NOk56zF4BRB3HWii3KBhwwlDgfU/view?usp=sharing",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "AFTER EVERYTHING",
-        "c": "https://image.tmdb.org/t/p/w300/2smZAv5ghBo1I7HnuLgekxxBP2n.jpg",
-        "a": "2023",
-        "link": "https://drive.google.com/file/d/1Y1ryA9pU1zbCDd5lix_JRdxNDHqqMPMY/view?usp=sharing",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "AFTER",
+        "t": "AFTER 1",
         "c": "https://image.tmdb.org/t/p/w300/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
         "a": "2019",
-        "link": "https://drive.google.com/file/d/1r8T58Cz_heA8LWLr9NywvCgtYM_Ad16U/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1cRz1oKeAiuCdquEFPYl_LUTm6dhSuE1R/view",
         "tags": "DUB",
         "n": 0
     },
@@ -5281,8 +5265,8 @@ filmes = [
     },
     {
         "t": "AGORA E PARA SEMPRE",
-        "c": "https://image.tmdb.org/t/p/w300/4U2JKmNZLs6CbgaDrZupeB40N57.jpg",
-        "a": "1995",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kdWvgRNyFHxWO5rvXWmBYc3r8kk.jpg",
+        "a": "2012",
         "link": "https://drive.google.com/file/d/1Knw-S1AogubFO52k7zrwFT4y2NeEtrXP/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -8152,7 +8136,7 @@ filmes = [
         "n": 1
     },
     {
-        "t": "CARDÁPIO DE NATAL",
+        "t": "CARDÁPIO DE NATAL CHRISTMAS ON THE MENU",
         "c": "https://image.tmdb.org/t/p/w300/utKIc2pkvKe6HsdnXobQiLinUPU.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/1fIm1CXnzoD9t73MrwIUzwvR2nzmhwRpe/view?usp=sharing",
@@ -8872,7 +8856,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CHRISTMAS ON THE MENU",
+        "t": "CHRISTMAS ON THE MENU CARDÁPIO DE NATAL",
         "c": "https://image.tmdb.org/t/p/w300/utKIc2pkvKe6HsdnXobQiLinUPU.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/1_bsS43OLnuwuSsMVCa-AdHossmLnf4GW/view?usp=sharing",
@@ -10176,14 +10160,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "DOCE AMOR DE INVERNO FALL INTO WINTER",
-        "c": "https://image.tmdb.org/t/p/w300/Sp2vUXCAKvma23CUxWUW7QjShL.jpg",
-        "a": "2023",
-        "link": "https://drive.google.com/file/d/1siEkNrOhoYXsyKOmtOK2qOhB76C_3d12/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "DANÇANDO NO NATAL DANCING THROUGH CHRISTMAS",
         "c": "https://image.tmdb.org/t/p/w300/expnctcoCzV68K0NhL96lyJP9U7.jpg",
         "a": "2021",
@@ -10913,8 +10889,8 @@ filmes = [
     },
     {
         "t": "DR. DOLITTLE",
-        "c": "https://image.tmdb.org/t/p/w300/mznxoYMKFOmJt7TOn12XHy4YiH1.jpg",
-        "a": "2001",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg",
+        "a": "1998",
         "link": "https://drive.google.com/file/d/1WwaGY9HyM_z5-9yH6vlRoRCbgApuFaVO/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -12337,8 +12313,8 @@ filmes = [
     },
     {
         "t": "FIRELIGHT",
-        "c": "https://image.tmdb.org/t/p/w300/hkgSUgPdOehzyGjczoytG3bzNaW.jpg",
-        "a": "1998",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/sTKmJMk3ViXe0MezShgMAK67Tuw.jpg",
+        "a": "2012",
         "link": "https://drive.google.com/file/d/1DrfEQ1UmJEM8ocWCLWjHGTxLXBhboPw3/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -16240,9 +16216,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MERCENÁRIAS",
-        "c": "https://image.tmdb.org/t/p/w300/1rbMWF6Npr1fwrcoTZcItFX5Rv1.jpg",
-        "a": "2014",
+        "t": "MERCENÁRIAS MANKILLERS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/aR4XL9R46uNvFjIw3gQzXEQwRlz.jpg",
+        "a": "1987",
         "link": "https://drive.google.com/file/d/1mfdyD_rYuXU-f8jzutR1Tv6De53Eu68T/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -16516,14 +16492,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/xb3SnxHBLYUjpYU78C0qv0RLLtd.jpg",
         "a": "2008",
         "link": "https://drive.google.com/open?id=1K3PRxohvZ7TkqcOfEcdEfnDYPLIIJL_W",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "MANDIE AND THE CHEROKEE TREASURE",
-        "c": "https://image.tmdb.org/t/p/w300/ggfdnCKKbAWOKPIese0HljYqBZb.jpg",
-        "a": "2010",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7Fki63f8bIDbVN2U1pVTHhNYTg%2Fview%3Fusp%3Dsharing&dsh=S1480233536%3A1774907382377602&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7Fki63f8bIDbVN2U1pVTHhNYTg%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UIuQDHGS5Al8v5tupDTFarjA9ZiUqml5cs9VhD5HOIC-tLlS6L4oqPCsLrQd3eJW8XRur9wQ",
         "tags": "DUB",
         "n": 0
     },
@@ -16928,11 +16896,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MERCENARIES",
+        "t": "MERCENARIES AS MERCENÁRIAS",
         "c": "https://image.tmdb.org/t/p/w300/1rbMWF6Npr1fwrcoTZcItFX5Rv1.jpg",
         "a": "2014",
         "link": "https://drive.google.com/file/d/1ZyJoRRY5v-EY97hGb8fuizoqsg-TrjSc/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "LEG AC",
         "n": 0
     },
     {
@@ -17036,14 +17004,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/s8BefU3RIJrfipTpsDtOiatlp8j.jpg",
         "a": "2024",
         "link": "https://drive.google.com/file/d/1PQRiE2Z_6zjCQcQoFahW0RjTq0xRvC6w/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "MEU MESTRE MINHA VIDA",
-        "c": "https://image.tmdb.org/t/p/w300/y6WmWaJONCHWuly4zcMToXJZxjw.jpg",
-        "a": "1989",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B67Su-96pCjZUjBJTkRaZnhDMUk%2Fview%3Fusp%3Dsharing&dsh=S-1221112150%3A1774907643244053&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B67Su-96pCjZUjBJTkRaZnhDMUk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_X3rTzOFxeLvdL-oLYKLjrlkex2vgIebQ0gzb1bg4JBg8C_8TJ8O7j2X8mZQkjWnzj9IK7Ziw",
         "tags": "DUB",
         "n": 0
     },
@@ -17681,8 +17641,8 @@ filmes = [
     },
     {
         "t": "NÃO OLHE",
-        "c": "https://image.tmdb.org/t/p/w300/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",
-        "a": "2021",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zhA2Cv9fuAGC5QaUfb9UCT3C6Ip.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/17xxSvQ6lFik7UwpsjD9F2x2jvibKUeOx/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -18385,8 +18345,8 @@ filmes = [
     },
     {
         "t": "NATAL PARA SEMPRE",
-        "c": "https://image.tmdb.org/t/p/w300/w9JKc9hmB5AsNtINi6BvLYUhH61.jpg",
-        "a": "2019",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hsSqM0ZX1o7qBW46Qq9CUxQnXPi.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1pfKzYHN4ddFvzVMB50oDMmN8PRNngyZq/view?usp=sharing",
         "tags": "DUB",
         "n": 1
@@ -31222,14 +31182,6 @@ filmes = [
         "link": "https://drive.google.com/file/d/1kMJQKDUAcL07gM1c12-EZxAXqBaX8m-H/view?usp=sharing",
         "tags": "LEG",
         "n": 1
-    },
-    {
-        "t": "AFTER 1",
-        "c": "https://image.tmdb.org/t/p/w300/a1a2JYoBTchMy1stqpSHxS5MMle.jpg",
-        "a": "2025",
-        "link": "https://drive.google.com/file/d/1cRz1oKeAiuCdquEFPYl_LUTm6dhSuE1R/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
     },
     {
         "t": "NATAL CASEIRO",

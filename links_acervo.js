@@ -7280,9 +7280,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "BLADE RUNNER",
-        "c": "https://image.tmdb.org/t/p/w300/y5ibL0vFnzsRiIHosw0WOfHtIj1.jpg",
-        "a": "1982",
+        "t": "BLADE RUNNER 2049",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",
+        "a": "2017",
         "link": "https://drive.google.com/file/d/10Q0u0VysyVxvE9FqYKf77W0Pc7ut3BgI/view?usp=drive_open",
         "tags": "DUB",
         "n": 0
@@ -16097,8 +16097,8 @@ filmes = [
     },
     {
         "t": "MULAN",
-        "c": "https://image.tmdb.org/t/p/w300/72I82eKXCadZWEYygV9GkJOQNEq.jpg",
-        "a": "2020",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bmM6nAva9zzNn4PAzJpQsEJxD9G.jpg",
+        "a": "1998",
         "link": "https://drive.google.com/file/d/1zaA9jiUbWTXIUBfor6DzJAQgHkZxzRsd/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -16721,10 +16721,10 @@ filmes = [
     },
     {
         "t": "MATCHLESS MULAN",
-        "c": "https://image.tmdb.org/t/p/w300/72I82eKXCadZWEYygV9GkJOQNEq.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fWd3V6vnDOaDo8OgdeFnOwOI8DL.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/1qr_CbOO0Z-MRkQj4qyP32NRHrL5F454e/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {
@@ -31276,14 +31276,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/6JnnqQJdCoysMCumqfVKDQ0G7Yj.jpg",
         "a": "2022",
         "link": "https://drive.google.com/file/d/1qLf0_-uqV7RdGH8l-EdxeFl2heLh_IyW/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "MOVIMENTO DE JESUS",
-        "c": "https://image.tmdb.org/t/p/w300/m96gOrdyL5jC3u3Znaqq4AG1V8T.jpg",
-        "a": "2023",
-        "link": "https://drive.google.com/file/d/1EsahEbaRf8FKf0T4TYWEovwxwcMKB_te/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

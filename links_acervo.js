@@ -17960,9 +17960,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NA SINFONIA DO CORAÇÃO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "NA SINFONIA DO CORAÇÃO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cmnU2u5WJjl8R6Q0JX2eBN7RpGY.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1BbySfalDWi1UAiAggTqi5fupTqzr49JG/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -17984,9 +17984,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NAMORANDO UMA MULHER MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "NAMORANDO UMA MULHER COMING IN",
+        "c": "https://media.themoviedb.org/t/p/w300_and_h450_face/3xof8mMKsHKRKdu5qoyOVd995M3.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/1K15rrlT9sjQ67cWS_vKg2RHa_LWB6K0H/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -18104,9 +18104,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NÃO VÁ MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "NÃO VÁ",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zVbVX28f6MvtlbwDknAUXfJjXZK.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1pPHLMqUH9nb5W8fT8j5y-paRbwu0Q0g6/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -18121,30 +18121,30 @@ filmes = [
     },
     {
         "t": "NASCE UMA ESTRELA",
-        "c": "https://image.tmdb.org/t/p/w300/oE28S11nRjK7Lnnowv43cKK4lyJ.jpg",
-        "a": "2018",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/r4kKls84ZXIyzIpla0G4cryqgA.jpg",
+        "a": "1937",
         "link": "https://drive.google.com/file/d/16VhKZcnIb7_WV3u9v3AxotKINHyceQuB/view",
         "tags": "DUAL",
         "n": 0
     },
     {
         "t": "NASCE UMA ESTRELA",
-        "c": "https://image.tmdb.org/t/p/w300/oE28S11nRjK7Lnnowv43cKK4lyJ.jpg",
-        "a": "2018",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7Qw50rvebaqn4Eew3oOLOGNf0f2.jpg",
+        "a": "1954",
         "link": "https://drive.google.com/file/d/1Hv7D832mKTiiWUK1rjZO5xHriAdiyyag/view",
         "tags": "LEG",
         "n": 0
     },
     {
         "t": "NASCE UMA ESTRELA",
-        "c": "https://image.tmdb.org/t/p/w300/oE28S11nRjK7Lnnowv43cKK4lyJ.jpg",
-        "a": "2018",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hfLPNqDfoa4iGKYw3jJmO94fR6f.jpg",
+        "a": "1976",
         "link": "https://drive.google.com/file/d/1HhNumK5x1XOW36aGEhV5zFMLZOIwNnsL/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
     },
     {
-        "t": "NASCE UMA ESTRELA",
+        "t": "NASCE UMA ESTRELA ASSIM NASCE UMA ESTRELA",
         "c": "https://image.tmdb.org/t/p/w300/oE28S11nRjK7Lnnowv43cKK4lyJ.jpg",
         "a": "2018",
         "link": "https://drive.google.com/file/d/1p2U1KSIrfF6GHJeVrtRhzy80GheEEO87/view",
@@ -18160,14 +18160,6 @@ filmes = [
         "n": 1
     },
     {
-        "t": "NATAL CASEIRO",
-        "c": "https://image.tmdb.org/t/p/w300/ybvbEKTzvQubMDV2CziqB1lnBCK.jpg",
-        "a": "2018",
-        "link": "https://drive.google.com/open?id=1xZFaSytCXBLKfPzxIj-dj9xOKnwK6jli",
-        "tags": "DUB",
-        "n": 1
-    },
-    {
         "t": "NATAL COM MEU EX",
         "c": "https://image.tmdb.org/t/p/w300/tvvJmzSFidXxMR9elOUw1rT7cY2.jpg",
         "a": "2017",
@@ -18176,9 +18168,9 @@ filmes = [
         "n": 1
     },
     {
-        "t": "NATAL COM VOCÊ MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "NATAL COM VOCÊ",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rU2sCry1YzuBoeMj06eWqTfponC.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1qaBBxpuKk8t0Eh9QIr1awqRhgba7-pIv/view?usp=sharing",
         "tags": "DUB",
         "n": 1
@@ -18200,9 +18192,9 @@ filmes = [
         "n": 1
     },
     {
-        "t": "NATAL EM BOA FORMA MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "NATAL EM BOA FORMA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/tuoVeTYfR2DZMpntRwsjuJHivFG.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1TEwfTFTI7Ead22RNO3oW0K_QMYQk1Uek/view?usp=sharing",
         "tags": "DUB",
         "n": 1
@@ -18224,9 +18216,9 @@ filmes = [
         "n": 1
     },
     {
-        "t": "NATAL EM COYOTE CREEK MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "NATAL EM COYOTE CREEK",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5jL8B3E2OtDDIvrACO3yLdUFOt8.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/17HhEb4VXlL1X8JCYbQYAu3318-abomGV/view?usp=sharing",
         "tags": "DUB",
         "n": 1
@@ -18296,9 +18288,9 @@ filmes = [
         "n": 1
     },
     {
-        "t": "NATAL NA REALEZA MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "NATAL NA REALEZA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/A5EJtJNS8aVGLEWtzV6IiZ3jrM7.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/1fNk4VOywfsTenG4b8Xa0G6FYIHMuVlXN/view",
         "tags": "DUB",
         "n": 1
@@ -18400,9 +18392,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NAUGHTY & NICE MISTLETOE RADIO CHRISTMAS MIX AMOR DE NATAL MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "NAUGHTY & NICE MISTLETOE RADIO CHRISTMAS MIX AMOR DE NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rKEge46QIXAzZiclJbMI4UEF69F.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/1Rld4eSzJkCxtNmzAU2TnSlmFtrpbYBwS/view?usp=sharing",
         "tags": "LEG",
         "n": 1
@@ -18416,35 +18408,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NEMESIS 1 O EXTERMINADOR DE ANDROIDES",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/1vjMCPE6FUn595_4nomEtQYxaEsxJgSZa?usp=sharing",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
         "t": "NEMESIS 2 NEBULA",
         "c": "https://image.tmdb.org/t/p/w300/dfBROAe2wXgbB7NbksvVvT49vZW.jpg",
         "a": "1995",
         "link": "https://drive.google.com/drive/folders/1YjvFr207MLjWUfoXTcWoToRYK3lyp6ax?usp=sharing",
         "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "NEMISES 3 TIME LAPSE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/1rDsfueVyv0bE9CnnPWoyMXewBoEMJ58R?usp=sharing",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "NERVE UM JODGO SEM REGRAS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0BzlD8YrQV2LLUHVqWkp2UkRFTVk&dsh=S-1758961639%3A1774908205053385&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0BzlD8YrQV2LLUHVqWkp2UkRFTVk&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Xyi-jiPQN7FmV1885AaK1J09R87-4Q10-kT9VTvxfJJTx06_bEPGJrBNlq5Tlz1fYWuzrq",
-        "tags": "DUB",
         "n": 0
     },
     {
@@ -18456,15 +18424,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NEVER BEEN KISSED",
-        "c": "https://image.tmdb.org/t/p/w300/txX1wXYysKGkDGi4EsHTcq1KwZz.jpg",
-        "a": "1999",
-        "link": "https://drive.google.com/file/d/0B4uXSj2MEtrzYUhfTDVDdkNWRzg/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "NEVER KISS A MAN IN A CHRISTMAS SWEATER",
+        "t": "NEVER KISS A MAN IN A CHRISTMAS SWEATER NUNCA BEIJE UM HOMEM EM UM SUÉTER DE NATAL",
         "c": "https://image.tmdb.org/t/p/w300/Pys1wA5QX4oUl6SuABl4en2Yhc.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/1r9fx6hweIHisXhetHI9ZcMnY9_D9rPme/view?usp=sharing",
@@ -18521,10 +18481,10 @@ filmes = [
     },
     {
         "t": "NINJA A MORTE NEGRA MAFIA VS NINJA DUELO DE TIGRES",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xIvTDCnydzzOwYUsRcPMJ1FvMBo.jpg",
+        "a": "1986",
         "link": "https://drive.google.com/file/d/112ENTSdpBoFn1kj61y26oKllYVq0Y5D9/view?usp=drive_open",
-        "tags": "DUB",
+        "tags": "SEM LEG",
         "n": 0
     },
     {
@@ -18600,9 +18560,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NO ONE WILL SAVE YOU NINGUÉM VAI TE SALVAR LEGENDADO MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "NO ONE WILL SAVE YOU NINGUÉM VAI TE SALVAR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/uG98VLsuTttoQzltwQtdNocObmX.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/19tymblqErMTNN-PD2tVJ50LRHziP7zAk/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -18616,9 +18576,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NO SEU NATAL OU NO MEU MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "NO SEU NATAL OU NO MEU",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/el4PUAp4GyLri08Qn9zrfQ4V0QE.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1Oa9VAZDDg5J9cmIR3fhjCVcTlx8TnwPz/view?usp=sharing",
         "tags": "DUB",
         "n": 1
@@ -18636,14 +18596,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/3tFqK5wieaATdt54Y7A28O5lkj2.jpg",
         "a": "2008",
         "link": "https://drive.google.com/file/d/1bj9ZnWrnpCMV1DoI_zS2AXYsSh6TPdR9/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "NOIVA DO CORDEIRO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0ByacGCAmChakZEE3bVZub1lLVkk%2Fview%3Fusp%3Dsharing&dsh=S354902304%3A1774908251611494&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0ByacGCAmChakZEE3bVZub1lLVkk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_W4oqiB_ruvgVRrNKvvPZibsjZz-xFcdQBO-AR4ZmDn28BPjWIv9DEbalD_zdyRIQpMgKf6HQ",
         "tags": "DUB",
         "n": 0
     },
@@ -18728,7 +18680,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NUNCA BEIJE UM HOMEM EM UM SUÉTER DE NATAL",
+        "t": "NUNCA BEIJE UM HOMEM EM UM SUÉTER DE NATAL NEVER KISS A MAN IN A CHRISTMAS SWEATER",
         "c": "https://image.tmdb.org/t/p/w300/Pys1wA5QX4oUl6SuABl4en2Yhc.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/10lpQKzip5Fy8jIgxj4FM7WaTcTutdWzd/view?usp=sharing",
@@ -30488,9 +30440,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "VOCÊ NÃO PODE BEIJAR A NOIVA LEGENDADO / DUBLADO 360P",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "VOCÊ NÃO PODE BEIJAR A NOIVA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/aGGbtt5kLRYyoUXgwslMaygsiZ.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1ANW_3Alh-6KCkKiAp2I1o4j_uzhmhMFB/view?usp=sharing",
         "tags": "LEG",
         "n": 0
@@ -31357,14 +31309,6 @@ filmes = [
         "a": "2020",
         "link": "https://drive.google.com/file/d/1XMtlvKsra2kT79k5V1CiOHUiIuYpqEEk/view?usp=sharing",
         "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "NOSSA VIDA COM CÃES",
-        "c": "https://image.tmdb.org/t/p/w300/mJoFG7M9edUIkh8y6tYnLCRHZyO.jpg",
-        "a": "2018",
-        "link": "http://Reupar...",
-        "tags": "DUB",
         "n": 0
     },
     {

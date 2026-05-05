@@ -16459,7 +16459,7 @@ filmes = [
         "t": "MALDITAS ARANHAS",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rTI1y2ePzTxqlHAJHpDtWZH0OCz.jpg",
         "a": "2002",
-        "link": "https://drive.google.com/file/d/0B4TkuuqEMxR-cjdWWWhpczIwTEE/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1LLbu7P5JdRmtypC-ITR9OJF1ASWsPJ2-/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -16539,7 +16539,7 @@ filmes = [
         "t": "MARCADOS PELA GUERRA",
         "c": "https://image.tmdb.org/t/p/w300/eKtW2VY2dil9fTTWuLlkCyD1Nkf.jpg",
         "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0_f2IPi6T-0ODNWaGQ4bkRKcjg&dsh=S-2062413408%3A1774907444801783&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0_f2IPi6T-0ODNWaGQ4bkRKcjg&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WqZ-Qkpm8d6JgGFhwiHhFK_gmbhpf9hL9qa3STIbWteFgcGnHn7JNwg48yF83qk8pazg7E1Q",
+        "link": "https://drive.google.com/file/d/0B0_f2IPi6T-0ODNWaGQ4bkRKcjg/view?usp=sharing&resourcekey=0-9gekHZlFPOPLWtoyIODRbw",
         "tags": "DUB",
         "n": 0
     },

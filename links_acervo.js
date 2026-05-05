@@ -16554,9 +16554,9 @@ filmes = [
     {
         "t": "MARCAS DO PASSADO",
         "c": "https://image.tmdb.org/t/p/w300/mvbCCsYSgHyO4O5y4pi7yF31CuG.jpg",
-        "a": "2006",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0gq0GVVLeCDbEl1NVBJc1U3SHM%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774907449390245&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0gq0GVVLeCDbEl1NVBJc1U3SHM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WMHwQ9Ru-bJ-wf19v_SJWkBWdXYU0p72hlp_AkKLP1x9C66wZi8ftv6sYQ0BSrwhweUiNDlA",
-        "tags": "DUB",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/0B0gq0GVVLeCDbEl1NVBJc1U3SHM/view?usp=sharing&resourcekey=0-3dFHru7ne1zugmjA10EWyw",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -16578,8 +16578,8 @@ filmes = [
     {
         "t": "MARIDO DISFARÇADO",
         "c": "https://image.tmdb.org/t/p/w300/yRfXATus7S1nSzTEkRptf7iu5CM.jpg",
-        "a": "2013",
-        "link": "https://drive.google.com/file/d/1wjV0qbeMOnYgeGlRt7UTfPtgq33GOjyp/view?usp=sharing",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/1g3pbjL-m-XyhBd9dI-VhX3W5iTQrTPFo/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -16640,11 +16640,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MARTYRS / MÁRTIRES",
-        "c": "https://image.tmdb.org/t/p/w300/hBn8qwgMFrJzSrpHJQ66TV9lSHL.jpg",
-        "a": "1967",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3UQWxpf80TobWZFSnRERDF0cUE%2Fview%3Fusp%3Dsharing&dsh=S-1271814163%3A1774907470863826&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3UQWxpf80TobWZFSnRERDF0cUE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_U7A7E8bqGIL8a2UOVT6O18PgCzzwIXucu5Np4TH3iwWnyIVVFn8t4U3kv8WJ_SOTaJ-eDzFQ",
-        "tags": "DUB",
+        "t": "MARTYRS MÁRTIRES",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5yfPA9lXqONtLMgZks87ECob1A5.jpg",
+        "a": "2008",
+        "link": "https://drive.google.com/file/d/1AlQGX2Li_JtBIGrFk8l0AiX5RFmg2T2t/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

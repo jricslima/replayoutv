@@ -7492,7 +7492,7 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/h3lncTnK86R8XylpXgpe0JfU1wm.jpg",
         "a": "2025",
         "link": "https://drive.google.com/file/d/1KhHEuXIxJUU10Zh4APxe9btZpJDTYO5W/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {
@@ -16457,7 +16457,7 @@ filmes = [
     },
     {
         "t": "MALDITAS ARANHAS",
-        "c": "https://image.tmdb.org/t/p/w300/rTI1y2ePzTxqlHAJHpDtWZH0OCz.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rTI1y2ePzTxqlHAJHpDtWZH0OCz.jpg",
         "a": "2002",
         "link": "https://drive.google.com/file/d/0B4TkuuqEMxR-cjdWWWhpczIwTEE/view?usp=sharing",
         "tags": "DUB",
@@ -16506,8 +16506,8 @@ filmes = [
     {
         "t": "MÁQUINA DE GUERRA",
         "c": "https://image.tmdb.org/t/p/w300/48h40o6Q97hZaqH0g7bOiXOrImX.jpg",
-        "a": "2026",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-qwfV7YInAHc1FKVUt0RXBLb1U&dsh=S488483084%3A1774907385667656&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-qwfV7YInAHc1FKVUt0RXBLb1U&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Wfp6BfkFPYZb9aQY15RJcgkYNZOqRuvfkMP-S2Hkg6A29FOjCuPDlTRNrFzWEveJ9Kdj-EOw",
+        "a": "1998",
+        "link": "https://drive.google.com/file/d/1-4Vzkb7JxNyP-Vr0tcm1bSEK8hiITQ5L/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

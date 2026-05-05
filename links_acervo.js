@@ -16667,7 +16667,7 @@ filmes = [
         "t": "MASSACRE NO BAIRRO JAPONÊS",
         "c": "https://image.tmdb.org/t/p/w300/vgiGW7F1VVue9EAOR70gJwHecLj.jpg",
         "a": "1991",
-        "link": "https://drive.google.com/file/d/1OvXeG9Z-n9il4F2mbiryLHSA4ECzRxmA/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1UECk7c8lzpQ1hbf6832EV8wkYKgevZcu/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -16723,7 +16723,7 @@ filmes = [
         "t": "MATRIX REVOLUTIONS",
         "c": "https://image.tmdb.org/t/p/w300/92oJ810bYqijBQ8tqYL74mSpPtV.jpg",
         "a": "2003",
-        "link": "https://drive.google.com/file/d/1R83E2VbOqedqmxh-jaNc6O-o-J9yPX-L/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1KRs9merKIvND6hTsF2tSTX66J3JpfQlZ/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -16731,7 +16731,7 @@ filmes = [
         "t": "MATRIX",
         "c": "https://image.tmdb.org/t/p/w300/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
         "a": "1999",
-        "link": "https://drive.google.com/file/d/1SZlzwPALXKd3y_WNlNURgLWfMg1w9JLP/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1KVDP9dxKxvQpKjK2FqfwUuCpucJP4uN-/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -16747,7 +16747,7 @@ filmes = [
         "t": "MAVERICK",
         "c": "https://image.tmdb.org/t/p/w300/t3kWVjMpZoqZnZAQy50JVRpDdHs.jpg",
         "a": "1994",
-        "link": "https://drive.google.com/file/d/1BHCTIErC5tpxmQYyt1cs28pklc2zXLq3/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1cs5ZMSC5Zrezj-8a2nwIuKbFLHBtvPmB/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -16769,9 +16769,9 @@ filmes = [
     },
     {
         "t": "MEDO PROFUNDO",
-        "c": "https://image.tmdb.org/t/p/w300/8Wn3yjTkdqHvgxY6kdkTGmoBQnn.jpg",
-        "a": "2017",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2wBOxEXsRBORERtMU1vM0VPOW8%2Fview%3Fusp%3Dsharing&dsh=S-1959460126%3A1774907502727666&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2wBOxEXsRBORERtMU1vM0VPOW8%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XyoZGh-NcV-EDP3SVsE4mc-zbL8uQxUcX2NZho4KMCj-VQzCtFsM6zhNmZBGOnQWS8I8Q_Hg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/4SJlD6e4v6pnACIpRVXcbB0c54J.jpg",
+        "a": "2007",
+        "link": "https://drive.google.com/file/d/1EcxIirCOy5VFBa5DgmuYtVoHnX58nnt7/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -16843,8 +16843,8 @@ filmes = [
         "t": "MEN OF THE DRAGON",
         "c": "https://image.tmdb.org/t/p/w300/ucT32iISGDY2scq0hGpw8kHLJjz.jpg",
         "a": "1974",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BxH99VHallX2NVp1N05xcm1Ebnc%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774907516680291&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BxH99VHallX2NVp1N05xcm1Ebnc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WDuIWgzVl2TGxGrgEemz5HiOk-gYQ3Gw2VzT0xnA_v-29kn5RWHG3nBzqF2CmOr_jUJr5Uow",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0BxH99VHallX2NVp1N05xcm1Ebnc/view?usp=sharing&resourcekey=0-HeW02yfS7tbipF22Oo3YHg",
+        "tags": "SEM LEG",
         "n": 0
     },
     {
@@ -16891,7 +16891,7 @@ filmes = [
         "t": "MENSAGEM PARA VOCÊ",
         "c": "https://image.tmdb.org/t/p/w300/xWReGRSFuAr7tuPA3k67gtThix1.jpg",
         "a": "1998",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBZm4yUXBKOTBfWFk%2Fview%3Fusp%3Dsharing&dsh=S271553589%3A1774907527615975&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBZm4yUXBKOTBfWFk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WGHmSMSPrvYXeNFzMiOk_7QCK7azYe61HgoFr4Ayv0eOTYcquCrQIlibSBFlGCL1-1P0U5Ww",
+        "link": "https://drive.google.com/file/d/0B4Cd9dT1lBbBZm4yUXBKOTBfWFk/view?usp=sharing&resourcekey=0-CuacZIvj8FTqS_rr9UpVTQ",
         "tags": "DUB",
         "n": 0
     },
@@ -17024,10 +17024,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MEU NOME É RADIO",
+        "t": "MEU NOME É RÁDIO",
         "c": "https://image.tmdb.org/t/p/w300/oIMyQjfUPLlhjpGaFnTWqggb7Fw.jpg",
         "a": "2003",
-        "link": "https://drive.google.com/file/d/0B4yAJsaqrigyaG0yYlN2bzBvblk/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1a-RNuAtF6g7lSTZb2CMk0DgT4zSdUeg-/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -17091,7 +17091,7 @@ filmes = [
         "t": "MIL SÉCULOS ANTES DE CRISTO",
         "c": "https://image.tmdb.org/t/p/w300/yoWGvQoCfh3aesZvybQlllfEliX.jpg",
         "a": "1966",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_uWXG5HJ_B5Z3hJdU5UNjZieTA%2Fview%3Fusp%3Dsharing&dsh=S1394476296%3A1774907663671105&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_uWXG5HJ_B5Z3hJdU5UNjZieTA%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WZFTgg6YD9RDkg-sInQVKHp5J-DwDvZc0Yx0NuvpVjRod-aqc4QGdwmeowtiaYwrV1iEE2Qw",
+        "link": "https://drive.google.com/file/d/1UaRl8QQ82jTRSiKMd70mqZH-oW3sFUDI/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

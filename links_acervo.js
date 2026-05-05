@@ -452,7 +452,7 @@ filmes = [
         "c": "https://www.themoviedb.org/t/p/w300/bmicZi7PvlnZ9rZqp6QXN2Db0pT.jpg",
         "a": "1959",
         "link": "https://drive.google.com/file/d/1peF938sLdZJacjrHTBGLqrstKsXirpsp/view",
-        "tags": "SEM LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {
@@ -31844,6 +31844,14 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/qvW0h99en3sE8p1KQYZfO34VhZh.jpg",
         "a": "2021",
         "link": "https://drive.google.com/file/d/1h7ggRStuNd9hnz8rnK9eT4XgVboG9JLf/view",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "NOIVA DO CORDEIRO",
+        "c": "https://i.postimg.cc/rV3sGZy6/noiva-do-cordeiro.png",
+        "a": "2007",
+        "link": "https://drive.google.com/file/d/1JxWeow3MK1zep5CrLTjQcuquY36dXeri/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     }

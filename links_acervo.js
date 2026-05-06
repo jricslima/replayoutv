@@ -17155,15 +17155,15 @@ filmes = [
         "t": "MINHA DESCONHECIDA FAMA",
         "c": "https://image.tmdb.org/t/p/w300/z7V5eXizo6boACrueG8yPC6y6xj.jpg",
         "a": "2013",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IM3ZOQzN1Q1lYNGc%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774907678249033&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IM3ZOQzN1Q1lYNGc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WpleSYeGI0DCSjsbxwY43QuGIv8Xrxon2LZiFGnnrMVxYLW2fgjaYItF3n-M3d_BCIiAA0-A",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B5D1SaJxbV4IM3ZOQzN1Q1lYNGc/view?usp=sharing&resourcekey=0-HfzO8T3UVeh_NVFVubINAA",
+        "tags": "DUAL",
         "n": 0
     },
     {
         "t": "MINHA MÃE É UMA PEÇA O FILME",
         "c": "https://image.tmdb.org/t/p/w300/2kj8VJEcqcxPmbuIjh5wf6FjMBH.jpg",
         "a": "2013",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IdVRRWXlmVkIwTWs%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774907680641772&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IdVRRWXlmVkIwTWs%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WltQrqw7jm7pj61k6LRlvVpyMUSbyLapyXE_hVwXhfDBm-X7FYX68stUbDPmsqtvNATEMEhw",
+        "link": "https://drive.google.com/file/d/0B5D1SaJxbV4IdVRRWXlmVkIwTWs/view?usp=sharing&resourcekey=0-vPpBDgv3821opjTYr6HGJg",
         "tags": "DUB",
         "n": 0
     },
@@ -17195,7 +17195,7 @@ filmes = [
         "t": "MINHA QUERIDA DAMA",
         "c": "https://image.tmdb.org/t/p/w300/63TDpwmmvwW6FW6WVDaFvn10WRs.jpg",
         "a": "2014",
-        "link": "https://drive.google.com/file/d/1F7oZju3VDLeYSQRlv3ErBNrrdT4WBshu/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1OkHpEnEj5qiZTyydtEOt6zEcRG_L4_x5/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -17299,7 +17299,7 @@ filmes = [
         "t": "MOÇA COM BRINCO DE PÉROLA",
         "c": "https://image.tmdb.org/t/p/w300/86Bis9xai20ivYA8K4aW6eg7wUQ.jpg",
         "a": "2003",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B17K-dABLTktTEdVUlJkcVVXLVk&dsh=S-2062413408%3A1774907713758602&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B17K-dABLTktTEdVUlJkcVVXLVk&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Wd-lQcjbn8hUQqKwz2irr89s3hZpYDy-7qFlZz5_dfIa93dqa9312Vwy4ZskdaKFKKL_R4QA",
+        "link": "https://drive.google.com/file/d/0B17K-dABLTktTEdVUlJkcVVXLVk/view?usp=sharing&resourcekey=0-0o-BcGP7yvNEnVyCT10ZkQ",
         "tags": "DUB",
         "n": 0
     },
@@ -17308,14 +17308,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/hDZBhyl83F07syVhQ0q21NBZSCC.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/1hR0kM0sLBJVENy81Dym5am4ZkHBGmHd-/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "MOLL FLANDERS",
-        "c": "https://image.tmdb.org/t/p/w300/lHVpzsvjLU7qSCB8UWFqIAavSRu.jpg",
-        "a": "1996",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5fVDz8aQP37azZnZ1VHX3pWNWM&dsh=S-284366117%3A1774907775935615&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5fVDz8aQP37azZnZ1VHX3pWNWM&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VnTegn_pTB9dFT43iHzizEIwuKAk_Jvi6129tE_9vwW6RYA1BlXRR5nyRvq5wHkHoNwLN9",
         "tags": "DUB",
         "n": 0
     },
@@ -17355,7 +17347,7 @@ filmes = [
         "t": "MOONRISE KINGDOM",
         "c": "https://image.tmdb.org/t/p/w300/3Vo4SrfuYYRcvQX02PqZJAaOZJt.jpg",
         "a": "2012",
-        "link": "https://drive.google.com/file/d/1hGSpBIDjprYWJ0VFH6bK9WhWSSFx8c70/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1cYG_fYfaU3VPlFfjRUbDrWaCtzKHGlIO/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -17363,7 +17355,7 @@ filmes = [
         "t": "MOSCOU EM NOVA YORK",
         "c": "https://image.tmdb.org/t/p/w300/uWb10jiBxDckvw12c3nsHLoXYYw.jpg",
         "a": "1984",
-        "link": "https://drive.google.com/file/d/0B4yAJsaqrigyWDhOZVdRb25fbDA/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1j4_cPItoGwTz4W5vkPVRZx487_K-Y-Fj/view",
         "tags": "DUB",
         "n": 0
     },
@@ -17384,10 +17376,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MOZART AND THE WHALE",
+        "t": "MOZART AND THE WHALE LOUCOS DE AMOR",
         "c": "https://image.tmdb.org/t/p/w300/epdMB47TmbmEgUHSpFmBsOBwt55.jpg",
         "a": "2005",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0PipzbCZE2qUWFpekwyOThsYmc%2Fview%3Fusp%3Dsharing&dsh=S1480233536%3A1774907791448256&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0PipzbCZE2qUWFpekwyOThsYmc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UHxP2BUBNvgVGgvdhBM5u1_vevl_DhG28zRQmlJVqEGfzAYXUGlPO1ZcoCHMXR9sEzWYwd1g",
+        "link": "https://drive.google.com/file/d/0B0PipzbCZE2qUWFpekwyOThsYmc/view?usp=sharing&resourcekey=0-e9uqckNA56CJi2ic_EBRug",
         "tags": "DUB",
         "n": 0
     },
@@ -17474,17 +17466,17 @@ filmes = [
     {
         "t": "MUNDOS OPOSTOS",
         "c": "https://image.tmdb.org/t/p/w300/d5mpPIvPJZeDiKn0R9G5MUyKX8G.jpg",
-        "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IWnB2RFFWSlI1LXc%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774907814974653&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IWnB2RFFWSlI1LXc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UzaGVJ2W86mnTlbGCuZH1cdk0lom_skw-Cj60PWyLa2WJZaGvrRycErZs3F6vNyPEQyrRJ",
-        "tags": "DUB",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/0B5D1SaJxbV4IWnB2RFFWSlI1LXc/view?usp=sharing&resourcekey=0-p_OOSmdM0wQvKvDhnWklsg",
+        "tags": "DUAL",
         "n": 0
     },
     {
         "t": "MUNIQUE",
         "c": "https://image.tmdb.org/t/p/w300/xCTk5AxrGWZ9bHl6UkL0SCebldw.jpg",
         "a": "2005",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B456RVrRYnkdeW5VTS1TN1I4OVE%2Fview%3Fusp%3Dsharing&dsh=S271553589%3A1774907817385125&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B456RVrRYnkdeW5VTS1TN1I4OVE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Wd6Q8zn92I0GXZtf17--xSZvEMx1g-_H-wqx6mZ26Ms3Ee30Zs1ljCYtZ4seb9LhYj76W2sw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B456RVrRYnkdeW5VTS1TN1I4OVE/view?usp=sharing&resourcekey=0-biZHtPHlYN62y7XQBNKy2A",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -17544,11 +17536,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MY NAME IS KHAN",
+        "t": "MY NAME IS KHAN MEU NOME É KHAN",
         "c": "https://image.tmdb.org/t/p/w300/gzrodQoWY2v8XEfFAT7pNRL5uMf.jpg",
         "a": "2010",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B77mza-lJWUyYVdkUGljNjIyQTg%2Fview%3Fusp%3Dsharing&dsh=S-284366117%3A1774907828877402&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B77mza-lJWUyYVdkUGljNjIyQTg%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UF2Y9RShdPWH2VJ8YQc5q5CFZsBKeS_5Fpkoh_xGUVgkmKBZGa8bTj3L89pJgROzKvP-0K",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/18LeAhNITLhTlFUb9YaqqxS3Es0-znTx-/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

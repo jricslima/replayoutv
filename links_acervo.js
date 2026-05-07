@@ -18400,10 +18400,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NEMESIS 2 NEBULA",
+        "t": "NEMESIS 2 A ÚLTIMA ESPERANÇA",
         "c": "https://image.tmdb.org/t/p/w300/dfBROAe2wXgbB7NbksvVvT49vZW.jpg",
-        "a": "1995",
-        "link": "https://drive.google.com/drive/folders/1YjvFr207MLjWUfoXTcWoToRYK3lyp6ax?usp=sharing",
+        "a": "Nemesis 2 A Última Esperança",
+        "link": "https://drive.google.com/file/d/1q9s1BQgUs8B8xTp28sFN8BCeIkmU0GHl/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -31845,6 +31845,22 @@ filmes = [
         "a": "2007",
         "link": "https://drive.google.com/file/d/1JxWeow3MK1zep5CrLTjQcuquY36dXeri/view?usp=sharing",
         "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "NEMESIS O EXTERMINADOR DE ANDROIDES",
+        "c": "https://image.tmdb.org/t/p/w300/gukhV1Sl9tQe8CFx8MTIVaYmjqx.jpg",
+        "a": "1992",
+        "link": "https://drive.google.com/file/d/1o73qsSf4s9o7zjpWk_b0Tl8cEmy6ncum/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "NEMESIS 3 TIME LAPSE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ghGwIJQpleJ16IfUZKmUJFUf46g.jpg",
+        "a": "1996",
+        "link": "https://drive.google.com/file/d/1Jqy4_kiCY3jKgZVFmEvYYNX8Q9Em0ZID/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     }
 ];

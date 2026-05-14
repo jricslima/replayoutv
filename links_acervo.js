@@ -18027,7 +18027,7 @@ filmes = [
         "t": "NÃO ME ABANDONE JAMAIS",
         "c": "https://image.tmdb.org/t/p/w300/lHmr8i8ELpvovAWUjM8O7WTPw1N.jpg",
         "a": "2010",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1b41N9wDOlQT1dnRVVMX1MzeTg%2Fview%3Fusp%3Dsharing&dsh=S1345337409%3A1774908037923152&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1b41N9wDOlQT1dnRVVMX1MzeTg%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Ud5G4h2j_2YL0LSsM5DvCUF4QyKzm2N3McX7RJP13u2wglcc2a2c2ReJfnbYxN3m8hQ5vI",
+        "link": "https://drive.google.com/file/d/0B1b41N9wDOlQT1dnRVVMX1MzeTg/view?usp=sharing&resourcekey=0-5zNaDoHrlsB0UQnwQqJQGg",
         "tags": "DUB",
         "n": 0
     },
@@ -18083,7 +18083,7 @@ filmes = [
         "t": "NÃO SOMOS ANJOS",
         "c": "https://image.tmdb.org/t/p/w300/A3S31MgxAzfqouAqxGLuQBJVPEm.jpg",
         "a": "1989",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6vagH7hkCwHLUhCcmNIVHlpZGM%2Fview%3Fusp%3Dsharing&dsh=S271553589%3A1774908050089576&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6vagH7hkCwHLUhCcmNIVHlpZGM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XHinWb6M3jaRTpJOndSV0pqE4dj5wkDRevILzNAimv_O1nsGcHnhwNC2vBDGpoj2ZsAZ4-yg",
+        "link": "https://drive.google.com/file/d/0B6vagH7hkCwHLUhCcmNIVHlpZGM/view?usp=sharing&resourcekey=0-JETqqko6tRC7pJiZixLFYg",
         "tags": "DUB",
         "n": 0
     },

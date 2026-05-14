@@ -18619,8 +18619,8 @@ filmes = [
         "t": "NOSSO AMOR DE ONTEM",
         "c": "https://image.tmdb.org/t/p/w300/tmxNttFQdUqpERHXpn4WXhsuV2D.jpg",
         "a": "1973",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8sj5gqpTXV5RVVPS3diaGZiSjA&dsh=S-1959460126%3A1774908261535250&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8sj5gqpTXV5RVVPS3diaGZiSjA&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VzA0-1NzGqHB5bZ4-IFgGtSbJ0lp3qeVRhAIxyDxfn16-5Wc2yJFDedogLubhxUptd7kk-Sw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B8sj5gqpTXV5RVVPS3diaGZiSjA/view?usp=sharing&resourcekey=0-gLu-Qf8fNcjl23lrk-Av4g",
+        "tags": "DUAL",
         "n": 0
     },
     {

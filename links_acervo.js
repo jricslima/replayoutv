@@ -17929,9 +17929,9 @@ filmes = [
     },
     {
         "t": "NA MÁFIA POR ACASO",
-        "c": "https://image.tmdb.org/t/p/w300/hvMTAQpWUZKU46sq8GuXVUAPD9j.jpg",
-        "a": "2005",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7Fki63f8bIDWmkyNlgteHRVanc%2Fview%3Fusp%3Dsharing&dsh=S1480233536%3A1774907938769080&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7Fki63f8bIDWmkyNlgteHRVanc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XvMJnNf4WrHrazo41pQ9ZbtEyO05r7dFZ4vfw74be3InqBfKnSeAZqysIFyNax8gFlEKyo5A",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fZpfm2NX3AMC6yn43houEpF2lL7.jpg",
+        "a": "2014",
+        "link": "https://drive.google.com/file/d/1xEO6QmF97pbVIJiOA8TNKwoE1SdnpwUc/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -23528,19 +23528,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "POLO NORTE DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BzIm0CiuS8wxUVE4Y1haS1dRVHc%2Fview%3Fusp%3Dsharing&dsh=S271553589%3A1774909956876376&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BzIm0CiuS8wxUVE4Y1haS1dRVHc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V-U6E-gGR8mVPNrKh0kliP4I6qI5LxRN7P97252hkohqxkRcz25-4y9ufqXSzo30T_f7Uz",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "POLO NORTE",
         "c": "https://image.tmdb.org/t/p/w300/iJBQqFq3jDdHpckoephqIIMlPvf.jpg",
         "a": "2014",
         "link": "https://drive.google.com/file/d/1OhY-AIEaWq4AMMUzWHrXme7xXYDOJOtR/view",
-        "tags": "LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {
@@ -27184,11 +27176,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "THE FORTUNES AND MISFORTUNES OF MOLL FLANDERS",
+        "t": "THE FORTUNES AND MISFORTUNES OF MOLL FLANDERS 1/2",
         "c": "https://image.tmdb.org/t/p/w300/xjzQhNnc8OZDnyFjLsuX62XmjtB.jpg",
         "a": "1996",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5fVDz8aQP37MXAzVS1YaGViZ0k&dsh=S1345337409%3A1774911375169082&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5fVDz8aQP37MXAzVS1YaGViZ0k&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VcZbkOg5omNeI-1nLkT-g41gErW2bY7V0XenN2LeD_PWW-CrN0INsdBHM47RJGkW7CksQgrQ",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1SsCV7px5Sg7_wnO7qZyElkD-ygPL0tNX/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -31860,6 +31852,14 @@ filmes = [
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ghGwIJQpleJ16IfUZKmUJFUf46g.jpg",
         "a": "1996",
         "link": "https://drive.google.com/file/d/1Jqy4_kiCY3jKgZVFmEvYYNX8Q9Em0ZID/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "THE FORTUNES AND MISFORTUNES OF MOLL FLANDERS 2/2",
+        "c": "https://image.tmdb.org/t/p/w300/xjzQhNnc8OZDnyFjLsuX62XmjtB.jpg",
+        "a": "1996",
+        "link": "https://drive.google.com/file/d/1HM7coglKb-GTpQ-Cz6OmY4aODCKaAfGI/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     }

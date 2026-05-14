@@ -18456,14 +18456,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NINFOMANÍACA VOLUME 2",
-        "c": "https://image.tmdb.org/t/p/w300/nbMhSVpyk5pNLqCSLadfzCPy77U.jpg",
-        "a": "2013",
-        "link": "https://drive.google.com/file/d/1cV6T0-z8R2rEgmELwWCeM6dXNDTlfn4B/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "NINGUEM SEGURA ESSA GAROTA",
         "c": "https://image.tmdb.org/t/p/w300/4STvkeb7Nmz0l4epzHaaVY6vo9o.jpg",
         "a": "2007",
@@ -18528,11 +18520,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NO MERCY",
-        "c": "https://image.tmdb.org/t/p/w300/kS2gd7yGJGPDeIOwJa3vKwX0bRL.jpg",
-        "a": "1986",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9cyUs4KSYdnTzlLZ3NhT0puZ1E%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774908235766384&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9cyUs4KSYdnTzlLZ3NhT0puZ1E%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V1FZO7_9pBp-njAjrw81x7Twa7cJVhw4wimCp_4qqxge-sopm4hyKnOHetj_bsRNIjT67zSg",
-        "tags": "DUB",
+        "t": "NO MERCY SEM MISERICÓRDIA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/eIthASE3aYUjbZzEwPLm3OBf4MW.jpg",
+        "a": "2010",
+        "link": "https://drive.google.com/file/d/1lbHG4UpwIE4PMzdNlq7x1_AjM0jsntdv/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -31860,6 +31852,30 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/xjzQhNnc8OZDnyFjLsuX62XmjtB.jpg",
         "a": "1996",
         "link": "https://drive.google.com/file/d/1HM7coglKb-GTpQ-Cz6OmY4aODCKaAfGI/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "NINFOMANÍACA VOLUME 2",
+        "c": "https://image.tmdb.org/t/p/w300/nbMhSVpyk5pNLqCSLadfzCPy77U.jpg",
+        "a": "2013",
+        "link": "https://drive.google.com/file/d/1xupD4aw-9fWpGYd5r_NL2zYf6-fw1YzP/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "NINFOMANÍACA VOLUME 1 EXT",
+        "c": "https://image.tmdb.org/t/p/w300/t2CHmKC6B3H78YikUXB70BYAvoI.jpg",
+        "a": "2013",
+        "link": "https://drive.google.com/file/d/1cr4WKZLvMtDPXqjbif6yh6vjTbdAY8eo/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "NINFOMANÍACA VOLUME 2 EXT",
+        "c": "https://image.tmdb.org/t/p/w300/nbMhSVpyk5pNLqCSLadfzCPy77U.jpg",
+        "a": "2013",
+        "link": "https://drive.google.com/file/d/1V9OIh-J0hRico3O2TfC3ZFIek4GyElsM/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     }

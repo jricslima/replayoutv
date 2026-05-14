@@ -18555,7 +18555,7 @@ filmes = [
         "t": "NO PIQUE DE NOVA YORK",
         "c": "https://image.tmdb.org/t/p/w300/sw8G4Ym2i9844daWcSmAyS1ITXB.jpg",
         "a": "2004",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bz2QRX--_UJ8bXRCbWNNV2hycmM%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774908244050861&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bz2QRX--_UJ8bXRCbWNNV2hycmM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Uh-XQNJ1LXTj_hvoo2WnPcYQRhdcKt-1H05EmAQQcIyeaiZ8fKzhpG9oaT5_ZgeHQMHASO",
+        "link": "https://drive.google.com/file/d/0Bz2QRX--_UJ8bXRCbWNNV2hycmM/view?usp=sharing&resourcekey=0-1MeRsZRvi8QUKdgz2mw-kg",
         "tags": "DUB",
         "n": 0
     },
@@ -18571,7 +18571,7 @@ filmes = [
         "t": "NOÉ",
         "c": "https://image.tmdb.org/t/p/w300/4gdMPqgL10Gpzz10gYRMXxdINVj.jpg",
         "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B92HM7k37WcfeUs0dkhOYVQxWFE%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774908247599858&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B92HM7k37WcfeUs0dkhOYVQxWFE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VgtC_5CDN579-veqVt5pC_n4GTxLHUfwQorhTNUYZwxqe_3aOWYHPqu33w_JeTQ1EUoU_jUQ",
+        "link": "https://drive.google.com/file/d/0B92HM7k37WcfeUs0dkhOYVQxWFE/view?usp=sharing&resourcekey=0-MhOfd5EvqAIl4ZJSOV_dzw",
         "tags": "DUB",
         "n": 0
     },

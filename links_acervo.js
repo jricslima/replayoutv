@@ -18395,8 +18395,8 @@ filmes = [
         "t": "NAVIO FANTASMA",
         "c": "https://image.tmdb.org/t/p/w300/urUo9sIRlFk8WfGkREZs9AEq3C3.jpg",
         "a": "2002",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IQlQ5WVVIS3BKdTQ%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774908197860802&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IQlQ5WVVIS3BKdTQ%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VKB068oOHBAZqc57682UkoDyxA9VmDxdaALs_5KrFBwJJrKl9KgyW9A6pVsWvCrMb9vK3H",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B5D1SaJxbV4IQlQ5WVVIS3BKdTQ/view?usp=sharing&resourcekey=0-BeKqymr2Kjm_YCiS1LBuNg",
+        "tags": "DUAL",
         "n": 0
     },
     {

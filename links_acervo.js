@@ -31886,5 +31886,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/18YTpzup1WQ2yqs1K2iu8uauSpEUCXLHz/view?usp=sharing",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "NERVE UM JODGO SEM REGRAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/heOrYLTMNXDJkYSZfZ3JJVWon35.jpg",
+        "a": "2016",
+        "link": "https://drive.google.com/file/d/1bSZ4lqWvAdvEYZ3fuGuLjV_ycZGf28AG/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

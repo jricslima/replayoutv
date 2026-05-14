@@ -18752,9 +18752,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O DIA SEGUINTE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "2016",
+        "t": "O DIA SEGUINTE THE DAY AFTER",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/qh38EtpOXUzFZ0B9VKUQ1fCxMIW.jpg",
+        "a": "1983",
         "link": "https://drive.google.com/file/d/19D0aS-k_LwgtvclbfWZWJZjGYMNx8YIz/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -19593,8 +19593,8 @@ filmes = [
     },
     {
         "t": "O CORVO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "1983",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ohPkFlIDvxQajr0eKyVCCAVVlj6.jpg",
+        "a": "1994",
         "link": "https://drive.google.com/file/d/186JLxuOB-5teVKcWvimOT6WubzLb_7La/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -19664,11 +19664,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "OS SKATISTAS O DESAFIO EM RITMO DE SKATE THRASHIN'",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "OS SKATISTAS O DESAFIO EM RITMO DE SKATE THRASHIN",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7yq7P9bqtbMGkWoikQDegyepuDh.jpg",
+        "a": "1986",
         "link": "https://drive.google.com/file/d/1xIIDO9C5dywpm4JE7QNwgKWFvaEa_dVc/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {
@@ -19737,8 +19737,8 @@ filmes = [
     },
     {
         "t": "O CANDIDATO AS APARÊNCIAS ENGANAM",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/qVPrZMry3RjL7zai3plMgARy89O.jpg",
+        "a": "2013",
         "link": "https://drive.google.com/file/d/18MvMxx12m5F9pvlPwuy0Id7ipJEREO7i/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -19880,9 +19880,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O AMOR ESTÁ NO AR MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "O AMOR ESTÁ NO AR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/wFZ0gxa9fxaA7gk6v5nH1hyYfDi.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1F1Lro2iCShX92vVz4hxX-oWajiGX5Xim/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -19976,9 +19976,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O APOCALIPSE DO AMOR MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "O APOCALIPSE DO AMOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7wRwEhHgwlBlO8itVVA0yaPASBs.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1SNA98ttapOnBqAbSY1_p5Hn61THAmupH/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -20009,8 +20009,8 @@ filmes = [
     },
     {
         "t": "O ARREBATAMENTO 3",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://http2.mlstatic.com/D_NQ_NP_2X_14298-MLB187365854_3285-F.webp",
+        "a": "2006",
         "link": "https://drive.google.com/file/d/1uiXTuhe4claqo8EPqP0SMKLm59t54HtY/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -20113,8 +20113,8 @@ filmes = [
     },
     {
         "t": "O BOM RAPAZ O HOMEM IDEAL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/lQxigi9OTBWHtdQcnNTHvpH8MNA.jpg",
+        "a": "2009",
         "link": "https://drive.google.com/file/d/1QDMWLNXqCYxAJ6ME7_bb3rJu4E4KCK9Y/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -20161,10 +20161,10 @@ filmes = [
     },
     {
         "t": "O CASAMENTO DE MARIA BRAUM",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/tXjZEzlf4WQwZ4Dt53gXeJVuO7p.jpg",
+        "a": "1979",
         "link": "https://drive.google.com/file/d/14G1uLLqkbQwsK4jEJsRrpFu-X6lPXWxZ/view?usp=drive_open",
-        "tags": "DUB",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -24888,9 +24888,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "REVELAÇÕES ASSSITIR /",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "REVELAÇÕES",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/scqbvR2InYJI35NgQOtzw8SUrEf.jpg",
+        "a": "2003",
         "link": "https://drive.google.com/file/d/1GSxaKZu_R04QEha7TFzLu-nqSPz_wtsY/edit",
         "tags": "DUB",
         "n": 0
@@ -31893,6 +31893,22 @@ filmes = [
         "a": "2016",
         "link": "https://drive.google.com/file/d/1bSZ4lqWvAdvEYZ3fuGuLjV_ycZGf28AG/view?usp=sharing",
         "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "SINNER  THE SECRET DIARY OF A NYMPHOMANIAC - NINFOMANÍACA",
+        "c": "https://image.tmdb.org/t/p/w300/1ihawzJK5BdiHDIRSnxGYcqGNbB.jpg",
+        "a": "1973",
+        "link": "https://drive.google.com/file/d/1J54MVbctJLA8rTU7Xg7V-S9zyWA0vtzF/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "THE DAY AFTER O DIA SEGUINTE",
+        "c": "https://image.tmdb.org/t/p/w300/qh38EtpOXUzFZ0B9VKUQ1fCxMIW.jpg",
+        "a": "1983",
+        "link": "https://drive.google.com/file/d/1qplLsz0TiCu_QOSWsuvstvxCj1wMbRT3/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     }
 ];

@@ -18603,8 +18603,8 @@ filmes = [
         "t": "NÓS NUNCA TEREMOS PARIS",
         "c": "https://image.tmdb.org/t/p/w300/56S6yqyRbfjZ6tDZFBG2SwRhRNn.jpg",
         "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1ysQbN7EYh-RFBBc2I1Vng2cmc%2Fview%3Fusp%3Dsharing&dsh=S-1758961639%3A1774908257768599&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1ysQbN7EYh-RFBBc2I1Vng2cmc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WUoF_7Oh0Rlz8jYSHKWxk3EBOEDsAUioyUalHi_LpfPsYdeQEys1tM32pW4vHSxBh3JxRsMA",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/14SreQ6j64aWNq1_nI2xn--taMuw6qZoW/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

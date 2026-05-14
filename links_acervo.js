@@ -18491,7 +18491,7 @@ filmes = [
         "t": "NINJA O GUERREIRO IMORTAL",
         "c": "https://image.tmdb.org/t/p/w300/529xZPDLvCb6BsxgO7zt5tBd7dS.jpg",
         "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kVhZQ7U7RFaFY0Rnd1YXp3TTg%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774908226751995&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kVhZQ7U7RFaFY0Rnd1YXp3TTg%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VZA5EINOmH0TPtaR8Mzh62Q2Q8ok-Tre1zqzVLsFCMEPZA5uPhiGxIqo1qDVRxr1kBlswKzA",
+        "link": "https://drive.google.com/file/d/0B3kVhZQ7U7RFaFY0Rnd1YXp3TTg/view?usp=sharing&resourcekey=0-6_TQD6Z_--yKLGYrtYb77A",
         "tags": "DUB",
         "n": 0
     },

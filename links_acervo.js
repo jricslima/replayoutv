@@ -971,7 +971,7 @@ filmes = [
         "t": "A LISTA DA MINHA VIDA THE LIFE LIST",
         "c": "https://image.tmdb.org/t/p/w300/2zrVB7SQe9UZNRABpca66lObH0n.jpg",
         "a": "2025",
-        "link": "https://drive.google.com/file/d/1eodElmripr4Nvp-P7BnLKhWgCpVSXWyz/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1J2Uf2yXQ_cHYn7drOAf-udmifnT2wBi8/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -24420,7 +24420,7 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/cHqEwXUShYuVpTaUTsyDgaUmmRA.jpg",
         "a": "2022",
         "link": "https://drive.google.com/file/d/1rkolN8xlHdHNZsNS1D9JBP29TZE3mqBY/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {

@@ -20384,22 +20384,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O DIÁRIO DE CARRIE 1ª TEMPORADA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B_xnTVaQrPPFTnBZbXhlRjFBcDg%3Fusp%3Dsharing&dsh=S1480233536%3A1774908840765860&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B_xnTVaQrPPFTnBZbXhlRjFBcDg%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WCeUlCTYQ7dcq0Pe0DBV7G4CANXBWQwpq6n9PX7TXi80Ow5TA26CU19jOEXzfO3cEBUpSXFA",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "O DIÁRIO DE CARRIE 2ª TEMPORADA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B_V4Qp-EF2a4dm05b05iWG5QbGs%3Fusp%3Dsharing&dsh=S-2062413408%3A1774908843137082&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B_V4Qp-EF2a4dm05b05iWG5QbGs%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_U6Uv4vm3qoiC3heT_bBUPH33c4KTYOrsRXhWDkGeaC3cRTsmsYGrox7lTnNPAIIEoRrwcSrA",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "O DIÁRIO DE UMA ADOLESCENTE",
         "c": "https://image.tmdb.org/t/p/w300/dmaO958Hq0EP2LxqRXxWrWwnSnD.jpg",
         "a": "2015",

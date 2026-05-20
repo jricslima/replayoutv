@@ -237,5 +237,6 @@ var series = [
     { "t": "Jesus de Nazaré 1977", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/n1NBkVmtADLRMky8iYwk2BbKYXp.jpg", "link": "https://drive.google.com/drive/folders/1mGae5wfUn9xAWON1NpkHzi-dUVx6NtGn" },
     { "t": "Catherine Cookson - Collection", "c": "https://i.pinimg.com/originals/8b/50/b9/8b50b976593db179472aad7e569487a8.jpg", "link": "https://drive.google.com/drive/folders/1GlxAL0hO6ICZu9Jg9IG-VOUia5_1v3V3" },
     { "t": "EXPEDIÇÃO RIO DOC TV", "c": "https://i.pinimg.com/originals/89/fc/0b/89fc0b4ccf54fb05e869d392b9c57ecd.jpg", "link": "https://replayoutv.comunidades.net/expedicao-rio-16" },
-    { "t": "GUERRA E PAZ 2007", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/8QTiqjGxq6SGXV8BDUofcSo7Owh.jpg", "link": "https://drive.google.com/drive/folders/1Duc_NKttWtM_IxwJYfNdfqDSQIGHtnrZ" }
+    { "t": "GUERRA E PAZ 2007", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/8QTiqjGxq6SGXV8BDUofcSo7Owh.jpg", "link": "https://drive.google.com/drive/folders/1Duc_NKttWtM_IxwJYfNdfqDSQIGHtnrZ" },
+    { "t": "O DIÁRIO DE CARRIE 2013", "c": "https://https://www.themoviedb.org/t/p/w600_and_h900_face/zsGa6WCmR7ASCWqszVGGz9Wzzrm.jpg", "link": "https://replayoutv.comunidades.net/o-diario-de-carrie" }
 ];

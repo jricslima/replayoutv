@@ -21392,10 +21392,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O RAPAZ EMBALADO EM PLASTICO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/1yqyydLi3UJZsZrePhR74tP1qjWOI16uv?usp=drive_open",
+        "t": "O MENINO DA BOLHA DE PLÁSTICO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2AegOWkgqNf0eABDgIaFYBcxDcC.jpg",
+        "a": "1976",
+        "link": "https://drive.google.com/file/d/1LBkIPbWnzWP5QqEXe4_gM4c9d67jwVMv/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

@@ -22241,10 +22241,10 @@ filmes = [
     },
     {
         "t": "OS OUTROS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "2016",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2RTgM9SEr_0cHplXzlxY2FLeHc%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774909541826556&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2RTgM9SEr_0cHplXzlxY2FLeHc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V95hdaL7DfVthBRLQlKNAm2TMBnD9R3EhN9Ev7qtdhihZKzH3Sj8kAmRNu0gQnSYlTVmK6xA",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2H11uvCWKdfA5csVc79v89siIiK.jpg",
+        "a": "2001",
+        "link": "https://drive.google.com/file/d/0B2RTgM9SEr_0cHplXzlxY2FLeHc/view?resourcekey=0-WYeWCuwhKgIxEJvTiZSseA",
+        "tags": "DUAL",
         "n": 0
     },
     {

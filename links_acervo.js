@@ -22017,8 +22017,8 @@ filmes = [
     },
     {
         "t": "OS 12 MACACOS DOZE MACACOS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/iqwq8DOZFwcEIChbuAXCWIdThJT.jpg",
+        "a": "1995",
         "link": "https://drive.google.com/file/d/1zlxqpDaA9o8opoK15yxjQqPMBN0X7Jm4/view?usp=drive_open",
         "tags": "DUB",
         "n": 0

@@ -21449,9 +21449,9 @@ filmes = [
     },
     {
         "t": "O RESGATE DE LAUREN MAHONE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4sY-WeS-_Q-aS1rc2liVS1naG8%2Fview%3Fusp%3Dsharing&dsh=S573530077%3A1774909246899732&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4sY-WeS-_Q-aS1rc2liVS1naG8%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VXe11DiknkEKi0__W_3__KhNqQ5Dixxg82VuFNv-CFQr-G0OHHJ0slAz82zAnYEqYM3Tin",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/c8VRZfBrqMx3Bdylx2BR1KPWYoM.jpg",
+        "a": "1993",
+        "link": "https://drive.google.com/file/d/0B4sY-WeS-_Q-aS1rc2liVS1naG8/view?usp=sharing&resourcekey=0-Hb-UbTriK2f1WTth-dM_cA",
         "tags": "DUB",
         "n": 0
     },

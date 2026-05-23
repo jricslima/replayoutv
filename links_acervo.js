@@ -22161,8 +22161,8 @@ filmes = [
     },
     {
         "t": "OS FANTASMAS DE SGROOGE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/94soEIwbsPknBHn5DooYHFNVgbU.jpg",
+        "a": "2009",
         "link": "https://drive.google.com/file/d/1XlOyvT9L1MEQO2bWMyc3n7UX58adSRav/view?usp=sharing",
         "tags": "DUB",
         "n": 0

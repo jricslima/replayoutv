@@ -21128,11 +21128,11 @@ filmes = [
         "n": 1
     },
     {
-        "t": "O NINHO DO TERROR",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "O NINHO DO TERROR - THE NEST",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/izMgoQ0nly1X5hOmrfvj27Ke8uf.jpg",
+        "a": "1988",
         "link": "https://drive.google.com/file/d/1ZDoT6aDCk6fUiUR5kQ1l1qpAdYvkZDKy/view?usp=drive_open",
-        "tags": "LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {

@@ -22360,10 +22360,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "OUTLAWS AND ALGELS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/file/d/0Bz_0Y36dDH8XRkpGM2dSVVVrQUU/view?usp=sharing",
+        "t": "CRIMINOSOS E ANJOS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/x3nA5xQn2eOp9ohHLKsPa6z3eNZ.jpg",
+        "a": "2016",
+        "link": "https://drive.google.com/file/d/1xp8-q6yO0LidF9BVECkIwvTJsngIB8Vp/view",
         "tags": "DUB",
         "n": 0
     },

@@ -21672,9 +21672,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O TEMPLO DE SHAOLIM",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "O TEMPLO DE SHAOLIN - OS HERDEIROS DE SHAOLIN",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2bhKQFCyQzbjYNSome3OUrpZHum.jpg",
+        "a": "1982",
         "link": "https://drive.google.com/file/d/14XuL1tvRbs7tl93KLfzflzT4SQP3QL9V/view?usp=drive_open",
         "tags": "DUB",
         "n": 0

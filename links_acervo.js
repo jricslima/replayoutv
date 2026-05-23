@@ -21657,8 +21657,8 @@ filmes = [
     },
     {
         "t": "O TEMPLO DE SHAOLIM 2 AS CRIANÇAS DE SHAOLIM",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/faR8ijT6Armx7heaIrHle7ATT9K.jpg",
+        "a": "1984",
         "link": "https://drive.google.com/file/d/1A3Qs_J8LPDRej1UyohqeX9erEb-_uAll/view?usp=drive_open",
         "tags": "DUB",
         "n": 0

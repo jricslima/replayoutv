@@ -22049,8 +22049,8 @@ filmes = [
     },
     {
         "t": "OS ALIENS ESTÃO ENTRE NÓS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/wwqJZuHSt6u68us63o9cR2o9Dsd.jpg",
+        "a": "2008",
         "link": "https://drive.google.com/file/d/1l52-rlBURn5eh0vnGz_PZ5sVBzD7apiY/view?usp=drive_open",
         "tags": "DUB",
         "n": 0

@@ -21395,8 +21395,8 @@ filmes = [
         "t": "O MENINO DA BOLHA DE PLÁSTICO",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2AegOWkgqNf0eABDgIaFYBcxDcC.jpg",
         "a": "1976",
-        "link": "https://drive.google.com/file/d/1LBkIPbWnzWP5QqEXe4_gM4c9d67jwVMv/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1NQ58p7rtYx5LNYrCSw30KajkWsApE73V/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

@@ -21665,8 +21665,8 @@ filmes = [
     },
     {
         "t": "O TEMPLO DE SHAOLIM 3 AS ARTES MARCIAIS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jYCPgZwDgYK5uOivmgBB0xckqKM.jpg",
+        "a": "1986",
         "link": "https://drive.google.com/file/d/1sc-cd9j9OJnS6Mr9mBiAfQY4oFbeNzKc/view?usp=drive_open",
         "tags": "DUB",
         "n": 0

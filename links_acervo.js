@@ -21344,9 +21344,9 @@ filmes = [
         "n": 1
     },
     {
-        "t": "O PRÍNCIPE E EU MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "O PRÍNCIPE E EU",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mIqIvR1cawMkAAIn9xDv6GaDgHx.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1r2e_03PncvPA5TaqrpxndMLGTlXJohhC/view",
         "tags": "DUB",
         "n": 0

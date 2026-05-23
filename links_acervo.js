@@ -11587,7 +11587,7 @@ filmes = [
         "t": "EIN FREUND VON MIR (UM AMIGO MEU)",
         "c": "https://www.themoviedb.org/t/p/w300/gdt7uSDGtUD18p5HUhqSH1Scky6.jpg",
         "a": "2009",
-        "link": "https://drive.google.com/file/d/0B7BQwCUfXt3rMU1BUEIzaWlzUG8/view?usp=sharing&resourcekey=0-TzglpJX157TDjPn6egnIlA",
+        "link": "https://drive.google.com/file/d/1MJfVUcdyYjLNpNsLq4JT8O1I_D7CKdPb/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },

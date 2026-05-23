@@ -22137,9 +22137,9 @@ filmes = [
     },
     {
         "t": "OS DOIS MUNDOS DE JENNIE LOGAN",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0BzXtXuKDCCXNNjlQSTVQNTY1Ulk&dsh=S-1758961639%3A1774909451994528&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0BzXtXuKDCCXNNjlQSTVQNTY1Ulk&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XTPL5DD8pdaMtM-bsZmgN5XO7ByYZ7Bhe7MeY-oN39Az8yGBqpHm_FpVC1YAsp4pnM5Qde",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3Ic1OyGg3Z5KgrbWCXXVTbYMhaB.jpg",
+        "a": "1979",
+        "link": "https://drive.google.com/file/d/0BzXtXuKDCCXNNjlQSTVQNTY1Ulk/view?resourcekey=0-BrxQ-_39s9s79S3wQrPLOw",
         "tags": "DUB",
         "n": 0
     },

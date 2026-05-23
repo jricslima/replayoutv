@@ -20785,9 +20785,9 @@ filmes = [
     },
     {
         "t": "O INTRÉPIDO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7_EsOEFM1FcVXpTZFNoZ3A0U3c%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774908984344913&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7_EsOEFM1FcVXpTZFNoZ3A0U3c%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XWu50yye2edNN2A9mOszXa0tRiMbN87iQVqSyemnmJXxm8Ak5H7gb_uQPUUJpTQSg8_oTYjA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/e9kVv9gSTtgtzxWkVBoVI8Y1z5r.jpg",
+        "a": "2014",
+        "link": "https://drive.google.com/file/d/0B7_EsOEFM1FcVXpTZFNoZ3A0U3c/view?resourcekey=0-ag6UGkxcYzkVJnL25dLEaA",
         "tags": "DUB",
         "n": 0
     },

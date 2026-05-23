@@ -21304,9 +21304,9 @@ filmes = [
         "n": 1
     },
     {
-        "t": "O PRETENDENTE MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "O PRETENDENTE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bPlPJn8ruIwovyYeKjghbnYJs5Y.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1iFdNoxkuDud_gN2niQf3Z_iAkyQfIOka/view?usp=sharing",
         "tags": "DUB",
         "n": 0

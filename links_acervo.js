@@ -18761,32 +18761,32 @@ filmes = [
     },
     {
         "t": "O MORRO DOS VENTOS UIVANTES",
-        "c": "https://image.tmdb.org/t/p/w300/762vOiAWzosAH95sKLzUqYaAoHR.jpg",
-        "a": "2026",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/qcQhyko7bNZNnRp5Rv9lmO425LK.jpg",
+        "a": "1992",
         "link": "https://drive.google.com/file/d/1ve5ub0UINlrEf5tQvKOUyBNusTzOdczk/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
     },
     {
         "t": "O MORRO DOS VENTOS UIVANTES",
-        "c": "https://image.tmdb.org/t/p/w300/762vOiAWzosAH95sKLzUqYaAoHR.jpg",
-        "a": "2026",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pwHdSzXwlUFAcYGcFutKcPcX2OW.jpg",
+        "a": "1939",
         "link": "https://drive.google.com/file/d/1uAbGDaSjSfhZatClm1HmLTf1yJSzTgCJ/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
         "t": "O MORRO DOS VENTOS UIVANTES",
-        "c": "https://image.tmdb.org/t/p/w300/762vOiAWzosAH95sKLzUqYaAoHR.jpg",
-        "a": "2026",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/o1yCnY2nmOaYSY1BODMenONFty3.jpg",
+        "a": "1988",
         "link": "https://drive.google.com/file/d/15SI8VDtWnW1c7zCJMr5Ui7n3PA8w2-Su/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
     {
         "t": "O MORRO DOS VENTOS UIVANTES",
-        "c": "https://image.tmdb.org/t/p/w300/762vOiAWzosAH95sKLzUqYaAoHR.jpg",
-        "a": "2026",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/lgUKl2DgbZwnT9f3y7F1Z5Cpvc7.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1E5v3a2K_9hmFL7GKC33jNyQ7pIEJHhyV/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

@@ -19121,8 +19121,8 @@ filmes = [
     },
     {
         "t": "O PRESENTE",
-        "c": "https://image.tmdb.org/t/p/w300/7eEAQNxgGUF4J3Ggn0ZBsq6ky5S.jpg",
-        "a": "2020",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pLgGhDX0wTzdAkTLXAqrdONgiCd.jpg",
+        "a": "2006",
         "link": "https://drive.google.com/file/d/1k0_P01Jg6uUg2EFipau_CeARpXxqcRSS/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
@@ -19353,8 +19353,8 @@ filmes = [
     },
     {
         "t": "O PRESENTE",
-        "c": "https://image.tmdb.org/t/p/w300/7eEAQNxgGUF4J3Ggn0ZBsq6ky5S.jpg",
-        "a": "2020",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/juVqhrqmq3APmkVZDex8vMq1KZD.jpg",
+        "a": "2016",
         "link": "https://drive.google.com/file/d/15VS03ZySAkNksGW-uFeWe8Pflb-cwhCD/view?usp=sharing",
         "tags": "DUB",
         "n": 0

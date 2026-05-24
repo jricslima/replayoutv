@@ -21001,16 +21001,16 @@ filmes = [
     },
     {
         "t": "O MILAGRE",
-        "c": "https://image.tmdb.org/t/p/w300/sdSadKB4xfEnGfTUWZLeh0durue.jpg",
-        "a": "1978",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vmdNQQvruPsDq9nj3WlJDF1fmo3.jpg",
+        "a": "1959",
         "link": "https://drive.google.com/file/d/1-lOmped81SR7OG2O5lX4tDGuqm8wvN5M/view?usp=drive_open",
-        "tags": "DUB",
+        "tags": "LEG",
         "n": 0
     },
     {
         "t": "O MILAGRE",
-        "c": "https://image.tmdb.org/t/p/w300/sdSadKB4xfEnGfTUWZLeh0durue.jpg",
-        "a": "1978",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cGrlQaZprXLpULIGQFG2pMuVSoz.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1-BYuMaYZUrb9UGs9ZVPd_u70uOLXK7jL/view?usp=sharing",
         "tags": "DUB",
         "n": 0

@@ -31264,14 +31264,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "OPERAÇÃO NATAL",
-        "c": "https://image.tmdb.org/t/p/w300/zX2UeAmF8XDBJM3sZ0RS0jLQ8Gg.jpg",
-        "a": "2024",
-        "link": "https://drive.google.com/file/d/1NUpuxL-pOAamPpSTaiV7KPf3Z6yUs-Vb/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 1
-    },
-    {
         "t": "PARA SEMPRE VOCÊ",
         "c": "https://image.tmdb.org/t/p/w300/iLuHJVcKAYnudYLzmjJNkWPRgr4.jpg",
         "a": "2018",

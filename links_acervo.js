@@ -19168,7 +19168,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O MUNDO DE SOFIA",
+        "t": "O MUNDO DE SOFIA PT.1",
         "c": "https://image.tmdb.org/t/p/w300/vRLqdK9JW9tbcyDLgGchrMkxVAS.jpg",
         "a": "1999",
         "link": "https://drive.google.com/file/d/192FZYyALJMhM8rEwDmB6o2TetOQjK6yq/view?usp=sharing",
@@ -19176,7 +19176,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O MUNDO DE SOFIA",
+        "t": "O MUNDO DE SOFIA PT.2",
         "c": "https://image.tmdb.org/t/p/w300/vRLqdK9JW9tbcyDLgGchrMkxVAS.jpg",
         "a": "1999",
         "link": "https://drive.google.com/file/d/12FDMDiSTRegWfpszxMG8jIHiUjhsSblF/view?usp=sharing",

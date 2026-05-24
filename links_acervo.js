@@ -20179,8 +20179,8 @@ filmes = [
         "t": "O CASAMENTO DO MEU MELHOR AMIGO",
         "c": "https://image.tmdb.org/t/p/w300/jsj1vxFEUuEKVr7eithwvj2eRxd.jpg",
         "a": "1997",
-        "link": "https://drive.google.com/file/d/1zjM5ynN_ul4ZuS221Hh1oH69NbkbRYq5/view",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1OkVSEJqZSrXGHZa7s2iJoYTgmKrz1PPW/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -31269,14 +31269,6 @@ filmes = [
         "a": "2020",
         "link": "https://drive.google.com/file/d/1XMtlvKsra2kT79k5V1CiOHUiIuYpqEEk/view?usp=sharing",
         "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "O CASAMENTO DO MEU MELHOR AMIGO",
-        "c": "https://image.tmdb.org/t/p/w300/jsj1vxFEUuEKVr7eithwvj2eRxd.jpg",
-        "a": "1997",
-        "link": "https://drive.google.com/file/d/1zjM5ynN_ul4ZuS221Hh1oH69NbkbRYq5/view?usp=sharing",
-        "tags": "DUB",
         "n": 0
     },
     {

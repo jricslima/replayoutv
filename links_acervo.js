@@ -20345,8 +20345,8 @@ filmes = [
     },
     {
         "t": "O DIA EM QUE A TERRA PAROU",
-        "c": "https://image.tmdb.org/t/p/w300/mFT6PNXqDpYwE0Zgsqard9nvrke.jpg",
-        "a": "2008",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2d93VMmOCriN7dxXLjr5JpyZr86.jpg",
+        "a": "1951",
         "link": "https://drive.google.com/file/d/1oVnZn69oOGA9WYKQAUKzF44lOSci0sYD/view?usp=sharing",
         "tags": "DUB",
         "n": 0

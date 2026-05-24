@@ -19105,8 +19105,8 @@ filmes = [
     },
     {
         "t": "O IMPOSTOR",
-        "c": "https://image.tmdb.org/t/p/w300/1bxBZV0KsUolu7MddTXZ0Prac3Q.jpg",
-        "a": "1997",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/aVCwMrChFdNLuCsWijtiSuni4H3.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/11vZelLLHPbBRgNCR6pi10MHmbTQOZlck/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

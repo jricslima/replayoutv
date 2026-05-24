@@ -29408,7 +29408,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A CHRISTMAS MIRACLE FOR DAISY UM MILAGRE DE NATAL PARA DAISY",
+        "t": "UM MILAGRE DE NATAL PARA DAISY A CHRISTMAS MIRACLE FOR DAISY",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/4BMdHnDdwwuW2Sun47lxyuLDYOl.jpg",
         "a": "2021",
         "link": "https://drive.google.com/file/d/14t8u1nAFCjV_XmGWbMJSPw2GWFOS6DKQ/view?usp=sharing",

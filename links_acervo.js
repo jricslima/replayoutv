@@ -31897,7 +31897,7 @@ filmes = [
     },
     {
         "t": "OPERAÇÃO NATAL OPERATION CHRISTMAS",
-        "c": "https://image.tmdb.org/t/p/w300/q0FFbtKd7r99m2V53N8v8s0SYHI.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ttF3r6VOJwQKgHDtiYWAKlbd7Pm.jpg",
         "a": "2016",
         "link": "https://drive.google.com/file/d/1VwEVZiESJ0HhszKWP6nGgEjfOaUZ6w1B/view?usp=sharing",
         "tags": "LEG",

@@ -29408,9 +29408,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM MILAGRE DE NATAL PARA DAISY A CHRISTMAS MIRACLE FOR DAISY LEGENDADO (LUCIANA) / DUBLADO (RF)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "A CHRISTMAS MIRACLE FOR DAISY UM MILAGRE DE NATAL PARA DAISY",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/4BMdHnDdwwuW2Sun47lxyuLDYOl.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/14t8u1nAFCjV_XmGWbMJSPw2GWFOS6DKQ/view?usp=sharing",
         "tags": "LEG",
         "n": 1
@@ -31886,5 +31886,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1NR0PAABcvZC53yYOD9u_z1ugu-HuigBt/view?usp=sharing",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "UM MILAGRE DE NATAL PARA DAISY A CHRISTMAS MIRACLE FOR DAISY",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/unzCtStYLXr12pbdq3kGo6kBcy7.jpg",
+        "a": "2021",
+        "link": "https://drive.google.com/file/d/1S5N6ebyR_NfSwhWHFc_LfgN5a__UBS27/view?usp=sharing",
+        "tags": "DUB",
+        "n": 1
     }
 ];

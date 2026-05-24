@@ -21596,15 +21596,15 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/rBCRtbLdpSHZBCbgRoJ0mqcxgYc.jpg",
         "a": "1988",
         "link": "https://drive.google.com/file/d/1nLrce4bZObnFFZjibq3lyJBUOKUZe1sY/view?usp=drive_open",
-        "tags": "LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {
         "t": "O SILÊNCIO DO LAGO",
-        "c": "https://image.tmdb.org/t/p/w300/rBCRtbLdpSHZBCbgRoJ0mqcxgYc.jpg",
-        "a": "1988",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0PipzbCZE2qazA5anZiaUJuc28%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774909284622649&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0PipzbCZE2qazA5anZiaUJuc28%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WDnDSb_iaXpTsgeGotD0FwhI_7FavEL0tm_Rce5r1kVm1GWC2AqRDz6XfC75an69Oj9a_L_A",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ht84DMGDHPzDWlFK4LhUPDHZbwl.jpg",
+        "a": "1993",
+        "link": "https://drive.google.com/file/d/0B0PipzbCZE2qazA5anZiaUJuc28/view?usp=sharing&resourcekey=0-t29HQTT_Cgl2SRRQIz1dhg",
+        "tags": "DUAL",
         "n": 0
     },
     {

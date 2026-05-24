@@ -20832,14 +20832,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O JOVEM MESSIAS",
-        "c": "https://image.tmdb.org/t/p/w300/YRbIclm6OhqzegE4JqNkPtDfJk.jpg",
-        "a": "2016",
-        "link": "https://drive.google.com/file/d/1l5wk7uj5nq14OUxLDvVVyzopoKBu5-4_/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "O LADO BOM DA VIDA",
         "c": "https://image.tmdb.org/t/p/w300/5R2ZLkflncVmRzTvSVP7MooxZ0C.jpg",
         "a": "2012",

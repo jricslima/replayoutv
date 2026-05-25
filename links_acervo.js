@@ -20819,8 +20819,8 @@ filmes = [
         "t": "O JOGO DA IMITAÇÃO",
         "c": "https://image.tmdb.org/t/p/w300/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg",
         "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2RTgM9SEr_0YkJuMHJQUTdKVGc%2Fview%3Fusp%3Dsharing&dsh=S-284366117%3A1774908992188466&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2RTgM9SEr_0YkJuMHJQUTdKVGc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UjqB6utc6ZR17TM6URTuJQzp-iC3tLsJk2xuj8ha5_FsA74lK2hBemaH75HurynbZFJMEMRA",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B2RTgM9SEr_0YkJuMHJQUTdKVGc/view?usp=sharing&resourcekey=0-ZAU7LklV6ery5yTn4Z1WnQ",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -20923,7 +20923,7 @@ filmes = [
         "t": "O MELHOR DE MIM",
         "c": "https://image.tmdb.org/t/p/w300/5Jdy0LnPZsdUTGnvCqpkvQwydud.jpg",
         "a": "2014",
-        "link": "https://drive.google.com/file/d/0BwGtuf4LwftSMzhzWV9KSTlWamc/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1l_MnkIkrVU5JRzmGeThgjNxnXRFCeeJT/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -21043,8 +21043,8 @@ filmes = [
         "t": "O MILAGRE VEIO DO ESPAÇO",
         "c": "https://image.tmdb.org/t/p/w300/wvZtGm6gndgIr2vOQ4T8z2rGh0V.jpg",
         "a": "1987",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5_SY9ogvbpxOGoxM3NLVzZOTkk%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774909095646126&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5_SY9ogvbpxOGoxM3NLVzZOTkk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WVne_5l4MCNM-6xTENEobJqV7kd_L86rT5UOJZHHFqgnz4BH3jispurHvXuymVlOam7gAmrw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B5_SY9ogvbpxOGoxM3NLVzZOTkk/view?usp=sharing&resourcekey=0-PQH8jng3JBprLThyYCnSaw",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -21267,8 +21267,8 @@ filmes = [
         "t": "O PREDADOR",
         "c": "https://image.tmdb.org/t/p/w300/3RuuLeX487syJrV1olkQCFbHrIv.jpg",
         "a": "1987",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBcXB4OG9rdF91Tms%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774909145773422&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBcXB4OG9rdF91Tms%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V2SWljfRzoCpUb2DSrZi1b20RjUAI_LSM5gps7Oh8Lz5-N6DIF03BdLAY7Nc8Cn7mTVoKw8Q",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B4Cd9dT1lBbBcXB4OG9rdF91Tms/view?usp=sharing&resourcekey=0-YuQVUDeWiaex3fpvc8lIyg",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -21307,8 +21307,8 @@ filmes = [
         "t": "O PRIMEIRO ANO DO RESTO DE NOSSAS VIDAS",
         "c": "https://image.tmdb.org/t/p/w300/5oBI07hgtm8jTER2sh2VNNWOLLo.jpg",
         "a": "1985",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6vagH7hkCwHM2tiaFNPb0hoR0E%2Fview%3Fusp%3Dsharing&dsh=S-1758961639%3A1774909153280396&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6vagH7hkCwHM2tiaFNPb0hoR0E%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VajR6nANsNPjhaez5u_X4q9VFU4rEBrhwc5oK8Ck2m34wqeRj5WwpqHRIAJUaF2rfUtqMrWg",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B6vagH7hkCwHM2tiaFNPb0hoR0E/view?usp=sharing&resourcekey=0-V3uIqC5ggVN7pM3rQkGppw",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -21370,16 +21370,16 @@ filmes = [
     {
         "t": "O QUE NÓS FIZEMOS NO NOSSO FERIADO",
         "c": "https://image.tmdb.org/t/p/w300/kG0lzFfFExidzrOwXiVXn772qz8.jpg",
-        "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B37evpT_4mqIX1llQWdBX2o0bUk%2Fview%3Fusp%3Dsharing&dsh=S-1221112150%3A1774909164591879&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B37evpT_4mqIX1llQWdBX2o0bUk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WuJZdj_FCrRqD9LhvVkiRoZZnudKCiWNKKopjZd5qjtwTNSHt324Sy3ZEKZ3eSjgeQefBufQ",
-        "tags": "DUB",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/0B37evpT_4mqIX1llQWdBX2o0bUk/view?usp=sharing&resourcekey=0-LGTB1Qnr1num05hRAad0qA",
+        "tags": "DUAL",
         "n": 0
     },
     {
         "t": "O QUE OS HOMENS FALAM",
         "c": "https://image.tmdb.org/t/p/w300/oZg0BCpnCdk2D7SnrmIGJNAWc3.jpg",
         "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3avdMUAzo8sVFVKVTh4UmtFcTQ%2Fview%3Fusp%3Dsharing&dsh=S-1221112150%3A1774909167146852&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3avdMUAzo8sVFVKVTh4UmtFcTQ%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UDxxyZH678_b928X3anFNOERGdDUgwCuYarxy74DcGK0ElTwAy34p5ptm1t1LDmonhctSuWg",
+        "link": "https://drive.google.com/file/d/0B3avdMUAzo8sVFVKVTh4UmtFcTQ/view?usp=sharing&resourcekey=0-19fK9R9MuK16gBSdz3lHWQ",
         "tags": "DUB",
         "n": 0
     },
@@ -21394,9 +21394,9 @@ filmes = [
     {
         "t": "O REENCONTRO",
         "c": "https://image.tmdb.org/t/p/w300/dwBCNqu6Cw1qnAB3lFN7s5wqmDP.jpg",
-        "a": "2016",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6vagH7hkCwHTkxYUVFJcWk0RVU%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774909171924275&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6vagH7hkCwHTkxYUVFJcWk0RVU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UWIWNwovmPOZp70A0FxeqL9KcytlnNxkiHGc9ykyRNzRI-cIfkXVg8n27iaX5DsWRFlLVC",
-        "tags": "DUB",
+        "a": "1983",
+        "link": "https://drive.google.com/file/d/0B6vagH7hkCwHTkxYUVFJcWk0RVU/view?usp=sharing&resourcekey=0--9Dx1da1luB2xu2i5XyO2A",
+        "tags": "LEG AC",
         "n": 0
     },
     {
@@ -21467,7 +21467,7 @@ filmes = [
         "t": "O RETORNO DOS TOMATES ASSASSINOS",
         "c": "https://image.tmdb.org/t/p/w300/6mBWY5zajziYvXeZPOdFThHSHqy.jpg",
         "a": "1988",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1QwrM96ANPBaEQ5Wk1Dam5WSkk%2Fview%3Fusp%3Dsharing&dsh=S-1221112150%3A1774909253437254&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1QwrM96ANPBaEQ5Wk1Dam5WSkk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UDIxvbf7556i7CeaKh8Ei3VcKdfTgM9DVfuJqcG7xJ3-Evd0n76Bm0A_jhDz7UIOH6DFh7LQ",
+        "link": "https://drive.google.com/file/d/0B1QwrM96ANPBaEQ5Wk1Dam5WSkk/view?usp=sharing&resourcekey=0-bUBsBOLbHtVD6a_84T7FdA",
         "tags": "DUB",
         "n": 0
     },
@@ -21498,8 +21498,8 @@ filmes = [
     {
         "t": "O SEGREDO DAS ÁGUAS",
         "c": "https://image.tmdb.org/t/p/w300/2mB4iPYJTwpHq3xJ2nz52wxBp5r.jpg",
-        "a": "1995",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1b41N9wDOlQRnFwczVLVmdlU2M%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774909261218873&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1b41N9wDOlQRnFwczVLVmdlU2M%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VMOaK0ni3m6sBxG1J9-VPqysXEmDXxP4JEPJTnXraWvEGg4ok7ajRBgZS2MUWbfKIMuuEXUg",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/0B1b41N9wDOlQRnFwczVLVmdlU2M/view?resourcekey=0-_U8y4ZiCrUOHAxNA05yIWA",
         "tags": "DUB",
         "n": 0
     },
@@ -21507,7 +21507,7 @@ filmes = [
         "t": "O SEGREDO DO ABISMO",
         "c": "https://image.tmdb.org/t/p/w300/iUmlHbK05F38QNnVDTDXa5qXFgF.jpg",
         "a": "1989",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBUDd4aG11ZHJCMkU%2Fview%3Fusp%3Dsharing&dsh=S271553589%3A1774909263910558&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4Cd9dT1lBbBUDd4aG11ZHJCMkU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_X-Vgs1tsnscKUos4De15BLaFykY9ACocuvU6dsKmuoMj4p-HoO-mGQ7ZifuJTwvKH02oJV",
+        "link": "https://drive.google.com/file/d/0B4Cd9dT1lBbBUDd4aG11ZHJCMkU/view?usp=sharing&resourcekey=0-FoLHBsQrDLMyCsXeH65YnA",
         "tags": "DUB",
         "n": 0
     },
@@ -21523,7 +21523,7 @@ filmes = [
         "t": "O SEGREDO DO VALE DA LUA",
         "c": "https://image.tmdb.org/t/p/w300/apvQgHsJSEDytsECnTe3g7b7qLf.jpg",
         "a": "2009",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B6e8bBDUYtvgaVI1MTdXX3dXVVU&dsh=S909493217%3A1774909267709013&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B6e8bBDUYtvgaVI1MTdXX3dXVVU&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WerDMEsdt7t01naX-wXnl3GAL_DGlyqIe6zObjetngXmGaJOD6lpwPU_Fc7ezRB2EtwBWvSg",
+        "link": "https://drive.google.com/file/d/0B6e8bBDUYtvgaVI1MTdXX3dXVVU/view?usp=sharing&resourcekey=0-dzrDCgz5TnLhda-COd6nfw",
         "tags": "DUB",
         "n": 0
     },
@@ -21539,7 +21539,7 @@ filmes = [
         "t": "O SEGREDO DOS SEUS OLHOS",
         "c": "https://image.tmdb.org/t/p/w300/pefOYP69bB3ZC6p6B3ZbWc46ioT.jpg",
         "a": "2009",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_uWXG5HJ_B5NVA2T2dFMEJqbms%2Fview%3Fusp%3Dsharing&dsh=S354902304%3A1774909271102983&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_uWXG5HJ_B5NVA2T2dFMEJqbms%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WotNE63t0sUqjQLBARKGqpeqGpr_gxyD2H0kv9BxOFECrcUIWUVcrkzYzVDt4ZebC5zUGe",
+        "link": "https://drive.google.com/file/d/0B_uWXG5HJ_B5NVA2T2dFMEJqbms/view?usp=sharing&resourcekey=0-BaGPfhJWKrMHZEwnctStMQ",
         "tags": "DUB",
         "n": 0
     },
@@ -21578,8 +21578,8 @@ filmes = [
     {
         "t": "O SEXO OPOSTO",
         "c": "https://image.tmdb.org/t/p/w300/e0rNtvIlcd8c0WChSsVC0W8Bvlf.jpg",
-        "a": "1998",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B456RVrRYnkdTmY0dG0tVVhQZ28%2Fview%3Fusp%3Dsharing&dsh=S-1271814163%3A1774909279705471&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B456RVrRYnkdTmY0dG0tVVhQZ28%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VdAQt9NeuacWDBygDeDupgf3kW0RQcgpmxS3ZzWOJKlayn_Q2WTKpGB35zbjTebM3YQi__jg",
+        "a": "2014",
+        "link": "https://drive.google.com/file/d/0B456RVrRYnkdTmY0dG0tVVhQZ28/view?usp=sharing&resourcekey=0-_E8QjXIkp2PHzb4s___h3A",
         "tags": "DUB",
         "n": 0
     },
@@ -21691,7 +21691,7 @@ filmes = [
         "t": "O ÚLTIMO AMERICANO VIRGEM",
         "c": "https://image.tmdb.org/t/p/w300/4NRkTOvQrD8xMD1GCeJUybXzVeD.jpg",
         "a": "1982",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6vagH7hkCwHRjlpN1luS3NLbnc%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774909305096263&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6vagH7hkCwHRjlpN1luS3NLbnc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WjzHis4o-45ZG-ZOoQnzzRa_ECR9YzYOPtsVVbcu6eNXnsn4_mR_WnCVl-DS4oPqbFT5IOYA",
+        "link": "https://drive.google.com/file/d/0B6vagH7hkCwHRjlpN1luS3NLbnc/view?usp=sharing&resourcekey=0-dt5mWG00XlQKhx-NVmBm8g",
         "tags": "DUB",
         "n": 0
     },
@@ -21699,7 +21699,7 @@ filmes = [
         "t": "O ÚLTIMO DOS MOICANOS",
         "c": "https://image.tmdb.org/t/p/w300/8hGlSYl66Upk8gHTi2GV4qsrDFf.jpg",
         "a": "1992",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bz5YqErzhH4DZ3JkUktoVTk2ekU%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774909307646566&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bz5YqErzhH4DZ3JkUktoVTk2ekU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V7iFDsQrI_SvdejLH3RU4PcNLhs6r1bweTd4u1V7bSohn0YA--2cmYHMwnVRlQPu2CmQuVXQ",
+        "link": "https://drive.google.com/file/d/0Bz5YqErzhH4DeC1SZGRrSGQ3TXM/view?usp=sharing&resourcekey=0-mgvABHPZ0ErATBvBiLIWag",
         "tags": "DUB",
         "n": 0
     },
@@ -21731,8 +21731,8 @@ filmes = [
         "t": "O UNIVERSO NO OLHAR",
         "c": "https://image.tmdb.org/t/p/w300/liySWQIA4AcpwAsEeTlS368IkF9.jpg",
         "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1NXA7QKT8BcUjRqZkNyZjNiQUE%2Fview%3Fusp%3Dsharing&dsh=S271553589%3A1774909314441045&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1NXA7QKT8BcUjRqZkNyZjNiQUE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WCjeQ6By67aKwFzXcfHWpsM-8YvnhK4faptJJS8YKX-B0P-waRWBC-Gx0jZcfNNmStb48ALA",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B1NXA7QKT8BcUjRqZkNyZjNiQUE/view?usp=sharing&resourcekey=0-D5xrrOuu_4qju4OnS63Xhg",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -22211,7 +22211,7 @@ filmes = [
         "t": "OS JOVENS PISTOLEIROS",
         "c": "https://image.tmdb.org/t/p/w300/uVJCEHSKKFsmBXa7leP4qw8tgUu.jpg",
         "a": "1988",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwX7_ZsOyJ1EQTJYTHFoM2haaUE%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774909533036423&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwX7_ZsOyJ1EQTJYTHFoM2haaUE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VaFB0ucdQJArTkHGGlDhSzr_OlhQMrh8YMOVkQwgklqGHcVIFCEXL8AXssYP9sRy54p1cL",
+        "link": "https://drive.google.com/file/d/0BwX7_ZsOyJ1EQTJYTHFoM2haaUE/view?usp=sharing&resourcekey=0-bjKHNj7MiyWQ6GJhKA4fXQ",
         "tags": "DUB",
         "n": 0
     },
@@ -22227,7 +22227,7 @@ filmes = [
         "t": "OS MISERÁVEIS",
         "c": "https://image.tmdb.org/t/p/w300/BNYPwiysQXdFdNy41PDDIIjW5D.jpg",
         "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8owNGE9rUjgdjRPNU03NlZzZ1E&dsh=S909493217%3A1774909537184824&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8owNGE9rUjgdjRPNU03NlZzZ1E&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Vm2YovuVZlEnyDRYwfTiHSidlC7t6WVgE2hR7ExtfRO40xeV8foClw0naxTbksy0-sqIA_6w",
+        "link": "https://drive.google.com/file/d/0B8owNGE9rUjgdjRPNU03NlZzZ1E/view?usp=sharing&resourcekey=0-RJhLC-ptxc8t-CY06F2e-g",
         "tags": "DUB",
         "n": 0
     },
@@ -22307,7 +22307,7 @@ filmes = [
         "t": "OS TRÊS DESEJOS DE BILLY GRIER",
         "c": "https://image.tmdb.org/t/p/w300/q8kVzSZbOEg4FnlIkVEC05rphxi.jpg",
         "a": "1984",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2kdbvIAb9EcOEV2cWJnYlk1bTg%2Fview%3Fusp%3Dsharing&dsh=S-1758961639%3A1774909560631975&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2kdbvIAb9EcOEV2cWJnYlk1bTg%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V_j0NchED2bT8z8EBmIgcf2FbvfpXDNkEXG36_3lPN_opVKN9I8BUr-4LImRjn5Eyk86yaTA",
+        "link": "https://drive.google.com/file/d/0B2kdbvIAb9EcOEV2cWJnYlk1bTg/view?usp=sharing&resourcekey=0-iXQhavF9YQfR324tzWDzPw",
         "tags": "DUB",
         "n": 0
     },
@@ -22315,7 +22315,7 @@ filmes = [
         "t": "OS TRÊS PATETAS",
         "c": "https://image.tmdb.org/t/p/w300/4eBU2EEb2XiOnnCGnyQsAT2tIpS.jpg",
         "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kVhZQ7U7RFcEVTLTM4UDBabmc%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774909563004052&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kVhZQ7U7RFcEVTLTM4UDBabmc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UBuiOthjynhjGWAofp9f3nmNubWnXDNWGFk8d4rSJSAfNPbF11splwi7UBf7tDbZxldKo3",
+        "link": "https://drive.google.com/file/d/0B3kVhZQ7U7RFcEVTLTM4UDBabmc/view?usp=sharing&resourcekey=0-Y-8SqNvl65StnE8oH1mmaQ",
         "tags": "DUB",
         "n": 0
     },

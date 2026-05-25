@@ -19867,7 +19867,7 @@ filmes = [
         "t": "O AMOR DURA TRÊS ANOS",
         "c": "https://image.tmdb.org/t/p/w300/oc9EFtET8YxlJxaB7PAKC4NnnM.jpg",
         "a": "2011",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0gq0GVVLeCDSjNKTkhydENjNzA&dsh=S909493217%3A1774908668044095&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0gq0GVVLeCDSjNKTkhydENjNzA&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UcwlA3BkF6OxgPtQWu7L22ads3-PoRIM57nd-TC_2o7nbWYMnJBR16qSMdooGHzlBl2pHZ",
+        "link": "https://drive.google.com/file/d/0B0gq0GVVLeCDSjNKTkhydENjNzA/view?usp=sharing&resourcekey=0-jgcVpsGKoeu857DAoodSSw",
         "tags": "DUB",
         "n": 0
     },
@@ -19987,8 +19987,8 @@ filmes = [
         "t": "O ARQUIVO DE BERLIM",
         "c": "https://image.tmdb.org/t/p/w300/qVybiN7nX8zJd3JSBDDPv8TvSML.jpg",
         "a": "2013",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1NXA7QKT8BcMGN2YUZkb0lGRm8%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774908693313930&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1NXA7QKT8BcMGN2YUZkb0lGRm8%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VEGcMtoO5DXT0pici7BPt9er3a0lAOqfX9HUu6Io2OwbiDbLWz6KQcHRwKkGGWk_fWKClVKQ",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B1NXA7QKT8BcMGN2YUZkb0lGRm8/view?usp=sharing&resourcekey=0-CqyooPUj1kOtFGlSdRCX2w",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -20019,7 +20019,7 @@ filmes = [
         "t": "O ASSASSINATO DE JESSE JAMES",
         "c": "https://image.tmdb.org/t/p/w300/9vpIhmdk0jq6POxz7Fm06gBP3YZ.jpg",
         "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B90Yi54NXIRfUDVfUDRtRVJ6RFU%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774908700519934&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B90Yi54NXIRfUDVfUDRtRVJ6RFU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Vrl-cNSTBjr6SkxjLNrVdpzNT8W6fd0e7iEf65iz1Qhly2EGm-8VX16zi8kLCg7tqEt8lWHQ",
+        "link": "https://drive.google.com/file/d/0B90Yi54NXIRfUDVfUDRtRVJ6RFU/view?usp=sharing&resourcekey=0-PIAc8dOUY2P28kd4_FMvuQ",
         "tags": "DUB",
         "n": 0
     },
@@ -20027,7 +20027,7 @@ filmes = [
         "t": "O ATAQUE DOS TOMATES ASSASSINOS",
         "c": "https://image.tmdb.org/t/p/w300/aaK1RBxcuhoda8Zl3764s5rqjD0.jpg",
         "a": "1978",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1QwrM96ANPBT2pVaXBqa3lMWVU%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774908702991050&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1QwrM96ANPBT2pVaXBqa3lMWVU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Uego9_WGcl2B2RvlP838rfLC7sa7IsH6jtyvk2xxHtYr8N7GJoTdP5whTukZGBbJxuDPFS",
+        "link": "https://drive.google.com/file/d/0B1QwrM96ANPBT2pVaXBqa3lMWVU/view?usp=sharing&resourcekey=0-TRWe8A04h0f73vRWz6n3Og",
         "tags": "DUB",
         "n": 0
     },
@@ -20099,16 +20099,16 @@ filmes = [
         "t": "O BOM DINOSSAURO",
         "c": "https://image.tmdb.org/t/p/w300/h85jXVapDFhsDvlsrmuMJkfvXSj.jpg",
         "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2vsb91p1MdwZHZHOUZnOV9FWWs%2Fview%3Fusp%3Dsharing&dsh=S-1758961639%3A1774908718873948&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2vsb91p1MdwZHZHOUZnOV9FWWs%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VJmncwfrsiXDYGufwGFY5Anb5ZijAQU9Kzkj993UdpsmAvaeRlYLwV3SYT2wJy-pjSMS-4",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B2vsb91p1MdwZHZHOUZnOV9FWWs/view?usp=sharing&resourcekey=0-fEHwkqiURcW1gFc6xpiLng",
+        "tags": "DUAL",
         "n": 0
     },
     {
         "t": "O BOM PASTOR",
         "c": "https://image.tmdb.org/t/p/w300/ApS1M1YQXbz6JfDlLE2W3vpvpiP.jpg",
         "a": "2006",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0PipzbCZE2qdFY1aUpoallaYlE%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774908721329704&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0PipzbCZE2qdFY1aUpoallaYlE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XybewzDM-D59MTH3ZDgWOZXyTv0uhIHuK2dErn2KIgf5P9YgaZTUM_qfpNaMUnNOEYwv5mag",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B0PipzbCZE2qdFY1aUpoallaYlE/view?usp=sharing&resourcekey=0-cVC2faYR4u9h_ar7YdPN6g",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -20139,8 +20139,8 @@ filmes = [
         "t": "O CAMINHO PARA A ETERNIDADE",
         "c": "https://image.tmdb.org/t/p/w300/w6R4s7pLz8vxfK7YU76iUkwoVUi.jpg",
         "a": "2010",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_uWXG5HJ_B5a01MeS14TGtQS2c%2Fview%3Fusp%3Dsharing&dsh=S1345337409%3A1774908729413446&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_uWXG5HJ_B5a01MeS14TGtQS2c%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_X57qH_YypYStKcgr2g8oLJ1zGcF2ajpHEJSgJOb7rJwmaOVa8qdVS5d1_Oh-djL4UEJR75cw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B_uWXG5HJ_B5a01MeS14TGtQS2c/view?usp=sharing&resourcekey=0-CghuUPWHKRsNsLnNrLkDVA",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -20211,7 +20211,7 @@ filmes = [
         "t": "O CÉU PODE ESPERAR",
         "c": "https://image.tmdb.org/t/p/w300/kfrPkFCQi0iYxfYFbl1rviSi9Ef.jpg",
         "a": "2001",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9me1LTilTy4Z2FTQlFzT1RWZnc%2Fview%3Fusp%3Dsharing&dsh=S271553589%3A1774908743096997&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9me1LTilTy4Z2FTQlFzT1RWZnc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_URmxyrT21dNYs1cV-wl_vcm8O9tpjDP5SCZsDVj-52UoS10o6O_Bx5kES2PGNaTJlJvCui",
+        "link": "https://drive.google.com/file/d/0B9me1LTilTy4Z2FTQlFzT1RWZnc/view?usp=sharing&resourcekey=0-johYuzVGF_NmZG5ssbl87g",
         "tags": "DUB",
         "n": 0
     },
@@ -20235,7 +20235,7 @@ filmes = [
         "t": "O CÓDIGO DA VINCI",
         "c": "https://image.tmdb.org/t/p/w300/feyfwGwJOdUAAqjTP3vXJmSesAt.jpg",
         "a": "2006",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8owNGE9rUjgSHV3ZklJVUVPbnM&dsh=S1394476296%3A1774908748668982&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B8owNGE9rUjgSHV3ZklJVUVPbnM&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WzoIg26ApFkMi57DBzwIU91ALHlNfnMMMLiEmdWurvU0ah7kYNqIVT8IYTDnHQnYh4yV0MWg",
+        "link": "\u001bhttps://drive.google.com/file/d/0B8owNGE9rUjgSHV3ZklJVUVPbnM/view?usp=sharing&resourcekey=0-sjaO0VewycgYNj5gbhOw0w",
         "tags": "DUB",
         "n": 0
     },
@@ -20274,8 +20274,8 @@ filmes = [
     {
         "t": "O CONTINENTE PERDIDO",
         "c": "https://image.tmdb.org/t/p/w300/oEHvetzkFDmgMnThtY7V0Y57dob.jpg",
-        "a": "1961",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-qwfV7YInAHS25sYTJpUjhvZVU&dsh=S-1959460126%3A1774908817396372&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B-qwfV7YInAHS25sYTJpUjhvZVU&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V1jpsf-vcnX7yRfy1uWhjw0T4s8ycocm1rQDcOt81go5PiIefefTk3w9rFBXokejbte3vDLg",
+        "a": "1968",
+        "link": "https://drive.google.com/file/d/0B-qwfV7YInAHS25sYTJpUjhvZVU/view?usp=sharing&resourcekey=0-_gV0qeQAtjxreQlGlyfL-Q",
         "tags": "DUB",
         "n": 0
     },
@@ -20418,8 +20418,8 @@ filmes = [
     {
         "t": "O DUENDE",
         "c": "https://image.tmdb.org/t/p/w300/mtN72fIqY4NX2zMTbwCfXc3so98.jpg",
-        "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9SnN2mtCSl-aHNicmFpV3luYVU%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774908851721849&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9SnN2mtCSl-aHNicmFpV3luYVU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VOT24z8-vXcF_RLjo_qBo0eM3yZMVhRjTSI7Jtz22ioTswUEx0LcJgjeWw53EDUsYF3qHGKA",
+        "a": "1993",
+        "link": "https://drive.google.com/file/d/1CRhKqr8-AVcaLBC7d1Vzo7PHCPWFOCWc/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -20714,8 +20714,8 @@ filmes = [
     {
         "t": "O HIPNOTISTA",
         "c": "https://image.tmdb.org/t/p/w300/dg69vxiMpWd3pfz3GcJ119NIshT.jpg",
-        "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3avdMUAzo8sNE5FSm1lZHJNZFU%2Fview%3Fusp%3Dsharing&dsh=S-284366117%3A1774908965752382&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3avdMUAzo8sNE5FSm1lZHJNZFU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V6jUkx3P-ptqytyH-0uoeLAe0B1vo_kEv8Jrzqb-5LJhnrTk_Cb6xv-4WVmJn42Yn-1MDGFQ",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/0B3avdMUAzo8sNE5FSm1lZHJNZFU/view?usp=sharing&resourcekey=0-O3-fYb8XH6CusQDnggcgDA",
         "tags": "DUB",
         "n": 0
     },
@@ -20778,8 +20778,8 @@ filmes = [
     {
         "t": "O INIMIGO MORA AO LADO",
         "c": "https://image.tmdb.org/t/p/w300/51jrnpWnlBTIHW2HAdz7Wh2axi0.jpg",
-        "a": "2013",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B90Yi54NXIRfZ0RqZU5ILUZfTFk%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774908981788682&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B90Yi54NXIRfZ0RqZU5ILUZfTFk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XgulKcnr6Hhw-JL2dl_lezrT4lRRlvbGstERTlEmI4xgpp8Butfey9GQ7Pcz2CBkULXp0HaA",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/0B90Yi54NXIRfZ0RqZU5ILUZfTFk/view?usp=sharing&resourcekey=0-K0rzkagcAT9mrBiabMw-2g",
         "tags": "DUB",
         "n": 0
     },

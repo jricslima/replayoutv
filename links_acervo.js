@@ -619,7 +619,7 @@ filmes = [
         "t": "A TINY HOME CHRISTMAS",
         "c": "https://image.tmdb.org/t/p/w300/nOn7sHlP9m9SHvyhDm26npeLPlW.jpg",
         "a": "2022",
-        "link": "https://drive.google.com/file/d/18_0ZG4obNSoA1s2h7BgrZZwZqgB_TobK/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/127xS5UFobag7uud7SlTApR4olNywDG9U/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -7539,7 +7539,7 @@ filmes = [
         "t": "CONFESSIONS OF A ROMANCE NARRATOR",
         "c": "https://image.tmdb.org/t/p/w300/AmsOHmydy3hKPWsnpz41fFlfTGs.jpg",
         "a": "2025",
-        "link": "https://drive.google.com/file/d/1Yxp4QXKyevAfRDxUA-7wDo4qnKFdusb6/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1Yi7UgBm9z6aHTzrGeV6M4NAhTosfPWBs/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },

@@ -16896,11 +16896,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MERCENARIES AS MERCENÁRIAS",
+        "t": "AS MERCENÁRIAS MERCENARIES",
         "c": "https://image.tmdb.org/t/p/w300/1rbMWF6Npr1fwrcoTZcItFX5Rv1.jpg",
         "a": "2014",
-        "link": "https://drive.google.com/file/d/1ZyJoRRY5v-EY97hGb8fuizoqsg-TrjSc/view?usp=sharing",
-        "tags": "LEG AC",
+        "link": "https://drive.google.com/file/d/1L1O9KLAdgbq5zvH04GV570jTjBdYSv5e/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

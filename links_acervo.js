@@ -15715,8 +15715,8 @@ filmes = [
         "t": "LOVERS AND OTHER STRANGERS AS MIL FACES DO AMOR",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mi1KISkgUXfXnn3wsAsj4bH9XPN.jpg",
         "a": "1970",
-        "link": "https://drive.google.com/file/d/1Ijac0mGefh59iERO8lFGo7ZYL7x0ipcr/view?usp=sharing",
-        "tags": "LEG AC",
+        "link": "https://drive.google.com/file/d/1oyzgOqEmdqBCByWDMS1uEcLu3SWI7dWs/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

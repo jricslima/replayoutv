@@ -19667,8 +19667,8 @@ filmes = [
         "t": "OS SKATISTAS O DESAFIO EM RITMO DE SKATE THRASHIN",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7yq7P9bqtbMGkWoikQDegyepuDh.jpg",
         "a": "1986",
-        "link": "https://drive.google.com/file/d/1xIIDO9C5dywpm4JE7QNwgKWFvaEa_dVc/view?usp=sharing",
-        "tags": "LEG AC",
+        "link": "https://drive.google.com/file/d/1FHtI-QHfzGRypQ424Og5Kc37omp7408r/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

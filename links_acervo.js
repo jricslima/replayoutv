@@ -24395,8 +24395,8 @@ filmes = [
         "t": "ROMANTIC REWRITE",
         "c": "https://image.tmdb.org/t/p/w300/cHqEwXUShYuVpTaUTsyDgaUmmRA.jpg",
         "a": "2022",
-        "link": "https://drive.google.com/file/d/1rkolN8xlHdHNZsNS1D9JBP29TZE3mqBY/view?usp=sharing",
-        "tags": "LEG AC",
+        "link": "https://drive.google.com/file/d/1kBHrPke_0VBJyPskQX6gcmOwGo9B3pJy/view",
+        "tags": "LEG",
         "n": 0
     },
     {

@@ -15571,8 +15571,8 @@ filmes = [
         "t": "LOVE AFFAIR SEGREDOS DO CORAÇÃO",
         "c": "https://image.tmdb.org/t/p/w300/uPEh48HZN9qqewkF2Hsi9BD6oz7.jpg",
         "a": "1994",
-        "link": "https://drive.google.com/file/d/1q5U_5y-vRSI9NIIbNK6HmtCCLXqplfe-/view?usp=sharing",
-        "tags": "LEG",
+        "link": "https://drive.google.com/file/d/1R0r13QSVbKsQwy1asRCS16_Jp7zb8ZF-/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

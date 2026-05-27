@@ -31755,8 +31755,8 @@ filmes = [
         "t": "HACKER TODO CRIME TEM UM INÍCIO \"SEM CORTES\"",
         "c": "https://image.tmdb.org/t/p/w300/6zHdhfnreagE3Bv6n7BXtC8gk6r.jpg",
         "a": "2016",
-        "link": "https://drive.google.com/file/d/1u0h7uXBd9itIjjCEgfViA9FnTpGRg6t_/view?usp=sharing",
-        "tags": "LEG AC",
+        "link": "https://drive.google.com/file/d/1zQ5hk3u9yVkejSU6HxQwyB8khgP9F2FX/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

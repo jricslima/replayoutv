@@ -21753,10 +21753,10 @@ filmes = [
     },
     {
         "t": "O VEREDICTO",
-        "c": "https://image.tmdb.org/t/p/w300/lAAs0YvjEFSXbt5bRAABiWG4pP2.jpg",
-        "a": "2019",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7AblpWemR5Unl2bUE%2Fview%3Fusp%3Dsharing&dsh=S271553589%3A1774909320272412&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7AblpWemR5Unl2bUE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XIP69nMWo6-2j3vkZncCFtpFSdwG2ZdxNV4bDC1kjTcn8erpNuPqmD8hRM7eLcblgg_5N1Tg",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hFsMLr9fAhZ1buWZTumeK3JHUlr.jpg",
+        "a": "1982",
+        "link": "https://drive.google.com/file/d/1YBOErllHCovOgIe3pcWGzxSsqmOUaK-z/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

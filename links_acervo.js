@@ -22163,8 +22163,8 @@ filmes = [
         "t": "OS FANTASMAS SE DIVERTEM",
         "c": "https://image.tmdb.org/t/p/w300/mLSJNejuGDegsMDiWWwIP7VDiyz.jpg",
         "a": "1988",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_HwkC3lXD4CbGhfZWtJRzlmZWs%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774909459411284&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_HwkC3lXD4CbGhfZWtJRzlmZWs%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VK7xPSFD5_9IXPnwcp8qiN3hUOeBrgvM_UIcxZZEKlI7Laoh4JchHRmRDDyaRmM8uR-svqHQ",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1D_BI6H8mnv0bqzEkpYBc2geE63Mg552U/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

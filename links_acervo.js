@@ -21355,8 +21355,8 @@ filmes = [
         "t": "O QUARTO DE JACK",
         "c": "https://image.tmdb.org/t/p/w300/tARXudrc5K1z8x8OsE9ko5TopMK.jpg",
         "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B9cyUs4KSYdnZlBBMzJndFRobU0&dsh=S1480233536%3A1774909160457449&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B9cyUs4KSYdnZlBBMzJndFRobU0&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WFIpFArKTOOmpuU2Lzt9Crabf42hZ2RXFBj3zZ4sX_NPJpafM8vFfy3hH3_-kYvPKkuu-cFA",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1AFxL8_81sOxJjEsimevgsq5ah7ro5-_Z/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

@@ -20283,7 +20283,7 @@ filmes = [
         "t": "O CONTO DA PRINCESA KAGUYA",
         "c": "https://image.tmdb.org/t/p/w300/cerV9QJhSdDlnUigrsKZQfOeTpA.jpg",
         "a": "2013",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1ysQbN7EYh-OUxtYnh6TWgwY2c%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774908819886535&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1ysQbN7EYh-OUxtYnh6TWgwY2c%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_ULAXodEtqlL4r8dYCL97WFdTfVYjfB58F4E-Em2uvybxR_b0ulGfDoKsCCeTh4U7tB2d1g",
+        "link": "https://drive.google.com/file/d/1G6OAD-Y8sD99_vzy-4xM3bdanMTu5D8q/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

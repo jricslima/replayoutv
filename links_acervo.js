@@ -19657,8 +19657,8 @@ filmes = [
     },
     {
         "t": "O APOCALIPSE",
-        "c": "https://image.tmdb.org/t/p/w300/3C9xnn1OFAeKl3862jBlx5cU8GA.jpg",
-        "a": "2012",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3fHwNFmm0Kcs2VP5y3Pob7Dc3K1.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/1lWIYFOUX5ZRps8KqmLt7qDJLj6PSxHeE/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

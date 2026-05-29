@@ -27249,8 +27249,8 @@ filmes = [
     },
     {
         "t": "THE LEAGUE OF GENTLEMAN'S APOCALYPSE A LIGA DOS CAVALHEIROS O APOCALIPSE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/z3XYo7xdxg9QRecUZ1VpsfmZnxL.jpg",
+        "a": "2005",
         "link": "https://drive.google.com/file/d/1nlCpwLWXLYO1z3FTG5m1FvGt1zdshoej/view?usp=sharing",
         "tags": "LEG",
         "n": 0

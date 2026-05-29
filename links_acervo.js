@@ -20265,9 +20265,9 @@ filmes = [
     },
     {
         "t": "O CONTADOR",
-        "c": "https://image.tmdb.org/t/p/w300/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
-        "a": "1994",
-        "link": "https://drive.google.com/a/my.riohondo.edu/file/d/1rBFxl0BTouky6U9PRm5gDbcTv5WgsIoq/view?usp=sharing",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vgJt4ADIjm5U2y3oPLu6kXEXOCY.jpg",
+        "a": "2016",
+        "link": "https://drive.google.com/file/d/1RIazvFvotdaYXF9-lXmxHmBeAcVmdlRT/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

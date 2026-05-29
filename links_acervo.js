@@ -21977,10 +21977,10 @@ filmes = [
     },
     {
         "t": "ORCA A BALEIA ASSASSINA",
-        "c": "https://image.tmdb.org/t/p/w300/wo9d6U70YFCjICNWpOZwl7rRkOA.jpg",
-        "a": "2026",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IWm0tajM3V2xEMjQ%2Fview%3Fusp%3Dsharing&dsh=S-1758961639%3A1774909412975803&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4IWm0tajM3V2xEMjQ%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VYKGMyl9yQQsZVfZb6rWxeE0u6g-TourqqHewdlbVfnYf4wpG9SD5Na_dSAqjyyIDThQHm",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/sPPE5rdxtv3yF4a9HkIyRVHV8Gp.jpg",
+        "a": "1977",
+        "link": "https://drive.google.com/file/d/1opc9IEQRwRsD5RMTNDdWs4xJBHVjN55u/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

@@ -20257,9 +20257,9 @@ filmes = [
     },
     {
         "t": "O CONFRONTO",
-        "c": "https://image.tmdb.org/t/p/w300/4vLhF6R3lmhTjTVUdK4gI1s5a8v.jpg",
-        "a": "2014",
-        "link": "https://drive.google.com/file/d/1vDYWXAKwymdot27ogVStGRmyW_OAo68r/view?usp=sharing",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/stlAyArGHznHJOIN6AwAGiPh7AW.jpg",
+        "a": "2001",
+        "link": "https://drive.google.com/file/d/1arc1J-Wnb3tgU80iVjuYjFGbSQ2HrUGZ/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

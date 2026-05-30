@@ -22056,14 +22056,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "OS ASTRONAUTAS",
-        "c": "https://image.tmdb.org/t/p/w300/6w6fTtACYZzBv44S1A05nNDhLwQ.jpg",
-        "a": "2024",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7AN0tXdjljYmhwWFU%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774909435209857&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7AN0tXdjljYmhwWFU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XWHWgEfm1wdxVdWTbkdaNRggursXM34Rw0blKTDTCbSEPZBTeXlP2Nm85Atf7tDo56AEdKoQ",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "OS BATUTINHAS",
         "c": "https://image.tmdb.org/t/p/w300/dj2ZDfh7oi2zY1V957tQ42G8aim.jpg",
         "a": "1994",

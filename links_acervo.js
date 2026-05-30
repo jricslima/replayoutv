@@ -22115,7 +22115,7 @@ filmes = [
         "t": "OS DEZ MANDAMENTOS O FILME",
         "c": "https://image.tmdb.org/t/p/w300/yctfYDrHAPcJP54D2BCH9R5GTY2.jpg",
         "a": "2016",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BxacpsnS08rrX25OWGk2R214TlU%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774909447433776&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BxacpsnS08rrX25OWGk2R214TlU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_W-S2j43COSgtAwis2tQBrqm6IOKWFjAtu3KWfxH1atYTOVEPORTgIDzFi89U3agU2MIfujTg",
+        "link": "https://drive.google.com/file/d/1k0Ywr_mXGAlakcWIfpOpEWBdnXhoBqtV/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

@@ -20235,7 +20235,7 @@ filmes = [
         "t": "O CÓDIGO DA VINCI",
         "c": "https://image.tmdb.org/t/p/w300/feyfwGwJOdUAAqjTP3vXJmSesAt.jpg",
         "a": "2006",
-        "link": "\u001bhttps://drive.google.com/file/d/0B8owNGE9rUjgSHV3ZklJVUVPbnM/view?usp=sharing&resourcekey=0-sjaO0VewycgYNj5gbhOw0w",
+        "link": "https://drive.google.com/file/d/0B8owNGE9rUjgSHV3ZklJVUVPbnM/view?usp=sharing&resourcekey=0-sjaO0VewycgYNj5gbhOw0w",
         "tags": "DUB",
         "n": 0
     },

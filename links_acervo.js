@@ -19345,8 +19345,8 @@ filmes = [
     },
     {
         "t": "O VOO",
-        "c": "https://image.tmdb.org/t/p/w300/ntoWVqH3ZRa5XW2U1PpmjaLBb76.jpg",
-        "a": "1972",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/oYkQSYAByXGy9ooKPWRrCd43s7l.jpg",
+        "a": "2012",
         "link": "https://drive.google.com/file/d/1SjHuGLkOuMKucxYxSyF_8Xby01mDSlpd/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

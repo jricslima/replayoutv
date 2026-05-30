@@ -20656,11 +20656,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O GAVIAO E O FLECHA",
+        "t": "O GAVIAO E A FLECHA",
         "c": "https://image.tmdb.org/t/p/w300/u9NpVZaHgzUCyNlhHVa08UPeoNJ.jpg",
         "a": "1950",
-        "link": "https://drive.google.com/open?id=1eztESeyrxxJc1jloik8vIJmW3wwswZOH",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1jeZ0UOrmEqdcRjyQ3fE9DZVQuhuBcn_6/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

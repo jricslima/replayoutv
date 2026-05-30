@@ -21176,11 +21176,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O PECADO MORA AO LADO",
+        "t": "O PECADO MORA AO LADO - THE SEVEN YEAR ITCH",
         "c": "https://image.tmdb.org/t/p/w300/rQCWA0nka53WmQuCZfdMZUVJljH.jpg",
         "a": "1955",
-        "link": "https://drive.google.com/file/d/1Bs9zYEvPVMnmFup9cP74SZT3EDDxj7to/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1m_osgljMG5Obd4xJKYshgHZRWyaRjP7A/view?usp=sharinghttps://drive.google.com/file/d/1m_osgljMG5Obd4xJKYshgHZRWyaRjP7A/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

@@ -20482,8 +20482,8 @@ filmes = [
     {
         "t": "O ESCORPIÃO REI 4 NA BUSCA PELO PODER",
         "c": "https://image.tmdb.org/t/p/w300/KXfXTed3otdXYhlWDb4cXgTZcD.jpg",
-        "a": "2015",
-        "link": "https://drive.google.com/file/d/132QwE7Gz-yMzuBg02cbutaWRxh_EKAsI/view?usp=sharing",
+        "a": "2014",
+        "link": "https://drive.google.com/file/d/1zdvvj19tunE31ybZw5BRAsQQ_fm1nE8r/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

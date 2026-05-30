@@ -20475,7 +20475,7 @@ filmes = [
         "t": "O ESCORPIÃO REI 3 BATALHA PELA REDENÇÃO",
         "c": "https://image.tmdb.org/t/p/w300/3Ate9vumD96nSQJ1aFw9QGORdb.jpg",
         "a": "2012",
-        "link": "https://drive.google.com/file/d/1eDhc4QN8mi5alV2U8XyDvC7NgKISn1XK/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/15hSJD6STBcDvOhdbg5A3cevg6drpBJtJ/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

@@ -23257,8 +23257,8 @@ filmes = [
     },
     {
         "t": "PERSEGUIÇÃO IMPLACÁVEL",
-        "c": "https://image.tmdb.org/t/p/w300/qOAa9olK9bhFkZYPvixacglbo3N.jpg",
-        "a": "1997",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ndekSw45Sv49RKHjtMR5nOJUtj5.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/1D2zqGjmuAeGqDV17wg8Df7StcVZlfKcB/view?usp=drive_open",
         "tags": "DUB",
         "n": 0

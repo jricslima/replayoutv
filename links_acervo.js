@@ -23715,7 +23715,7 @@ filmes = [
         "t": "PROJETO DINOSSAURO",
         "c": "https://image.tmdb.org/t/p/w300/zvmTfBAhJHaNSnXZt93DFX2KcDI.jpg",
         "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0Bz_0Y36dDH8XQjZlcDUwMnJKaUU&dsh=S1394476296%3A1774910085053474&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0Bz_0Y36dDH8XQjZlcDUwMnJKaUU&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_X9znuswRCv_xPrQ7k5D5yNRErDZHgM8eP1HXOBvwuO9HSngZq6ty5lQuqS9wlOL_30tXI2",
+        "link": "https://drive.google.com/file/d/13or638i8BWtb23G8SaOqjcHzx6267VgP/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

@@ -23608,14 +23608,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PREMONIÇÃO 01 AO 05",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/0B3OiC2I-r5n-bHJpNkVEUU5xYzA?resourcekey=0-u7UwEmj2h8q_7ZAahNRz6A&amp;usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "PRENDA ME SE FOR CAPAZ",
         "c": "https://image.tmdb.org/t/p/w300/pSaqcj3pwTKt34cyn6NrBE7V4eH.jpg",
         "a": "2002",

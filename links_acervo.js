@@ -23018,9 +23018,9 @@ filmes = [
     {
         "t": "PARAÍSO PERDIDO – O CAMINHO PARA A ETERNIDADE 2",
         "c": "https://image.tmdb.org/t/p/w300/nHRiCbGRtNLnX0r3vOcKTbg3XUn.jpg",
-        "a": "2012",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4ITlF3SWdaWkNIUWc%2Fview%3Fusp%3Dsharing&dsh=S-1959460126%3A1774909800708238&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4ITlF3SWdaWkNIUWc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WpygRvFLff3ZNY5AxcD9B1I6AtzVtO5R-H6z84ODv9J6mPHmmo4s8VHgf9kF4xthCDbdLEpg",
-        "tags": "DUB",
+        "a": "2013",
+        "link": "https://drive.google.com/file/d/0B5D1SaJxbV4ITlF3SWdaWkNIUWc/view?usp=sharing&resourcekey=0-FblwCgLds1PqtROvEc2Cew",
+        "tags": "DUAL",
         "n": 0
     },
     {

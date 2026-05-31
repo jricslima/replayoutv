@@ -23571,7 +23571,7 @@ filmes = [
         "t": "PRATA MÁGICA",
         "c": "https://image.tmdb.org/t/p/w300/mRQ7M0rnvlqTcAeEaU56Pod6zQQ.jpg",
         "a": "2009",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B6e8bBDUYtvgS1RUcVF5N1FYcHM&dsh=S-1271814163%3A1774910051463794&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B6e8bBDUYtvgS1RUcVF5N1FYcHM&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UOvhpEabH-l0wQP14RxsZGZJHKfXiIThAQg5COqryw8WD8boTiEHigyJRenoG1Zt_YypCBPg",
+        "link": "https://drive.google.com/file/d/0B6e8bBDUYtvgS1RUcVF5N1FYcHM/view?usp=sharing&resourcekey=0-zK-njXDINpiL3WKfl9wdjA",
         "tags": "DUB",
         "n": 0
     },

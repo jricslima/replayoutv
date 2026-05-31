@@ -22480,9 +22480,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PERSUASION PERSUASÃO",
-        "c": "https://image.tmdb.org/t/p/w300/3MwunVE65fGNJRuXC4lJzaPzDty.jpg",
-        "a": "1995",
+        "t": "PERSUASION",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rDv38jqf3t0n4F9wGkQXBLx7wN9.jpg",
+        "a": "2007",
         "link": "https://drive.google.com/file/d/1NDA6VHdz0Dzq9HGR7WwCPf8H92r81R4x/view?usp=sharing",
         "tags": "LEG",
         "n": 0

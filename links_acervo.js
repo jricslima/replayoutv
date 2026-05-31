@@ -23833,8 +23833,8 @@ filmes = [
     },
     {
         "t": "PULSE",
-        "c": "https://image.tmdb.org/t/p/w300/9ePdNzKVvGHsMMphfS3HeoMvuEX.jpg",
-        "a": "2006",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/c3zEimDraIyMSasPMGDaNOrhnzn.jpg",
+        "a": "2001",
         "link": "https://drive.google.com/file/d/1r7o3LD5X7vgkP7Xg7OxbanT_ULBlBjzu/view?usp=sharing",
         "tags": "LEG",
         "n": 0

@@ -23889,8 +23889,8 @@ filmes = [
     },
     {
         "t": "PUPPY LOVE FAMÍLIA POR ACASO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zjpsW3sflsoxahFyFujvTnWUuqV.jpg",
+        "a": "2012",
         "link": "https://drive.google.com/file/d/1xjlurL35mT07QA6irMmYobKCm-X2xu17/view?usp=sharing",
         "tags": "LEG",
         "n": 0

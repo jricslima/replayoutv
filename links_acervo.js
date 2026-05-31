@@ -22840,7 +22840,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PALO ALTO /",
+        "t": "PALO ALTO",
         "c": "https://image.tmdb.org/t/p/w300/yjcwwYP3eSigxLKKVBoVVz85ZWv.jpg",
         "a": "2014",
         "link": "https://drive.google.com/file/d/1VzQdkPuw4sOwqpcTk2_ElY9-NiwhsEMs/view?usp=sharing",

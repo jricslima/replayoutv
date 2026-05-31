@@ -23841,7 +23841,7 @@ filmes = [
     },
     {
         "t": "PULSE",
-        "c": "https://image.tmdb.org/t/p/w300/9ePdNzKVvGHsMMphfS3HeoMvuEX.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/yqH1TXsuuplNDileUXMRe1AvKf9.jpg",
         "a": "2006",
         "link": "https://drive.google.com/file/d/13alkvQpSHH4zEL2v_yKbQliNcs9SEJJz/view?usp=sharing",
         "tags": "DUB",

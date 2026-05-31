@@ -23184,9 +23184,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PERDIDOS EM N. Y.",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "PERDIDOS EM NOVA YORK",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dsdeWQoWueJxTpnQTqVFrQbVH5r.jpg",
+        "a": "1999",
         "link": "https://drive.google.com/file/d/19XBEjxHNcZYbvDvNy1DWISQGekXmuSqO/view?usp=drive_open",
         "tags": "DUB",
         "n": 0

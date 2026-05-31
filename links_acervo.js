@@ -23529,10 +23529,10 @@ filmes = [
     },
     {
         "t": "POR TRÁS DA MÁSCARA",
-        "c": "https://image.tmdb.org/t/p/w300/kKAJjnhNfw4uxkHwRfduHHR8EQJ.jpg",
-        "a": "2021",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B77mza-lJWUybDExQ3NCRnJDVDg%2Fview%3Fusp%3Dsharing&dsh=S-1221112150%3A1774910041236404&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B77mza-lJWUybDExQ3NCRnJDVDg%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VEzO7F-FNXVIWlrRN9QmJEEfck7R6iV96SzR0BzLAYYxwQMBNUdGy2PVS2Dk9HaO_0xhsHcg",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xfFXxWpeqyz2sA6MjbDNkAyMamH.jpg",
+        "a": "2006",
+        "link": "https://drive.google.com/file/d/0B77mza-lJWUybDExQ3NCRnJDVDg/view?usp=sharing&resourcekey=0-G9Ykn0BDm3PRLgNXijv4mA",
+        "tags": "DUAL",
         "n": 0
     },
     {

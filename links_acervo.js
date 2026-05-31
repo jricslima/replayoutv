@@ -31902,5 +31902,53 @@ filmes = [
         "link": "https://drive.google.com/file/d/18zevp3yRy8ok35RjD2LwdsNuemmw-7Ne/view?usp=sharing",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "PREMONIÇÃO (",
+        "c": "https://image.tmdb.org/t/p/w300/yFJVHW2Q7ofpS0IJFPKBoonAbMe.jpg",
+        "a": "2000",
+        "link": "https://drive.google.com/file/d/17I5bOKX87gjxvcoS-4JmrbplsF7MW1cb/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "PREMONIÇÃO 2 (",
+        "c": "https://image.tmdb.org/t/p/w300/v1HSfT3BjDRGfHji30VvHeCBJHu.jpg",
+        "a": "2003",
+        "link": "https://drive.google.com/file/d/1uIUFxmMdvV6nuzQP2pNgVQPFFjnhxyzu/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "PREMONIÇÃO 3 (",
+        "c": "https://image.tmdb.org/t/p/w300/pIEOtja7W6BjFUiuvPI9kd3z3QT.jpg",
+        "a": "2006",
+        "link": "https://drive.google.com/file/d/1_362Wsnm8z6PXrBQLXdFism5_tD5BPuC/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "PREMONIÇÃO 4 (",
+        "c": "https://image.tmdb.org/t/p/w300/sIDOFaipvpSM0R2uZNcDMLvTbhM.jpg",
+        "a": "2009",
+        "link": "https://drive.google.com/file/d/1VZvNMBamLAMVeQGjNQ5XjjmC2j7E01Jp/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "PREMONIÇÃO 5 (",
+        "c": "https://image.tmdb.org/t/p/w300/A0C3juaReSw8vQD3aWEZnOgolFL.jpg",
+        "a": "2011",
+        "link": "https://drive.google.com/file/d/1BYUK-5PNmwIsP4mjeG5lKz7MF7WYUb0t/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "PREMONIÇÃO 6 LAÇOS DE SANGUE (",
+        "c": "https://image.tmdb.org/t/p/w300/x3J781PsdMrjenzQKM5eJXqK5Nd.jpg",
+        "a": "2025",
+        "link": "https://drive.google.com/file/d/1yi9xMQkzZQKj9QxqOeK1mmD16T3f0g5s/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

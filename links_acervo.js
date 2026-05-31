@@ -23849,8 +23849,8 @@ filmes = [
     },
     {
         "t": "PULSE",
-        "c": "https://image.tmdb.org/t/p/w300/9ePdNzKVvGHsMMphfS3HeoMvuEX.jpg",
-        "a": "2006",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/e1bWnrucNTolAetBXuxzuyabB6t.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1rsdugeH2aM9mnf6ZKeQEVTaV4nyP6byq/view?usp=sharing",
         "tags": "LEG",
         "n": 0

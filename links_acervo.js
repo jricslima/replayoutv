@@ -22640,9 +22640,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PAIXÕES PROIBIDAS / LÁGRIMAS NA CHUVA",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "PAIXÕES PROIBIDAS  LÁGRIMAS NA CHUVA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7KTsYadqLMRafDTaYTkdU5G60vz.jpg",
+        "a": "1988",
         "link": "https://drive.google.com/file/d/1_4K0jbFrmz1h2f3FomkDJ6PVUzbJSaji/view?usp=sharing",
         "tags": "DUB",
         "n": 0

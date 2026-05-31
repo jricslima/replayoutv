@@ -23664,9 +23664,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PROCURA SE MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "PROCURA-SE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5S10EC500Gy0jSP2RJsiVNLamrP.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1YggMK9bB1BeR0O9a3ufysWQP1aCdBdj1/view?usp=sharing",
         "tags": "DUB",
         "n": 0

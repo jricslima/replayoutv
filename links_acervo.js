@@ -21096,14 +21096,6 @@ filmes = [
         "n": 1
     },
     {
-        "t": "O NATAL DO CHARLIE BROWN",
-        "c": "https://image.tmdb.org/t/p/w300/ft7y7pAhyHT0GoA5d4CDI33J8Zl.jpg",
-        "a": "1965",
-        "link": "https://drive.google.com/open?id=1cdhR5Bvx0zm7WRZZzhBXx3iEo0Lm0o0A",
-        "tags": "DUB",
-        "n": 1
-    },
-    {
         "t": "O NATAL DOS DARLINGTONS",
         "c": "https://image.tmdb.org/t/p/w300/h18hQf5ZZ2qrX6b7wMF5pPDmiSk.jpg",
         "a": "2020",

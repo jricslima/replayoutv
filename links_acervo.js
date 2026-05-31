@@ -23098,9 +23098,9 @@ filmes = [
     {
         "t": "PEDIDO DE AMIZADE",
         "c": "https://image.tmdb.org/t/p/w300/oj8V1BpQuvuw5TbzAQS85KKy20E.jpg",
-        "a": "2016",
+        "a": "2013",
         "link": "https://drive.google.com/file/d/1ekAp7t5BOrd9Co0SgUV1Qv32Ee9OkRep/view?usp=drive_open",
-        "tags": "DUB",
+        "tags": "HTTPS://WWW.THEMOVIEDB.ORG/T/P/W600_AND_H900_FACE/APHSQDEU72U6T8SY0JKFAKOPSFZ.JPG",
         "n": 0
     },
     {

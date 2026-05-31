@@ -22472,7 +22472,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PERSUASÃO PERSUASION",
+        "t": "PERSUASÃO",
         "c": "https://image.tmdb.org/t/p/w300/3MwunVE65fGNJRuXC4lJzaPzDty.jpg",
         "a": "1995",
         "link": "https://drive.google.com/file/d/1GOjSdk3IUHTpQa07D9F98YIL9FiQIh4D/view?usp=sharing",

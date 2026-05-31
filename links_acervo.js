@@ -23387,8 +23387,8 @@ filmes = [
         "t": "PLANETA FANTASMA",
         "c": "https://image.tmdb.org/t/p/w300/tqXs9OlNv09D3AIkl14Rlw9pTJT.jpg",
         "a": "1961",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2wpCUNxmdiHblozR1NxNk1LakE%2Fview%3Fusp%3Dsharing&dsh=S-1221112150%3A1774909941749794&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2wpCUNxmdiHblozR1NxNk1LakE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VzmymM4lKtGxzVv8QjaD5R4WVtX91we1wD9OhzY8ts-IV8nF-ULinm7q8vWiKqvkiZ31pYCw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B2wpCUNxmdiHblozR1NxNk1LakE/view?usp=sharing&resourcekey=0-asDe3bF1ZS9aWmC9PnkRLQ",
+        "tags": "LEG",
         "n": 0
     },
     {

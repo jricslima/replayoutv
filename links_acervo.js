@@ -23648,9 +23648,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PRÍNCIPE DA PÉRSIA AS AREIAS DO TEMPO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "PRÍNCIPE DA PÉRSIA AS AREIAS DO TEMPO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/nJxserrGJEJSBzLRs4YMMN0OakZ.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/1Miz120DzZRiqYDBUiVYIAmK6IcrU5lbr/view",
         "tags": "DUB",
         "n": 0

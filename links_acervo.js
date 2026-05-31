@@ -23825,8 +23825,8 @@ filmes = [
     },
     {
         "t": "PULSE",
-        "c": "https://image.tmdb.org/t/p/w300/9ePdNzKVvGHsMMphfS3HeoMvuEX.jpg",
-        "a": "2006",
+        "c": "https://i.postimg.cc/g25TrgHv/Pulse-2010.png",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/15XFLDAUpelsVmKNDcFhoOziBFaCC29_J/view?usp=sharing",
         "tags": "LEG",
         "n": 0

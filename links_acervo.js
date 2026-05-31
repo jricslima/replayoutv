@@ -23176,9 +23176,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PERDIDA MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "PERDIDA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/yYVLZgee1MpLGAB4YMneCdWLpEq.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1DUPrkbbs9xSJ-1Jbs7Kh5WDz0F-DLiWL/view?usp=sharing",
         "tags": "DUB",
         "n": 0

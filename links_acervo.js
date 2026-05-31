@@ -23624,11 +23624,11 @@ filmes = [
         "n": 1
     },
     {
-        "t": "PRIMEIRO DIA PARA ESCREVER AMOR EM SEUS BRAÇOS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B37evpT_4mqIbHR2ZUFsV2FmSzA%2Fview%3Fusp%3Dsharing&dsh=S573530077%3A1774910058739921&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B37evpT_4mqIbHR2ZUFsV2FmSzA%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VdAZfcWp4Kv2R2hzH2VrybTwePvuazaU3sl_H_1oIRCpuq7YJ1T5wa2OBS8XkaBss_hik-BA",
-        "tags": "DUB",
+        "t": "PARA ESCREVER O AMOR EM SEUS BRAÇOS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/b9MFCTbMv8pKQ2RPpvAx2AYYoMg.jpg",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/0B37evpT_4mqIbHR2ZUFsV2FmSzA/view?usp=sharing&resourcekey=0-BDIVJrhDtZZFpM_Ewu98iA",
+        "tags": "DUAL",
         "n": 0
     },
     {

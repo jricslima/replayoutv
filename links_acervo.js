@@ -23763,7 +23763,7 @@ filmes = [
         "t": "PROTEGIDA POR UM ANJO",
         "c": "https://image.tmdb.org/t/p/w300/dP0MedlsqvSwbTqiEwWkk7h0hHc.jpg",
         "a": "2006",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4nLNe9HQwT1ZGpNeGZORmltSHc%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774910097225573&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4nLNe9HQwT1ZGpNeGZORmltSHc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WYMLwaBHtaTEVTyB6U4Dv0d5jmszgtjw4cCyrtYvQqvA7UzJOeiWnYwozbqZ4CKPBvvgfGNA",
+        "link": "https://drive.google.com/file/d/0B4nLNe9HQwT1ZGpNeGZORmltSHc/view?usp=sharing&resourcekey=0-49PdFnlgOurIi9JqG1qd-g",
         "tags": "DUB",
         "n": 0
     },

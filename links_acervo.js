@@ -23472,9 +23472,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "POLLYANNA / DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "POLLYANNA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/baeFMA2s5mUrXIkt6bJBp64AXYR.jpg",
+        "a": "1960",
         "link": "https://drive.google.com/file/d/1uWaDz251wNMnDS19N9y4kPR0s76fBaAk/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

@@ -23097,10 +23097,10 @@ filmes = [
     },
     {
         "t": "PEDIDO DE AMIZADE",
-        "c": "https://image.tmdb.org/t/p/w300/oj8V1BpQuvuw5TbzAQS85KKy20E.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ApHsQDeu72U6T8sy0JKFAKOpsfZ.jpg",
         "a": "2013",
         "link": "https://drive.google.com/file/d/1ekAp7t5BOrd9Co0SgUV1Qv32Ee9OkRep/view?usp=drive_open",
-        "tags": "HTTPS://WWW.THEMOVIEDB.ORG/T/P/W600_AND_H900_FACE/APHSQDEU72U6T8SY0JKFAKOPSFZ.JPG",
+        "tags": "DUB",
         "n": 0
     },
     {

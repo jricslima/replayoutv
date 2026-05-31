@@ -22568,9 +22568,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PLEASE STAND BY / TUDO QUE QUERO AS SISTIR /",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "PLEASE STAND BY  TUDO QUE QUERO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9pFQR2CcOMY9n7KFjq1j27nh5d1.jpg",
+        "a": "2017",
         "link": "https://drive.google.com/file/d/1ZTNgmxde3ZS8rlpNelTsfsjBejsjyK7O/view?usp=sharing",
         "tags": "LEG",
         "n": 0

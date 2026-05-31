@@ -23547,8 +23547,8 @@ filmes = [
         "t": "PORKY'S A CASA DO AMOR E DO RISO",
         "c": "https://image.tmdb.org/t/p/w300/rrSuedyYeT2Plw3fP2OUuTsYJnX.jpg",
         "a": "1982",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7BQwCUfXt3rZVoxTnZvcFVaODQ%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774910045688781&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7BQwCUfXt3rZVoxTnZvcFVaODQ%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Xn3dNJ10BxRe1NGiRPvV7nrYJL25IElKEsfcbH-H-3J8hw4ddTYZmpEn6qcX7_2yzaO6J8Aw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B7BQwCUfXt3rZVoxTnZvcFVaODQ/view?usp=sharing&resourcekey=0-qtqO_HyyWd65TpdBwsr4Sw",
+        "tags": "DUAL",
         "n": 0
     },
     {

@@ -22472,7 +22472,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PERSUASÃO",
+        "t": "PERSUASÃO PERSUASION",
         "c": "https://image.tmdb.org/t/p/w300/3MwunVE65fGNJRuXC4lJzaPzDty.jpg",
         "a": "1995",
         "link": "https://drive.google.com/file/d/1GOjSdk3IUHTpQa07D9F98YIL9FiQIh4D/view?usp=sharing",
@@ -22480,7 +22480,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PERSUASION",
+        "t": "PERSUASION PERSUASÃO",
         "c": "https://image.tmdb.org/t/p/w300/3MwunVE65fGNJRuXC4lJzaPzDty.jpg",
         "a": "1995",
         "link": "https://drive.google.com/file/d/1NDA6VHdz0Dzq9HGR7WwCPf8H92r81R4x/view?usp=sharing",

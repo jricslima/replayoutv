@@ -4328,7 +4328,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A MINHA GAROTA PARA SEMPRE",
+        "t": "PARA SEMPRE MINHA GAROTA  A MINHA GAROTA PARA SEMPRE",
         "c": "https://image.tmdb.org/t/p/w300/uNOYr7OGdlzja4a4nCSZsaCtA1V.jpg",
         "a": "2018",
         "link": "https://drive.google.com/file/d/1SUx5QD_EdkFb3T9x_MqT3-fTUcZyCdAQ/view?usp=sharing",
@@ -22972,22 +22972,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/xaRzhQZ3zK5lN6vEetG8PD17KPF.jpg",
         "a": "2028",
         "link": "https://drive.google.com/file/d/16JUmPaGspwkeF2cR89JlhTHgzjIC6ykX/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "PARA SEMPRE MINHA GAROTA",
-        "c": "https://image.tmdb.org/t/p/w300/uNOYr7OGdlzja4a4nCSZsaCtA1V.jpg",
-        "a": "2018",
-        "link": "https://drive.google.com/file/d/1rY-0hZV3sKyfZimtFziRxK5XHlzz5nxE/view?usp=drive_open",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "PARA SEMPRE MINHA GAROTA",
-        "c": "https://image.tmdb.org/t/p/w300/uNOYr7OGdlzja4a4nCSZsaCtA1V.jpg",
-        "a": "2018",
-        "link": "https://drive.google.com/file/d/1WgCqxgVV3uAf4pF6su7sEHXlT0qjKxzK/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

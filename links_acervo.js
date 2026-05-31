@@ -23320,7 +23320,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PICTURE PERFECT",
+        "t": "PICTURE PERFECT PAIXÃO DE OCASIÃO",
         "c": "https://image.tmdb.org/t/p/w300/7KYXxN1PkVMvPwl1LAxRmpHhWRf.jpg",
         "a": "1997",
         "link": "https://drive.google.com/file/d/1OhqTCsXqPwnJ7vsBOOynuAIIXW0R0S8L/view?usp=sharing",

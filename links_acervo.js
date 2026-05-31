@@ -23193,8 +23193,8 @@ filmes = [
     },
     {
         "t": "PERDIDOS NO ESPAÇO O FILME",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/lr3YP07PrcmH1ITSrsdHaUP3pb2.jpg",
+        "a": "1998",
         "link": "https://drive.google.com/file/d/1wYeNKiFFvq7uk5qcSxmzqFfB4WLcwyo3/view?usp=drive_open",
         "tags": "DUB",
         "n": 0

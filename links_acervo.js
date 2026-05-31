@@ -20736,14 +20736,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O HOMEM PERFEITO / PAIXÃO DE ALUGUEL",
-        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ncNKxgPFUVgg5lNTfLAz3avmAO8.jpg",
-        "a": "2004",
-        "link": "https://drive.google.com/file/d/1Fk0MGF2_W7XTtqT1RNX1MlJ3lWj0RFR6/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "O HOMEM QUE ELAS AMAVAM DEMAIS",
         "c": "https://image.tmdb.org/t/p/w300/jMEYwfFaVyoWUl7U95ROFQyTm9Z.jpg",
         "a": "2014",
@@ -22609,8 +22601,8 @@ filmes = [
     },
     {
         "t": "PAIXÃO DE ALUGUEL O HOMEM PERFEITO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ncNKxgPFUVgg5lNTfLAz3avmAO8.jpg",
+        "a": "2005",
         "link": "https://drive.google.com/file/d/1DMHERStfeIrCwdkyRs4XuQs8Ip44u9m9/view?usp=sharing",
         "tags": "DUB",
         "n": 0

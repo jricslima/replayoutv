@@ -23889,7 +23889,7 @@ filmes = [
     },
     {
         "t": "PUPPY LOVE FAMÍLIA POR ACASO",
-        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zjpsW3sflsoxahFyFujvTnWUuqV.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gOceeXislvDzweFEQx1REq4970Z.jpg",
         "a": "2012",
         "link": "https://drive.google.com/file/d/1xjlurL35mT07QA6irMmYobKCm-X2xu17/view?usp=sharing",
         "tags": "LEG",

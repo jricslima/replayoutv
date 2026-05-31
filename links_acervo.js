@@ -23016,7 +23016,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PARAÍSO PERDIDO – O CAMINHO PARA A ETERNIDADE 2",
+        "t": "PARAÍSO PERDIDO O CAMINHO PARA A ETERNIDADE 2",
         "c": "https://image.tmdb.org/t/p/w300/nHRiCbGRtNLnX0r3vOcKTbg3XUn.jpg",
         "a": "2013",
         "link": "https://drive.google.com/file/d/0B5D1SaJxbV4ITlF3SWdaWkNIUWc/view?usp=sharing&resourcekey=0-FblwCgLds1PqtROvEc2Cew",

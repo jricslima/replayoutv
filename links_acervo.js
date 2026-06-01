@@ -24377,8 +24377,8 @@ filmes = [
     },
     {
         "t": "RABBIT WITHOUT EARS 2 COELHO SEM ORELHAS 2 APRENDENDO A AMAR 2",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vULrURaizz6FNHVmObbPPzFlA3R.jpg",
+        "a": "2009",
         "link": "https://drive.google.com/file/d/1lmQ4uF7_jCypFv5Ox1KYVkG6iqzxtFDI/view?usp=sharing",
         "tags": "LEG",
         "n": 0

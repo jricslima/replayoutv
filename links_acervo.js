@@ -24732,7 +24732,7 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/bkhHsHoa5PYBmhT93mYOC28Hhd2.jpg",
         "a": "2014",
         "link": "https://drive.google.com/file/d/1hb6uxtRS2zKyzHKeaT1vIPJKwUCfmKDX/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "DUAL",
         "n": 0
     },
     {

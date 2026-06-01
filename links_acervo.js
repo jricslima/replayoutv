@@ -24417,8 +24417,8 @@ filmes = [
     },
     {
         "t": "REDENÇÃO",
-        "c": "https://image.tmdb.org/t/p/w300/8DaeSIRXBDGiOtHBpk57TnarUSZ.jpg",
-        "a": "2016",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mtXFVL5kaNBBS08KWkDeLEsk89n.jpg",
+        "a": "2013",
         "link": "https://drive.google.com/file/d/1X-00-J89GL1C3CVQzMDumxH_l6bJWFbo/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -24473,8 +24473,8 @@ filmes = [
     },
     {
         "t": "REDENÇÃO",
-        "c": "https://image.tmdb.org/t/p/w300/8DaeSIRXBDGiOtHBpk57TnarUSZ.jpg",
-        "a": "2016",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ok6amyYCVktyPLNxQlb67eB4nb0.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1Of6ofi1dP9m1wAwBwdCoRz4CgWdEPy87/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

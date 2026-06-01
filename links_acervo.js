@@ -24233,9 +24233,9 @@ filmes = [
     },
     {
         "t": "QUESTÃO DE ESCOLHA",
-        "c": "https://image.tmdb.org/t/p/w300/upmYMp044G0FF2nTlMlZmJMx1i9.jpg",
-        "a": "1988",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1NXA7QKT8BcWEFULXRIUXY5Q2s%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774910250983703&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1NXA7QKT8BcWEFULXRIUXY5Q2s%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WWDqrPViBAbPoCOWWnhcE5mhVFJJfmE52Ptk57EUfOzS_bVLH1E8ambhLUGP_r_QjfB-GY",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/icCmRkwx2SlvOkTERmEv0t8FPgc.jpg",
+        "a": "2014",
+        "link": "https://drive.google.com/file/d/1wG4RQIfJf2_1tWG_N9SXYEIXSX5DXZAS/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

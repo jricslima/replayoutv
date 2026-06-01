@@ -23985,8 +23985,8 @@ filmes = [
     },
     {
         "t": "QUANDO O AMOR ACONTECE",
-        "c": "https://image.tmdb.org/t/p/w300/7WOBeoaXUNGzbm79Umio2CcH941.jpg",
-        "a": "1998",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/2RrdsMSkoXERqMh75SCK0gTAqpz.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1SVaP-Erps_jycdE2pTPNI_rc0M9_ahhe/edit",
         "tags": "DUB",
         "n": 0

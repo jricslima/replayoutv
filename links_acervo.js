@@ -24025,9 +24025,9 @@ filmes = [
     },
     {
         "t": "QUARTA DIMENÇÃO 4D MAN",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/drive/folders/1-FT-ivMuwCE-GSZSse8FL8b2mFGYIBJy?usp=drive_open",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hNgf5lEthC19I6FWqc2IYzB2nM0.jpg",
+        "a": "1959",
+        "link": "https://drive.google.com/file/d/1Jds6mKdA2yae8kIRS-F7w2MuuLN7EM_-/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

@@ -24944,9 +24944,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ROYAL BLOSSOM MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "ROYAL BLOSSOM",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/p04DxmiQrrpyB5FfbLx6wLbEPNo.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1-C3RtqTeRL_rdbn6KBi3VPVkc2qBrOjf/view?usp=sharing",
         "tags": "LEG",
         "n": 0

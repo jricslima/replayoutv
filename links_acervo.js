@@ -24952,9 +24952,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ROYAL RENDEZVOUS MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "ROYAL RENDEZVOUS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/93f71drYfVjZvqP0EsGVMRvF5Ab.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1Lkserq0Cwaf_8IKx6VhuA-UjlJUgdSBy/view?usp=sharing",
         "tags": "LEG",
         "n": 0

@@ -24856,9 +24856,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ROBIN HOOD O PRÍNCIPE DOS LADRÕES MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "ROBIN HOOD O PRÍNCIPE DOS LADRÕES",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/e7iNpwTsxKGnKHdxPVWghD0Av7j.jpg",
+        "a": "1991",
         "link": "https://drive.google.com/file/d/1HkczcmXIkuGtm9YQhkhr5yCLgAKIV5kK/edit",
         "tags": "DUB",
         "n": 0

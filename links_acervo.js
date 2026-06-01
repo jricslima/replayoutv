@@ -24720,9 +24720,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "REFÚGIO NO PARAÍSO MKV / MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "REFÚGIO NO PARAÍSO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vMm3l8WsrCNn7c5grTrmypHcnUA.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/17WkoOZgEsctVlZPFN6of7T1RmnYUHQYb/view?usp=sharing",
         "tags": "DUB",
         "n": 0

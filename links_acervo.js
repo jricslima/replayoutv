@@ -24763,7 +24763,7 @@ filmes = [
         "t": "RESISTINDO AS TENTAÇÕES",
         "c": "https://image.tmdb.org/t/p/w300/hDW9gViikPorKx2Ubl3cLm67Gk4.jpg",
         "a": "2003",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5JBvcxRbgWkWjA1bUlWci0tZVk&dsh=S-1959460126%3A1774910468706630&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B5JBvcxRbgWkWjA1bUlWci0tZVk&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VCt8DQVUw78Kpf-k5hP9Bt3kxQmgjx4BWIj7ot2aidw08arQX68o5ddEnlUUHyBy_alrjvqQ",
+        "link": "https://drive.google.com/file/d/0B5JBvcxRbgWkWjA1bUlWci0tZVk/view?usp=sharing&resourcekey=0-Neu-P8xFC4Ut_o3yg9eXkg",
         "tags": "DUB",
         "n": 0
     },

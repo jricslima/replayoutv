@@ -24739,7 +24739,7 @@ filmes = [
         "t": "RENEGADO UM OSSO DURO DE ROER",
         "c": "https://image.tmdb.org/t/p/w300/zgwKoRfTaOgA3uWAEGhN3gsO7c0.jpg",
         "a": "1987",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B-uI7Jr2Jry6SExSQjhTNHJ5cGs%2Fview%3Fusp%3Dsharing&dsh=S-1758961639%3A1774910462771373&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B-uI7Jr2Jry6SExSQjhTNHJ5cGs%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VorZSxYckxIGf3Ll2K_vvuhhhmrYmVge8h-WK5TC1Yq-5vYtFD1J2Hc0FEu1wB_u7Mce-nmw",
+        "link": "https://drive.google.com/file/d/0B-uI7Jr2Jry6SExSQjhTNHJ5cGs/view?usp=sharing&resourcekey=0-yszyPWk1tE4Xmrudy0Q02Q",
         "tags": "DUB",
         "n": 0
     },

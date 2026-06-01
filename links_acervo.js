@@ -24896,9 +24896,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ROMANCE EM ALTURAS LEGENDADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "ROMANCE NAS ALTURAS ROMANCE IN THE AIR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/a6iv7xx0nbIqUzTFJwqHMB4xFXd.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1bHcxvA2AtVjS66JxLKkSMCTU2hnMX_al/view",
         "tags": "LEG",
         "n": 0

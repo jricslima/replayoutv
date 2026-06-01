@@ -24816,9 +24816,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "REVIVENDO O AMOR THE COLOR OF RAIN DUBLADO (COM CORTES) / LEGENDADO (COMPLETO) / 2ª OPÇÃO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "REVIVENDO O AMOR THE COLOR OF RAIN",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/qfmbRlTKe0an4A3GsrNjeoXrWyq.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/1zU1UIY7MZzLnonZbima4K9yJJbpEpiGm/view",
         "tags": "DUB",
         "n": 0

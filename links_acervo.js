@@ -24785,9 +24785,9 @@ filmes = [
     },
     {
         "t": "REVELAÇÃO",
-        "c": "https://image.tmdb.org/t/p/w300/8scHuHVAt8HRf8d2AwnFGzLfIQI.jpg",
-        "a": "2020",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B6ZBSHqEDEhccjZrMmdPLVctTWs&dsh=S909493217%3A1774910474015226&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B6ZBSHqEDEhccjZrMmdPLVctTWs&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XnghkPEBFxesy1zQpLsl05VEabzLiGunV1tSajbk5Im8eae_9WIm5I1ON_HSQO7UoSmPOM",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fXUaXaOYwgWdNwzxhDdgUiJnEUA.jpg",
+        "a": "2000",
+        "link": "https://drive.google.com/file/d/1uVh-JRvnmS0HMhDvaIW7NebQJe2ovFgH/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

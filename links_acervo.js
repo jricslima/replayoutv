@@ -24832,17 +24832,17 @@ filmes = [
         "n": 1
     },
     {
-        "t": "RICOS DE AMOR MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "RICOS DE AMOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/u8kRdW12mhOakR9WqVnarQbqGNH.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1O3FA9U-bC4-A_hq7Bbzu5tcivVUIEvqQ/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "RICOS DE AMOR 2 MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "RICOS DE AMOR 2",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xdAVVJT8TtC3S1VVHzh5eIX0CzQ.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1jUgGFMam2DuBbj48GbvuZpwRoars5TgT/view?usp=sharing",
         "tags": "DUB",
         "n": 0

@@ -24264,14 +24264,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "RAINHA DO NATAL",
-        "c": "https://image.tmdb.org/t/p/w300/2EiFqwRpT434FFdKYD6wIZAqlM1.jpg",
-        "a": "2022",
-        "link": "https://drive.google.com/file/d/11UuaHS4D4SYMJPXSevPX_EXSVgU3CwXe/view?usp=sharing",
-        "tags": "DUB",
-        "n": 1
-    },
-    {
         "t": "RUBY SPARKS A NAMORADA PERFEITA",
         "c": "https://image.tmdb.org/t/p/w300/1icxpBig1mpVvC7lYG3V8RXmxYF.jpg",
         "a": "2012",

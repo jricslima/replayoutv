@@ -24537,8 +24537,8 @@ filmes = [
     },
     {
         "t": "ROMANCE DE NATAL ARRANJADO A CRAFTY CHRISTMAS ROMANCE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pI5MW0geuRhRrqy7QqAWnAFufwD.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1ShqaOghxAyztzOxVBTe16Qv_4TACC2Ox/view?usp=sharing",
         "tags": "DUB",
         "n": 1
@@ -31041,8 +31041,8 @@ filmes = [
     },
     {
         "t": "ROMANCE DE NATAL ARRANJADO A CRAFTY CHRISTMAS ROMANCE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fSvuBqqBZmXZ3eFFEPmBOQ9uofR.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1hT7qHAfk9TtIaqgp3WOCod5J0tE3SQvB/view",
         "tags": "LEG",
         "n": 1

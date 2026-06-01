@@ -24105,8 +24105,8 @@ filmes = [
     },
     {
         "t": "QUATRO PISTOLEIROS PARA TRINITY",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/joQk9bOy0IE7nZ9LNIBYBBqw6PU.jpg",
+        "a": "1971",
         "link": "https://drive.google.com/file/d/1ipgI6GEd4QERwsxRq7qWLpJnSa6DjPXj/view?usp=sharing",
         "tags": "DUB",
         "n": 0

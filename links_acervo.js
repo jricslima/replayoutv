@@ -31993,8 +31993,8 @@ filmes = [
     },
     {
         "t": "GARAGE SALE MYSTERY MISTÉRIO NA VENDA DE GARAGEM THE MASK MURDER",
-        "c": "https://image.tmdb.org/t/p/w300/5jF50qkYCBqen3DzqkpQo4bVJ2E.jpg",
-        "a": "2017",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7gR58YkpMHSayezpDrTvJu86QNT.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/15FF--qM-tLU307EP-ZElELKVWGJ642Bs/view?usp=sharing",
         "tags": "LEG",
         "n": 0

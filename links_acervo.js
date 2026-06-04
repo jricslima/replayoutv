@@ -31969,7 +31969,7 @@ filmes = [
     },
     {
         "t": "GARAGE SALE MYSTERY MISTÉRIO NA VENDA DE GARAGEM THE ART OF MURDER",
-        "c": "https://image.tmdb.org/t/p/w300/5jF50qkYCBqen3DzqkpQo4bVJ2E.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mhWeUkyX6uCfIyFh454gjOLpJWd.jpg",
         "a": "2017",
         "link": "https://drive.google.com/file/d/1Z9l1Fg9tEUV0UFM-6TMRl9gE2J8_ZeeZ/view?usp=sharing",
         "tags": "LEG",

@@ -31961,8 +31961,8 @@ filmes = [
     },
     {
         "t": "GARAGE SALE MYSTERY MISTÉRIO NA VENDA DE GARAGEM THE NOVEL MURDERS",
-        "c": "https://image.tmdb.org/t/p/w300/5jF50qkYCBqen3DzqkpQo4bVJ2E.jpg",
-        "a": "2017",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/khp4t2jlwLSM6Nxz5tPqpZd1PmW.jpg",
+        "a": "2016",
         "link": "https://drive.google.com/file/d/1-xiLoFSV_L91qGIWecrZ4vi_VvNiFcUu/view?usp=sharing",
         "tags": "LEG",
         "n": 0

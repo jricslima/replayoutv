@@ -31977,7 +31977,7 @@ filmes = [
     },
     {
         "t": "GARAGE SALE MYSTERY MISTÉRIO NA VENDA DE GARAGEM MURDER BY TEXT",
-        "c": "https://image.tmdb.org/t/p/w300/5jF50qkYCBqen3DzqkpQo4bVJ2E.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zD5kVIo8coI8KIwP5DuDbucJ3Hh.jpg",
         "a": "2017",
         "link": "https://drive.google.com/file/d/1mmDHxn3EXvP9wQNiLiEOQyXXls6ggRJf/view?usp=sharing",
         "tags": "LEG",

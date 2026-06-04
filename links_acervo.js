@@ -31985,8 +31985,8 @@ filmes = [
     },
     {
         "t": "GARAGE SALE MYSTERY MISTÉRIO NA VENDA DE GARAGEM THE PANDORA’S BOX MURDERS",
-        "c": "https://image.tmdb.org/t/p/w300/5jF50qkYCBqen3DzqkpQo4bVJ2E.jpg",
-        "a": "2017",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/u3DLSmacKglq6qfhI2s8Yq3I00Y.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/14fewryw9k1eR3j01737-B365bYJDG4rb/view?usp=sharing",
         "tags": "LEG",
         "n": 0

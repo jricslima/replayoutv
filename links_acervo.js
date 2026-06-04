@@ -32001,8 +32001,8 @@ filmes = [
     },
     {
         "t": "GARAGE SALE MYSTERIES MISTÉRIO NA VENDA DE GARAGEM PICTURE A MURDER",
-        "c": "https://image.tmdb.org/t/p/w300/5jF50qkYCBqen3DzqkpQo4bVJ2E.jpg",
-        "a": "2017",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/u5CGJsqZ3xBKIKr5nnWHgoLhVUl.jpghttps://www.themoviedb.org/t/p/w600_and_h900_face/u5CGJsqZ3xBKIKr5nnWHgoLhVUl.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/1RPTIKpTQRL7PDIXSl3j2z5DQOJyVfWrh/view?usp=sharing",
         "tags": "LEG",
         "n": 0

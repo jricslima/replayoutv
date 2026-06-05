@@ -24704,7 +24704,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "REFÉM DO MEDO SHUT IN",
+        "t": "SHUT IN REFÉM DO MEDO",
         "c": "https://image.tmdb.org/t/p/w300/3mi2deIxvFZ7g0YFKMqjPZaMYh.jpg",
         "a": "2016",
         "link": "https://drive.google.com/file/d/1tRSM5lb7UlN41k1viG2fzYxljNDV0aB5/view?usp=sharing",

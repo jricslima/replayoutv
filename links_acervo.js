@@ -31784,7 +31784,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MISTÉRIO NA VENDA DE GARAGEM A VOZ MISTERIOSA",
+        "t": "GARAGE SALE MYSTERY MISTÉRIO NA VENDA DE GARAGEM A CASE OF MURDER",
         "c": "https://image.tmdb.org/t/p/w300/5jF50qkYCBqen3DzqkpQo4bVJ2E.jpg",
         "a": "2017",
         "link": "https://drive.google.com/file/d/1NR0PAABcvZC53yYOD9u_z1ugu-HuigBt/view?usp=sharing",

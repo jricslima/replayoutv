@@ -32025,14 +32025,14 @@ filmes = [
     },
     {
         "t": "O COBRADOR DE DÍVIDAS 2 PERSEGUIÇÃO CRIMINOSA 2",
-        "c": "https://image.tmdb.org/t/p/w300/cJORC8qf0ttyVRBOWMgMq1IdCNU.jpg",
-        "a": "2018",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dcWNH4CLkQV5RSwKmpObmXmOklJ.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1VUs-WfvNrCZu2gnPeO05iogYrwiu9vTU/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "STRIKE SÓ PARA MULHERES (",
+        "t": "STRIKE SÓ PARA MULHERES",
         "c": "https://image.tmdb.org/t/p/w300/cCr8mLqIVkbjBNs1uaZPvkXYnWA.jpg",
         "a": "1998",
         "link": "https://drive.google.com/file/d/1GZxl5wd6XZZvZrM4Setqutz4a4y4a9-c/view?usp=sharing",
@@ -32040,7 +32040,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TALK TO HER FALE COM ELA (",
+        "t": "TALK TO HER FALE COM ELA",
         "c": "https://image.tmdb.org/t/p/w300/eNp7w5m4GczvGFfXQKAqeK1hoe9.jpg",
         "a": "2002",
         "link": "https://drive.google.com/file/d/1paZKkmuldc9SbnlVM49A_CBB8IoTHyPw/view?usp=sharing",

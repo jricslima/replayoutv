@@ -32070,5 +32070,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1T8uelmjuPzRTHD6mqBOAwRgY90kga5FG/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
+    },
+    {
+        "t": "A CASA THE OCCUPANT",
+        "c": "https://image.tmdb.org/t/p/w300/xp2UO1n3LmeS0sXc7iUtROeeOuY.jpg",
+        "a": "2020",
+        "link": "https://drive.google.com/file/d/1zQdTN-Ogl5gNHz23yVahr-VRKL6oZQfo/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

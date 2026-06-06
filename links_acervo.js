@@ -25816,9 +25816,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SINAIS",
-        "c": "https://image.tmdb.org/t/p/w300/gAZBuqVv3zVMG1CF0JDTCzeZw0K.jpg",
-        "a": "2024",
+        "t": "SIGNS SINAIS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/AbYvRIrytssdAwkjn8B6778qguT.jpg",
+        "a": "2008",
         "link": "https://drive.google.com/file/d/1zv46GRx-Zl-WmJ6PsmL9KDoF7KDbdJOy/view?usp=drive_open",
         "tags": "LEG",
         "n": 0

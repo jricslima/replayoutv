@@ -25809,8 +25809,8 @@ filmes = [
     },
     {
         "t": "SINAIS",
-        "c": "https://image.tmdb.org/t/p/w300/gAZBuqVv3zVMG1CF0JDTCzeZw0K.jpg",
-        "a": "2024",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/d5AV8UQEd7y7VZ4ZdiRTkC5TLTj.jpg",
+        "a": "2002",
         "link": "https://drive.google.com/file/d/10xGLaEU3AMU9a1YdNkE6o697joEgELrK/view?usp=drive_open",
         "tags": "DUB",
         "n": 0

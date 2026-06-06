@@ -32046,5 +32046,29 @@ filmes = [
         "link": "https://drive.google.com/file/d/1paZKkmuldc9SbnlVM49A_CBB8IoTHyPw/view?usp=sharing",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "O PÁLIDO OLHO AZUL",
+        "c": "https://image.tmdb.org/t/p/w300/x98eB1JokifNYRcgyxyMf4TQbsO.jpg",
+        "a": "2022",
+        "link": "https://drive.google.com/file/d/1hLhYz7MNWeL_8PAvkAp6ziZKwok7suJG/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "A PERFEIÇÃO THE PERFECTION",
+        "c": "https://image.tmdb.org/t/p/w300/tPDe68PDsgIGMs6wdJLtcwVVxA7.jpg",
+        "a": "2018",
+        "link": "https://drive.google.com/file/d/1ZrE3oS1nx2m88esu4sv3kz4K0xKdqbD6/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "O COBRADOR DE DÍVIDAS PERSEGUIÇÃO CRIMINOSA THE DEBT COLLECTOR",
+        "c": "https://image.tmdb.org/t/p/w300/cJORC8qf0ttyVRBOWMgMq1IdCNU.jpg",
+        "a": "2018",
+        "link": "https://drive.google.com/file/d/1T8uelmjuPzRTHD6mqBOAwRgY90kga5FG/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

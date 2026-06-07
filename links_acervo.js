@@ -26929,10 +26929,10 @@ filmes = [
     },
     {
         "t": "THE BREAKDOWN O COLAPSO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jkw8JXuYuotDDu78ykYWVbnFbz8.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1OTzkU4S7XphrsYigoo1JRAdDbH1f64cl/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {

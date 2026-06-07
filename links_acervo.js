@@ -25640,14 +25640,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SESSÃO TERAPIA EPISODIOS 05 AO 29",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B-ihMU1XOM8fWEdVY3V6TnZXZm8%3Fusp%3Dsharing&dsh=S-1758961639%3A1774910774905203&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B-ihMU1XOM8fWEdVY3V6TnZXZm8%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WWDLW2_WutsZ66BuDsKbRtXwehcuRdGfXOl6UUaj2qM1dRiSHyNKDwUy3PM_dodaZnDG-s",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "SETE NOIVAS PARA SETE IRMAOS /",
         "c": "https://image.tmdb.org/t/p/w300/eExiNiIMAQ6ArzudNG3G3ehPTc.jpg",
         "a": "1954",
@@ -25864,9 +25856,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SISSI A IMPERATRIZ MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "SISSI A IMPERATRIZ",
+        "c": "https://media.fstatic.com/MtEL6DexTTf_RrcLcnjzE2-LtIY=/322x478/smart/filters:format(webp)/media/movies/covers/2010/05/3c335041fa054177bbd787822549441d.jpg",
+        "a": "1956",
         "link": "https://drive.google.com/file/d/1730798rmNlOj7ZYPPizybI_gUt8zi78P/view?usp=sharing",
         "tags": "DUB",
         "n": 0

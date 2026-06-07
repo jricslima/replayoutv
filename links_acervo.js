@@ -27424,11 +27424,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TIME FOR ME TO COME HOME FOR CHRISTMAS MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TIME FOR ME TO COME HOME FOR CHRISTMAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jM6szxRXdVepT3Kw48pDWySlCnM.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/1_HIGYN3sZII2JrcsdiSqEoNgG0lseiWD/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "LEG",
         "n": 0
     },
     {

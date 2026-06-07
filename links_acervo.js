@@ -28552,9 +28552,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM JARDIM ESPECIAL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM JARDIM ESPECIAL DARE TO BE WILD",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/b2gFRKs4ZDIhT2xDFURm6DgSp1R.jpg",
+        "a": "2015",
         "link": "https://drive.google.com/file/d/1-dX0izUMjZ9EtU26tZGsG5MVOuvUFdk6/view?usp=sharing",
         "tags": "LEG",
         "n": 0

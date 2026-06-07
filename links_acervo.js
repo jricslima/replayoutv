@@ -27432,9 +27432,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TIME FOR US TO COME HOME FOR CHRISTMAS MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TIME FOR US TO COME HOME FOR CHRISTMAS 2020",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cn5RmPzva13sZmFwNbc9E9CSdr0.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1eCXEuEnCQQOzCV7r40H9KoZfoZRHbzmJ/edit",
         "tags": "LEG",
         "n": 0

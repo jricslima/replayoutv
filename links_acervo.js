@@ -28449,10 +28449,10 @@ filmes = [
     },
     {
         "t": "UM NATAL PERENE AN EVERGREEN CHRISTMAS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/c1WtWgcqXsaraFyzIdgyMSdRLUT.jpg",
         "a": "2014",
         "link": "https://drive.google.com/file/d/1ndR6RJbZZtK--MaNVRJ5ewyxumdf1x6C/view?usp=sharing",
-        "tags": "HTTPS://WWW.THEMOVIEDB.ORG/T/P/W600_AND_H900_FACE/C1WTWGCQXSARAFYZIDGYMSDRLUT.JPG",
+        "tags": "DUB",
         "n": 1
     },
     {

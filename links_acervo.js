@@ -27576,9 +27576,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TORNEIO DE NATAL DE VOLTA AO LAR MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TORNEIO DE NATAL DE VOLTA AO LAR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cMcHGdL9zgn9HtAoR5DAmliHDn6.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1anmJXseCfUxlgxLQed0onkqHeizml5Qa/view?usp=sharing",
         "tags": "DUB",
         "n": 1

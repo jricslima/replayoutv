@@ -27888,9 +27888,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TURMA REUNIDA NO NATAL MP4 (LUCIANA) / MKV (RF)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TURMA REUNIDA NO NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3hGT2qtlSPMj1smIFgNftQvs7pc.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1_wbpNiwxHXGd0j6BDc63hw5styqEupNi/view?usp=sharing",
         "tags": "DUB",
         "n": 1

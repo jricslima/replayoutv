@@ -25568,9 +25568,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SEM DORMIR ATÉ O NATAL MKV (RF) / MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "SEM DORMIR ATÉ O NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5yl9YbCYqHBVm20Qd22g9cVrJmw.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/1CryonFci0MjdmJJtXvLkE0EC6s96yPZX/view?usp=sharing",
         "tags": "DUB",
         "n": 1

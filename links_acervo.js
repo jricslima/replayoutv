@@ -27848,11 +27848,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TUDO QUE LOLA QUISER",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TUDO QUE LOLA QUISER WHATEVER LOLA WANTS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/msjbvyLY28IwyOam5uWfwd41Q1a.jpg",
+        "a": "2007",
         "link": "https://drive.google.com/file/d/1BogM_k2M6lh7O2SIc_PRnhoSx-TILHiU/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {

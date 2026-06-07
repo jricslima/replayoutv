@@ -27776,11 +27776,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TUDO É POSSÍVEL QUALQUER COISA É POSSÍVEL (COM LEGENDA PARA GARANTIR FALHAS)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TUDO É POSSÍVEL QUALQUER COISA É POSSÍVEL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pWJ2imaNUiEVo7zORXc0jP17vh6.jpg",
+        "a": "2013",
         "link": "https://drive.google.com/file/d/1uPiiXfXcswqgVtp-SbBsWAuX591fQiBZ/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "DUB",
         "n": 0
     },
     {

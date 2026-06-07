@@ -25520,9 +25520,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SEIS GRAUS DE PAPAI NOEL SEIS VEZES NATAL MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "SEIS GRAUS DE PAPAI NOEL SEIS VEZES NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kPCeLI37N0afyJb0LMxywmbXYyi.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1EFHRb6P6O2L92rHc-ur4rhf9d4SAlyf_/view?usp=sharing",
         "tags": "DUB",
         "n": 1

@@ -25009,8 +25009,8 @@ filmes = [
     },
     {
         "t": "SAFETY UMA JOGADA DE CORAGEM",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/yRwRZYlqXkcCwx2yuqIhh7rzPcA.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1-ms4ab-DyQFG1bOqBdDEJ2ZUrmco29SO/view?usp=sharing",
         "tags": "LEG",
         "n": 0

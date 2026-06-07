@@ -28049,8 +28049,8 @@ filmes = [
     },
     {
         "t": "UM AMOR INESPERADO ENCONTRO ÀS CEGAS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ztGsLCyubodQSZLakRUsYM2tqLs.jpg",
+        "a": "2015",
         "link": "https://drive.google.com/file/d/1g4APskETTMEZ51bKhHwZRk_l-KDOmtX6/view",
         "tags": "DUB",
         "n": 0

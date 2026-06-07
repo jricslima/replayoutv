@@ -27808,9 +27808,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TUDO PELA NOIVA MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TUDO PELA NOIVA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9HwH4izxU1oFvP8caCx630rL5Uu.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1cFcpqG-978bfAZPcRNwbB0jFqQ9y7Tnu/view?usp=sharing",
         "tags": "DUB",
         "n": 0

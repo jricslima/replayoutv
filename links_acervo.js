@@ -24515,7 +24515,7 @@ filmes = [
         "t": "RAINHA DO NATAL LOVING CHRISTMAS / WRAPPED UP IN LOVE",
         "c": "https://image.tmdb.org/t/p/w300/2EiFqwRpT434FFdKYD6wIZAqlM1.jpg",
         "a": "2022",
-        "link": "https://drive.google.com/file/d/17jIgCzyHY_sjNypiiMgk5cq0DnXRkhAL/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/17jIgCzyHY_sjNypiiMgk5cq0DnXRkhAL/view",
         "tags": "DUB",
         "n": 1
     },

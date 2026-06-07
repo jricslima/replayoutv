@@ -27248,9 +27248,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "THE ROYAL NANNY MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "THE ROYAL NANNY",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vw3CGuMUnyuuHUrZRDfMptTglL2.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1IpUvU2JPOiKpB6pgWsbIGnVjrrXJZjXa/view?usp=sharing",
         "tags": "LEG",
         "n": 0

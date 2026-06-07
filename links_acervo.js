@@ -25872,9 +25872,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SISSI MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "SISSI",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/y3yCv4pcyyyx0OyfTTcFqR5vErl.jpg",
+        "a": "1955",
         "link": "https://drive.google.com/file/d/1r6rD2Fy-sEMb22V1viYa4X84jwo1jvoe/view?usp=sharing",
         "tags": "DUB",
         "n": 0

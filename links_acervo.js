@@ -27440,9 +27440,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TIME FOR YOU TO COME HOME FOR CHRISTMAS MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TIME FOR YOU TO COME HOME FOR CHRISTMAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/sY1SRYWTeeryRxWBONqhS3Izh4g.jpg",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/1-e_XxOz2wWSCKy39r6yVPA57620rWLQ-/view?usp=sharing",
         "tags": "LEG",
         "n": 0

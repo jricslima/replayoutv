@@ -25352,9 +25352,9 @@ filmes = [
         "n": 1
     },
     {
-        "t": "SAM & CAT O SALTO RADICAL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "SAM & CAT O SALTO RADICAL EP. 23 E 24 1ª TEMP.",
+        "c": "https://media.fstatic.com/FqUoN1y9ZaWaoVGfU271VfWgSLE=/322x478/smart/filters:format(webp)/media/movies/covers/2020/05/hotlink-denied_zZzVfHv.jpg",
+        "a": "2015",
         "link": "https://drive.google.com/file/d/1FM_GilQjI4hyx1ofmjMYEQ3CVAxK81NW/view?usp=sharing",
         "tags": "DUB",
         "n": 0

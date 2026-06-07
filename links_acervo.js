@@ -26746,7 +26746,7 @@ filmes = [
     {
         "t": "TÁTICAS DO AMOR 2",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fQTigx0WsCBdxeVZnaH6KqA8YoN.jpg",
-        "a": "2022",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1Lmz4seYawLIDilW0kGSUrlo-5LW0zONZ/view?usp=sharing",
         "tags": "DUB",
         "n": 0

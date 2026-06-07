@@ -25408,9 +25408,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SCUSA MA TI VOGLIO SPOSARE DESCULPA, QUERO CASAR CONTIGO DESCULPA, MAS EU QUERO CASAR MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "SCUSA MA TI VOGLIO SPOSARE DESCULPA, QUERO CASAR CONTIGO DESCULPA, MAS EU QUERO CASAR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/756xiX5OZRTHSfRzbR9YouKi2C.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/1aMY9RblX5_0a5iKsa6jFWt_brBaYtJr5/view?usp=sharing",
         "tags": "LEG",
         "n": 0

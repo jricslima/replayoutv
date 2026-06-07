@@ -27416,9 +27416,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TIME FOR HIM TO COME HOME FOR CHRISTMAS MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TIME FOR HIM TO COME HOME FOR CHRISTMAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zzLR2O2omPyejeia9fkZd7O3CXB.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1Ax9FCneRBaB7Z0wH94PA-rgYIByn8Rdr/view?usp=sharing",
         "tags": "LEG",
         "n": 0

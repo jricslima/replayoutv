@@ -27780,7 +27780,7 @@ filmes = [
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pWJ2imaNUiEVo7zORXc0jP17vh6.jpg",
         "a": "2013",
         "link": "https://drive.google.com/file/d/1uPiiXfXcswqgVtp-SbBsWAuX591fQiBZ/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "DUB & LEG",
         "n": 0
     },
     {

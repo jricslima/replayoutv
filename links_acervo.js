@@ -27760,9 +27760,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TU JHOOTHI MAIN MAKKAAR TRAPAÇAS DO AMOR LEGENDADO MP4 / MKV LEGENDADO MP4 / MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TU JHOOTHI MAIN MAKKAAR TRAPAÇAS DO AMOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9SWDuSTAJfnOMdEsnlqPW4vUf0l.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1w6nYXSkrnQN81aMpkU_4rFDSpsFJxu36/view?usp=sharing",
         "tags": "LEG",
         "n": 0

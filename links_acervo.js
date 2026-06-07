@@ -24675,7 +24675,7 @@ filmes = [
         "t": "REDESCOBRINDO O NATAL",
         "c": "https://image.tmdb.org/t/p/w300/8hW5pv6nI1QNk6Nche4r7kVzjSM.jpg",
         "a": "2004",
-        "link": "https://drive.google.com/file/d/1GVzK2LV818lWSRs03DHowt2zDIyOyrqr/view?usp=drive_open",
+        "link": "https://drive.google.com/file/d/1GVzK2LV818lWSRs03DHowt2zDIyOyrqr/view",
         "tags": "DUB",
         "n": 1
     },

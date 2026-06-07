@@ -27969,8 +27969,8 @@ filmes = [
     },
     {
         "t": "UM CUPIDO NO NATAL CHRISTMAS CUPID",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/geJSPIokuueJiee2CA6w7KtdMqF.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/1WStmv6wMwvH_y8mBmDn9bOCUKrPGOIkI/view?usp=sharing",
         "tags": "DUB",
         "n": 1
@@ -32070,5 +32070,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1zQdTN-Ogl5gNHz23yVahr-VRKL6oZQfo/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
+    },
+    {
+        "t": "UM NATAL IMPROVAVEL",
+        "c": "https://image.tmdb.org/t/p/w300/i2ECy1dTvKwrmQzGeOgDFxJgCSc.jpg",
+        "a": "2022",
+        "link": "https://drive.google.com/file/d/1_wbpNiwxHXGd0j6BDc63hw5styqEupNi/view",
+        "tags": "DUB",
+        "n": 1
     }
 ];

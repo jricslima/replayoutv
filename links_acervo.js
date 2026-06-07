@@ -26721,8 +26721,8 @@ filmes = [
     },
     {
         "t": "TALVEZ ALGUM DIA SOONER OR LATER",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5DoUsyZ6sdFsdN7MBP9mXP75yvx.jpg",
+        "a": "1979",
         "link": "https://drive.google.com/file/d/1D8HW88jLSQIpbZQLcan6socKXTmCaQsz/view?usp=sharing",
         "tags": "LEG",
         "n": 0

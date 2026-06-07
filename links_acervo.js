@@ -26932,7 +26932,7 @@ filmes = [
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jkw8JXuYuotDDu78ykYWVbnFbz8.jpg",
         "a": "2021",
         "link": "https://drive.google.com/file/d/1OTzkU4S7XphrsYigoo1JRAdDbH1f64cl/view?usp=sharing",
-        "tags": "LEG AC",
+        "tags": "LEG",
         "n": 0
     },
     {

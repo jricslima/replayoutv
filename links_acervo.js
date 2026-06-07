@@ -26608,9 +26608,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TRIÂNGULO DE NATAL MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TRIÂNGULO DE NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hL9QAA51Hr3nTcp4b7SXYv6hZCW.jpghttps://www.themoviedb.org/t/p/w600_and_h900_face/hL9QAA51Hr3nTcp4b7SXYv6hZCW.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/11T5gTApI7AHlMlYONMI4XJRLURgMQQMl/view?usp=sharing",
         "tags": "DUB",
         "n": 1

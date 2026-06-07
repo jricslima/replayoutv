@@ -25873,7 +25873,7 @@ filmes = [
     },
     {
         "t": "SISSI",
-        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/y3yCv4pcyyyx0OyfTTcFqR5vErl.jpg",
+        "c": "https://media.fstatic.com/_scnMQ62SQKUH15VTJRcbZPsq3s=/322x478/smart/filters:format(webp)/media/movies/covers/2010/05/ade67fcf8a220a2e6418b45a6412a8d2.jpg",
         "a": "1955",
         "link": "https://drive.google.com/file/d/1r6rD2Fy-sEMb22V1viYa4X84jwo1jvoe/view?usp=sharing",
         "tags": "DUB",

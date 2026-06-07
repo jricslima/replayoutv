@@ -26945,8 +26945,8 @@ filmes = [
     },
     {
         "t": "THE CHRISTMAS BOX O PRIMEIRO NATAL DO RESTO DAS NOSSAS VIDAS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ezbT2hvOHJJlhSg6JifhPf5ODBV.jpg",
+        "a": "1995",
         "link": "https://drive.google.com/file/d/1EZNazufRTZQMJpX3HewTN2xCgUkv5-oq/edit",
         "tags": "LEG",
         "n": 1

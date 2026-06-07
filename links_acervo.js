@@ -26345,8 +26345,8 @@ filmes = [
     },
     {
         "t": "THE CHRISTMAS RING O ANEL DE NATAL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/p3iQWFq2RwqM0vuzx9sqtTeYMhX.jpg",
+        "a": "2025",
         "link": "https://drive.google.com/file/d/1Ho0gYZ4kBZQ35OmVADKEuFH4ulySbk99/view?usp=sharing",
         "tags": "LEG",
         "n": 1

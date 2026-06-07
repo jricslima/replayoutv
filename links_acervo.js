@@ -26409,8 +26409,8 @@ filmes = [
     },
     {
         "t": "TERAPIA DO SEXO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "1978",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/4Ln9FO6R2vQvJuC023YnpVNxH3e.jpg",
+        "a": "2012",
         "link": "https://drive.google.com/file/d/14ubZTOL9b3w5KnsE1YY5GtwXUatH7PWZ/view?usp=sharing",
         "tags": "DUB",
         "n": 0

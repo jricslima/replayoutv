@@ -26713,8 +26713,8 @@ filmes = [
     },
     {
         "t": "TAKING A SHOT AT LOVE TOMANDO UM TIRO NO AMOR",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/wperP8EmDlClErBF8zEdmMGNqKm.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/161--edGyWX1LTR-1-03CNcvnwzIQ6lZG/view?usp=sharing",
         "tags": "LEG",
         "n": 0

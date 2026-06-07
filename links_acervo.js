@@ -26736,9 +26736,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TANGOS, TEQUILAS E ALGUMAS MENTIRAS MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "TANGOS, TEQUILAS E ALGUMAS MENTIRAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/y3z6H8oOS2y3dQY9dEKkxQiLWPn.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1b9YlZlnugRwp16z7P_uKx5q8UlE8wo0v/view",
         "tags": "DUB",
         "n": 0

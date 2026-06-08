@@ -26880,14 +26880,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "THE AGE OF INNOCENSE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/open?id=0B3DFaNBOSi2lNlR2YXhXVGtWSjg",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "THE B.R.A.T. PATROL",
         "c": "https://image.tmdb.org/t/p/w300/dxiEuJlqljFAanyCDybg3pXvSnC.jpg",
         "a": "1986",

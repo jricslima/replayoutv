@@ -26896,7 +26896,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "THE BLACK CANDLE",
+        "t": "THE BLACK CANDLE CATHERINE COOKSON",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/saspDwAYwxkBsPJFomeytouKpA1.jpg",
         "a": "1991",
         "link": "https://drive.google.com/file/d/1IKJVlkBCNn5PClmEw4I3AXTHeKKGSzTU/view?usp=sharing",

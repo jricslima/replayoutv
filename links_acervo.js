@@ -26896,11 +26896,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "THE BLACK CANDLE (O VESTIDO DE VELUDO PRETO)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/file/d/1BvECFt68-kPWKtA34NGRr3eB-gIddHU1/view?usp=drive_open",
-        "tags": "DUB",
+        "t": "THE BLACK CANDLE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/saspDwAYwxkBsPJFomeytouKpA1.jpg",
+        "a": "1991",
+        "link": "https://drive.google.com/file/d/1IKJVlkBCNn5PClmEw4I3AXTHeKKGSzTU/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

@@ -27569,10 +27569,10 @@ filmes = [
     },
     {
         "t": "TOVÃO AZUL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B8lvKRzRLSEaQ0VCRWQwN0RLRXM%2Fview%3Fusp%3Dsharing&dsh=S271553589%3A1774911603275065&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B8lvKRzRLSEaQ0VCRWQwN0RLRXM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UmpL_r1jCh3im9Zha7-eSqFrZEP_F6BOwolCPnWj_7zG2u5UKPzX4QuNxJIU5cxThGURiolQ",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/nvlFLBQ7z3BZmb2qqQXB4cK5d1c.jpg",
+        "a": "1983",
+        "link": "https://drive.google.com/file/d/1VuDSSAvpb0fxhkdcZcoRgdEbfk2v450d/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

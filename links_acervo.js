@@ -26697,9 +26697,9 @@ filmes = [
     },
     {
         "t": "TÁ RINDO DO QUÊ?",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "2016",
-        "link": "https://drive.google.com/file/d/1XnEYY__50WvNZnlU-LhzoaUdeZGVxwID/view?usp=sharing",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/eGevEtRsIcmniLwmtoUGJu8kyIi.jpg",
+        "a": "2009",
+        "link": "https://drive.google.com/file/d/12wgF3FE1lNMMIXoXNvAp6tJjKktD_Ck9/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

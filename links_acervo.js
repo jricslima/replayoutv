@@ -32070,5 +32070,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1FMYB0z2VUjp5Y7nPZ8NzfWzeiuB4AXxV/view?usp=sharing",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "CONFUSÃO DE ELITE",
+        "c": "https://image.tmdb.org/t/p/w300/4GMSecZKGwsGZ3uuR01kdKKnUDZ.jpg",
+        "a": "2018",
+        "link": "https://drive.google.com/file/d/1VRIP5iEvrDlb0T_NyblBGduPstPNrDPm/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

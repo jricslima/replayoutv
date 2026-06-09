@@ -26216,11 +26216,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "STOLEN WOMAN, CAPTURED HETS O GUERREIRO SIOUX",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "https://drive.google.com/file/d/1oTl18QJj-5y3zrpevm6WkmeyZd3wLUiM/view?usp=sharing",
-        "tags": "DUB",
+        "t": "STOLEN WOMAN, CAPTURED HETS - O GUERREIRO SIOUX - MULHERES ROUBADAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/qBn3ijt3xL0Tk2AbduQVuNjzfcd.jpg",
+        "a": "1997",
+        "link": "https://drive.google.com/file/d/1e1FYK0t2eADeJ1OShCV97ccOJ4OYbnpl/view",
+        "tags": "LEG",
         "n": 0
     },
     {

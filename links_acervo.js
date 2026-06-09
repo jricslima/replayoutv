@@ -26160,10 +26160,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "STAR WARS EPISÓDIO IV UMA NOVA ESPERANÇA <A HREF=\"",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
-        "link": "http://bit.ly/2TECl",
+        "t": "STAR WARS EPISÓDIO IV UMA NOVA ESPERANÇA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg",
+        "a": "1977",
+        "link": "https://drive.google.com/file/d/1tJWYaOep9Ofkl5IfafQRAHN94oLobrwC/view",
         "tags": "DUB",
         "n": 0
     },

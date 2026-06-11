@@ -27995,7 +27995,7 @@ filmes = [
         "t": "UM AMOR MAGNÍFICO",
         "c": "https://image.tmdb.org/t/p/w300/5P4zbvCglw1WW61aCol3vJ1N28j.jpg",
         "a": "2015",
-        "link": "https://drive.google.com/file/d/1ak8hI96at7YFDfa4jGIANDjrW-b9_kiC/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1sJAIAdrt6jYzEbrUiUkSrrXUsvvJfL6N/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },

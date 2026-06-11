@@ -27971,8 +27971,8 @@ filmes = [
         "t": "UM HOMEM PERFEITO",
         "c": "https://image.tmdb.org/t/p/w300/7ZEJQBL8hupPKXuIGbttbBTaYBb.jpg",
         "a": "2013",
-        "link": "https://drive.google.com/file/d/1ERk-FoXM9ZznMxZbksa5JJPhT8sQE5dq/view?usp=sharing",
-        "tags": "LEG",
+        "link": "https://drive.google.com/file/d/13ygmBUQ80bHsmAQL7sVPTCAaWqAHEGnQ/view?usp=sharing",
+        "tags": "DUB",
         "n": 0
     },
     {

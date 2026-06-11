@@ -28003,8 +28003,8 @@ filmes = [
         "t": "UMA IDEIA DE VOCÊ",
         "c": "https://image.tmdb.org/t/p/w300/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg",
         "a": "2024",
-        "link": "https://drive.google.com/file/d/1eAaQ5-Jqr-Zath6ILaDpCQvBajEuM_al/view?usp=sharing",
-        "tags": "LEG",
+        "link": "https://drive.google.com/file/d/1peTqRgB6lviVGtHUtju1rncrG-1WoAsd/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

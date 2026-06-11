@@ -32078,5 +32078,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1VRIP5iEvrDlb0T_NyblBGduPstPNrDPm/view?usp=sharing",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "DEIXE NEVAR",
+        "c": "https://image.tmdb.org/t/p/w300/mnReplKur304Ob61icmrOyDjKOD.jpg",
+        "a": "2013",
+        "link": "https://drive.google.com/file/d/1p6RntQDBh-1mac6ATjvIaPVk9Jopj5in/view",
+        "tags": "DUB",
+        "n": 0
     }
 ];

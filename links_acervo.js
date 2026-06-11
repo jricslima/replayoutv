@@ -483,8 +483,8 @@ filmes = [
         "t": "AVATAR 2 AVATAR O CAMINHO DA ÁGUA",
         "c": "https://image.tmdb.org/t/p/w300/9gZkGcvhyZmhpYDCeTCh0k6RGyh.jpg",
         "a": "2022",
-        "link": "https://drive.google.com/file/d/1TQJi0_AUaWqqR_01F2Tt7EOiIQyYWyJ5/view?usp=sharing",
-        "tags": "LEG",
+        "link": "https://drive.google.com/file/d/1c95P-kNeGkSKDnn3VEjNowZkLBPUGQXp/view",
+        "tags": "DUAL",
         "n": 0
     },
     {

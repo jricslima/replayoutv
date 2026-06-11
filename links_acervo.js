@@ -14971,7 +14971,7 @@ filmes = [
         "t": "LADY KUNG FU HAPKIDO",
         "c": "https://image.tmdb.org/t/p/w300/yY44dwTBhlaGz8HXQxYjVHQcugu.jpg",
         "a": "1972",
-        "link": "https://drive.google.com/file/d/1mRpC7PUMo5ZnXdPuZjWDguZ8vU8ANF4A/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1c3HlJPrEDWcouryunZyOxaa6f5SUBq-t/view",
         "tags": "LEG",
         "n": 0
     },

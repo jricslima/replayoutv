@@ -21377,10 +21377,10 @@ filmes = [
     },
     {
         "t": "O REENCONTRO",
-        "c": "https://image.tmdb.org/t/p/w300/dwBCNqu6Cw1qnAB3lFN7s5wqmDP.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kQJ7Vi8al3qV4UMn1fgtOQNQMro.jpg",
         "a": "1983",
-        "link": "https://drive.google.com/file/d/0B6vagH7hkCwHTkxYUVFJcWk0RVU/view?usp=sharing&resourcekey=0--9Dx1da1luB2xu2i5XyO2A",
-        "tags": "LEG AC",
+        "link": "https://drive.google.com/file/d/1s3O-1xa3LkENmt0avob4T0XUcN0L3vk2/view?usp=sharing",
+        "tags": "DUB",
         "n": 0
     },
     {

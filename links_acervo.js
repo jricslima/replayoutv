@@ -31568,14 +31568,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "BEM VINDO A VIDA",
-        "c": "https://image.tmdb.org/t/p/w300/x4vmkiNRk8ssZx6dOkGGIlTShOL.jpg",
-        "a": "2012",
-        "link": "https://drive.google.com/file/d/1zfu_WWH_IH6WwLNrGw9lTvGAWI_Zj7L0/view?usp=sharing",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
         "t": "UM ASSASSINO ENTRE NÓS",
         "c": "https://www.themoviedb.org/t/p/w300/8chaJ9rXgm5hdC8zJCDZDl4xQRD.jpg",
         "a": "2012",

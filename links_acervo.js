@@ -18697,7 +18697,7 @@ filmes = [
     },
     {
         "t": "O TORNEIO THE TOURNAMENT",
-        "c": "https://image.tmdb.org/t/p/w300/iG1Z1wiVAkVYsBjS96YHk9Vtg1.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kklTCKqSCEwgKM1XfPFveTI9s9M.jpg",
         "a": "1974",
         "link": "https://drive.google.com/file/d/1pXqqUwMghI1n5sPObhkHoHan5GZH_HNd/view",
         "tags": "LEG",

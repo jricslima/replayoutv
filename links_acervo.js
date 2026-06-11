@@ -15507,8 +15507,8 @@ filmes = [
         "t": "LONDON HAS FALLEN INVASÃO A LONDRES",
         "c": "https://image.tmdb.org/t/p/w300/tWpB4lK4RFEQf0CHsVgDWZOmUbl.jpg",
         "a": "2016",
-        "link": "https://drive.google.com/file/d/0B3kVhZQ7U7RFRUgyXzdmLTIzdDA/view?usp=sharing&resourcekey=0-QDXEVvSieUl9EIWDtq9UrQ",
-        "tags": "LEG",
+        "link": "https://drive.google.com/file/d/1gl7S_pU8rBZKWfKR_ZxlBylFtV0O1yjx/view?usp=sharing",
+        "tags": "DUB",
         "n": 0
     },
     {

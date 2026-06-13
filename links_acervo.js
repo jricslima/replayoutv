@@ -32086,5 +32086,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1TRPJJf-eklhFGW7GryW_gBU9hBoZdhiP/view",
         "tags": "DUB",
         "n": 1
+    },
+    {
+        "t": "DJANGO ATIRA PRIMEIRO",
+        "c": "https://image.tmdb.org/t/p/w300/gcdvhkGev8cyaoe13DcpQnjg5AG.jpg",
+        "a": "1966",
+        "link": "https://drive.google.com/file/d/1kO5nf6KG5i9l3zDl45PBsapPj-3FL-fC/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
     }
 ];

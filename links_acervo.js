@@ -25011,8 +25011,8 @@ filmes = [
         "t": "SAFETY UMA JOGADA DE CORAGEM",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/yRwRZYlqXkcCwx2yuqIhh7rzPcA.jpg",
         "a": "2020",
-        "link": "https://drive.google.com/file/d/1-ms4ab-DyQFG1bOqBdDEJ2ZUrmco29SO/view?usp=sharing",
-        "tags": "LEG",
+        "link": "https://drive.google.com/file/d/189MlgsCSR_rrpQ-YUNhG1qektEjMsNf4/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

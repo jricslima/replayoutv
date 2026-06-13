@@ -9683,7 +9683,7 @@ filmes = [
         "t": "DEADLY CHINA DOLL HEI LU",
         "c": "https://image.tmdb.org/t/p/w300/9Mc4CaeJ2hVVK4LT0N640IyT0HX.jpg",
         "a": "1973",
-        "link": "https://drive.google.com/file/d/1Yp3GFZ8EtEm3i1wmUWfOnycrqivlwjZ1/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1YDvqcbidwK8Q1fw124akEivLLegI2DES/view",
         "tags": "LEG",
         "n": 0
     },

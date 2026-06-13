@@ -11187,7 +11187,7 @@ filmes = [
         "t": "ÊXTASE - EKSTASE",
         "c": "https://image.tmdb.org/t/p/w300/dasZVuZgT7cX4ZicJ6EVuxV8g3c.jpg",
         "a": "1933",
-        "link": "https://drive.google.com/file/d/1-8QSaI6My8uVnoFEQL95RF7j3jrbw5Sp/edit",
+        "link": "https://drive.google.com/file/d/1XR5LdgcfoaH0haAK6eVRmKLKnazcux7q/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },

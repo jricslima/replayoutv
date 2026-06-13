@@ -18867,7 +18867,7 @@ filmes = [
         "t": "OS REJEITADOS",
         "c": "https://image.tmdb.org/t/p/w300/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
         "a": "2023",
-        "link": "https://drive.google.com/file/d/1ljYN_Z0Om3UCQ1XXaIhQNzNBpiYeM3aA/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1lu8aHeIdig0GZwJwG-nlFdh_7aA858kd/view",
         "tags": "LEG",
         "n": 0
     },

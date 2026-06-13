@@ -18865,7 +18865,7 @@ filmes = [
     },
     {
         "t": "OS REJEITADOS\tTHE HOLDOVERS",
-        "c": "https://image.tmdb.org/t/p/w300/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
         "a": "2023",
         "link": "https://drive.google.com/file/d/1lu8aHeIdig0GZwJwG-nlFdh_7aA858kd/view",
         "tags": "LEG",

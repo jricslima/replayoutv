@@ -32086,5 +32086,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1kO5nf6KG5i9l3zDl45PBsapPj-3FL-fC/view?usp=sharing",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "OS REJEITADOS THE HOLDOVERS",
+        "c": "https://image.tmdb.org/t/p/w300/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
+        "a": "2023",
+        "link": "https://drive.google.com/file/d/1Ga7-Mb7Bh95FTLszAzZf18aNeKKupUn4/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

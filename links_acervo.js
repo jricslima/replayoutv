@@ -30600,14 +30600,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "VIVA DJANGO",
-        "c": "https://image.tmdb.org/t/p/w300/gy30ziLMI2heuHacvFmnxcvc582.jpg",
-        "a": "1968",
-        "link": "https://drive.google.com/file/d/1f5w-LhOI6mrrgnnCYElxZFLi2Zr4x3uI/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "VIVAH /",
         "c": "https://image.tmdb.org/t/p/w300/e5zFYX3hW1TNeFCzRw7ET2DxRPm.jpg",
         "a": "2006",

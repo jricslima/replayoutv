@@ -11208,10 +11208,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "É TEMPO DO AMAR",
+        "t": "É TEMPO DE AMAR - LE TEMPS D'AIMER",
         "c": "https://image.tmdb.org/t/p/w300/6NAbvGZs4rlzatUeBlsggW56esW.jpg",
         "a": "2023",
-        "link": "https://drive.google.com/file/d/15op2qLkECUytRHGo6sOclxL0BUy-tvqu/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1v5Yp3ESqeRs1tOtuA3VgbZ1zOVqF-W0v/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },

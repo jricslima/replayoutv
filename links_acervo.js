@@ -32123,14 +32123,6 @@ filmes = [
         "t": "VOCÊ NÃO PODE BEIJAR A NOIVA",
         "c": "https://image.tmdb.org/t/p/w300/aGGbtt5kLRYyoUXgwslMaygsiZ.jpg",
         "a": "2011",
-        "link": "https://drive.google.com/file/d/11-NiM856vpMScGLJMIx9W97EYDtqcArP/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "VOCÊ NÃO PODE BEIJAR A NOIVA",
-        "c": "https://image.tmdb.org/t/p/w300/aGGbtt5kLRYyoUXgwslMaygsiZ.jpg",
-        "a": "2011",
         "link": "https://drive.google.com/file/d/11-NiM856vpMScGLJMIx9W97EYDtqcArP/view",
         "tags": "DUB",
         "n": 0

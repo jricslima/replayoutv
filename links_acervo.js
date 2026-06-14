@@ -29620,7 +29620,7 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/zesJPK0nMOOXHDf7Zwo8KBgojYt.jpg",
         "a": "2013",
         "link": "https://drive.google.com/file/d/1oNlH7WjeFUPs3s-iaTdviCaWfd8HI6hX/view?usp=drive_open",
-        "tags": "DUB",
+        "tags": "LEG",
         "n": 0
     },
     {

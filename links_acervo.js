@@ -30296,8 +30296,8 @@ filmes = [
         "n": 0
     },
     {
-        "t": "VOCÊ NÃO PODE BEIJAR A NOIVA",
-        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/aGGbtt5kLRYyoUXgwslMaygsiZ.jpg",
+        "t": "YOU MAY NOT KISS THE BRIDE VOCÊ NÃO PODE BEIJAR A NOIVA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hTmZjfNuGUko6N8zTSN1rsVBFsV.jpg",
         "a": "2011",
         "link": "https://drive.google.com/file/d/1ANW_3Alh-6KCkKiAp2I1o4j_uzhmhMFB/view?usp=sharing",
         "tags": "LEG",

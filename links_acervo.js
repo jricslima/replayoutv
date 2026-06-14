@@ -1056,7 +1056,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A VERY COUNTRY CHRISTMAS HOMECOMING - VOLTANDO DA LUA DE MEL",
+        "t": "A VERY COUNTRY CHRISTMAS HOMECOMING",
         "c": "https://image.tmdb.org/t/p/w300/e7qB87iYLK3bSnJr2TgJ8LMYLuw.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/1GOGrCTdNCk_amYAZqSPq8i_Lq428_sA4/view",

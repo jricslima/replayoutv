@@ -31113,7 +31113,7 @@ filmes = [
     },
     {
         "t": "A VERY COUNTRY WEDDING MEU NOIVO É UMA CELEBRIDADE",
-        "c": "https://image.tmdb.org/t/p/w300/Lgs8dkNw7YUalgqV6ZEeIpaPMT.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ohIWLKfn6140oVCio7ePLm29NCh.jpg",
         "a": "2019",
         "link": "https://drive.google.com/file/d/1jL_7YTZqTwGE3z9geBoDpTsxPmbt41R_/view?usp=sharing",
         "tags": "LEG",

@@ -32094,5 +32094,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1Ga7-Mb7Bh95FTLszAzZf18aNeKKupUn4/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
+    },
+    {
+        "t": "AS CORES DO AMOR COLORS OF LOVE AN AUTUMN ROMANCE",
+        "c": "https://image.tmdb.org/t/p/w300/mKkfxvjnZstMmQCbolFDWREhxCX.jpg",
+        "a": "2021",
+        "link": "https://drive.google.com/file/d/1BhTjTh2CkickbhHYKzYvb2m1DsZ2WFX-/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

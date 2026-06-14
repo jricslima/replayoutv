@@ -22976,7 +22976,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PARA TODOS OS GAROTOS PS AINDA AMO VOCÊ /",
+        "t": "PARA TODOS OS GAROTOS PS AINDA AMO VOCÊ",
         "c": "https://image.tmdb.org/t/p/w300/tpdtbzeEImp5eT5wmwhVHhbklAk.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/1pIm2cBp-l17Piu_Vek8MXx9Ypw-_clrt/view?usp=sharing",

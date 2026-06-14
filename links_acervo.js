@@ -32136,9 +32136,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "CHRISTMAS CUPID’S UM AMOR PARA O NATAL",
-        "c": "https://image.tmdb.org/t/p/w300/dzCM6jmBCnSwWgiFuUKGnQAyJB4.jpg",
-        "a": "2018",
+        "t": "CHRISTMAS CUPID UM CUPIDO NO NATAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ldW5GWiktjjakPa8yZWnCK8Z0Dz.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/1t2Nak7zdLTMEH_1Moqk-YDJNrQ2ta_Z6/view?usp=sharing",
         "tags": "LEG",
         "n": 1

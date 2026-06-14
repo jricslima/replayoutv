@@ -1064,7 +1064,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A VERY COUNTRY WEDDING MEU NOIVO É UMA CELEBRIDADE",
+        "t": "MEU NOIVO É UMA CELEBRIDADE A VERY COUNTRY WEDDING",
         "c": "https://image.tmdb.org/t/p/w300/Lgs8dkNw7YUalgqV6ZEeIpaPMT.jpg",
         "a": "2019",
         "link": "https://drive.google.com/file/d/1yo29LMvwUkgUesjAF2gFguf3cSeV76Yz/view?usp=sharing",

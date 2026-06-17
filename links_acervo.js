@@ -18537,7 +18537,7 @@ filmes = [
     },
     {
         "t": "NO MUNDO DE 2020 SOYLENT GREEN",
-        "c": "https://image.tmdb.org/t/p/w300/1QPZHBSoG6t1vz2MgVRWnHASnyY.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ze59A2Y8haRlEZ1VwQFVGPLmlg7.jpg",
         "a": "1973",
         "link": "https://drive.google.com/file/d/0B4J-RYNjMKufZlhkenZkUXZTSGs/view?usp=sharing&resourcekey=0-3nSfT__XBwY2MoMSN4EHpQ",
         "tags": "DUAL",

@@ -243,8 +243,8 @@ filmes = [
         "t": "2.22 ENCONTRO MARCADO",
         "c": "https://image.tmdb.org/t/p/w300/48ZnyZi3KGrn1YOOco7xKWa57Vb.jpg",
         "a": "2017",
-        "link": "https://drive.google.com/file/d/0B5fVDz8aQP37MWpDNnN5X1RCdFE/view?usp=sharing&amp;resourcekey=0-Hf8VnFYMChYX64IkUtwwKA",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1H6kjBOhoMuXt4_3nHf-ISN8VxY2-kl4E/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -355,7 +355,7 @@ filmes = [
         "t": "4 MESES, 3 SEMANAS E 2 DIAS",
         "c": "https://www.themoviedb.org/t/p/w300/xWkiTwqa6bnUmfNpmK20YyS7apf.jpg",
         "a": "2007",
-        "link": "https://drive.google.com/file/d/1fK4YyyxWiH6l0BSiwjNJgf6RrclxscE1/view",
+        "link": "https://drive.google.com/file/d/1K_mU7yDPshYRmjv50Yl-L3MVnASnCWF2/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -1003,15 +1003,15 @@ filmes = [
         "t": "A ONDA DOS SONHOS 2",
         "c": "https://image.tmdb.org/t/p/w300/mZrxUmeqEOdVQgGCK572UtzGFfi.jpg",
         "a": "2011",
-        "link": "https://drive.google.com/file/d/12zug6mmBd8fKQRZ4f5ZLMWA_Tg8aGKwS/view?usp=sharing",
-        "tags": "LEG",
+        "link": "https://drive.google.com/file/d/1kxYJvyvZShw1YS_idUWbvfqT9_Vka9oI/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
-        "t": "A TEORIA DO AMOR",
+        "t": "A TEORIA DO AMOR - Q.I.",
         "c": "https://image.tmdb.org/t/p/w300/uvjt3DIH1T1Vlk7xdWlIYXs6u8G.jpg",
         "a": "1994",
-        "link": "https://drive.google.com/file/d/11CunLW_D-mrxy1nJE7S0kLP-CtkMX5Al/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1tFYAibn-en4A8R1XwoQ_Vzae2xVSrDm0/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -1019,7 +1019,7 @@ filmes = [
         "t": "ACCIDENTALLY ENGAGED",
         "c": "https://image.tmdb.org/t/p/w300/lArOsPsD5e0W0paC7vReirclHNw.jpg",
         "a": "2016",
-        "link": "https://drive.google.com/file/d/1k-xKy8fShUDgG8Ml-33WlLdcqSE8wDht/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/13uJPbaWJDfNQtcpOdVj7LsYDYkTiGHre/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -1440,10 +1440,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A PONTA",
-        "c": "https://image.tmdb.org/t/p/w300/fZITpgpITo7ESAPXU43vM67Zgmw.jpg",
-        "a": "2006",
-        "link": "https://drive.google.com/file/d/1m3uhcU0ujoRhhneU2lPe0c1J32t9s-vz/view?usp=sharing",
+        "t": "THE POINT A PONTA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7S5BY8G6WFWJWtbO7RCNsRJjmbl.jpg",
+        "a": "1971",
+        "link": "https://drive.google.com/file/d/1SLtOdLpFK8sRk8RyqVKGw8MdeT_byJA8/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -3168,9 +3168,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A CORRIDA DO SÉCULO",
-        "c": "https://image.tmdb.org/t/p/w300/htZvLnTjVSUmzIa9fJnBxfMT3LW.jpg",
-        "a": "1976",
+        "t": "A CORRIDA DO SÉCULO THE GREAT RACE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dOcIAwdOqMRBXIyEDRNspZjj3A6.jpg",
+        "a": "1965",
         "link": "https://drive.google.com/file/d/1Ywoo2OVgJlZk8aM_bqnoiFOFn3c4PjGM/view?usp=sharing",
         "tags": "DUB",
         "n": 0
@@ -3649,9 +3649,9 @@ filmes = [
     },
     {
         "t": "A FUNDAÇÃO DE UMA REPÚBLICA",
-        "c": "https://image.tmdb.org/t/p/w300/cMEAAJ7GEZIv9bWHLKPhQcLejOh.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fqLl0KQzj74yx1QQ1gyrpqjOhJh.jpg",
         "a": "2009",
-        "link": "https://drive.google.com/file/d/1Stc9f6K1636aJHYeUriurkPSJ8DCfYXw/view",
+        "link": "https://drive.google.com/file/d/1KISftW2EahE7RjnITnT59MySQGGXlaPQ/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -4315,7 +4315,7 @@ filmes = [
         "t": "A MIDNIGHT KISS",
         "c": "https://image.tmdb.org/t/p/w300/pSGONtCLhPuBs5L1yjqLUDptuXB.jpg",
         "a": "2018",
-        "link": "https://drive.google.com/file/d/1P0bW3RviQ678PQqNqHoaq_tHKOq7KC4D/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1bywR7PHzY_tnGf4pmAe9WcD1wEmXoKdx/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -4421,14 +4421,6 @@ filmes = [
         "a": "2021",
         "link": "https://drive.google.com/file/d/15Cc6QVQEQ_bwtPpEygPbWiRVQ508dsCQ/view?usp=sharing",
         "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "A NICE GIRL LIKE YOU",
-        "c": "https://image.tmdb.org/t/p/w300/uuF7Smx3CDzknb8RbuxfIAcJKoi.jpg",
-        "a": "2020",
-        "link": "https://drive.google.com/file/d/16fTPq69u-A0h4Vy4r1eg7mWcDZlzhxFZ/view?usp=sharing",
-        "tags": "DUB",
         "n": 0
     },
     {
@@ -5371,7 +5363,7 @@ filmes = [
         "t": "ALISHA AMOR IMPOSSÍVEL PYAAR IMPOSSIBLE",
         "c": "https://www.themoviedb.org/t/p/w300/k8aqtzrGYLVZQTKgi7wU8Qg0Ikg.jpg",
         "a": "2010",
-        "link": "https://drive.google.com/file/d/1JNrEOCsz9PW7WnEvRIuMwauTLG5KiXDM/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1GEiEjsmjOYy4vO-7YmQWzt_6u_kNrcdq/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -5387,7 +5379,7 @@ filmes = [
         "t": "ALL OF MY HEART INN LOVE (2)",
         "c": "https://image.tmdb.org/t/p/w300/wrAH2x1qPKXzCyBV0gV3sRSvN8I.jpg",
         "a": "2017",
-        "link": "https://drive.google.com/file/d/1HPKbxrmsbh7-jypGYc87bt30zKMomFN_/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/177FSqfljUkoPtD835eYFMij2twYESElO/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -5395,7 +5387,7 @@ filmes = [
         "t": "ALL OF MY HEART THE WEDDING (3)",
         "c": "https://www.themoviedb.org/t/p/w300/1n8xrAuu8la18SXw852tzy46lNO.jpg",
         "a": "2018",
-        "link": "https://drive.google.com/file/d/1u6teVOi8j8bD-uHrdvXJuJawDsz-c2Sd/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1LejYmwt_k2BeoEw5hnx4_Ui4ydv-8vEh/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -5403,7 +5395,7 @@ filmes = [
         "t": "ALL OF MY HEART (1)",
         "c": "https://www.themoviedb.org/t/p/w300/ov9AMJqOmJ50ruJUTYQfxJqXNWb.jpg",
         "a": "2015",
-        "link": "https://drive.google.com/file/d/1OcIqWIUfSFMOd3KfA7dXgoezc4D8gDEm/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1d21dAhJqNt3ruXw-t2jlg2MKP6tcAYU0/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -5755,8 +5747,8 @@ filmes = [
         "t": "AMOR EM TEMPOS DE ÓDIO",
         "c": "https://image.tmdb.org/t/p/w300/7ZGqze3H7kNIIKZxWYf60Eng5jX.jpg",
         "a": "2018",
-        "link": "https://drive.google.com/file/d/1js9BTt3tRE9ag_67p7Kutfcw7fkkgX1B/view?usp=drive_open",
-        "tags": "LEG",
+        "link": "https://drive.google.com/file/d/14hJtJYOHt51SPFtYinqHa9uQnJRJucfW/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -6016,11 +6008,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "AND JUSTICE FOR ALL",
+        "t": "JUSTIÇA PARA TODOS",
         "c": "https://image.tmdb.org/t/p/w300/2HDlNHd16fBwQ1z6QjsEzn22L9y.jpg",
         "a": "1979",
-        "link": "https://drive.google.com/file/d/1yUcl5FUR622BNNIoexOuflzknT8ZdwlG/view?usp=sharing",
-        "tags": "LEG",
+        "link": "https://drive.google.com/file/d/1o0Hv0HqpXGmEBo8j6PUJlhPuxPfqy0Ns/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -6243,7 +6235,7 @@ filmes = [
         "t": "AROMAS E SENSIBILIDADE",
         "c": "https://www.themoviedb.org/t/p/w300/gWrDknpiyxji7dZPij4gFhfk9JU.jpg",
         "a": "2011",
-        "link": "https://drive.google.com/file/d/1XUxcsemijfeAoBj5JLu4LxVUTcOWsW64/view?usp=drive_open",
+        "link": "https://drive.google.com/file/d/1TTbvMmzHvUxse7anyTFz9V9ubw0ThXpe/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -6419,7 +6411,7 @@ filmes = [
         "t": "AS LÁGRIMAS AMARGAS DE PETRA VON KANT",
         "c": "https://www.themoviedb.org/t/p/w300/5F0YPfAtqfwZsykcGtZjj6zW37K.jpg",
         "a": "1972",
-        "link": "https://drive.google.com/file/d/1-5TV0PMhm7_rujHafiv45MQ3KG5HakcZ/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1cbcK35ArvaJH2gI1pGsN0QqWPLTTZeVq/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -6485,14 +6477,6 @@ filmes = [
         "a": "2012",
         "link": "https://drive.google.com/file/d/1wykbsROyG_Vcg2_iDxKjk7DgNhEbgvTj/view?usp=drive_open",
         "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "AS VIOLETAS SÃO AZUIS",
-        "c": "https://image.tmdb.org/t/p/w300/pOmri5BgiLGc0jieg0JhHjSWPDG.jpg",
-        "a": "1986",
-        "link": "https://drive.google.com/file/d/1ZJodFOdZgw55pAUhFa_e8eKtFqdVRDEg/view?usp=sharing",
-        "tags": "LEG",
         "n": 0
     },
     {
@@ -9096,7 +9080,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "COLORS OF LOVE CORES DO AMOR",
+        "t": "COLORS OF LOVE AS CORES DO AMOR",
         "c": "https://www.themoviedb.org/t/p/w300/jMsJanDCFJLPloxURLPOSMOTPT8.jpg",
         "a": "2021",
         "link": "https://drive.google.com/file/d/1RCRwVkInsQGOijqLEANQWHGqwEJCcHXa/view",
@@ -9323,7 +9307,7 @@ filmes = [
         "t": "CONFISSÕES DE UM JOVEM APAIXONADO",
         "c": "https://image.tmdb.org/t/p/w300/kiiYhyJfRmgeDXxX4CSMRbisV9M.jpg",
         "a": "2012",
-        "link": "https://drive.google.com/file/d/0B8sj5gqpTXV5eU1KdV84TEo0Q0U/view?usp=sharing&resourcekey=0-qtqR9WBcT7XFvWK2p39qIA",
+        "link": "https://drive.google.com/file/d/10YXANb-EAffAFi5bSJQyINp46UAUZiAy/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -15443,8 +15427,8 @@ filmes = [
         "t": "LINCOLN",
         "c": "https://image.tmdb.org/t/p/w300/Ah8nlXt06HTKfIbMQFGmuJmVIfq.jpg",
         "a": "2012",
-        "link": "https://drive.google.com/file/d/137V_Nz7b5OW-b7ZZrKTdxWmQKG_2_PpR/view?usp=drive_open",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1CgC43GJa4NjIY2_Kcn_HivAAm0Fg8H7y/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -20272,10 +20256,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O CONTINENTE PERDIDO",
-        "c": "https://image.tmdb.org/t/p/w300/oEHvetzkFDmgMnThtY7V0Y57dob.jpg",
+        "t": "O CONTINENTE ESQUECIDO - O CONTINENTE PERDIDO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zWgOvd037vVcWkCzigiJwKwSWb2.jpg",
         "a": "1968",
-        "link": "https://drive.google.com/file/d/0B-qwfV7YInAHS25sYTJpUjhvZVU/view?usp=sharing&resourcekey=0-_gV0qeQAtjxreQlGlyfL-Q",
+        "link": "https://drive.google.com/file/d/1n6ohiZqT3TwxSIKlz7tVsBC8jasqiRie/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -21459,7 +21443,7 @@ filmes = [
         "t": "O SABOR DE UMA PAIXÃO",
         "c": "https://image.tmdb.org/t/p/w300/3uxWnspF2b5malsqVnMG6md8oNd.jpg",
         "a": "2008",
-        "link": "https://drive.google.com/file/d/1R2YX5g8QRcP9OUn7XBHkBAZfN6guIVJW/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1ajso60TtAupvr6xedRiUqe9rpGGaw6_k/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -22304,11 +22288,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "OS VINGADORES",
+        "t": "OS VINGADORES - THE AVENGERS",
         "c": "https://image.tmdb.org/t/p/w300/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg",
         "a": "2012",
-        "link": "https://drive.google.com/open?id=1COapo-laaN1DyCw6Bk_rwTxSPHUgiNiF",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1wv34WjzA4YejM7bhAY6sxU2hrDUlfJFA/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -24547,8 +24531,8 @@ filmes = [
         "t": "RAIN MAN",
         "c": "https://image.tmdb.org/t/p/w300/7KCKWFrsohIBIuNgKCmbilB49eq.jpg",
         "a": "1988",
-        "link": "https://drive.google.com/file/d/0B5JMc-LjX0KkLVpVeEw4Y211Wm8/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1IEULgUeyI7V5HtN6jA5b-d5Sp4LeEnG3/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -25339,8 +25323,8 @@ filmes = [
         "t": "SALVANDO O CASAMENTO",
         "c": "https://image.tmdb.org/t/p/w300/oDy1YKJIe1IDAb9WFFrov12mVMl.jpg",
         "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B37evpT_4mqIZE1ZYUtybnZRa1k%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774910638215796&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B37evpT_4mqIZE1ZYUtybnZRa1k%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VeAg5y7Q0HokLcMqrqniWn8wuP0QDAD0OmYHIqS0gbzgoTY--ZamjmG4-iijTHRs9J_HhUGg",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B37evpT_4mqIZE1ZYUtybnZRa1k/view?usp=sharing&resourcekey=0-EoLTvqbnhDP6yPmLRKiWEg",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -25384,11 +25368,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SCARED",
-        "c": "https://image.tmdb.org/t/p/w300/qJzfQVIFiZn1lceFFsSp16BIIle.jpg",
-        "a": "2012",
-        "link": "https://drive.google.com/file/d/125Q07gJmOuzGEQ-Uo4Sc9oqAblpLQPV2/view?usp=sharing",
-        "tags": "DUB",
+        "t": "SCARED CUT THROAT",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xNnmuiypUYphkSQRXWAeKDBGfNl.jpg",
+        "a": "2002",
+        "link": "https://drive.google.com/file/d/1tvgIUFnjbLhQSXIfWRebH_jpgK86XKE2/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -25499,8 +25483,8 @@ filmes = [
         "t": "SEDUCING MR. PERFECT",
         "c": "https://image.tmdb.org/t/p/w300/4gAWWuY8epYNSLMoTWV9pAnqnpX.jpg",
         "a": "2006",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0Bz_CKohF6MLfOTVRUTctbTdTOEU&dsh=S-2062413408%3A1774910745288120&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0Bz_CKohF6MLfOTVRUTctbTdTOEU&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XhltnYmAO4tMttqRZz3Cz7zKU0Dil65tyzY9ZpMKVURSz1ewzUsBaWo7syxwq-370uxr3NjA",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1biuS2feb65hQ8emsJn-SN1QTqFGP9pBm/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -25531,7 +25515,7 @@ filmes = [
         "t": "SEIS GRAUS DE SEPARAÇÃO",
         "c": "https://image.tmdb.org/t/p/w300/rcjHqENmze81lD43HxK4oCn6xVq.jpg",
         "a": "1993",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0ByYoqq6J6r_CZTlBZXQ2UW5pX28%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774910751150070&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0ByYoqq6J6r_CZTlBZXQ2UW5pX28%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XnOnzbuNhnV-Ot9PocxwCZ5Yz-8GJ25O5vlqyqVBwHBO9aHm3ddyNkqDm9q_v6duFZ14rT0A",
+        "link": "https://drive.google.com/file/d/0ByYoqq6J6r_CZTlBZXQ2UW5pX28/view?usp=sharing&resourcekey=0-9auHuyJ7Mz8d7ZI0UDmiFA",
         "tags": "DUB",
         "n": 0
     },
@@ -25577,9 +25561,9 @@ filmes = [
     },
     {
         "t": "SEM LIMITES",
-        "c": "https://image.tmdb.org/t/p/w300/r7MR0GmKe4pE0OX43LXMztNz8Z8.jpg",
-        "a": "2010",
-        "link": "https://drive.google.com/file/d/0B0qC7HeoQLWvT3AwUDd6MmFlaG8/view?usp=sharing&amp;resourcekey=0-ntyg8NNJkUw6x2470fMNYQ",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/poiTgNzPbT3ZuS4QnmrLNv2M6rD.jpg",
+        "a": "2011",
+        "link": "https://drive.google.com/file/d/1ppIQz6Tv7YOcmOOAeDFpQleo7D2Kcrxu/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -25603,8 +25587,8 @@ filmes = [
         "t": "SENTIMENTOS QUE CURAM",
         "c": "https://image.tmdb.org/t/p/w300/VEGbDdtOrj6PXnTlCKm3Q8XO2w.jpg",
         "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B77mza-lJWUydzJEN09iUDNUU2s%2Fview%3Fusp%3Dsharing&dsh=S1394476296%3A1774910765225724&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B77mza-lJWUydzJEN09iUDNUU2s%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XMJQ7-ViqvL7hHOXjI8_Rg6MVpDp3ElPh6uMV_xSuOYGia9NfCamnoq76HSdW-HqYxrH_QOw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B77mza-lJWUydzJEN09iUDNUU2s/view?pli=1&resourcekey=0-8yPZQp2F_sl_W2YHWkfY3g",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -25832,11 +25816,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SING STREET",
+        "t": "SING STREET - MÚSICA E SONHO",
         "c": "https://image.tmdb.org/t/p/w300/hbCpN9EM0nwehLdNs6n9C5Crc5H.jpg",
         "a": "2016",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0Bz_0Y36dDH8XcnItcmdQRFQ0c1E&dsh=S488483084%3A1774910931631815&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0Bz_0Y36dDH8XcnItcmdQRFQ0c1E&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Ut1KFOiiR-NF9IFOGUPoCgL9g6sUvLE8rCP1ADBAa7kvESKkyYUtuhBl90mIxyesL5LJCPGQ",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1-fxxXiM1T1Y2coNQn_Jdta-t4RDrSPKZ/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -25891,8 +25875,8 @@ filmes = [
         "t": "SLEEPERS A VINGANÇA ADORMECIDA",
         "c": "https://image.tmdb.org/t/p/w300/toI7kuNshshr7po1zTLKjBwMyxP.jpg",
         "a": "1996",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4sY-WeS-_Q-QnJuTi1lTXpKV3c%2Fview%3Fusp%3Dsharing&dsh=S354902304%3A1774910941309542&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4sY-WeS-_Q-QnJuTi1lTXpKV3c%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WManBI1pI7oojZDXEQoxlAH2SYGUeWCPCmtgG-uOgOSqg0-IkapiofH8QDCrS3GiUFZsT9Pg",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B4sY-WeS-_Q-QnJuTi1lTXpKV3c/view?pli=1&resourcekey=0-k9PgZ9nrrRjCrXiYFxvYew",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -25936,11 +25920,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SOB A MESMA LUA",
-        "c": "https://image.tmdb.org/t/p/w300/ogIobMbmXuL7k3qnba76hUms8lQ.jpg",
+        "t": "UNDER THE SAME MOON  - SOB A MESMA LUA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/u4etTLnOF5n4HZcFPxgyHMzizZz.jpg",
         "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0GlGy_xOBgrRW9kTHhPd2xTam8%2Fview%3Fusp%3Dsharing&dsh=S573530077%3A1774910950786412&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0GlGy_xOBgrRW9kTHhPd2xTam8%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Wy70S5-YAfyZZrBu4s2ZOr32MhDWxBHXkbzdYTr78Waz3uabIxmiNM3axgw2z953f-VVX3mw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1GtoRjfWUw2Vz4wbx-i7lsPEmZe7EkIgp/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -25953,10 +25937,10 @@ filmes = [
     },
     {
         "t": "SOB O MESMO CÉU",
-        "c": "https://image.tmdb.org/t/p/w300/fgNfve34tbToRjP8XFfJW9na6BM.jpg",
-        "a": "",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B7xlDdfPJlaOdFBoN1hqRU95TGM&dsh=S1480233536%3A1774910954001554&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B7xlDdfPJlaOdFBoN1hqRU95TGM&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WxzSbVOEPUjAgBMWujODbkOxRdTLHIBWqcFzyY6rZipa4Di7zd43BeVhCig-pHJcRN57QXqw",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9dEgros9TChXRR5O0TDW7rtWqtz.jpg",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/0B7xlDdfPJlaOdFBoN1hqRU95TGM/view?resourcekey=0-_gCoY7AxAIImxrhKzKAROQ",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -26040,11 +26024,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SONHO DE UMA NOITE DE VERÃO",
-        "c": "https://image.tmdb.org/t/p/w300/pzIc4K5QS9F7PAjujmDjSokCS4y.jpg",
-        "a": "2005",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1eejvbMfe-twpvElIK5uyxsw02JuglEhR%2Fpreview&dsh=S538656109%3A1774910972680491&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1eejvbMfe-twpvElIK5uyxsw02JuglEhR%2Fpreview&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WAgjebd2lz_2Dj9dYxB0Gz4jMM1wGUp4JanhLhH6lNrWavYXxCek2Bubakk9qgZ0IKQaGN8g",
-        "tags": "DUB",
+        "t": "SONHO DE UMA NOITE DE VERÃO - A MIDSUMMER NIGHTS DREAM",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/uT5Qn0fle9iANAWQ5DSSEK2yfBD.jpg",
+        "a": "1999",
+        "link": "https://drive.google.com/file/d/1sdul4WsorBfTmwcPv8Pv0NcbfoZKUjfs/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -26064,11 +26048,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SOPHIE'S CHOICE",
-        "c": "https://image.tmdb.org/t/p/w300/ctLYu6QeZRv4QejRxzUt4R9U1ie.jpg",
+        "t": "A ESCOLHA DE SOFIA - SOPHIE'S CHOICE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/qUUK2g9M94qUXLIKtNYaHZdDBSR.jpg",
         "a": "1982",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0gq0GVVLeCDVzdqVENpZDN1Tmc&dsh=S-1758961639%3A1774910978890001&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0gq0GVVLeCDVzdqVENpZDN1Tmc&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WxlRJln37nOfzorO3pgUJMo2VSYTju_NO3USwwj57ZchL4ZePfT6B5GBZJnQ_U_T9b81a3",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1o5ezVfmQ8PBRukOT1nBYdrFGZUpd5DMU/view?usp=sharing",
+        "tags": "DUB / LEG",
         "n": 0
     },
     {
@@ -26088,18 +26072,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SPECTREMAN",
-        "c": "https://image.tmdb.org/t/p/w300/4XNeZN0ry7yR53A1q923vllIIMX.jpg",
-        "a": "1984",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B6o0Wt18YqzNblFIQ1MyVGh2NzA%3Fusp%3Dsharing&dsh=S-1221112150%3A1774910984696333&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B6o0Wt18YqzNblFIQ1MyVGh2NzA%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WX0J-agwkq79HjYNLoXjiRHB_o-kws1Lef6AIqdXf6zG1_J8nceCfEF2uS9i25GKZRBLVzzA",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "SPEED RACER",
         "c": "https://image.tmdb.org/t/p/w300/arJV6ypZidAn4qiJXrvow3KbBqZ.jpg",
         "a": "2008",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B11Tm9R1mR32LTlrSW5jazlaSEk%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774910987200100&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B11Tm9R1mR32LTlrSW5jazlaSEk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UlUvR8AP95M0ZehKIhVyVfk7Hfg8l-e7P3z8b3iSmF7b4Bf5kcf3EPvC0m2nFcg-YhPvxVsA",
+        "link": "https://drive.google.com/file/d/0B11Tm9R1mR32LTlrSW5jazlaSEk/view?resourcekey=0-7WHPVSnmTv3Vu1ewCVkqYg",
         "tags": "DUB",
         "n": 0
     },
@@ -26112,11 +26088,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SPOTLIGHT",
+        "t": "SPOTLIGHT - SEGREDOS REVELADOS",
         "c": "https://image.tmdb.org/t/p/w300/wHNzfrfK8M4WIq3XDUqAFdKKY5Z.jpg",
         "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BzY-CK2ueye4THVVcEFsM3lCTGc%2Fview%3Fusp%3Dsharing&dsh=S354902304%3A1774910991442946&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BzY-CK2ueye4THVVcEFsM3lCTGc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WTbKwyl55sXVQbta4ijwY4kgr1oEwz7K0O9cMNDEBXYBt3H96XlobI0eNP_1NzHbWWVYK9lw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/153kqjJJSxPF_A1upubHvf7VqZY1NGsX_/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -26131,8 +26107,8 @@ filmes = [
         "t": "STANDBY",
         "c": "https://image.tmdb.org/t/p/w300/sCtH2uita7BGP9ohGt7yNmbAz8r.jpg",
         "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2wpCUNxmdiHM3ZuVFg5YmdfZDQ%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774910996715911&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2wpCUNxmdiHM3ZuVFg5YmdfZDQ%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V5SxRwEoQy3vphX8xPjcmyjhSwRI_bOV7eA774noeGJIPjU3LvdJXz7r4yXufH6J4i3t6AoQ",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1PEe78IKqFxstuXl0cCK-zppYqVrr9c9V/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {
@@ -26273,18 +26249,18 @@ filmes = [
     },
     {
         "t": "SUPER 8",
-        "c": "https://image.tmdb.org/t/p/w300/A1fh2IIhTNzLzl3SuENhHEuivUs.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/84HL2KMA5b0rkHWILLzW5hDOMah.jpg",
         "a": "2011",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4u6zrY6XVT8b2dMUzBXSEJuM2M%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774911081280332&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B4u6zrY6XVT8b2dMUzBXSEJuM2M%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_U2ywVhOTDSqR6Cc8q8iB6VRx-RPoLuzqkgrLUP2KMyOQCWRnQ04A3M1ZTk3NL2cImCLEP-8A",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/11dg-THVJziImujm8J-LapgLXWxm3kZCF/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
-        "t": "SUPERCROSS",
-        "c": "https://image.tmdb.org/t/p/w300/82dbqeFOA2iPhwWuciZItw1ELew.jpg",
+        "t": "SUPERCROSS - O FILME",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/iKwutoRNDoo4fm6D8ANif4KocdN.jpg",
         "a": "2005",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1ysQbN7EYh-N0N2MlpZOENNNWc%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774911083681006&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1ysQbN7EYh-N0N2MlpZOENNNWc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UfDwxeILqzm18jS18DuzmheRvN4xm99L5Aom1l8F9nC5Ga8JYkGoo0qqheLZYv4xN9ZEfMuQ",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1azCpb5PuxXT6p9rjwg53xrPkr_MXFLdh/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -26576,7 +26552,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TÃO LEGAL QUANTO VOCÊ",
+        "t": "TÃO LEGAL QUANTO VOCÊ  A NICE GIRL LIKE YOU",
         "c": "https://image.tmdb.org/t/p/w300/uuF7Smx3CDzknb8RbuxfIAcJKoi.jpg",
         "a": "2020",
         "link": "https://drive.google.com/file/d/1NHJZeBoCJ8KLEKKbjl-lEFRVE0j4LyBN/view?usp=sharing",
@@ -28248,7 +28224,7 @@ filmes = [
         "n": 1
     },
     {
-        "t": "UMA ROSA PARA O NATAL",
+        "t": "UMA ROSA PARA O NATAL - A ROSE FOR CHRISTMAS - ROSE PARADE NEW",
         "c": "https://image.tmdb.org/t/p/w300/zWd8ia3OrY4aIHzQpchqIHYxNxh.jpg",
         "a": "2017",
         "link": "https://drive.google.com/file/d/1LjEwqfIiQwcjNArMu3QvqVn3IkyJmdtm/view?usp=sharing",
@@ -29251,7 +29227,7 @@ filmes = [
         "t": "UM GRANDE GAROTO",
         "c": "https://image.tmdb.org/t/p/w300/38idKGSXqTUUMy0gqbUfmNOBhwh.jpg",
         "a": "2002",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0E6dWRRFYg4YUNLbjZlaUJXdUE&dsh=S-2062413408%3A1774912149000721&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B0E6dWRRFYg4YUNLbjZlaUJXdUE&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V1QVq9WdqMye5-GLYoU0khUxf1VZEltLii7Wxm6Mr0XAVH3AKbODgSg2urMJE2PrCpRaVn",
+        "link": "https://drive.google.com/file/d/0B0E6dWRRFYg4YUNLbjZlaUJXdUE/view?usp=sharing&resourcekey=0-VnLC7NZGnhwR0sz_unuqrA",
         "tags": "DUB",
         "n": 0
     },
@@ -29691,15 +29667,7 @@ filmes = [
         "t": "UM ROMANCE PROIBIDO AMIRA & SAM",
         "c": "https://image.tmdb.org/t/p/w300/rPKKn7FUsvbSO8EE2uEEXMmGprs.jpg",
         "a": "2014",
-        "link": "https://drive.google.com/file/d/1a2TFKqQWb8qNKAfEDIb00nTSPzo6rajr/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "UM ROMANCE PROIBIDO",
-        "c": "https://image.tmdb.org/t/p/w300/rPKKn7FUsvbSO8EE2uEEXMmGprs.jpg",
-        "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7BQwCUfXt3rYkh4XzFoWHBwYmM%2Fview%3Fusp%3Dsharing&dsh=S1394476296%3A1774912290713772&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7BQwCUfXt3rYkh4XzFoWHBwYmM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WMkfsTFsuQT2ZL8WtDCF2G9NYzd_PFGMqyJMlJAgYMOav34e4BR7TgLsGuGj0j-adBfxP6-A",
+        "link": "https://drive.google.com/file/d/1kDDGelYBZVVYdEi8bRkGO8bQSu70Z3ki/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -31184,14 +31152,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SINTONIA DE AMOR",
-        "c": "https://image.tmdb.org/t/p/w300/gbdCqAc3Xsg5RhgOJZtUikqMa8m.jpg",
-        "a": "1993",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_HwkC3lXD4CRDFKcS1vckFHcEk%2Fview%3Fusp%3Dsharing&dsh=S1244393930%3A1775166778299170&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B_HwkC3lXD4CRDFKcS1vckFHcEk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XvPxIapodY6p5n35SoJfV7fgcVTmvxJH5YQ0MLZSnug5LdCnW6xExyDn6OHL_QTg9ikul8mA",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "TAKE ME BACK FOR CHRISTMAS",
         "c": "https://www.themoviedb.org/t/p/w300/eNZUnfDR1ThpiE9F1jOG7paby16.jpg",
         "a": "2023",
@@ -32115,8 +32075,8 @@ filmes = [
         "t": "AS VIOLETAS SÃO AZUIS VIOLETS ARE BLUE",
         "c": "https://image.tmdb.org/t/p/w300/lszTi2XNnUfXgVg96ILSGxJqfaJ.jpg",
         "a": "1986",
-        "link": "https://drive.google.com/file/d/1ZJodFOdZgw55pAUhFa_e8eKtFqdVRDEg/view",
-        "tags": "LEG",
+        "link": "https://drive.google.com/file/d/1wON1nDOJIifLljBQmucGIW5fSW6oZFLH/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -32142,5 +32102,93 @@ filmes = [
         "link": "https://drive.google.com/file/d/1t2Nak7zdLTMEH_1Moqk-YDJNrQ2ta_Z6/view?usp=sharing",
         "tags": "LEG",
         "n": 1
+    },
+    {
+        "t": "A CORRIDA DO SÉCULO THE GREAT RACE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9rL8GWuFdO3fLXcNV9rZRHskoOn.jpg",
+        "a": "1965",
+        "link": "https://drive.google.com/file/d/1LdlMpXY6IZDyvVM2ar8Y8bsCSorQLakp/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "2.22 ENCONTRO MARCADO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gNMENZds5Zv37QWcmrtereJvMKE.jpg",
+        "a": "2017",
+        "link": "https://drive.google.com/file/d/1qYiE65-Gq9v6KTqTYjUpb1hIU5fZNrrz/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "A ROSE FOR CHRISTMAS - UMA ROSA PARA O NATAL - ROSE PARADE NEW",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vnyZQbJ3iy01Jliaz43gTvLi5qs.jpg",
+        "a": "2017",
+        "link": "https://drive.google.com/file/d/1c4y7hvKk62UhL7WoRczSJUjmzFVBDq-C/view?usp=sharing",
+        "tags": "LEG",
+        "n": 1
+    },
+    {
+        "t": "O PROFESSOR ALOPRADO - THE NUTTY PROFESSOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/3lEZUKwiSvXBPwwvdVh5Fxbxumq.jpg",
+        "a": "1963",
+        "link": "https://drive.google.com/file/d/1Y5HGjz1o5FX5Mmoj3DZXuK_NhXIRC4KT/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "O PROFESSOR ALOPRADO - THE NUTTY PROFESSOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/8Xeuez4VUjsxIbmI529CmkWuLkC.jpg",
+        "a": "1996",
+        "link": "https://drive.google.com/file/d/1ju_9SUj1oQ0Db_D6LYy4A9PadJ0ojdc0/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "O PROFESSOR ALOPRADO 2 - A FAMÍLIA KLUMP - NUTTY PROFESSOR II - THE KLUMPS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9JZBThyiflTxXEO9xyC42Ss2IcF.jpg",
+        "a": "2000",
+        "link": "https://drive.google.com/file/d/1U30RAFreaGS0H_2ifbYWQiziBby4RDQQ/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "DAZZLE - UMA FADA EM NOSSAS VIDAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9UqVonJ4sSZdZ6AMaI5pp3jrUGW.jpg",
+        "a": "1999",
+        "link": "https://drive.google.com/file/d/1TtTE8Ny5S-pq9yprKYa-LU-nt1QH9RtL/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "AS GOLPISTAS",
+        "c": "https://image.tmdb.org/t/p/w300/kbgjEUhsCtb9cNM5sXY5mtItgtW.jpg",
+        "a": "2019",
+        "link": "https://drive.google.com/file/d/1BvaZiablD9_7vGYKQU0AOQuWJcGJFcNj/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "DISCLOSURE DAY DIA D",
+        "c": "https://image.tmdb.org/t/p/w300/pmff1wjKrgJi92PPr346lAifzlg.jpg",
+        "a": "2026",
+        "link": "https://drive.google.com/file/d/1W_O86r8Yf4cIuuWgeuHKaik_9VbqonUE/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "SE EU FOSSE A MINHA MÃE TAL MÃE, TAL FILHA",
+        "c": "https://image.tmdb.org/t/p/w300/fxl5cADKj1I7Ri0JOkqmNVO8VYK.jpg",
+        "a": "1995",
+        "link": "https://drive.google.com/file/d/1cCwkWQaoeLV-_ne38_IDx7K7oxozohyJ/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "SUSIE Q",
+        "c": "https://image.tmdb.org/t/p/w300/vqn0vSAK30DNZxCvQ6H0IPmoicH.jpg",
+        "a": "1996",
+        "link": "https://drive.google.com/file/d/1_4fKYiwKjjjYGb5bCi12T1xaUoGQLKFm/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
     }
 ];

@@ -32193,8 +32193,8 @@ filmes = [
     },
     {
         "t": "ATLÂNTIDA, O CONTINENTE PERDIDO",
-        "c": "https://image.tmdb.org/t/p/w300/2UmiFVWnbZWQjGldZnamA0YyLbq.jpg",
-        "a": "1973",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/oEHvetzkFDmgMnThtY7V0Y57dob.jpg",
+        "a": "1961",
         "link": "https://drive.google.com/file/d/12RtKeutKKEbCzT9R5RijdIGraF5ATd8O/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

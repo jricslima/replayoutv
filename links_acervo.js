@@ -32190,5 +32190,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1_4fKYiwKjjjYGb5bCi12T1xaUoGQLKFm/view?usp=sharing",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "ATLÂNTIDA, O CONTINENTE PERDIDO",
+        "c": "https://image.tmdb.org/t/p/w300/2UmiFVWnbZWQjGldZnamA0YyLbq.jpg",
+        "a": "1973",
+        "link": "https://drive.google.com/file/d/12RtKeutKKEbCzT9R5RijdIGraF5ATd8O/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

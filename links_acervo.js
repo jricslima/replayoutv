@@ -32225,7 +32225,7 @@ filmes = [
     },
     {
         "t": "THE AMERICAN MALL",
-        "c": "https://image.tmdb.org/t/p/w300/48wxXQeOl4T8sJx4BMV0IFntmF1.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mDglbQwHIsOIvqSy0CwUihG8Y5J.jpg",
         "a": "2008",
         "link": "https://drive.google.com/file/d/1blDq9PIVrcSH7L9sNGPOjAmeTO2gn56w/view?usp=sharing",
         "tags": "LEG",

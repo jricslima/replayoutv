@@ -4459,7 +4459,7 @@ filmes = [
         "t": "A NOIVA PERFEITA",
         "c": "https://www.themoviedb.org/t/p/w300/pueTDPLI8Rb0GAlnALzMUC0X2lo.jpg",
         "a": "2017",
-        "link": "https://drive.google.com/file/d/1vpLch2rQ7eNw3CzOSyk3ctgmWvBASage/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1vpLch2rQ7eNw3CzOSyk3ctgmWvBASage/view",
         "tags": "HTTPS://WWW.THEMOVIEDB.ORG/T/P/W600_AND_H900_FACE/PUETDPLI8RB0GALNALZMUC0X2LO.JPG",
         "n": 0
     },

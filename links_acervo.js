@@ -4456,7 +4456,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A NOIVA PERFEITA",
+        "t": "A NOIVA PERFEITA - THE PERFECT BRIDE",
         "c": "https://www.themoviedb.org/t/p/w300/pueTDPLI8Rb0GAlnALzMUC0X2lo.jpg",
         "a": "2017",
         "link": "https://drive.google.com/file/d/1vpLch2rQ7eNw3CzOSyk3ctgmWvBASage/view",

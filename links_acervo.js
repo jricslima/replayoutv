@@ -32214,5 +32214,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1MdIZnqvV278Kz9kLZSRB-j4ijyCzB03-/view?usp=sharing",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "MINORITY REPORT A NOVA LEI",
+        "c": "https://image.tmdb.org/t/p/w300/bNOdmraLsJ5DItu1eNLJMyw7a6v.jpg",
+        "a": "2002",
+        "link": "https://drive.google.com/file/d/1po_d73Ip2QT6lebS7zXPtM82BSG5P9-h/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

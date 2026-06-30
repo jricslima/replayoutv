@@ -32208,7 +32208,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "NOSSA QUERIDA BABÁ 3 UMA AVENTURA NO PARAÍSO AU PAIR 3 (",
+        "t": "NOSSA QUERIDA BABÁ 3 - UMA AVENTURA NO PARAÍSO - AU PAIR 3",
         "c": "https://i.ibb.co/N6HD2S45/Au-Pair-3-Cover.jpg",
         "a": "2009",
         "link": "https://drive.google.com/file/d/1MdIZnqvV278Kz9kLZSRB-j4ijyCzB03-/view?usp=sharing",

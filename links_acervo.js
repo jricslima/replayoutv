@@ -27160,14 +27160,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "THE PERFECT BRIDE A NOIVA PERFEITA",
-        "c": "https://image.tmdb.org/t/p/w300/pueTDPLI8Rb0GAlnALzMUC0X2lo.jpg",
-        "a": "2017",
-        "link": "https://drive.google.com/file/d/1FOuPBcctYOu1u5Vg-W0ZoiwHI5B3LhO0/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "THE PERFECT CHRISTMAS PRESENT",
         "c": "https://image.tmdb.org/t/p/w300/4bn7xVSndMAO2TMZrSeY61dT7Bb.jpg",
         "a": "2017",

@@ -17979,8 +17979,8 @@ filmes = [
         "t": "NANNY MCPHEE E AS LIÇÕES MÁGICAS",
         "c": "https://image.tmdb.org/t/p/w300/4vXaOv2VjSyMAQY4duNALobiYPj.jpg",
         "a": "2010",
-        "link": "https://drive.google.com/file/d/1k1RkQ5BTyYyq3_Ny4jbwfTmY3GDSML0k/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1WcrDfQqUMgf7ckV19YB9lwVNxJ0bewAL/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

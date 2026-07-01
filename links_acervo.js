@@ -28832,9 +28832,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM ANO INESQUECÍVEL PRIMAVERA MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM ANO INESQUECÍVEL PRIMAVERA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/82KpRnPInxlEQsiMdLyhHHxJjgn.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/17_ijsItoRoEIifsGv8_ILRpwU94LXeii/view?usp=sharing",
         "tags": "DUB",
         "n": 0

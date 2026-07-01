@@ -28744,11 +28744,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM AMOR COM SABOR DE NATAL MKV",
+        "t": "UM AMOR COM SABOR DE NATAL",
         "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1uJ4JZRYebype6NnxlLE5Oo0Ft_RGRb3D/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "HTTPS://WWW.THEMOVIEDB.ORG/T/P/W600_AND_H900_FACE/KIV1ZYWL0EFBB0TXI2MNRE6ULUV.JPG",
         "n": 1
     },
     {

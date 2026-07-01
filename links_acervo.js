@@ -28745,10 +28745,10 @@ filmes = [
     },
     {
         "t": "UM AMOR COM SABOR DE NATAL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kIV1ZYWl0EFbB0TXI2MNre6uLUV.jpg",
         "a": "2022",
         "link": "https://drive.google.com/file/d/1uJ4JZRYebype6NnxlLE5Oo0Ft_RGRb3D/view?usp=sharing",
-        "tags": "HTTPS://WWW.THEMOVIEDB.ORG/T/P/W600_AND_H900_FACE/KIV1ZYWL0EFBB0TXI2MNRE6ULUV.JPG",
+        "tags": "DUB",
         "n": 1
     },
     {

@@ -32222,5 +32222,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1blDq9PIVrcSH7L9sNGPOjAmeTO2gn56w/view?usp=sharing",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "A LINHA DA EXTINÇÃO",
+        "c": "https://image.tmdb.org/t/p/w300/7B77pypBPYwRHTBAk4kBR4XXaVj.jpg",
+        "a": "2024",
+        "link": "https://drive.google.com/file/d/1ccP8fQd-ZYxffnH52c_zVlsGVnC2bDs5/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

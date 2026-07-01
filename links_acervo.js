@@ -28824,9 +28824,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM ANO INESQUECÍVEL OUTONO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM ANO INESQUECÍVEL OUTONO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bIco5SOsxCHiLVOIVxKwV3axT1K.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1PkvSlB72JC_SHu4IVa9i_ZPOsslWsx64/view?usp=sharing",
         "tags": "DUB",
         "n": 0

@@ -28816,9 +28816,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM ANO INESQUECÍVEL INVERNO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM ANO INESQUECÍVEL INVERNO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/6I60SxaNwnc8I2ZdL5dmfmnkec0.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1WcSfi-d730Pv5bUI5saHN6RoGKl4jLzA/view?usp=sharing",
         "tags": "DUB",
         "n": 0

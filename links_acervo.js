@@ -28840,9 +28840,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM ANO INESQUECÍVEL VERÃO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM ANO INESQUECÍVEL VERÃO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zEjG2LXebr8rpgZQQA6J2YOl77i.jpg",
+        "a": "2023",
         "link": "https://drive.google.com/file/d/1Xe5apWT8BQXnBJx2QvNRiuQ3HVPV-UCn/view?usp=sharing",
         "tags": "DUB",
         "n": 0

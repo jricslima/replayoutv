@@ -28776,7 +28776,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM AMOR NO FIM DO ANO - HOLIDAY AFFEIR",
+        "t": "UM AMOR NO FIM DO ANO - HOLIDAY AFFAIR",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/Xy0fGcM0jUpPhsNbtgw94PAPNb.jpg",
         "a": "1996",
         "link": "https://drive.google.com/file/d/1tyALTq3Zbtek_9eDrttzLTy5_-LKqR8d/view?usp=sharing",

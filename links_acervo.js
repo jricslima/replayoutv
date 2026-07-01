@@ -28793,8 +28793,8 @@ filmes = [
     },
     {
         "t": "UM AMOR VERDADEIRO",
-        "c": "https://image.tmdb.org/t/p/w300/epq1sgnvVSYRtGYlI1sEyy2GRh8.jpg",
-        "a": "1998",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/c5FtYvPyqEMkPrfDl9JC9LQYV8s.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/1pOzBFbWZ7j9byycCkhtshNugQaqASYtg/view?usp=sharing",
         "tags": "DUB",
         "n": 0

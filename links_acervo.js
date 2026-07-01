@@ -28800,9 +28800,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM AMOR VERDADEIRO1993",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM AMOR VERDADEIRO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/p2nEIKAtEOWQpRXXj4XqR33gaPa.jpg",
+        "a": "1993",
         "link": "https://drive.google.com/file/d/1stwK8r4l0pS0OMETJa4TpBojnAb2uikA/view?usp=drive_open",
         "tags": "DUB",
         "n": 0

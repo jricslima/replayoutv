@@ -29616,9 +29616,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM PRINCIPE EM NOVA YORK 2 MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM PRINCIPE EM NOVA YORK 2",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/mpXRG5zPUT18IeYvCoC4zOscked.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1uxeB0PldAn2odbDlP175NEtH-Z9Wb3LS/view",
         "tags": "DUB",
         "n": 0

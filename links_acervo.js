@@ -28857,8 +28857,8 @@ filmes = [
     },
     {
         "t": "UM AVÔ SEDUTOR PLAY THE GAME",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/48vqo9NZ6SyPohEepFiQNnYvnOg.jpg",
+        "a": "2009",
         "link": "https://drive.google.com/file/d/1f2qot4rbP6ejoo3K0N_RO3hxD3Ijhohy/view?usp=sharing",
         "tags": "DUB",
         "n": 0

@@ -29552,14 +29552,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM PRESENTE DE NATAL TROCA DE NATAL",
-        "c": "https://image.tmdb.org/t/p/w300/sGDtvTTULLaoggwS6aETFBr2IJH.jpg",
-        "a": "2013",
-        "link": "https://drive.google.com/file/d/1hQvGoP0QrZ7BbyNBf4yiT1Z82RUuspgX/view?usp=sharing",
-        "tags": "DUB",
-        "n": 1
-    },
-    {
         "t": "UM PRESENTE PARA CHARLOTTE COUP DE FOUDRE À NOËL LOVE IN LAPLAND",
         "c": "https://image.tmdb.org/t/p/w300/ht8dZGZbTWi9AClrL6qrHCaamAE.jpg",
         "a": "2017",

@@ -29504,8 +29504,8 @@ filmes = [
         "n": 1
     },
     {
-        "t": "UM PEDIDO DE NATAL",
-        "c": "https://image.tmdb.org/t/p/w300/4g7YcglgmE1h5AI5IVZrPou5Vu4.jpg",
+        "t": "UM PEDIDO DE NATAL - WISH FOR CHRISTMAS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/tE3ID4bpS08lDkAW2L72dUm4SAR.jpg",
         "a": "1991",
         "link": "https://drive.google.com/file/d/1cPK74KX9xkFtZsbqwcdThtWVbZSmbhz8/view?usp=sharing",
         "tags": "DUB",
@@ -31174,14 +31174,6 @@ filmes = [
         "link": "https://drive.google.com/file/d/1alYxAyz0ktdTIX6Lz6eLnIAlN4IVQV-6/view?usp=sharing",
         "tags": "LEG",
         "n": 0
-    },
-    {
-        "t": "UM DOCE NATAL",
-        "c": "https://image.tmdb.org/t/p/w300/q1DfwbInLa4EpBCfi3Gu8H3N0OQ.jpg",
-        "a": "2017",
-        "link": "https://drive.google.com/file/d/1xtKSAhzKt30c5Wa3iM6eX8c-Mq7ualL2/view",
-        "tags": "DUB",
-        "n": 1
     },
     {
         "t": "UM NATAL INESPERADO",

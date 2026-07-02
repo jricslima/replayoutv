@@ -26163,7 +26163,7 @@ filmes = [
         "t": "STARMAN O HOMEM DAS ESTRELAS",
         "c": "https://image.tmdb.org/t/p/w300/fiLxhWsRsDTUdorvsZFmuyC8aKv.jpg",
         "a": "1984",
-        "link": "https://drive.google.com/file/d/1lfAwPJL6HeYTVsLb3_z_di7fok5Bj84j/view?usp=drive_open",
+        "link": "https://drive.google.com/file/d/1lfAwPJL6HeYTVsLb3_z_di7fok5Bj84j/view",
         "tags": "DUB",
         "n": 0
     },

@@ -27024,14 +27024,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "THE GIRL NEXT DOOR",
-        "c": "https://image.tmdb.org/t/p/w300/7RsOmzEkJiSknIPOYe1AV9WTTDD.jpg",
-        "a": "2004",
-        "link": "https://drive.google.com/file/d/152V9aGbw93OR5S0bp7OVnEKlTAuysVKV/view?usp=sharing",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
         "t": "THE GOOD WITCH A BRUXA DO BEM",
         "c": "https://image.tmdb.org/t/p/w300/jDcMEF7D3NgJ8c6J60mFpol1pzo.jpg",
         "a": "2008",

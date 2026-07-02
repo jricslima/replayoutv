@@ -29592,9 +29592,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM PRÍNCIPE EM MINHA VIDA 2 – O CASAMENTO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM PRÍNCIPE EM MINHA VIDA 2  O CASAMENTO REAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bRsKGFKxoocZVSM461R3Whoxlvd.jpg",
+        "a": "2006",
         "link": "https://drive.google.com/file/d/1y2tDInmlhy0LkePRCQj6GLSRow8Ap0AJ/view?usp=sharing",
         "tags": "DUB",
         "n": 0

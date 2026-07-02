@@ -25480,14 +25480,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SEGUNDA CHANCE PARA O PRIMEIRO AMOR",
-        "c": "https://image.tmdb.org/t/p/w300/3RMBI40nnxYbTEkiFcev1dcbTov.jpg",
-        "a": "2020",
-        "link": "https://drive.google.com/file/d/1OU5HicIVeUnASEns4CP35fU1E6pGFH8Y/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "SEGURANÇA DE SHOPPING 2",
         "c": "https://image.tmdb.org/t/p/w300/dJ52hQePdIAUVcDEIMmeTUr4vhY.jpg",
         "a": "2015",

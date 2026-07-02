@@ -30088,9 +30088,9 @@ filmes = [
         "n": 1
     },
     {
-        "t": "UMA VÉSPERA DE ANO NOVO REAL MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UMA VÉSPERA DE ANO NOVO REAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/eQ0RDkFQ2zUUTzcbQw4iX6fkIe0.jpg",
+        "a": "2017",
         "link": "https://drive.google.com/file/d/13ysI0Z1F6U21hK87Za8BCP3sFbLdukkr/view",
         "tags": "DUB",
         "n": 0

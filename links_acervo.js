@@ -29960,9 +29960,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UMA MODERNA HISTÓRIA DE TWAIN O PRÍNCIPE E O MENDIGO MP4",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UMA MODERNA HISTÓRIA DE TWAIN O PRÍNCIPE E O MENDIGO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vXKDMH96Af8cF4Rf4tsUuvY55i5.jpg",
+        "a": "2007",
         "link": "https://drive.google.com/file/d/1PjQOHrt5Mu-5j0mWjMrCwOxCEA82_Tns/view?usp=sharing",
         "tags": "LEG",
         "n": 0

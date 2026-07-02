@@ -29409,7 +29409,7 @@ filmes = [
     },
     {
         "t": "UM NATAL PERFEITO",
-        "c": "https://image.tmdb.org/t/p/w300/f9kBiibBdBP429uRb2uWFueZrxc.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/58G70SufbIAUTlRPJopkj9b3MzD.jpg",
         "a": "2016",
         "link": "https://drive.google.com/file/d/1UIDm98JYQoLJgRZHNawYUsqWUv9d7FYn/view",
         "tags": "DUB",

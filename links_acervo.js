@@ -29352,14 +29352,6 @@ filmes = [
         "n": 1
     },
     {
-        "t": "UM NATAL EM FAMÍLIA DIFERENTE",
-        "c": "https://image.tmdb.org/t/p/w300/e0mCwVvLAGZlRtQSpozmlwTTNOY.jpg",
-        "a": "2021",
-        "link": "https://drive.google.com/file/d/1Ge76uL2wMmLEuLmDKTCwGJq_r_ZkiqRy/view?usp=sharing",
-        "tags": "DUB",
-        "n": 1
-    },
-    {
         "t": "UM NATAL ESTRELADO",
         "c": "https://image.tmdb.org/t/p/w300/2HU7uH66drcqfDJAHf5SqNlBGMy.jpg",
         "a": "2014",

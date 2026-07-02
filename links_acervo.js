@@ -28984,19 +28984,19 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM CONTO DE FADAS NAS MONTANHAS ENTRANDO PARA A REALEZA MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM CONTO DE FADAS NAS MONTANHAS - ENTRANDO PARA A REALEZA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/QEFHxYVmnypAoR2yqNpxxlB3Bm.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1UeTZrwG7WJ66JfY0OYVfP340UiLQiL65/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
     {
-        "t": "UM CONTO DE FADAS NAS MONTANHAS – O BEBÊ REAL CHRISTMAS WITH A PRINCE MP4 (LUCIANA)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM CONTO DE FADAS NAS MONTANHAS - O BEBÊ REAL - CHRISTMAS WITH A PRINCE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bxP1plGJTyk7l8mVzbtziJGcXLI.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1-F3RTcPimSH4hN3HWdgX23_BBGiFhcFG/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "LEG",
         "n": 0
     },
     {

@@ -31176,14 +31176,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM AMOR INESPERADO",
-        "c": "https://image.tmdb.org/t/p/w300/ljqrimXtkF47gSKcDyVLZ03ctYG.jpg",
-        "a": "2023",
-        "link": "https://drive.google.com/file/d/19H5AX-E287WltIucFun9udNNDHmmSWeN/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "UM CONVITE DE DIVÓRCIO",
         "c": "https://image.tmdb.org/t/p/w300/1Au4jGHUKvckHAbuZd9bgchFetY.jpg",
         "a": "2012",

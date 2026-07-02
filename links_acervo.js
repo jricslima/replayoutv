@@ -29144,9 +29144,9 @@ filmes = [
         "n": 1
     },
     {
-        "t": "UM ENCONTRO COM A PATRICINHA LEGENDADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM ENCONTRO COM A PATRICINHA - A DATE WITH MISS FORTUNE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/yUYYB8fNgJkXt0aWbTdfTtdCGzP.jpg",
+        "a": "2015",
         "link": "https://drive.google.com/file/d/1kRxYI7SNxB25FxtfMX9Tm8SMCeoYmV1M/view?usp=sharing",
         "tags": "LEG",
         "n": 0

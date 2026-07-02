@@ -29088,11 +29088,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM DIA MUITO ESPECIAL (RARO)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM DIA MUITO ESPECIAL",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/nGVxxrCIJfvcyBt6K8Xu7RimNrR.jpg",
+        "a": "1977",
         "link": "https://drive.google.com/file/d/1NOEL-kav9oHAp1Sgbf_sFRL8wWqsh5z0/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "LEG AC",
         "n": 0
     },
     {

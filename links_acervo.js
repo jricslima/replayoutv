@@ -31176,14 +31176,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM CONVITE DE DIVÓRCIO",
-        "c": "https://image.tmdb.org/t/p/w300/1Au4jGHUKvckHAbuZd9bgchFetY.jpg",
-        "a": "2012",
-        "link": "https://drive.google.com/file/d/1t0lHkWSPUlVJIxP44omJiWWUehc7qJvR/edit",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "UM DOCE NATAL",
         "c": "https://image.tmdb.org/t/p/w300/q1DfwbInLa4EpBCfi3Gu8H3N0OQ.jpg",
         "a": "2017",

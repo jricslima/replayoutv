@@ -26904,14 +26904,6 @@ filmes = [
         "n": 1
     },
     {
-        "t": "THE CHRISTMAS CANDLE",
-        "c": "https://image.tmdb.org/t/p/w300/7PpESUrwE2du9tWTjbQia4j9IKs.jpg",
-        "a": "2013",
-        "link": "https://drive.usercontent.google.com/download?id=1aCaorCoeau7X5gzPOdWvB9xjsGEZe5P6&export=download",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "THE CHRISTMAS CHALET",
         "c": "https://image.tmdb.org/t/p/w300/AvY8kZ3gIfzKqjqfE5Qcbj0LAVA.jpg",
         "a": "2019",

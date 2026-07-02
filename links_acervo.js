@@ -29152,9 +29152,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM ENCONTRO COM O DESTINO MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM ENCONTRO COM O DESTINO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rjxzUEUFw1JijkVSDHC5ZxprJKb.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1GSmjyPvFvDK99HfOIzkXkjgh0pUOZIHD/view?usp=sharing",
         "tags": "DUB",
         "n": 0

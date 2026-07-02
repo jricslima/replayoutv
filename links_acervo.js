@@ -27017,8 +27017,8 @@ filmes = [
     },
     {
         "t": "THE GIRL NEXT DOOR",
-        "c": "https://image.tmdb.org/t/p/w300/7RsOmzEkJiSknIPOYe1AV9WTTDD.jpg",
-        "a": "2004",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/6bClIrRS1a27ajgyV6I8M1Ay6si.jpg",
+        "a": "1953",
         "link": "https://drive.google.com/file/d/1JDCAKsTMRneCbnjx8my2sKB4IphY8suI/view?usp=sharing",
         "tags": "LEG",
         "n": 0

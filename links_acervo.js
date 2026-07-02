@@ -31128,14 +31128,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "THE CHRISTMAS HOUSE",
-        "c": "https://image.tmdb.org/t/p/w300/27hK7sxZw3F0oQ8D2m0e2bpVMzj.jpg",
-        "a": "2020",
-        "link": "https://drive.google.com/file/d/1lsl0KZ900hy_eAi7mUXCCTKXk2uMDe9x/view?usp=sharing",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
         "t": "THE DANCING DETECTIVE A DEADLY TANGO",
         "c": "https://www.themoviedb.org/t/p/w300/91RCUBGYRbzfNztAobF0YhYbRvQ.jpg",
         "a": "2023",

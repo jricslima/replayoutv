@@ -29600,9 +29600,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM PRÍNCIPE EM MINHA VIDA 3 MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM PRÍNCIPE EM MINHA VIDA 3",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gyNohJLtiXJ9Li7bm0D7rg6zxMU.jpg",
+        "a": "2008",
         "link": "https://drive.google.com/file/d/1_2Y0xb3xmlcym5xDlnfIn50wG9Md2uly/view?usp=sharing",
         "tags": "DUB",
         "n": 0

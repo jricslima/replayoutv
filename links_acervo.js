@@ -29608,9 +29608,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM PRINCIPE EM MINHA VIDA 4 A AVENTURA DO ELEFANTE MKV",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM PRINCIPE EM MINHA VIDA 4 A AVENTURA DO ELEFANTE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fEKnwl4m8DRn7MkAqWIt6RN2y67.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/1NmwLlvZ-9_3JLBgwJZAR0O6iEqpjbvSJ/view?usp=sharing",
         "tags": "DUB",
         "n": 0

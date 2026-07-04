@@ -29064,11 +29064,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM DIA MUITO ESPECIAL",
+        "t": "UM DIA MUITO ESPECIAL - UNA GIORNATA PARTICOLAR",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/nGVxxrCIJfvcyBt6K8Xu7RimNrR.jpg",
         "a": "1977",
-        "link": "https://drive.google.com/file/d/1NOEL-kav9oHAp1Sgbf_sFRL8wWqsh5z0/view?usp=sharing",
-        "tags": "LEG AC",
+        "link": "https://drive.google.com/file/d/1mbFpv-Q-lEW0dPK6xWjsTdVcQSfLAR3P/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

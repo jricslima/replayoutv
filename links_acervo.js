@@ -26731,7 +26731,7 @@ filmes = [
         "t": "TE AMAREI PARA SEMPRE",
         "c": "https://image.tmdb.org/t/p/w300/i8nNtrji1DRpVIyJL4br2Di4CRi.jpg",
         "a": "2009",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BzIm0CiuS8wxRVdJYzZtMFJZeWM%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774911308053210&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BzIm0CiuS8wxRVdJYzZtMFJZeWM%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_W3Go5qcKgHW0uayZXv6RkgGgYY-FeAqeLyb-8X-eHICfFLU1B9nlokdOSxEr7P6d1ak1hR",
+        "link": "https://drive.google.com/file/d/0BzIm0CiuS8wxRVdJYzZtMFJZeWM/view?pli=1&resourcekey=0-fgEVd3N3_wzqAHnchXR4XQ",
         "tags": "DUB",
         "n": 0
     },

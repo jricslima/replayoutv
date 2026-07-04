@@ -26723,8 +26723,8 @@ filmes = [
         "t": "TAXI DRIVER – MOTORISTA DE TÁXI",
         "c": "https://image.tmdb.org/t/p/w300/hvJvOYRrF9xxvNzg2Jd9PYWu7c3.jpg",
         "a": "1976",
-        "link": "https://drive.google.com/file/d/10SAwhUmGMmgy5kv9DA0_iAUgQqXLlqXr/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/17ZotXxYR4MyRptUqdeqm_iE9OJj9uqhm/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

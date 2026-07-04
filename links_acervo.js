@@ -27785,10 +27785,10 @@ filmes = [
     },
     {
         "t": "TÚMULO DOS VAGALUMES",
-        "c": "https://image.tmdb.org/t/p/w300/dYWdJ1DLPZwL93yraPgfC3dpUJc.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/kHFUyxNJfhMkKk1FwrNHd62KTEs.jpg",
         "a": "2005",
         "link": "https://drive.google.com/file/d/0BxacpsnS08rrN1kyaDZmeXJTX1U/view?usp=sharing",
-        "tags": "DUB",
+        "tags": "LEG",
         "n": 0
     },
     {

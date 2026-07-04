@@ -32182,5 +32182,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1mTt6B7B4xhPH4ki1cF-SM2JvbD-iFAJR/view?usp=sharing",
         "tags": "LEG",
         "n": 1
+    },
+    {
+        "t": "AQUELE NATAL THAT CHRISTMAS",
+        "c": "https://image.tmdb.org/t/p/w300/xGmEaO6EeohksoWB9LNVi96yKfy.jpg",
+        "a": "2024",
+        "link": "https://drive.google.com/file/d/1F7LRATZ2vL54UEQMkZ72z8Xm9HJHBzKO/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 1
     }
 ];

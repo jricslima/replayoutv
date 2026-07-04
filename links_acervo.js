@@ -27793,7 +27793,7 @@ filmes = [
     },
     {
         "t": "TÚMULO DOS VAGALUMES - HOTARU NO HAKA - GRAVE OF THE FIREFLIES",
-        "c": "https://image.tmdb.org/t/p/w300/dYWdJ1DLPZwL93yraPgfC3dpUJc.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/im6u58cPa9HlH5DqSnZGy0O37l5.jpg",
         "a": "2005",
         "link": "https://drive.google.com/file/d/1ryaOb5xynlVCWXrholg-zC6-tuml0a65/view?usp=sharing",
         "tags": "LEG",

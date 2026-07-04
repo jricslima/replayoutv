@@ -29065,7 +29065,7 @@ filmes = [
     },
     {
         "t": "UM DIA MUITO ESPECIAL - UNA GIORNATA PARTICOLAR",
-        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/nGVxxrCIJfvcyBt6K8Xu7RimNrR.jpg",
+        "c": "https://br.web.img2.acsta.net/medias/nmedia/18/93/81/76/20279348.jpg",
         "a": "1977",
         "link": "https://drive.google.com/file/d/1mbFpv-Q-lEW0dPK6xWjsTdVcQSfLAR3P/view?usp=sharing",
         "tags": "LEG",

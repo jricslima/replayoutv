@@ -21152,7 +21152,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O PESADELO DE UMA IRMÃ",
+        "t": "O PESADELO DE UMA IRMÃ - A SISTER'S NIGHTMARE",
         "c": "https://image.tmdb.org/t/p/w300/752PY0BTA4Bs3uzhTAUyB8XJNgA.jpg",
         "a": "2013",
         "link": "https://drive.google.com/file/d/11D5bHKbJwzp_cmsag3tQa2cVcMczJ5t_/view?usp=sharing",
@@ -32208,7 +32208,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O PESADELO DE UMA IRMÃ (",
+        "t": "O PESADELO DE UMA IRMÃ - A SISTER'S NIGHTMARE",
         "c": "https://image.tmdb.org/t/p/w300/752PY0BTA4Bs3uzhTAUyB8XJNgA.jpg",
         "a": "2013",
         "link": "https://drive.google.com/file/d/1OmEwqNphsNyvZjmBj6sWZWoUeV5RwOw0/view?usp=sharing",

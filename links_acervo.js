@@ -26832,14 +26832,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "THE B.R.A.T. PATROL",
-        "c": "https://image.tmdb.org/t/p/w300/dxiEuJlqljFAanyCDybg3pXvSnC.jpg",
-        "a": "1986",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B11Tm9R1mR32OEZncVZlZGZEamc%2Fview%3Fusp%3Dsharing&dsh=S1345337409%3A1774911340020476&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B11Tm9R1mR32OEZncVZlZGZEamc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XUCSk0Jq6tfdLV72aeOpu_hPYm3ZGYZvuj37LO9Kym4WUe2k7kIMyKV3vGsLLLR2q41HXt",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "THE BAKERS SON",
         "c": "https://image.tmdb.org/t/p/w300/jVwHcWouRqZZwejPsyPcDwr9gKd.jpg",
         "a": "2021",
@@ -32212,6 +32204,14 @@ filmes = [
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/51yK0eqOxnJvkJMkpqwBJT2rvG8.jpg",
         "a": "2013",
         "link": "https://drive.google.com/file/d/1GqXZCT28xr71Xdswhb-AUR1EX0fAYHsj/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "A PATRULHA B.R.A.T. THE B.R.A.T. PATROL",
+        "c": "https://image.tmdb.org/t/p/w300/dxiEuJlqljFAanyCDybg3pXvSnC.jpg",
+        "a": "1986",
+        "link": "https://drive.google.com/file/d/1DhSj5rYjNa_HxZhhybccZtmfobbgnWNw/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
     }

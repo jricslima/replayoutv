@@ -26784,14 +26784,6 @@ filmes = [
         "n": 1
     },
     {
-        "t": "TEMPESTADE SOLAR",
-        "c": "https://image.tmdb.org/t/p/w300/xNdVfDYeFP8kZvhvJNC3HhoIJrR.jpg",
-        "a": "2023",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kPyGMOyAFWamVWWWktMWpoM3c%2Fview%3Fusp%3Dsharing&dsh=S909493217%3A1774911322053339&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kPyGMOyAFWamVWWWktMWpoM3c%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UgPkKQzHYQoo3tB3veJrQBN3z01vlQXHPTOMYjSNG3Qlvd_TcKvolQQDst1ueQZelJKaqv",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "TEMPO DE DESPERTAR",
         "c": "https://image.tmdb.org/t/p/w300/x8aqnp6Sg5SWTlv5u7meCpVtKlO.jpg",
         "a": "1990",
@@ -32213,6 +32205,14 @@ filmes = [
         "a": "2013",
         "link": "https://drive.google.com/file/d/1OmEwqNphsNyvZjmBj6sWZWoUeV5RwOw0/view?usp=sharing",
         "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "TEMPESTADE SOLAR EXPLODING SUN",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/51yK0eqOxnJvkJMkpqwBJT2rvG8.jpg",
+        "a": "2013",
+        "link": "https://drive.google.com/file/d/1GqXZCT28xr71Xdswhb-AUR1EX0fAYHsj/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     }
 ];

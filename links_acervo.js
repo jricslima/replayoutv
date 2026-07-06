@@ -27216,14 +27216,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "THE WARRIORS WAY",
-        "c": "https://image.tmdb.org/t/p/w300/gFB9jjKPuGWBUVmIcRHtMQZglin.jpg",
-        "a": "2010",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2RTgM9SEr_0UVlqY256Uld4VHc%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774911477830874&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B2RTgM9SEr_0UVlqY256Uld4VHc%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Uehgs7t8CofqfblhSj_0flB58dvYEK3KYJgKamfXLrPrXVRGrXF7AmZME8l3bKUtssd1s",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "THE WEDDING VEIL EXPECTATIONS",
         "c": "https://image.tmdb.org/t/p/w300/yLXwOSXGnFcTtIL5gKoWpTDfdfE.jpg",
         "a": "2023",

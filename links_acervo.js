@@ -32206,5 +32206,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1DhSj5rYjNa_HxZhhybccZtmfobbgnWNw/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
+    },
+    {
+        "t": "TEKKEN 2 A VINGANÇA DE KAZUYA",
+        "c": "https://image.tmdb.org/t/p/w300/gtPzVWxj41OpFwBHoFu8OYsWJKB.jpg",
+        "a": "2014",
+        "link": "https://drive.google.com/file/d/1d4KVK-MpvtCzxKYps8h31koUxtftmXvG/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

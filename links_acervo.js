@@ -27208,11 +27208,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "THE WAGES OF FEAR",
-        "c": "https://image.tmdb.org/t/p/w300/qBfTyC2K3QxovQvz8OKL7Vy0FVy.jpg",
-        "a": "1977",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3rJrEtevWWBdUNmaENEOVFTM2c%2Fview%3Fusp%3Dsharing&dsh=S-1959460126%3A1774911475328000&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3rJrEtevWWBdUNmaENEOVFTM2c%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WriQUePcbPzz7o1fGsN_4k5U7JBgOWIKO0NzgbRJNrV0NqJ1yMgVjNzPs4EsurTMxkoSB1aQ",
-        "tags": "DUB",
+        "t": "THE WAGES OF FEAR - O SALÁRIO DO MEDO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gcEM5PbzOFDzcClEO9fIiKDGlTe.jpg",
+        "a": "1953",
+        "link": "https://drive.google.com/file/d/10apZByl5D0TE35gnqgFbtu3E_Z1HEyCH/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

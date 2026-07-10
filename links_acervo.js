@@ -26771,8 +26771,8 @@ filmes = [
         "t": "TEKKEN",
         "c": "https://image.tmdb.org/t/p/w300/tlpRr3MQGS1ACVIqL1AArhlZ023.jpg",
         "a": "2010",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kPyGMOyAFWZjhuVHlUbmpwRVE%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774911317932448&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B3kPyGMOyAFWZjhuVHlUbmpwRVE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UU6NM36uOZKPgffuLYq1-ZxD8YasCENpIOFQ60dhDZxIyNJ9gZ0EEgGXY06JO3DcUY1Fz4",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/19owA9b3i6jDBu1D9g0f0OKphveMMHbOM/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

@@ -27416,11 +27416,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TOMATES VERDES FRITOS",
+        "t": "TOMATES VERDES FRITOS  -  FRIED GREEN TOMATOES",
         "c": "https://image.tmdb.org/t/p/w300/9lMAsEo9xA0Iw1DGgy12BOdNlBH.jpg",
         "a": "1991",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1QwrM96ANPBWnNKaGZsVFloRFE%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774911588556993&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1QwrM96ANPBWnNKaGZsVFloRFE%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WSdiFYCHZWw8UTSrZeLl6WtzamqSQeALg8G-ypIyQZtHmam3UIad0-Y9Rp4KRiJhL7q-3zFw",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1rya5pq0IKDGWi5y9DWwf3n3lCmxGgsEv/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

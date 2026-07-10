@@ -15280,7 +15280,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "LAPSO TEMPORAL",
+        "t": "LAPSO TEMPORAL - TIME LAPSE",
         "c": "https://image.tmdb.org/t/p/w300/ntHjfpoOq1gD7PxMxw7pyH2fVXI.jpg",
         "a": "2014",
         "link": "https://drive.google.com/file/d/1DbZl-WAcAq_j5stnXwSGfAefbuA_S1ac/view?usp=sharing",

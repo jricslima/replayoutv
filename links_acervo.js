@@ -27464,11 +27464,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TORA TORA TORA",
+        "t": "TORA! TORA! TORA! - O ATAQUE A PEARL HARBOR",
         "c": "https://image.tmdb.org/t/p/w300/9noF9I4LL8OvpIARtifKEQ6d8lK.jpg",
         "a": "1970",
-        "link": "https://drive.google.com/file/d/1Zlt7mWS-OKHaejhFUOuNuM6HFr6K2sst/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1pe1lJFLYzu2Qy3m4zclq1x8uQUrqNSYq/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -27491,7 +27491,7 @@ filmes = [
         "t": "TOY STORY 4",
         "c": "https://image.tmdb.org/t/p/w300/csiyO6q8rR74pfgJDjwINzhoick.jpg",
         "a": "2019",
-        "link": "https://drive.google.com/file/d/1HHGcERsB9Fu2DFUgD4IXTIvFv9twL6nR/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/17vxF0OSTtQ8hI-ytpU82gfS0LCSVYWq5/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

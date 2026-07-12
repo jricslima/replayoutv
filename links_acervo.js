@@ -27539,8 +27539,8 @@ filmes = [
         "t": "TRÊS AMIGOS!",
         "c": "https://image.tmdb.org/t/p/w300/5BlxocUtfFfpG1QJS7F4FtH6mZ0.jpg",
         "a": "1986",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwES4y1skhyQclJyeE94Vm1vWjg%2Fview%3Fusp%3Dsharing&dsh=S1394476296%3A1774911615950152&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwES4y1skhyQclJyeE94Vm1vWjg%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_V1UWZBHljAC5n_xHKTvV1JfuZ8pLGl78-wW7jgWAyQycItVCvCteTYcTr7K5SlqqOKULe9",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0BwES4y1skhyQclJyeE94Vm1vWjg/view?resourcekey=0-mkcEoShvzuDQOaElrnEs1w",
+        "tags": "DUAL",
         "n": 0
     },
     {

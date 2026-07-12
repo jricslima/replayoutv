@@ -27643,8 +27643,8 @@ filmes = [
         "t": "TRON O LEGADO",
         "c": "https://image.tmdb.org/t/p/w300/kHSIHeYvcP8NTjESmxh9vMAk15E.jpg",
         "a": "2010",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4ITWZncWpSUEMwdEk%2Fview%3Fusp%3Dsharing&dsh=S-653678632%3A1774911637544791&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B5D1SaJxbV4ITWZncWpSUEMwdEk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WRQVFDWdkolcZPE5eJAHL2NK50_cCuB2OZ4jNYmJmC9UjvxKAGeEEIR4e_Wnxr_LeYSDkHjg",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/0B5D1SaJxbV4ITWZncWpSUEMwdEk/view?resourcekey=0-J0-Vb15DUHaSLgGzZWu_lw",
+        "tags": "DUAL",
         "n": 0
     },
     {

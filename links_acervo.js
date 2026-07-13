@@ -27696,11 +27696,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TUDO O QUE ELA DESEJAR",
+        "t": "TUDO O QUE ELA DESEJAR - ALL SHE WISHES",
         "c": "https://image.tmdb.org/t/p/w300/pzojqE6qRyMXcNhx1LOiU3AXhjB.jpg",
         "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7_EsOEFM1FcWUw1NVdZMTE2Qlk%2Fview%3Fusp%3Dsharing&dsh=S1394476296%3A1774911650740662&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7_EsOEFM1FcWUw1NVdZMTE2Qlk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_X-cC_Mtrx4_UKNtjpLZ8vbP0YGIPkKYDKNQuSWJweBRKv7yj08xSafNKwJgAFYwK57R91R_A",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1BWnEPFTbD911i0hyIh54hTf7aIuyHo5H/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

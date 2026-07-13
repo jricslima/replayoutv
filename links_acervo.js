@@ -32206,5 +32206,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1d4KVK-MpvtCzxKYps8h31koUxtftmXvG/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
+    },
+    {
+        "t": "UM CONTO QUASE DE FADAS THE BEAUTICIAN AND THE BEAST",
+        "c": "https://image.tmdb.org/t/p/w300/n24gI7sFac4oWH4ZudQR1uXt46e.jpg",
+        "a": "1997",
+        "link": "https://drive.google.com/file/d/1i2eiihw5yj3hFfP1pGMvyYXst04N_Was/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

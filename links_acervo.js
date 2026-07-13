@@ -3203,7 +3203,7 @@ filmes = [
         "t": "A CULPA É DAS ESTRELAS",
         "c": "https://image.tmdb.org/t/p/w300/bzI1Fmh5FakSB1MEf4OVwgILRvz.jpg",
         "a": "2014",
-        "link": "https://drive.google.com/file/d/1kbvIE_WLMTtf36crzZdo2KIfZb4_DUfi/view",
+        "link": "https://drive.google.com/file/d/1HQP4LLWlAC1VuUTQ9NJ3bMztagddbTS_/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },

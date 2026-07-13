@@ -27344,14 +27344,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TIME LAPSE",
-        "c": "https://image.tmdb.org/t/p/w300/ntHjfpoOq1gD7PxMxw7pyH2fVXI.jpg",
-        "a": "2014",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1QwrM96ANPBTVdfZGozcWp6bDQ%2Fview%3Fusp%3Dsharing&dsh=S1480233536%3A1774911507879641&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B1QwrM96ANPBTVdfZGozcWp6bDQ%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Up-54m4C1QY-nmO7mhJo1ze4xBvN1C3dYzOWnYru0Oik7uigR_TzvvumfuL9iZQ-ni5LP1",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "TINI DEPOIS DE VIOLETTA",
         "c": "https://image.tmdb.org/t/p/w300/bLu1MLkVGxaweqfcu0XOQEhsCLX.jpg",
         "a": "2016",

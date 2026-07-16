@@ -28979,7 +28979,7 @@ filmes = [
         "t": "UM CRIME AMERICANO",
         "c": "https://image.tmdb.org/t/p/w300/vJx8tA2JtEQeEg6wR3uwEgf18hv.jpg",
         "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0PipzbCZE2qM0xabHBxZFVjYk0%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774912113496500&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0PipzbCZE2qM0xabHBxZFVjYk0%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XJvqh3CCqaMR6z19MC1dvWSKtU7UL4fNy2PMSDmk6dmI6rdAAC2IKvu-czlylgh7W2BUJgcw",
+        "link": "https://drive.google.com/file/d/0B0PipzbCZE2qM0xabHBxZFVjYk0/view?usp=sharing&resourcekey=0-7HOaWuovMK4-fM9MhCII-g",
         "tags": "DUB",
         "n": 0
     },

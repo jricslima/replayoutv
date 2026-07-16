@@ -29115,7 +29115,7 @@ filmes = [
         "t": "UM ESPIÃO E MEIO",
         "c": "https://image.tmdb.org/t/p/w300/j24zrqp8RdDKsuvNDqrAkbBjCxC.jpg",
         "a": "2016",
-        "link": "https://drive.google.com/file/d/12GsKFeVflKC85-NQ3oabIMsQklFQrahU/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1WAXp8j-yixwLWWrPaJyYsjpU5FAERkch/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -29459,16 +29459,16 @@ filmes = [
         "t": "UM PEIXE CHAMADO WANDA",
         "c": "https://image.tmdb.org/t/p/w300/qHoIjKdJzlbvUwk4G55AtIem2rG.jpg",
         "a": "1988",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B8YMgYRv3pogR0NuOFZid1BCQ2s%2Fview%3Fusp%3Dsharing&dsh=S-1758961639%3A1774912265781521&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B8YMgYRv3pogR0NuOFZid1BCQ2s%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Wro6-z-WTGoUfgdVumZ_77aftsiS0yqtOUAO0EToFXln2T7FENDhrYSuQH1ZsmeuWqkygBFw",
+        "link": "https://drive.google.com/file/d/0B8YMgYRv3pogR0NuOFZid1BCQ2s/view?usp=sharing&resourcekey=0-a8MxgFimgBrv8E63CE5Y2A",
         "tags": "DUB",
         "n": 0
     },
     {
         "t": "UM PLANO BRILHANTE",
-        "c": "https://image.tmdb.org/t/p/w300/eDMGDQ8MHoOPn5V159Fx1RTKRdQ.jpg",
-        "a": "2007",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7_EsOEFM1FcNUFPN0Z4d1g0dm8%2Fview%3Fusp%3Dsharing&dsh=S-2062413408%3A1774912268173126&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B7_EsOEFM1FcNUFPN0Z4d1g0dm8%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VS1xVqw1LfLKyRE971wkocW_0Wthknt2usmOpCL0-R8g-YPdo14p_z4wORYgoiflQRhTmDFQ",
-        "tags": "DUB",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/csVJ87XEfJMjq1XJKyyBEXAAGN8.jpg",
+        "a": "2013",
+        "link": "https://drive.google.com/file/d/0B7_EsOEFM1FcNUFPN0Z4d1g0dm8/view?usp=sharing&resourcekey=0-xDSY3UauRYqhHpRqD22NpQ",
+        "tags": "DUAL",
         "n": 0
     },
     {

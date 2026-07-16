@@ -29771,7 +29771,7 @@ filmes = [
         "t": "UMA DOCE PREFEITA",
         "c": "https://image.tmdb.org/t/p/w300/mzhEhmEeQJG3LhEBjOdeY7umgG3.jpg",
         "a": "2011",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7AMHBmVFJmVU9ZZEk%2Fview%3Fusp%3Dsharing&dsh=S-1221112150%3A1774912389483365&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B6pviZYCYe7AMHBmVFJmVU9ZZEk%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UddTIFsqHLtqSL4FnazMT3uylcItuG94DESB1HVEOKZHB1_bSlDwn4MVKQtyCdEVkyBPHx7g",
+        "link": "https://drive.google.com/file/d/0B6pviZYCYe7AMHBmVFJmVU9ZZEk/view?usp=sharing&resourcekey=0-ZvG7b-LAySQOPQbkS0MXvA",
         "tags": "DUB",
         "n": 0
     },
@@ -30003,7 +30003,7 @@ filmes = [
         "t": "UMA SECRETÁRIA DE FUTURO",
         "c": "https://image.tmdb.org/t/p/w300/yW4Kk9ilrIdKCmHVRHr2ohSB4LV.jpg",
         "a": "1988",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B-uI7Jr2Jry6Q3NaTXktRlZYa2s%2Fview%3Fusp%3Dsharing&dsh=S573530077%3A1774912435086358&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B-uI7Jr2Jry6Q3NaTXktRlZYa2s%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XQoD8yQQLXBDAyXhNyQAdqIJ6lvBDgqs-DyHxBDR2J6lLOr4wdK0jQj8sJ7zz5lheopyNlWA",
+        "link": "https://drive.google.com/file/d/0B-uI7Jr2Jry6Q3NaTXktRlZYa2s/view?usp=sharing&resourcekey=0-1njjrIDnuZDAHq18BcfvJg",
         "tags": "DUB",
         "n": 0
     },
@@ -30052,14 +30052,6 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/dfrMP4fB1YOBLTDwWx1QmmWTKmf.jpg",
         "a": "1994",
         "link": "https://drive.google.com/file/d/1eH0rp9KU3UVlef2lrQ_5X-XL8e-VuwKL/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "UNDER SANDET (LAND OF MINE / TERRA DE MINAS)",
-        "c": "https://image.tmdb.org/t/p/w300/tq6Ld5zmHZu8cA0STPx4fjLHQ6N.jpg",
-        "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B2KnD1IswuyRcF8yTU16aXBiSVk&dsh=S-284366117%3A1774912446389429&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B2KnD1IswuyRcF8yTU16aXBiSVk&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_Ul2y_SCN9lsQXM-Y9psZPN9i55Bvhxa3tI963OnmnSFQkCuVYx3BV-IGvPcRKgwD_7IypltA",
         "tags": "DUB",
         "n": 0
     },
@@ -32220,6 +32212,14 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/lgVHQE0fUHTd8Tgo2uIDQ2Lk0S3.jpg",
         "a": "1946",
         "link": "https://drive.google.com/file/d/1k2dmk8qXN4MCH-bKj6jrSPop-bUk714a/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "TERRA DE MINAS LAND OF MINE UNDER SANDET",
+        "c": "https://image.tmdb.org/t/p/w300/tq6Ld5zmHZu8cA0STPx4fjLHQ6N.jpg",
+        "a": "2015",
+        "link": "https://drive.google.com/file/d/1psdoUGZhngKcUnP3j1ZhWK_hczAmPAbT/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
     }

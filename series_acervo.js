@@ -239,5 +239,6 @@ var series = [
     { "t": "EXPEDIÇÃO RIO DOC TV", "c": "https://i.pinimg.com/originals/89/fc/0b/89fc0b4ccf54fb05e869d392b9c57ecd.jpg", "link": "https://replayoutv.comunidades.net/expedicao-rio-16" },
     { "t": "GUERRA E PAZ 2007", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/8QTiqjGxq6SGXV8BDUofcSo7Owh.jpg", "link": "https://drive.google.com/drive/folders/1Duc_NKttWtM_IxwJYfNdfqDSQIGHtnrZ" },
     { "t": "O DIÁRIO DE CARRIE 2013", "c": "https://image.tmdb.org/t/p/w600_and_h900_face/zsGa6WCmR7ASCWqszVGGz9Wzzrm.jpg", "link": "https://replayoutv.comunidades.net/o-diario-de-carrie" },
-    { "t": "MISTÉRIO NA VENDA DE GARAGEM - GARAGE SALE MYSTERY", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/39ooyE0SvBmw0LdWlpK5gbBo6sf.jpg", "link": "https://replayoutv.comunidades.net/misterio-na-venda-de-garagem-garage-sale-mystery" }
+    { "t": "MISTÉRIO NA VENDA DE GARAGEM - GARAGE SALE MYSTERY", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/39ooyE0SvBmw0LdWlpK5gbBo6sf.jpg", "link": "https://replayoutv.comunidades.net/misterio-na-venda-de-garagem-garage-sale-mystery" },
+    { "t": "Spectreman 1971", "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/pcKC8lTipF81PXwBwcBXLGs2lGc.jpg", "link": "https://drive.google.com/drive/folders/0B6o0Wt18YqzNblFIQ1MyVGh2NzA?resourcekey=0-UEguC0z0hFgroJ4YxeM2ww&usp=sharing" }
 ];

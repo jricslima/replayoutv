@@ -29611,7 +29611,7 @@ filmes = [
         "t": "UM SENHOR ESTAGIÁRIO",
         "c": "https://image.tmdb.org/t/p/w300/jjI2z9PvWm69DHzhyYIrsmD6Gj6.jpg",
         "a": "2015",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B983o6iRCChqVlFRTFdXMndmVXc&dsh=S573530077%3A1774912296550926&followup=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B983o6iRCChqVlFRTFdXMndmVXc&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VNOBiAIv3MpcqU9l8iceqNu9-MgU4__ZztXuAkLnjRIr8OCxiSijQxFbFAnucZopOXjEYDyA",
+        "link": "https://drive.google.com/file/d/0B983o6iRCChqVlFRTFdXMndmVXc/view?usp=sharing&resourcekey=0-Pe-giV3rA_aflrDBfQ983w",
         "tags": "DUB",
         "n": 0
     },
@@ -29627,7 +29627,7 @@ filmes = [
         "t": "UM SHOW DE VERÃO",
         "c": "https://image.tmdb.org/t/p/w300/7KTTx8ooFqozHYDk25ZTo63krih.jpg",
         "a": "2004",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0I7DU1D-U-dVk9KdWZYdDdnQjA%2Fview%3Fusp%3Dsharing&dsh=S488483084%3A1774912300770902&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B0I7DU1D-U-dVk9KdWZYdDdnQjA%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_VhmyZG0r9TfjD7uJ1-FJ3ghUQUJ24Zhxl5pyB5guN8bjAXni5mxPM742CmPQN2TrUVnzhINg",
+        "link": "https://drive.google.com/file/d/1VBh2qGqPMT-fswaExd5c1vleD1mPfPpb/view?usp=sharing",
         "tags": "DUB",
         "n": 0
     },
@@ -29731,7 +29731,7 @@ filmes = [
         "t": "UMA CHANCE PARA VIVER",
         "c": "https://image.tmdb.org/t/p/w300/iEjyrdqkeNJbUz0BPAc6J9cMkW1.jpg",
         "a": "2008",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bz2QRX--_UJ8MTdDSTZIbmZBV1E%2Fview%3Fusp%3Dsharing&dsh=S2083215377%3A1774912379434605&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0Bz2QRX--_UJ8MTdDSTZIbmZBV1E%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_UBEk8iizVlcZllhzZfHaJSLxvAn3YH43rVyJzSFsY9okN3cdgepNBEoD4126DdrWQq7tc-bw",
+        "link": "https://drive.google.com/file/d/0Bz2QRX--_UJ8MTdDSTZIbmZBV1E/view?usp=sharing&resourcekey=0-mhkIrBwd6XvrE_Zr2_Rs-g",
         "tags": "DUB",
         "n": 0
     },

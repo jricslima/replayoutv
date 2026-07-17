@@ -30289,10 +30289,10 @@ filmes = [
     },
     {
         "t": "VERÃO - A SUMMER ROMANCE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/dLToNkE52Fjig78MWisKmUOniG1.jpg",
         "a": "2019",
         "link": "https://drive.google.com/file/d/174UtLktec_VaL1ienixpwI7gbcy9rbl_/view?usp=sharing",
-        "tags": "HTTPS://WWW.THEMOVIEDB.ORG/T/P/W600_AND_H900_FACE/DLTONKE52FJIG78MWISKMUONIG1.JPG",
+        "tags": "LEG",
         "n": 0
     },
     {

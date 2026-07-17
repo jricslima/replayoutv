@@ -30480,9 +30480,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "VIVENDO NA ETERNIDADE DUBLADO",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "VIVENDO NA ETERNIDADE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ahvmDquJV5IP5QaTvlgV3zhDNAx.jpg",
+        "a": "2002",
         "link": "https://drive.google.com/file/d/1acTDpm7-nvi6qAecZJn-vQbQxaNuC8dz/view?usp=sharing",
         "tags": "DUB",
         "n": 0

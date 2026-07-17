@@ -30371,8 +30371,8 @@ filmes = [
         "t": "VICE",
         "c": "https://image.tmdb.org/t/p/w300/SrIZVxn0wbGyuOItWAGYzsRE5X.jpg",
         "a": "2018",
-        "link": "https://drive.google.com/file/d/1i22l56bW9WW0SZQyZFquh7zzPl7u7JPy/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1yjYqxeR98KXzneBKWumIsMhvPZW12khb/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

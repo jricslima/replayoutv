@@ -30257,8 +30257,8 @@ filmes = [
     },
     {
         "t": "VELOCIDADE MORTAL",
-        "c": "https://image.tmdb.org/t/p/w300/r793ZSCfzEyuqhPcPQM6cfKz4sZ.jpg",
-        "a": "2018",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vV161GctGZU18GuTos0SSVhr7gF.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/1pC40Ph3BwsAwoDUvoh7eyYspTh09leI2/view?usp=drive_open",
         "tags": "DUB",
         "n": 0

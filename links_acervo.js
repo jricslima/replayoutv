@@ -30288,11 +30288,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "VERÃO A SUMMER ROMANCE LEGENDADO MP4",
+        "t": "VERÃO - A SUMMER ROMANCE",
         "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "a": "2019",
         "link": "https://drive.google.com/file/d/174UtLktec_VaL1ienixpwI7gbcy9rbl_/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "HTTPS://WWW.THEMOVIEDB.ORG/T/P/W600_AND_H900_FACE/DLTONKE52FJIG78MWISKMUONIG1.JPG",
         "n": 0
     },
     {

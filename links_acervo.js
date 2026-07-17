@@ -30528,14 +30528,6 @@ filmes = [
         "n": 1
     },
     {
-        "t": "VOLTA AO MUNDO EM 80 DIAS UMA APOSTA MUITO LOUCA",
-        "c": "https://image.tmdb.org/t/p/w300/xcy62czpO413jOCrBnwa5AF1Wrd.jpg",
-        "a": "2004",
-        "link": "https://drive.google.com/file/d/1FgyDy9GgrL5yRbIhICA-zJMlBYJ-DgdJ/edit",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "VOLTANDO PARA CASA",
         "c": "https://image.tmdb.org/t/p/w300/xaKydnMw6wR1MBAjS5seGPVusbs.jpg",
         "a": "2021",

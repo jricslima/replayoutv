@@ -30240,11 +30240,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "VEICULO 19",
+        "t": "VEÍCULO 19 - VEHICLE 19",
         "c": "https://image.tmdb.org/t/p/w300/9fXYQVA2xMfSIC3usc4wMKvoSVb.jpg",
         "a": "2013",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B8lvKRzRLSEaRXB5ZUJkQ2hndEU%2Fview%3Fusp%3Dsharing&dsh=S354902304%3A1774912561372694&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B8lvKRzRLSEaRXB5ZUJkQ2hndEU%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_X3O8kEOI0GpEbD2G_2P2ghvwIZNOXXLaxpjjq_n1Lnqb9B6hKoiorlNK5sN6ndbYLv-Ehe7w",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1PY7g3uiKZmfAkzhnv__5V8Je4omPKmQ4/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

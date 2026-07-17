@@ -30480,11 +30480,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "VIVENDO NA ETERNIDADE",
+        "t": "VIVENDO NA ETERNIDADE  - TUCK EVERLASTING",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ahvmDquJV5IP5QaTvlgV3zhDNAx.jpg",
         "a": "2002",
-        "link": "https://drive.google.com/file/d/1acTDpm7-nvi6qAecZJn-vQbQxaNuC8dz/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1tczjv4VM5Jw-dWRreDC9UmH5nh5izSAa/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

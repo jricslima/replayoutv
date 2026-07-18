@@ -30432,7 +30432,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "VISITOR Q.",
+        "t": "VISITOR Q",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hkf41ujfmMwHdExD7q4j9DxgBDM.jpg",
         "a": "2001",
         "link": "https://drive.google.com/file/d/1wPqtq6GvKRRDJ8lfHp8wI4oeb598JzST/view?usp=sharing",

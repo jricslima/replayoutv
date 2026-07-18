@@ -30441,7 +30441,7 @@ filmes = [
     },
     {
         "t": "VÍTIMAS DE UMA PAIXÃO",
-        "c": "https://image.tmdb.org/t/p/w300/oBCsko3K8ZhoXsNbBIIUNaQfF2R.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/96XUsInHaDaHeVqSzYUnM7p7i0p.jpg",
         "a": "1989",
         "link": "https://drive.google.com/file/d/1PsjvLpUXKahnXNPZuFMlyH1FIrvYEw3X/view?usp=sharing",
         "tags": "DUAL",

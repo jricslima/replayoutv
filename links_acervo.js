@@ -30443,8 +30443,8 @@ filmes = [
         "t": "VÍTIMAS DE UMA PAIXÃO",
         "c": "https://image.tmdb.org/t/p/w300/oBCsko3K8ZhoXsNbBIIUNaQfF2R.jpg",
         "a": "1989",
-        "link": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwES4y1skhyQWmhjS29vd2tzWG8%2Fview%3Fusp%3Dsharing&dsh=S538656109%3A1774912611991900&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0BwES4y1skhyQWmhjS29vd2tzWG8%2Fview%3Fusp%3Dsharing&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_X3O4sRx7dh4-tE0rPpu4JKqjTKzx6OifxsXr6cFIE0O3rLy3QtpFaK46aD5R4dqHaedxXA",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1PsjvLpUXKahnXNPZuFMlyH1FIrvYEw3X/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

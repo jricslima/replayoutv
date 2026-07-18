@@ -30392,11 +30392,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "VIDA",
-        "c": "https://image.tmdb.org/t/p/w300/njatIGrIlZCxB88UUBC2xgmfCNE.jpg",
-        "a": "2025",
-        "link": "https://drive.google.com/file/d/10j1hHgZLfVApc3Cy_45LxWJ7a1HZDzb6/view?usp=sharing",
-        "tags": "DUB",
+        "t": "VIDA - LIFE",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ssKLkgDvNF7drcoiKyXgpJjc5Sh.jpg",
+        "a": "2017",
+        "link": "https://drive.google.com/file/d/1y4FQwp_Yb7kknarpo9JtXWEefuzBngMp/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

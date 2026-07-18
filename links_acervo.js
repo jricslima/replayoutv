@@ -32246,5 +32246,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1Zisa_dD_n0rsRFfzByWkZu6SdmBn4uqs/view?usp=sharing",
         "tags": "DUAL",
         "n": 1
+    },
+    {
+        "t": "AMOR E LOUCURA MALICIOUS",
+        "c": "https://image.tmdb.org/t/p/w300/eGvIuVn858L3UnawNyHDRLFGx57.jpg",
+        "a": "1995",
+        "link": "https://drive.google.com/file/d/1RRyzsGQNp72pLUOR4HVFcSo-DrGL6TO1/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
     }
 ];

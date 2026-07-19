@@ -32257,8 +32257,8 @@ filmes = [
     },
     {
         "t": "AMOR LOUCO MAD LOVE",
-        "c": "https://image.tmdb.org/t/p/w300/d6kR5tgoHkhEdQsNxGlVkGtBHfg.jpg",
-        "a": "1969",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/la5DFbmwFOPVYzBGdMY93xzVyk9.jpg",
+        "a": "1995",
         "link": "https://drive.google.com/file/d/1_iga3LSstAlpsWKXOXgzTirEbUxn1J-Y/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

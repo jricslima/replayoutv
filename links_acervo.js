@@ -32254,5 +32254,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1RRyzsGQNp72pLUOR4HVFcSo-DrGL6TO1/view?usp=sharing",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "AMOR LOUCO MAD LOVE",
+        "c": "https://image.tmdb.org/t/p/w300/d6kR5tgoHkhEdQsNxGlVkGtBHfg.jpg",
+        "a": "1969",
+        "link": "https://drive.google.com/file/d/1_iga3LSstAlpsWKXOXgzTirEbUxn1J-Y/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

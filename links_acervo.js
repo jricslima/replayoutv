@@ -32262,5 +32262,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1_iga3LSstAlpsWKXOXgzTirEbUxn1J-Y/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
+    },
+    {
+        "t": "VERÃO A SUMMER ROMANCE",
+        "c": "https://image.tmdb.org/t/p/w300/dLToNkE52Fjig78MWisKmUOniG1.jpg",
+        "a": "2019",
+        "link": "https://drive.google.com/file/d/1Tti9GqgbN5LsAnrouNOGq4672wCiiFSg/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

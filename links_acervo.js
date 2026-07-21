@@ -32270,5 +32270,29 @@ filmes = [
         "link": "https://drive.google.com/file/d/1Tti9GqgbN5LsAnrouNOGq4672wCiiFSg/view?usp=sharing",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "COMO SUPERAR UM FORA HOW TO GET OVER A BREAKUP",
+        "c": "https://image.tmdb.org/t/p/w300/bSRUIpFlGqQr5bBIvggkoYMK6gW.jpg",
+        "a": "2018",
+        "link": "https://drive.google.com/file/d/1gxEKs4ea15TXvafJUiQXgxb6X9WhBbKe/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "COMO SUPERAR UM CORAÇÃO EM PEDAÇOS SOLTERA CODICIADA 2 HOW TO DEAL WITH A HEARTBREAK",
+        "c": "https://image.tmdb.org/t/p/w300/19CG7aTgNRF8DvM3Cla4Zn2qWzh.jpg",
+        "a": "2023",
+        "link": "https://drive.google.com/file/d/1oHrDaexmq50dAviZLApivlvT4FbjlNc7/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "OS INFRATORES LAWLESS",
+        "c": "https://image.tmdb.org/t/p/w300/xWSPROw6QXxNeP4pwyMGOiv4lq5.jpg",
+        "a": "2012",
+        "link": "https://drive.google.com/file/d/1PRgOdakRnwx-mpAN1-zzE22qe3f5lK_S/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

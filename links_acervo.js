@@ -30625,8 +30625,8 @@ filmes = [
     },
     {
         "t": "WELL SUITED FOR CHRISTMAS BEM ADEQUADO PARA O NATAL",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/a4Ypov6fiG7WYAGS1vrsF4Ex0fk.jpg",
+        "a": "2022",
         "link": "https://drive.google.com/file/d/1Vm7P16tw31jmwI7JgV905nbphazZZBrG/view?usp=sharing",
         "tags": "LEG",
         "n": 1

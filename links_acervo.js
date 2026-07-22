@@ -30545,8 +30545,8 @@ filmes = [
     },
     {
         "t": "WHEN LOVE BLOOMS NIGERIAN MOVIES",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0qkPLAectOaTqCo1DDmr4xA3fu6qOZple6deCRdSyH3EUQScFz8DTpbs&s=10",
+        "a": "2025",
         "link": "https://drive.google.com/file/d/1vwfQlMl1vml3ghKshxIjlaDKjYa6xsgS/view?usp=sharing",
         "tags": "LEG",
         "n": 0

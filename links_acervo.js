@@ -21457,7 +21457,7 @@ filmes = [
     },
     {
         "t": "O SEGREDO DAS ÁGUAS",
-        "c": "https://image.tmdb.org/t/p/w300/2mB4iPYJTwpHq3xJ2nz52wxBp5r.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/q21FRJlJdKkCjDu4TPNVZxHsDcY.jpg",
         "a": "2015",
         "link": "https://drive.google.com/file/d/0B1b41N9wDOlQRnFwczVLVmdlU2M/view?resourcekey=0-_U8y4ZiCrUOHAxNA05yIWA",
         "tags": "DUB",
@@ -30603,8 +30603,8 @@ filmes = [
         "t": "WATERWORLD O SEGREDO DAS ÁGUAS",
         "c": "https://image.tmdb.org/t/p/w300/2mB4iPYJTwpHq3xJ2nz52wxBp5r.jpg",
         "a": "1995",
-        "link": "https://drive.google.com/file/d/0B1b41N9wDOlQRnFwczVLVmdlU2M/view?usp=sharing&resourcekey=0-_U8y4ZiCrUOHAxNA05yIWA",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1DW-tSm7B0Uliudq9o-0Rr53RWoygKOqc/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

@@ -32294,5 +32294,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1PRgOdakRnwx-mpAN1-zzE22qe3f5lK_S/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
+    },
+    {
+        "t": "CITIZEN VIGILANTE THE DARK KNIGHT",
+        "c": "https://image.tmdb.org/t/p/w300/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+        "a": "2026",
+        "link": "https://drive.google.com/file/d/1gs0mjkshtp3ANQ00bdY1NiR7CeXVPo29/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
     }
 ];

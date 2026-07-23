@@ -30648,14 +30648,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "WETLANDS",
-        "c": "https://image.tmdb.org/t/p/w300/nfD3BO5H4aXA6bntdTvIpNEVHQD.jpg",
-        "a": "2017",
-        "link": "https://drive.google.com/file/d/1aKRssSVEQPMXr-PjjE5Fa-5yfWcczCN_/view?usp=sharing",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "WHAT LOVE LOOKS LIKE",
         "c": "https://image.tmdb.org/t/p/w300/rFI6Pk7InG1TSb9SSIf9svBXDnD.jpg",
         "a": "2020",

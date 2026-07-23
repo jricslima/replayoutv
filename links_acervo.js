@@ -32321,7 +32321,7 @@ filmes = [
     },
     {
         "t": "FLAWLESS UM PLANO BRILHANTE",
-        "c": "https://image.tmdb.org/t/p/w300/eDMGDQ8MHoOPn5V159Fx1RTKRdQ.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cyUMXucvUfQQS2UznaZxrAgFgVV.jpg",
         "a": "2007",
         "link": "https://drive.google.com/file/d/1NCrdEQY0oxDWlryB9b5Tjj5La75q12Gd/view?usp=sharing",
         "tags": "LEG",

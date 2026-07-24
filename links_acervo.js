@@ -30784,9 +30784,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ZONBI ASU ZOMBIE ASS TOILET OF THE DEAD FRE E JPN",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "ZONBI ASU ZOMBIE ASS TOILET OF THE DEAD",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/t6nvsTgUhPumC0ge3uT80Gqgkqg.jpg",
+        "a": "2011",
         "link": "https://drive.google.com/file/d/1zzrNsGqAL-UVzAuJq1KEYMIDgMjag9_i/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

@@ -32369,7 +32369,7 @@ filmes = [
     },
     {
         "t": "HULK",
-        "c": "https://image.tmdb.org/t/p/w300/dLEezc8nU4O2i96x68AvpA7xyel.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/q5DpZHIhNJ93Wa4PqM9DwruGcgi.jpg",
         "a": "2003",
         "link": "https://drive.google.com/file/d/1SJruOmjZhaTUt7-9vvm1BT5SWxUeXBqg/view?usp=sharing",
         "tags": "DUAL",

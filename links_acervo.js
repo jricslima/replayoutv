@@ -32377,8 +32377,8 @@ filmes = [
     },
     {
         "t": "O INCRÍVEL HULK THE INCREDIBLE HULK",
-        "c": "https://image.tmdb.org/t/p/w300/mbocOnz3gARCLIg72nsb0gxGVLU.jpg",
-        "a": "1977",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rc0toGREoYn7qzfx5jppfuRE0fI.jpg",
+        "a": "2008",
         "link": "https://drive.google.com/file/d/1QDTqOWw2BjsG0Bu5i8JuKZhzgbnCffs0/view?usp=sharing",
         "tags": "DUAL",
         "n": 0

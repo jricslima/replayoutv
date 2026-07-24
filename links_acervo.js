@@ -32334,5 +32334,53 @@ filmes = [
         "link": "https://drive.google.com/file/d/19fEtwJI-GgGvDBGZJHtgQt5MaAOK3dyu/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
+    },
+    {
+        "t": "O INCRÍVEL HULK MORTE EM FAMÍLIA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/A2s7VetyYTDMs1IpuePw9Y0E94W.jpg",
+        "a": "1977",
+        "link": "https://drive.google.com/file/d/1akuWHEa2jJIXDb1V3W82Y4Z0yujmHNaO/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "A VOLTA DO INCRÍVEL HULK",
+        "c": "https://image.tmdb.org/t/p/w300/4unPQN3D2Xi794R7aUnSlxWzyD8.jpg",
+        "a": "1988",
+        "link": "https://drive.google.com/file/d/14YNDomkUvqd8Rmdbess4kDq0WhrDY7SZ/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "O JULGAMENTO DO INCRÍVEL HULK THE TRIAL OF THE INCREDIBLE HULK",
+        "c": "https://image.tmdb.org/t/p/w300/iZA0NPGHYXi9hLUtYIJvccsguEs.jpg",
+        "a": "1989",
+        "link": "https://drive.google.com/file/d/1HG3pJDdE0PC0ATGe751LuD23tYLx3ZF8/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "A MORTE DO INCRÍVEL HULK",
+        "c": "https://image.tmdb.org/t/p/w300/sJ1OQMuVbmpqqFHTRbFENdkbj1n.jpg",
+        "a": "1990",
+        "link": "https://drive.google.com/file/d/187BwbRJHLU9r6tZ49it0mp1fi7piCSyp/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "HULK",
+        "c": "https://image.tmdb.org/t/p/w300/dLEezc8nU4O2i96x68AvpA7xyel.jpg",
+        "a": "2003",
+        "link": "https://drive.google.com/file/d/1SJruOmjZhaTUt7-9vvm1BT5SWxUeXBqg/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "O INCRÍVEL HULK THE INCREDIBLE HULK",
+        "c": "https://image.tmdb.org/t/p/w300/mbocOnz3gARCLIg72nsb0gxGVLU.jpg",
+        "a": "1977",
+        "link": "https://drive.google.com/file/d/1QDTqOWw2BjsG0Bu5i8JuKZhzgbnCffs0/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

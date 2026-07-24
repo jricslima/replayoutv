@@ -32361,7 +32361,7 @@ filmes = [
     },
     {
         "t": "A MORTE DO INCRÍVEL HULK",
-        "c": "https://image.tmdb.org/t/p/w300/sJ1OQMuVbmpqqFHTRbFENdkbj1n.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cdb1uNsmEgTzpsLSVrwnvuhawe.jpg",
         "a": "1990",
         "link": "https://drive.google.com/file/d/187BwbRJHLU9r6tZ49it0mp1fi7piCSyp/view?usp=sharing",
         "tags": "DUB",

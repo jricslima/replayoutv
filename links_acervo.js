@@ -32417,8 +32417,8 @@ filmes = [
     },
     {
         "t": "A MINHA CASA CAIU DE MAL A PIOR",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/eJDovFrYb10yoh0jvAsmjdqm8hn.jpg",
+        "a": "2014",
         "link": "https://u.pcloud.link/publink/show?code=XZwbMc5ZLrx3rb2jE74qJsIAx5Anvffezx97",
         "tags": "DUAL",
         "n": 0
@@ -32481,16 +32481,16 @@ filmes = [
     },
     {
         "t": "HER MINOR THING CHRISTIAN KANE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/tB11rbsJ3Ka4huSygtYV0IQ7tUM.jpg",
+        "a": "2005",
         "link": "https://u.pcloud.link/publink/show?code=XZtSMc5ZPilHgUuanELWPCyXcXj9dSoLANA7",
         "tags": "LEG",
         "n": 0
     },
     {
         "t": "JOVENS E APAIXONADOS BOYS",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xpQeDFCxaab0nMDkG0lFby2qQO2.jpg",
+        "a": "1996",
         "link": "https://u.pcloud.link/publink/show?code=XZkjMc5ZcJALnNkPlPSl7Bd2djvtPVal24Nk",
         "tags": "LEG",
         "n": 0
@@ -32576,9 +32576,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "UM CLAMOR NA CHINA(CHINA CRY O GRITO DE NORA LAM)",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "t": "UM CLAMOR NA CHINA (CHINA CRY - O GRITO DE NORA LAM)",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/82gSqRbI4TRw6fvKHHrnXAw6nFA.jpg",
+        "a": "1990",
         "link": "https://u.pcloud.link/publink/show?code=XZCsMc5Z8dVufBkXknyfTsEEe1oaYXLiE89X",
         "tags": "DUB",
         "n": 0

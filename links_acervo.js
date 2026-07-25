@@ -32390,5 +32390,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1e7k7fmpwJk_JQujdZRPqRs_sUTaM14FS/view?usp=sharing",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "O DIA DO TERROR",
+        "c": "https://image.tmdb.org/t/p/w300/rIkq7p64L7lYazR0ukTcIqG54pn.jpg",
+        "a": "2001",
+        "link": "https://u.pcloud.link/publink/show?code=XZLYMc5ZThGmqsQ9lkYSfSHXxKvfdpYCHzCV",
+        "tags": "DUB",
+        "n": 0
     }
 ];

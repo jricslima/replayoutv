@@ -32398,5 +32398,205 @@ filmes = [
         "link": "https://u.pcloud.link/publink/show?code=XZLYMc5ZThGmqsQ9lkYSfSHXxKvfdpYCHzCV",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "A CHANGE IN HEART",
+        "c": "https://image.tmdb.org/t/p/w300/bTbWEBMAXceEJ5z1yR8sZFavtda.jpg",
+        "a": "2025",
+        "link": "https://u.pcloud.link/publink/show?code=XZ2mMc5ZtfYUjmMX4B4qp9vL99vEKb2fzyIX",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "A CRUZ E O PUNHAL",
+        "c": "https://image.tmdb.org/t/p/w300/lYMz0xZQ7ZoPl7kJm7HEmwRP0hh.jpg",
+        "a": "1970",
+        "link": "https://u.pcloud.link/publink/show?code=XZUmMc5Z3At55xOtcnRbseIaX4aUQfSiEcLk",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "A MINHA CASA CAIU DE MAL A PIOR",
+        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "a": "----",
+        "link": "https://u.pcloud.link/publink/show?code=XZwbMc5ZLrx3rb2jE74qJsIAx5Anvffezx97",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "ALERTA MÁXIMO",
+        "c": "https://image.tmdb.org/t/p/w300/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg",
+        "a": "2023",
+        "link": "https://u.pcloud.link/publink/show?code=XZimMc5ZPMOKbRwrASy49XzMoTFWL7cNesBV",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "ASSUSTADIÇA HIGH NOON",
+        "c": "https://image.tmdb.org/t/p/w300/asAuYaSmJnPXgERnsucgrsgM9MM.jpg",
+        "a": "2009",
+        "link": "https://u.pcloud.link/publink/show?code=XZcbMc5ZV1gxhtCCNXQV3ID8dbtQEXzI8qok",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "CINDERELA ÀS AVESSAS",
+        "c": "https://image.tmdb.org/t/p/w300/kKMsodrmS75BQjDysr58ZDxss68.jpg",
+        "a": "1987",
+        "link": "https://u.pcloud.link/publink/show?code=XZVhMc5ZhmcfRNcG65boFu9JPlcj4zXo497V",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "CORAÇÕES ROUBADOS",
+        "c": "https://image.tmdb.org/t/p/w300/56QAtyIhlCgNGZEFlJAKGwj0alM.jpg",
+        "a": "1996",
+        "link": "https://u.pcloud.link/publink/show?code=XZ8hMc5Z0vgoHnIHFp0vrn2n69MFBV5DaSEk",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "CORAGEM PARA AMAR",
+        "c": "https://image.tmdb.org/t/p/w300/p8zmvvIoxVyu6tKpVb0v3gZ9m5Q.jpg",
+        "a": "2017",
+        "link": "https://u.pcloud.link/publink/show?code=XZjhMc5ZaUgKW6x93JBBwuOt9OYClLV3kK4y",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "CORINA",
+        "c": "https://image.tmdb.org/t/p/w300/nZviAfnhXylrYpjPznmhHCBeKWx.jpg",
+        "a": "2025",
+        "link": "https://u.pcloud.link/publink/show?code=XZXSMc5Zu7MxnwAs5NkIWvw8RqzLh0KE1FcX",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "DE VOLTA AOS 18",
+        "c": "https://image.tmdb.org/t/p/w300/abLDZkQPNh4h2ISAg3V5C0GCMF8.jpg",
+        "a": "1988",
+        "link": "https://u.pcloud.link/publink/show?code=XZzSMc5Zi3Vx6FgaziSPdkIGp2pH3bUrTUqV",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "HER MINOR THING CHRISTIAN KANE",
+        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "a": "----",
+        "link": "https://u.pcloud.link/publink/show?code=XZtSMc5ZPilHgUuanELWPCyXcXj9dSoLANA7",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "JOVENS E APAIXONADOS BOYS",
+        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "a": "----",
+        "link": "https://u.pcloud.link/publink/show?code=XZkjMc5ZcJALnNkPlPSl7Bd2djvtPVal24Nk",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "JUST BEFORE I GO",
+        "c": "https://image.tmdb.org/t/p/w300/rEwXZIOh3CLVA5JJmxT5kaYY6ff.jpg",
+        "a": "2015",
+        "link": "https://u.pcloud.link/publink/show?code=XZYjMc5Zez4zwOxrWU5nh4hlVgvrnS3X87dX",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "MODEL BEHAVIOR",
+        "c": "https://image.tmdb.org/t/p/w300/shCXg98qT4jtDwod0T8YCv1g0Zt.jpg",
+        "a": "2000",
+        "link": "https://u.pcloud.link/publink/show?code=XZPjMc5ZT9WyvMnaDQ0ahUEMGpAnRVnRUNaV",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "MY EX AND WHYS TRABALHANDO COM O EX",
+        "c": "https://image.tmdb.org/t/p/w300/mG0LADwKFZ2cU0sbpt5yDUuLJHp.jpg",
+        "a": "2017",
+        "link": "https://u.pcloud.link/publink/show?code=XZIjMc5ZRwnbnvgzgv82CHnSdRJfXzAUpny7",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "NA RODA DA FORTUNA",
+        "c": "https://image.tmdb.org/t/p/w300/nMOKmpkB8mkLf2KeLkprhb5DDNq.jpg",
+        "a": "1994",
+        "link": "https://drive.google.com/file/d/1AGdvOuQkSFfwVr06EyxwMHu6lGKdie7D/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "O CÃO DE GUARDA",
+        "c": "https://image.tmdb.org/t/p/w300/iq9CcMYoNUpLbmPQPMX0yGmSTGi.jpg",
+        "a": "1992",
+        "link": "https://u.pcloud.link/publink/show?code=XZrjMc5ZdywoXPqzDBSIvHIzvTmW5yzKm3a7",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "O LADO SIMPLES DA VIDA",
+        "c": "https://image.tmdb.org/t/p/w300/nuzGWirxAvVtG4LcTx4MboBO9Ux.jpg",
+        "a": "2021",
+        "link": "https://u.pcloud.link/publink/show?code=XZ7uMc5ZhmC0LYYpaAjWN60OlpJhWuF5Iyvk",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "O NEGÓCIO É FOFOCA CAMPUS CONFIDENTIAL",
+        "c": "https://image.tmdb.org/t/p/w300/zqyK1j0gjrtbYlUO8c2CDCZ2snd.jpg",
+        "a": "2005",
+        "link": "https://u.pcloud.link/publink/show?code=XZXfMc5ZPrXqsyzAvoYWBGfDOY2tKV2f3Epk",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "SIMPLES COMO AMAR THE OTHER SISTER",
+        "c": "https://image.tmdb.org/t/p/w300/gecKth9fd59cnklqObyuCgtyejv.jpg",
+        "a": "1999",
+        "link": "https://u.pcloud.link/publink/show?code=XZ3fMc5ZmRayIX6yIQ0LG7poHfOo0FxYXD3y",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "SOMETHING SPECIAL WILLY MILLY",
+        "c": "https://image.tmdb.org/t/p/w300/p0nGwLpUYRDIuKck4XXbIn8YTk7.jpg",
+        "a": "1986",
+        "link": "https://u.pcloud.link/publink/show?code=XZ7BMc5ZedQiH2r3mcbmvFNEqXY7Tjx8hY1y",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "TOOTH UMA FADA DIFERENTE",
+        "c": "https://image.tmdb.org/t/p/w300/fHfaAtWGrYQYwzzAvh4mJIl7B1B.jpg",
+        "a": "2004",
+        "link": "https://u.pcloud.link/publink/show?code=XZVBMc5Zjpxln0mwEEV9H23O5O3eiS09sfR7",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "UM CLAMOR NA CHINA(CHINA CRY O GRITO DE NORA LAM)",
+        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "a": "----",
+        "link": "https://u.pcloud.link/publink/show?code=XZCsMc5Z8dVufBkXknyfTsEEe1oaYXLiE89X",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "UMA GAROTA MUITO ESPECIAL",
+        "c": "https://image.tmdb.org/t/p/w300/oy70rSlCKtaoroElXdPCSnz3AgO.jpg",
+        "a": "1993",
+        "link": "https://u.pcloud.link/publink/show?code=XZcDMc5Z4JcjtVG8QPFCx6TeO8KQOjvVh1d7",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "VELOZES E MORTAIS HIGHWAYMEN",
+        "c": "https://image.tmdb.org/t/p/w300/eKSkYxwrv4rQLIeDlLBzvHxbEDF.jpg",
+        "a": "2004",
+        "link": "https://u.pcloud.link/publink/show?code=XZjsMc5ZmNopBd8isE5XVPRj6gK8LXVg87gV",
+        "tags": "LEG",
+        "n": 0
     }
 ];

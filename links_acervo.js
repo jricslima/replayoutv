@@ -32598,5 +32598,21 @@ filmes = [
         "link": "https://u.pcloud.link/publink/show?code=XZjsMc5ZmNopBd8isE5XVPRj6gK8LXVg87gV",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "HAMNET A VIDA ANTES DE HAMLET",
+        "c": "https://image.tmdb.org/t/p/w300/njatIGrIlZCxB88UUBC2xgmfCNE.jpg",
+        "a": "2025",
+        "link": "https://u.pcloud.link/publink/show?code=XZD4gc5Z7f7wN6eQt0h0KxhAXMb2qF56coUk",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "OS 5 FORA DA LEI THE OUTLAWS",
+        "c": "https://image.tmdb.org/t/p/w300/1W6xHhVu9n3JsBnvziHTLtQv6Z6.jpg",
+        "a": "2024",
+        "link": "https://u.pcloud.link/publink/show?code=XZs8gc5Zr7IHxd8cjR7Hl2N2WOpT7zaXBVr7",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

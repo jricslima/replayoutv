@@ -32625,7 +32625,7 @@ filmes = [
     },
     {
         "t": "FÚRIA PRIMITIVA MONKEY MAN",
-        "c": "https://image.tmdb.org/t/p/w300/ziXIsqVTBrKajZpVEGKiSvot3gu.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/AarXQ5qPocjhRNLNFhTkNO3JQP4.jpg",
         "a": "2024",
         "link": "https://u.pcloud.link/publink/show?code=XZEfPc5ZPCQzh7sjE5S4xwj4JyDNmV6oP7Vy",
         "tags": "DUAL",

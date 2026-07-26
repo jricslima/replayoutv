@@ -32622,5 +32622,21 @@ filmes = [
         "link": "https://drive.google.com/file/d/1T6BPUo4dqV7xpnAzyWeplk27jJIIv61D/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
+    },
+    {
+        "t": "FÚRIA PRIMITIVA MONKEY MAN",
+        "c": "https://image.tmdb.org/t/p/w300/ziXIsqVTBrKajZpVEGKiSvot3gu.jpg",
+        "a": "2024",
+        "link": "https://u.pcloud.link/publink/show?code=XZEfPc5ZPCQzh7sjE5S4xwj4JyDNmV6oP7Vy",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "GODZILLA VS. KONG",
+        "c": "https://image.tmdb.org/t/p/w300/teW53VSLdZMMSmkn5xBBowu3tEr.jpg",
+        "a": "2021",
+        "link": "https://u.pcloud.link/publink/show?code=XZwBPc5Z2UfdugshccfjWNeM9dbdbyG1wxs7",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

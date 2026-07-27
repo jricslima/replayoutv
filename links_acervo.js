@@ -7176,11 +7176,11 @@ filmes = [
         "n": 1
     },
     {
-        "t": "BEM VINDO A VIDA",
+        "t": "BEM VINDO À VIDA - PEOPLE LIKE US - WELCOME TO PEOPLE",
         "c": "https://image.tmdb.org/t/p/w300/x4vmkiNRk8ssZx6dOkGGIlTShOL.jpg",
         "a": "2012",
-        "link": "https://drive.google.com/file/d/14lvn4K-FdQIsAuaBdCCO1BbHiWyW4VrD/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://u.pcloud.link/publink/show?code=XZuYqc5ZC53IdoLIY2VV71j0rbNhIXx8n5nk",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -32637,6 +32637,30 @@ filmes = [
         "a": "2021",
         "link": "https://u.pcloud.link/publink/show?code=XZwBPc5Z2UfdugshccfjWNeM9dbdbyG1wxs7",
         "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "4.3.2.1",
+        "c": "https://image.tmdb.org/t/p/w300/rEarMWLtn185KElEuZw04pz0wIN.jpg",
+        "a": "2010",
+        "link": "https://u.pcloud.link/publink/show?code=XZR9dc5ZtbA7hpGKX8fsfqHukUIkcmjMpzuk",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "14 LÂMINAS 14 BLADES JIN YI WEI",
+        "c": "https://image.tmdb.org/t/p/w300/jPXz3epxdiqcObizA301WNIySWc.jpg",
+        "a": "2010",
+        "link": "https://u.pcloud.link/publink/show?code=XZMEdc5ZesFn1hJ1N2YiaI7hLpjuA0dIWSGy",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "A AMANTE DO PASTOR",
+        "c": "https://image.tmdb.org/t/p/w300/3DNKbZ0q1WbKUt8osHyOfJ3AzmZ.jpg",
+        "a": "2013",
+        "link": "https://drive.google.com/file/d/1YWo-7eXJNEHIzBHRMvZrnuo1TWTUC3r7/view?usp=sharing",
+        "tags": "DUB",
         "n": 0
     }
 ];

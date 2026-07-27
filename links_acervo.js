@@ -32643,8 +32643,8 @@ filmes = [
         "t": "4.3.2.1",
         "c": "https://image.tmdb.org/t/p/w300/rEarMWLtn185KElEuZw04pz0wIN.jpg",
         "a": "2010",
-        "link": "https://u.pcloud.link/publink/show?code=XZR9dc5ZtbA7hpGKX8fsfqHukUIkcmjMpzuk",
-        "tags": "DUB",
+        "link": "https://u.pcloud.link/publink/show?code=XZHS6c5ZATNj6A38kLLrSHrMYQPPD5ilTUHk",
+        "tags": "DUAL",
         "n": 0
     },
     {

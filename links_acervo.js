@@ -32662,5 +32662,29 @@ filmes = [
         "link": "https://drive.google.com/file/d/1YWo-7eXJNEHIzBHRMvZrnuo1TWTUC3r7/view?usp=sharing",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "UM CORPO QUE CAI VERTIGO",
+        "c": "https://image.tmdb.org/t/p/w300/lzyh1lsD4Qaid6bG5zk57Y3bEM.jpg",
+        "a": "1958",
+        "link": "https://drive.google.com/file/d/1cwC6Q2Sz2C1nvIpqp4uF4dRs1ytwstqd/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "EM UM PÁTIO DE PARIS DANS LA COUR",
+        "c": "https://image.tmdb.org/t/p/w300/zhrE7FNTvwEJ5qejdCWm0eig3EB.jpg",
+        "a": "2014",
+        "link": "https://u.pcloud.link/publink/show?code=XZh9cc5Zwk1DJ7cBccS3VwETverz0RCDsn1k",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "LINDA LOUCURA BEAUTIFUL TWISTED",
+        "c": "https://image.tmdb.org/t/p/w300/97MjYAwQDVDNGZ0Ho0efZWgKSdO.jpg",
+        "a": "2015",
+        "link": "https://u.pcloud.link/publink/show?code=XZX4oc5ZI1wSYzLh6YyYQLs3qOoTY4rkdGh7",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

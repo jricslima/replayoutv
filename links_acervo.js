@@ -32689,7 +32689,7 @@ filmes = [
     },
     {
         "t": "FIM DOS TEMPOS THE HAPPENING",
-        "c": "https://image.tmdb.org/t/p/w300/4miUoIJADDOY4MXrnpoRxHX670Z.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/czoxWkYeayS7HyvVqnV4KPVDR9w.jpg",
         "a": "2008",
         "link": "https://u.pcloud.link/publink/show?code=XZI8yo5Zb1BjM4ixSjm29QzkTyoeI4rllQQk",
         "tags": "DUAL",

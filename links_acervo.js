@@ -20721,10 +20721,10 @@ filmes = [
     },
     {
         "t": "O HOMEM QUE RI",
-        "c": "https://image.tmdb.org/t/p/w300/frC7UVQ9M4sLrCl8zbUn52yWuEp.jpg",
-        "a": "2012",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xatKRPtXuNyPO87MNX2D7DXwwQg.jpg",
+        "a": "1928",
         "link": "https://drive.google.com/file/d/1Fk5fwgdKvgZL6WcKCLS6ChzmP58Wnv3a/view?usp=drive_open",
-        "tags": "DUB",
+        "tags": "LEG AC",
         "n": 0
     },
     {

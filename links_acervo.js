@@ -32696,8 +32696,8 @@ filmes = [
         "n": 0
     },
     {
-        "t": "FIM DOS TEMPOS",
-        "c": "https://image.tmdb.org/t/p/w300/4miUoIJADDOY4MXrnpoRxHX670Z.jpg",
+        "t": "FIM DOS TEMPOS - FIN - THE END",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/wQ1MLfb98Fw0mfMb9h0eJtHrxVd.jpg",
         "a": "2008",
         "link": "https://u.pcloud.link/publink/show?code=XZMuVo5ZmCcsJOGq07B4GJ4b5qPGISgQtRJX",
         "tags": "DUB",

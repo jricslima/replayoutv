@@ -20712,11 +20712,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O HOMEM QUE ELAS AMAVAM DEMAIS",
+        "t": "O HOMEM QUE ELAS AMAVAM DEMAIS - IN THE NAME OF MY DAUGHTER",
         "c": "https://image.tmdb.org/t/p/w300/jMEYwfFaVyoWUl7U95ROFQyTm9Z.jpg",
         "a": "2014",
-        "link": "https://drive.google.com/file/d/1uYEm7ovyOpqxFyPWAbewqtYGxn9l50lZ/view?usp=drive_open",
-        "tags": "DUB",
+        "link": "https://u.pcloud.link/publink/show?code=XZNL0o5ZE9Pjlze6YFufQMJanwqQgmLhDwrX",
+        "tags": "DUAL",
         "n": 0
     },
     {

@@ -20720,11 +20720,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "O HOMEM QUE RI",
+        "t": "O HOMEM QUE RI - THE MAN WHO LAUGHS",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xatKRPtXuNyPO87MNX2D7DXwwQg.jpg",
         "a": "1928",
-        "link": "https://drive.google.com/file/d/1Fk5fwgdKvgZL6WcKCLS6ChzmP58Wnv3a/view?usp=drive_open",
-        "tags": "LEG AC",
+        "link": "https://u.pcloud.link/publink/show?code=XZza0o5ZCAnbq3d6rMQXtUGyQ3sXsVsQUrRy",
+        "tags": "LEG",
         "n": 0
     },
     {

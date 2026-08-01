@@ -32713,8 +32713,8 @@ filmes = [
     },
     {
         "t": "OS HOMENS QUE NÃO AMAVAM AS MULHERES",
-        "c": "https://image.tmdb.org/t/p/w300/iwaFFPTJFD5cH8DvKlsjy8Thtg3.jpg",
-        "a": "2011",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cLll8iK4U3eZWdnWiprMBMKObNk.jpg",
+        "a": "2009",
         "link": "https://u.pcloud.link/publink/show?code=XZFQjo5ZBmz7yuNy2Y45tzhoSAcKIXjeEVzX",
         "tags": "DUAL",
         "n": 0

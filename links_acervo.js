@@ -8291,8 +8291,8 @@ filmes = [
         "t": "CANTINFLAS A MAGIA DA COMÉDIA",
         "c": "https://image.tmdb.org/t/p/w300/dNLQZKH20mEP5PhwnDHCy8aUKhO.jpg",
         "a": "2014",
-        "link": "https://drive.google.com/file/d/1GvO50bYoPL3k5v9t83efM2DD4XWYLwNx/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://u.pcloud.link/publink/show?code=XZdb2o5ZzSVTb5NhpEmLRwmnVulGqzIyymlX",
+        "tags": "DUAL",
         "n": 0
     },
     {
@@ -32701,6 +32701,30 @@ filmes = [
         "a": "2008",
         "link": "https://u.pcloud.link/publink/show?code=XZMuVo5ZmCcsJOGq07B4GJ4b5qPGISgQtRJX",
         "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "O HOMEM QUE AMAVA AS MULHERES THE MAN WHO LOVED WOMEN",
+        "c": "https://image.tmdb.org/t/p/w300/mQIGRSTmMmdrpssbKcyb8YEzEkD.jpg",
+        "a": "1977",
+        "link": "https://u.pcloud.link/publink/show?code=XZ4xBo5Z7buziWM6M00SwpAmR4LIdX6038ny",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "OS HOMENS QUE NÃO AMAVAM AS MULHERES",
+        "c": "https://image.tmdb.org/t/p/w300/iwaFFPTJFD5cH8DvKlsjy8Thtg3.jpg",
+        "a": "2011",
+        "link": "https://u.pcloud.link/publink/show?code=XZFQjo5ZBmz7yuNy2Y45tzhoSAcKIXjeEVzX",
+        "tags": "DUAL",
+        "n": 0
+    },
+    {
+        "t": "MILLENNIUM OS HOMENS QUE NÃO AMAVAM AS MULHERES",
+        "c": "https://image.tmdb.org/t/p/w300/iwaFFPTJFD5cH8DvKlsjy8Thtg3.jpg",
+        "a": "2011",
+        "link": "https://u.pcloud.link/publink/show?code=XZj1So5ZOli1T9bmh05WguYO68VQt8vGTVGk",
+        "tags": "DUAL",
         "n": 0
     }
 ];

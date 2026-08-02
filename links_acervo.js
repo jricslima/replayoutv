@@ -32737,8 +32737,8 @@ filmes = [
     },
     {
         "t": "MONSTER",
-        "c": "https://image.tmdb.org/t/p/w300/mkQDVmNaOn81Kny7XLJUAi1agbH.jpg",
-        "a": "2023",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/9Y1zHJ227zOWqv5OMXG3WrijqVA.jpg",
+        "a": "2014",
         "link": "https://u.pcloud.link/publink/show?code=XZWNDo5ZufSyEIOt0NhHbb4FmxFTUzaWeesX",
         "tags": "LEG",
         "n": 0

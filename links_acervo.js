@@ -32745,8 +32745,8 @@ filmes = [
     },
     {
         "t": "DEAD RISING WATCHTOWER O FIME",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rQ00XrDhtLZqxWMJsMiWiajfbkQ.jpg",
+        "a": "2015",
         "link": "https://u.pcloud.link/publink/show?code=XZaGDo5ZfmiveiITAfyueTbAKFBDjYyixvdX",
         "tags": "DUAL",
         "n": 0

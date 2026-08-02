@@ -32742,5 +32742,13 @@ filmes = [
         "link": "https://u.pcloud.link/publink/show?code=XZWNDo5ZufSyEIOt0NhHbb4FmxFTUzaWeesX",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "DEAD RISING WATCHTOWER O FIME",
+        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "a": "----",
+        "link": "https://u.pcloud.link/publink/show?code=XZaGDo5ZfmiveiITAfyueTbAKFBDjYyixvdX",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

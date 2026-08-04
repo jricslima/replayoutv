@@ -4104,14 +4104,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A LENDA DE LONGWOOD",
-        "c": "https://image.tmdb.org/t/p/w300/qRwp0dul5SqP7YEKu3Esb3Jggqf.jpg",
-        "a": "2014",
-        "link": "https://drive.google.com/file/d/1GSNUn3F5um7w-msXcv2UW6yN7R1pqmVV/view?usp=drive_open",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "A LENDA DE TARZAN",
         "c": "https://image.tmdb.org/t/p/w300/dQOF4E29KtDWJRZv75aUZsfMPsT.jpg",
         "a": "2016",

@@ -6744,10 +6744,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "BE SOMEBODY SIMPLES COMO O AMOR",
+        "t": "BE SOMEBODY - SIMPLES COMO O AMOR",
         "c": "https://image.tmdb.org/t/p/w300/gsYnKciakeHgO7URZtPdqVAekZI.jpg",
         "a": "2016",
-        "link": "https://drive.google.com/file/d/1mDL9ntA_qWNfMKo6UnR3q7GJI_MEE1qm/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1_dGbdIXl8rY9xqs00kuJgtV_bXchqYNk/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },
@@ -7296,10 +7296,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "BORROWED HEARTS FAMÍLIA DE ALUGUEL",
+        "t": "BORROWED HEARTS - FAMÍLIA DE ALUGUEL",
         "c": "https://www.themoviedb.org/t/p/w300/nWPuWqgswN5UAsEZoAnDo1hPO6L.jpg",
         "a": "1997",
-        "link": "https://drive.google.com/file/d/1nPPqc0SKyEeRI1pGvVooA8EmeA1K_UF8/view?usp=sharing",
+        "link": "https://u.pcloud.link/publink/show?code=XZDuSyJZ1wgHPFsCv25XuLqvB5JOaYQimrYk",
         "tags": "LEG",
         "n": 0
     },

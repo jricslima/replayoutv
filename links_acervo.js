@@ -32769,7 +32769,7 @@ filmes = [
     },
     {
         "t": "SANTA'S COUSIN",
-        "c": "https://image.tmdb.org/t/p/w300/1j6cdPfy1J9jF8nAhW9CJXwIkKB.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jU4AwJL8OlZmmB3Ciu3BOLO0JzX.jpg",
         "a": "2024",
         "link": "https://drive.google.com/file/d/1m5LqCW2batkBjMM1O6Q8tX64DhaoHCWg/view?usp=sharing",
         "tags": "LEG",

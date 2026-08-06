@@ -4721,10 +4721,10 @@ filmes = [
     },
     {
         "t": "A RAINHA DOS CONDENADOS",
-        "c": "https://image.tmdb.org/t/p/w300/jGkYV6Fk9GBWuccCitRatlXL3FC.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/13e8sHSRZk1314rDH6jNL0hyhrE.jpg",
         "a": "2002",
-        "link": "https://drive.google.com/file/d/1dNKUHoU2DYsNGhtf394YDJVO_xMf0rlk/view?usp=drive_open",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1lAykc4UAJ2hID-AQD-j-pJKiGJ59oa-T/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

@@ -17328,9 +17328,9 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MOTHER",
-        "c": "https://image.tmdb.org/t/p/w300/ldEZHi9jyfAhJuSUaEWd7qf7nU3.jpg",
-        "a": "2017",
+        "t": "MOTHERS",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xBE1CzWIqid5G6Kf8psBG6gIvRi.jpg",
+        "a": "2018",
         "link": "https://drive.google.com/file/d/12ZzAdlLm-keVAnxX5nnqhE7Uq906mrFm/view?usp=sharing",
         "tags": "LEG",
         "n": 0

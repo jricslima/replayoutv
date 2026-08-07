@@ -7584,11 +7584,11 @@ filmes = [
         "n": 1
     },
     {
-        "t": "CYBORG GIRL",
-        "c": "https://image.tmdb.org/t/p/w300/nmSF2cfqKpn8ZfReV4nLKEU5JIC.jpg",
-        "a": "2010",
-        "link": "https://drive.google.com/file/d/0B8S56XOJY1VgaUNpUnI0dHUwNDg/view?usp=sharing&amp;resourcekey=0-BYv4oubGaXtc74R0PWFwog",
-        "tags": "DUB",
+        "t": "CYBORG GIRL - CYBORG SHE - MINHA NAMORADA É UM CYBORG",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/oRcKRHCx5DYWk5DbJ1H7Kiz7gSa.jpg",
+        "a": "2008",
+        "link": "https://drive.google.com/file/d/1wa9bc2koqg6Q5ytPB6dLUjeNmxZ9fW--/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

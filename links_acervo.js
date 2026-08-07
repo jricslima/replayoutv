@@ -13616,10 +13616,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "HEARTS OF WINTER",
+        "t": "HEARTS OF WINTER - CORAÇÕES DE INVERNO",
         "c": "https://image.tmdb.org/t/p/w300/7sbTpwoG0MtS8OpmOWx0t0GTF7C.jpg",
         "a": "2020",
-        "link": "https://drive.google.com/file/d/1ULoM4W8YhKBjKMVC6gVIC2cWPfW7W8B_/view?usp=sharing",
+        "link": "https://u.pcloud.link/publink/show?code=XZmt57JZQGz3ewlBKjbQqWB7yu8HnpGXFT6X",
         "tags": "LEG",
         "n": 0
     },

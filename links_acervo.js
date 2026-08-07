@@ -6505,7 +6505,7 @@ filmes = [
     },
     {
         "t": "ASSIM CAMINHA A HUMANIDADE - GIANT",
-        "c": "https://image.tmdb.org/t/p/w300/rxjmr0giX8l19XepjXZVoyL30lK.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/tXaaAzqYlX0cgyJa6VtQCmqj8uI.jpg",
         "a": "1956",
         "link": "https://drive.google.com/file/d/1N8wmY4Kwsf5dS2VuNXJzW_Eoj4KJKo70/view?usp=sharing",
         "tags": "DUAL",
@@ -32785,10 +32785,10 @@ filmes = [
     },
     {
         "t": "ASSIM CAMINHA A HUMANIDADE GIANT",
-        "c": "https://image.tmdb.org/t/p/w300/AmRQI0xgN7zu1HZNagSFj4gfCyG.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/wXGmfJkU83daBsqp9R8LeWguIZd.jpg",
         "a": "1956",
         "link": "https://drive.google.com/file/d/1f-g2reht4moVUtFSZivOLPEJH668sCd_/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "DUB COM LEG",
         "n": 0
     }
 ];

@@ -8163,7 +8163,7 @@ filmes = [
         "t": "CAÇADA SEM TRÉGUA",
         "c": "https://image.tmdb.org/t/p/w300/21MLnn7vbswEyT3UHbZE9L3RoyR.jpg",
         "a": "1994",
-        "link": "https://drive.google.com/file/d/1VEEYgxtaJekyhVutuOKtidFMsYDJawN3/view?usp=sharing",
+        "link": "https://u.pcloud.link/publink/show?code=XZGNSyJZ3MA4FkFJa2kxqI3zt6sXWYPk8r0k",
         "tags": "DUB",
         "n": 0
     },

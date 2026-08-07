@@ -9561,7 +9561,7 @@ filmes = [
     },
     {
         "t": "CROMWELL, O HOMEM DE FERRO",
-        "c": "https://image.tmdb.org/t/p/w300/1qlnKlQGEdRl70KDpAv03F8uGzI.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/slicSYbu8fGkm8NflJX3nFOQ9xk.jpg",
         "a": "1970",
         "link": "https://drive.google.com/file/d/1ublm2kiu3ryp7dawkzzii1EfZye3xfTa/view?usp=sharing",
         "tags": "LEG",

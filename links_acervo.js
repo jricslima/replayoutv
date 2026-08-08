@@ -13793,9 +13793,9 @@ filmes = [
     },
     {
         "t": "HOUDINI, O HOMEM MIRACULOSO",
-        "c": "https://image.tmdb.org/t/p/w300/9Qz3v7IgaGrSmYfMGyPAPbEJvnV.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/xC9jSDIrVwjTjLMHmTsPUZZrTph.jpg",
         "a": "1953",
-        "link": "https://drive.google.com/file/d/16KpCxZLxqjcfzSpwRMgpHDxShToQgQZf/view?usp=sharing",
+        "link": "https://u.pcloud.link/publink/show?code=XZVBF7JZTai7iSyNSB4OND83MpiI6j8V4F87",
         "tags": "LEG",
         "n": 0
     },

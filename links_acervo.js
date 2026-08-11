@@ -14016,7 +14016,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "IN COLD BLOOD A SANGUE FRIO /",
+        "t": "IN COLD BLOOD  A SANGUE FRIO",
         "c": "https://image.tmdb.org/t/p/w300/52IPpDucAJh1IxrvWJ4x1hBHum4.jpg",
         "a": "1967",
         "link": "https://u.pcloud.link/publink/show?code=XZmjYkJZhGtr9zbX9rYAhW8FbG8ztzeIjO1k",

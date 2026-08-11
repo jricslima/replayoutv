@@ -32830,5 +32830,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1gev1pa9xdKo-7Wuz7bQWGn5YdQCHseRV/view?usp=sharing",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "HIGH STRUNG AO RITMO DO SONHO DUELO DE CORDAS",
+        "c": "https://image.tmdb.org/t/p/w300/hqFHODEFfJ3vnQkrLk2XQgw2GQ7.jpg",
+        "a": "2016",
+        "link": "https://drive.google.com/file/d/1_tOiVjKug25i6sZUTBtE9JbSR2Dz8nt0/view?usp=sharing",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

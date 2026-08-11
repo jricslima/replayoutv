@@ -14019,8 +14019,8 @@ filmes = [
         "t": "IN COLD BLOOD A SANGUE FRIO /",
         "c": "https://image.tmdb.org/t/p/w300/52IPpDucAJh1IxrvWJ4x1hBHum4.jpg",
         "a": "1967",
-        "link": "https://drive.google.com/file/d/1OHupBQvcSZ0pOLe45E7vL801inmxJW2x/view?usp=sharing",
-        "tags": "LEG",
+        "link": "https://u.pcloud.link/publink/show?code=XZmjYkJZhGtr9zbX9rYAhW8FbG8ztzeIjO1k",
+        "tags": "DUAL",
         "n": 0
     },
     {

@@ -32798,5 +32798,37 @@ filmes = [
         "link": "https://u.pcloud.link/publink/show?code=XZFWF7JZhLnzkXMwHO8YkvgNYFE59S522zlk",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "HOMEM ARANHA UM NOVO DIA SPIDER MAN BRAND NEW DAY",
+        "c": "https://image.tmdb.org/t/p/w300/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
+        "a": "2026",
+        "link": "https://u.pcloud.link/publink/show?code=XZdi4kJZcC0D9boG7XpXMgkB8pCj5jXpJd0V",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "HOMEM ARANHA UM NOVO DIA SPIDER MAN BRAND NEW DAY",
+        "c": "https://image.tmdb.org/t/p/w300/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
+        "a": "2026",
+        "link": "https://drive.google.com/file/d/1_oUBVP0FyOCkWxAm4uKL8X4FYtsHdfaZ/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "A ÉPOCA MAIS COLORIDA DO ANO THE MOST COLORFUL TIME OF THE YEAR",
+        "c": "https://image.tmdb.org/t/p/w300/pHaoU31rU3wlOvvsZR4Jt8NtV8.jpg",
+        "a": "2022",
+        "link": "https://drive.google.com/file/d/1njxWCobLKHCVL884vXJEPqEwYnzOomP_/view?usp=sharing",
+        "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "A FILHA DO PAPAI NOEL SANTA GIRL",
+        "c": "https://image.tmdb.org/t/p/w300/aLBNhfYtyBOHdePncblmijrDljQ.jpg",
+        "a": "2019",
+        "link": "https://drive.google.com/file/d/1gev1pa9xdKo-7Wuz7bQWGn5YdQCHseRV/view?usp=sharing",
+        "tags": "DUB",
+        "n": 0
     }
 ];

@@ -20665,7 +20665,7 @@ filmes = [
     },
     {
         "t": "O GUIA CULINÁRIO DO AMOR - RECEITAS PARA O AMOR - THE FOOD GUIDE TO LOVE",
-        "c": "https://image.tmdb.org/t/p/w300/3SUzE8eyYSK3WiRbpPmW2vnQEww.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/7u1keXrn6o8jT4H39gXoSdZJYLx.jpg",
         "a": "2013",
         "link": "https://u.pcloud.link/publink/show?code=XZYDRVJZA2vDS4SpkLycJel0TY8R9VLyAq5k",
         "tags": "LEG",

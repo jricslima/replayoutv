@@ -32838,21 +32838,5 @@ filmes = [
         "link": "https://drive.google.com/file/d/1_tOiVjKug25i6sZUTBtE9JbSR2Dz8nt0/view?usp=sharing",
         "tags": "DUAL",
         "n": 0
-    },
-    {
-        "t": "A FILHA DO PAPAI NOEL SANTA BABY",
-        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/jeoRky5STuiDAi4VszGO2hKnfED.jpg",
-        "a": "2006",
-        "link": "https://u.pcloud.link/publink/show?code=XZvBRVJZU7VFVeBI9c0mPangybezq7CJjPh7",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
-        "t": "A FILHA DO PAPAI NOEL 2 SANTA BABY 2",
-        "c": "https://image.tmdb.org/t/p/w300/aXASsMZ96szEoK593ZNcYqHAd65.jpg",
-        "a": "2009",
-        "link": "https://u.pcloud.link/publink/show?code=XZD2RVJZiyCcfrfhfNmt1BB2CwABKfGiVLmk",
-        "tags": "LEG",
-        "n": 0
     }
 ];

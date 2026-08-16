@@ -17456,7 +17456,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MÚSICA E LÁGRIMAS",
+        "t": "MÚSICA E LÁGRIMAS - THE GLENN MILLER STORY",
         "c": "https://image.tmdb.org/t/p/w300/d1HzoqKWqlpKfTAZmJ2yd9Rag8z.jpg",
         "a": "1954",
         "link": "https://drive.google.com/file/d/1BE_nc2efvrc-YZpuzB1Vm7uYkOJaIEK9/view",
@@ -32856,11 +32856,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MÚSICA E LÁGRIMAS",
+        "t": "MÚSICA E LÁGRIMAS - THE GLENN MILLER STORY",
         "c": "https://image.tmdb.org/t/p/w300/d1HzoqKWqlpKfTAZmJ2yd9Rag8z.jpg",
         "a": "1954",
         "link": "https://drive.google.com/file/d/11ERE1hVLaZsUoLh1p5SbSJMUwyvVTF5f/view",
-        "tags": "LEG",
+        "tags": "DUB/LEG",
         "n": 0
     },
     {

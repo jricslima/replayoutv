@@ -32873,8 +32873,8 @@ filmes = [
     },
     {
         "t": "AMIGA LADRA DE MARIDOS THE PERFECR WEDING",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/expZLrqEWyYn5vuAwoHMmG1KSsW.jpg",
+        "a": "2021",
         "link": "https://u.pcloud.link/publink/show?code=XZDP4VJZVLRh2kO6rwSWVCak2ajFJBz0vGMk",
         "tags": "LEG",
         "n": 0

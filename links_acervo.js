@@ -23393,7 +23393,7 @@ filmes = [
     },
     {
         "t": "PODE BATER QUE ELA É FRANCESA - CUIDADO... ELA É FRANCESA! - SLAP HER, SHE'S FRENCH!",
-        "c": "https://image.tmdb.org/t/p/w300/5We0C9RVyPxbUxBF4FFdPGlS1fu.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/eztcBfiB8wbKkU4BmwjKC5oRBIU.jpg",
         "a": "2002",
         "link": "https://u.pcloud.link/publink/show?code=XZLrMVJZkLqYqv6dU2V6eBhQSnbIM0i9cef7",
         "tags": "LEG",

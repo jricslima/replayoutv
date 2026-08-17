@@ -32880,7 +32880,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PODE BATER QUE ELA É FRANCESA CUIDADO... ELA É FRANCESA! SLAP HER, SHE'S FRENCH!",
+        "t": "PODE BATER QUE ELA É FRANCESA - CUIDADO... ELA É FRANCESA! - SLAP HER, SHE'S FRENCH!",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/eztcBfiB8wbKkU4BmwjKC5oRBIU.jpg",
         "a": "2002",
         "link": "https://u.pcloud.link/publink/show?code=XZurMVJZDV8bLhAdyoJVx3y3usaqXBn2wjAk",

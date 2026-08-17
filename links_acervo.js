@@ -32886,5 +32886,21 @@ filmes = [
         "link": "https://u.pcloud.link/publink/show?code=XZurMVJZDV8bLhAdyoJVx3y3usaqXBn2wjAk",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "LEGALMENTE CHIC CONFESSIONS OF A SOCIOPATHIC SOCIAL CLIMBER",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fRQ9350JQV2iY084nVVqTdweBuI.jpg",
+        "a": "2005",
+        "link": "https://u.pcloud.link/publink/show?code=XZOsTVJZjBK22DYjkMQUjjLQ1NBeqpoux4OX",
+        "tags": "DUB",
+        "n": 0
+    },
+    {
+        "t": "LEGALMENTE CHIC CONFESSIONS OF A SOCIOPATHIC SOCIAL CLIMBER",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/fRQ9350JQV2iY084nVVqTdweBuI.jpg",
+        "a": "2005",
+        "link": "https://u.pcloud.link/publink/show?code=XZ5DTVJZm3EXQQ4ism85S19T56Kb3b3MSkUV",
+        "tags": "LEG",
+        "n": 0
     }
 ];

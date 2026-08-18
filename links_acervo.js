@@ -25440,10 +25440,10 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SECOND CHANCES SOMBRAS DO PASSADO",
+        "t": "SECOND CHANCES - SOMBRAS DO PASSADO",
         "c": "https://image.tmdb.org/t/p/w300/cbjLILjeSmUlvNxecsuDASzGLwo.jpg",
         "a": "2010",
-        "link": "https://drive.google.com/file/d/1O1MRcdRddlgwafqRvNbZG93YkWhgXFHK/view?usp=sharing",
+        "link": "https://u.pcloud.link/publink/show?code=XZKJrVJZUOHRbAgDTG8DHG9i7P6ARzrp12ry",
         "tags": "LEG",
         "n": 0
     },

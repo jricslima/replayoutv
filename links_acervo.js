@@ -30729,7 +30729,7 @@ filmes = [
     },
     {
         "t": "X GAME (X GÊMU)",
-        "c": "https://image.tmdb.org/t/p/w300/eyAhiO44EOB5mKP6GEmlGtXNAmU.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/wUVVi3rgYwQ7hBKjozgU2RkkToL.jpg",
         "a": "2010",
         "link": "https://drive.google.com/file/d/1KKVhVVUW9t1zGF1HccEAARPvvfvf2g9q/view?usp=sharing",
         "tags": "LEG",

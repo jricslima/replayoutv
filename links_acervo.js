@@ -32910,13 +32910,5 @@ filmes = [
         "link": "https://drive.google.com/file/d/1cNlF-JHS6zaCNvUUWS3265L2tWE5ze-l/view?usp=sharing",
         "tags": "LEG",
         "n": 0
-    },
-    {
-        "t": "PULS",
-        "c": "https://image.tmdb.org/t/p/w300/qS2QqWTqWO1TwqejNpaJfTbkNf8.jpg",
-        "a": "2010",
-        "link": "https://drive.google.com/file/d/1RENYVa2KsLrH0EvX2ouv2tSMnSna3p-h/view?usp=sharing",
-        "tags": "LEG",
-        "n": 0
     }
 ];

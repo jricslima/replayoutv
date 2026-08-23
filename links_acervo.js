@@ -32425,7 +32425,7 @@ filmes = [
     },
     {
         "t": "ASSUSTADIÇA HIGH NOON",
-        "c": "https://image.tmdb.org/t/p/w300/asAuYaSmJnPXgERnsucgrsgM9MM.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/uUV7EOHeaUvzYgWbB9q3A25mcuB.jpg",
         "a": "2009",
         "link": "https://u.pcloud.link/publink/show?code=XZcbMc5ZV1gxhtCCNXQV3ID8dbtQEXzI8qok",
         "tags": "LEG",

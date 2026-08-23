@@ -32945,7 +32945,7 @@ filmes = [
     },
     {
         "t": "TRIBUTO TRIBUTE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/Ah19cV6CVHbuIFsCP6e5Hg09k1M.jpg",
         "a": "2006",
         "link": "https://u.pcloud.link/publink/show?code=XZ8eF5JZHExCOxVKxk82VtW8Wy90BudVKyoV",
         "tags": "LEG",

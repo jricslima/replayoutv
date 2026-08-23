@@ -32934,5 +32934,13 @@ filmes = [
         "link": "https://u.pcloud.link/publink/show?code=XZhM55JZ0wxLLFlsaW7NPY2FlpLVOHc1Klky",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "EM CHAMAS BLUE SMOKE",
+        "c": "https://image.tmdb.org/t/p/w300/4zsdQbBPyrWd4VLd2T4dStQ9RQV.jpg",
+        "a": "2007",
+        "link": "https://u.pcloud.link/publink/show?code=XZjQF5JZyrfOo4ChQjH7w3L3kykNMYdQsmey",
+        "tags": "LEG",
+        "n": 0
     }
 ];

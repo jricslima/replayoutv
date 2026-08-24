@@ -30369,7 +30369,7 @@ filmes = [
     },
     {
         "t": "VICTORIA",
-        "c": "https://image.tmdb.org/t/p/w300/rX3e8R9PDSx0mlgqK7RuDSA8lQp.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/rgT6RUEbmUOyl9sx0DrtsIg9Lsh.jpg",
         "a": "2016",
         "link": "https://u.pcloud.link/publink/show?code=XZagH5JZeocT3Wgi8j54tsxEuM1a1zjNV70V",
         "tags": "LEG",

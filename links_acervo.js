@@ -32974,5 +32974,13 @@ filmes = [
         "link": "https://u.pcloud.link/publink/show?code=XZ3iz5JZbOPvqNxrc1Rc3iC3nsdEHV3f0XeX",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "ALEX & EMMA ESCREVENDO SUA HISTÓRIA DE AMOR",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/x9YKuNXYNGP4UCmIALSy4u1XOwt.jpg",
+        "a": "2003",
+        "link": "https://u.pcloud.link/publink/show?code=XZR5R5JZQl5qjijc8GhH1ucg0T4lTXyRpkLy",
+        "tags": "DUB",
+        "n": 0
     }
 ];

@@ -32982,5 +32982,13 @@ filmes = [
         "link": "https://u.pcloud.link/publink/show?code=XZR5R5JZQl5qjijc8GhH1ucg0T4lTXyRpkLy",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "JURASSIC PARK O PARQUE DOS DINOSSAUROS",
+        "c": "https://image.tmdb.org/t/p/w300/mgjJ7FH4V3exsmoHwXrmsUhn0h1.jpg",
+        "a": "1993",
+        "link": "https://u.pcloud.link/publink/show?code=XZ1WHVJZM3g8TqYzvy0odi6WY18efFk4NLc7",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

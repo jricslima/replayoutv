@@ -32992,7 +32992,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SENSAÇÕES DE MEIA NOITE MIDNIGHT BAYOU",
+        "t": "SENSAÇÕES DE MEIA-NOITE - MIDNIGHT BAYOU",
         "c": "https://image.tmdb.org/t/p/w300/zmocKnQyAcupnZZjUBILuuYYied.jpg",
         "a": "2009",
         "link": "https://u.pcloud.link/publink/show?code=XZzFVJJZquYCcxkFOh88qyRtJrIlcuVWCMmV",

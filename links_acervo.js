@@ -33025,7 +33025,7 @@ filmes = [
     },
     {
         "t": "UM SINAL DOS CÉUS ANGELS FALL",
-        "c": "https://image.tmdb.org/t/p/w300/dIaAXZmxxqG369VOf3uGNlb2bjs.jpg",
+        "c": "https://i.ibb.co/mVMwvQNw/3-Um-Sinal-dos-C-us-2007.jpg",
         "a": "2007",
         "link": "https://u.pcloud.link/publink/show?code=XZ2veJJZJRB65jjVgIQyis8ETkeVWjvnKoBy",
         "tags": "LEG",

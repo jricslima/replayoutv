@@ -30227,7 +30227,7 @@ filmes = [
         "t": "VANITY FAIR FEIRA DAS VAIDADES",
         "c": "https://image.tmdb.org/t/p/w300/hG8p3yMrrakA5ImbDkVHr73ugBx.jpg",
         "a": "2004",
-        "link": "https://drive.google.com/file/d/1y1TyQ54eCDR5z6CRJgvMm5J1gqQ8xR5f/view?usp=sharing",
+        "link": "https://u.pcloud.link/publink/show?code=XZt7bJJZ775MNiPQ7lBE8RsiE5w204mokTIy",
         "tags": "LEG",
         "n": 0
     },
@@ -32997,6 +32997,14 @@ filmes = [
         "a": "2009",
         "link": "https://u.pcloud.link/publink/show?code=XZzFVJJZquYCcxkFOh88qyRtJrIlcuVWCMmV",
         "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "VANITY FAIR FEIRA DAS VAIDADES",
+        "c": "https://image.tmdb.org/t/p/w300/hG8p3yMrrakA5ImbDkVHr73ugBx.jpg",
+        "a": "2004",
+        "link": "https://u.pcloud.link/publink/show?code=XZLBbJJZwKqDwgqxl470YEDvPt3nR7kAV1Uy",
+        "tags": "DUAL",
         "n": 0
     }
 ];

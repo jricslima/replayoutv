@@ -33014,5 +33014,13 @@ filmes = [
         "link": "https://u.pcloud.link/publink/show?code=XZKADJJZyz44LyFir7QujYs8s3bVek1Nx4O7",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "AOS TREZE THIRTEEN",
+        "c": "https://image.tmdb.org/t/p/w300/gPB5NYSrsCF3RHa9FWRiE7ilA96.jpg",
+        "a": "2003",
+        "link": "https://u.pcloud.link/publink/show?code=XZBB1JJZW2RrWNcjKXSU2o0IWGrVPRvrgUuX",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

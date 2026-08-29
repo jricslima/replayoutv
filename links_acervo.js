@@ -26683,8 +26683,8 @@ filmes = [
         "t": "TAMARA DREWE O RETORNO DE TAMARA",
         "c": "https://image.tmdb.org/t/p/w300/cIN9GcyjFUR9UWjorhUAaZXzu3x.jpg",
         "a": "2010",
-        "link": "https://drive.google.com/file/d/1pyPBG1tyDHCxmWHWm_vSdU7CMTRGVHIN/view?usp=sharing",
-        "tags": "LEG",
+        "link": "https://u.pcloud.link/publink/show?code=XZsprJJZ2hkX9BUA6e8S7ROSGGUgvQT0N4jy",
+        "tags": "DUAL",
         "n": 0
     },
     {

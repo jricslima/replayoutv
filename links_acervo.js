@@ -33049,9 +33049,9 @@ filmes = [
     },
     {
         "t": "SISTERS IRMÃS",
-        "c": "https://image.tmdb.org/t/p/w300/tkH7PImluWCtfQzrsM713fEEz7p.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/wItx3vsEt6vq7JJUGKVO10VMm1g.jpg",
         "a": "2015",
-        "link": "https://www.themoviedb.org/t/p/w600_and_h900_face/wItx3vsEt6vq7JJUGKVO10VMm1g.jpg",
+        "link": "https://u.pcloud.link/publink/show?code=XZcYGpJZE8arOp303QHQGaIfiLB5TQqVWflV",
         "tags": "LEG",
         "n": 0
     }

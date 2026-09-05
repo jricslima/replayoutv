@@ -33073,7 +33073,7 @@ filmes = [
     },
     {
         "t": "DANIEL'S DAUGHTER A FILHA DE DANIEL",
-        "c": "https://image.tmdb.org/t/p/w300/2fww7OEGuKqzy24WylNeqCXRKVm.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/phwUMvVk83sn46KqKi9OroS7JOd.jpg",
         "a": "2008",
         "link": "https://u.pcloud.link/publink/show?code=XZxirpJZ21fmhnMlg8zwnRMqgrGu5yAcD6Fk",
         "tags": "LEG",

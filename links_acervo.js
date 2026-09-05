@@ -26880,14 +26880,6 @@ filmes = [
         "n": 1
     },
     {
-        "t": "THE CHRISTMAS CHALET",
-        "c": "https://image.tmdb.org/t/p/w300/AvY8kZ3gIfzKqjqfE5Qcbj0LAVA.jpg",
-        "a": "2019",
-        "link": "https://drive.google.com/file/d/1SsLo0d3MW5bJcByZJRmAIuvncgZi8Cm_/view?usp=sharing",
-        "tags": "LEG",
-        "n": 0
-    },
-    {
         "t": "THE CHRISTMAS CLUB",
         "c": "https://image.tmdb.org/t/p/w300/sXOTaZi8uo6DLJ4G0qiL8lYgV6K.jpg",
         "a": "2019",
@@ -33065,7 +33057,7 @@ filmes = [
     },
     {
         "t": "THE CHRISTMAS CHALET",
-        "c": "https://image.tmdb.org/t/p/w300/AvY8kZ3gIfzKqjqfE5Qcbj0LAVA.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ftx4UMnWx06pLRn84qLMBCFfMnp.jpg",
         "a": "2019",
         "link": "https://u.pcloud.link/publink/show?code=XZQKrpJZqRXbniv0mfSr8bqTbig0wz7eo6Oy",
         "tags": "LEG",

@@ -27187,8 +27187,8 @@ filmes = [
         "t": "THE VALLEY OF GWANGI O VALE PROIBIDO",
         "c": "https://image.tmdb.org/t/p/w300/arxqDCjWwYTIwRLRnxt8GijV4Qp.jpg",
         "a": "1969",
-        "link": "https://drive.google.com/file/d/1KgzM1EHv1vkIbFI8Oya_o4XbZQSF0_SL/view?usp=drive_open",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1lA2G-zim4WVv9DU4z23YvYP60J5isx6G/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

@@ -28835,7 +28835,7 @@ filmes = [
         "t": "UM CÃO DO OUTRO MUNDO",
         "c": "https://image.tmdb.org/t/p/w300/cjtijkuL1GeocVrkQfQ2uaJfQYI.jpg",
         "a": "2003",
-        "link": "https://drive.google.com/file/d/1jangjxqjCeNDPF8Q7NknopYxfh3MGgSn/view?usp=drive_open",
+        "link": "https://drive.google.com/file/d/1_tcXfIJBA13gT-UnW3cS8yNWu1ii378e/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },

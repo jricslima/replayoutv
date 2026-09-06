@@ -27755,8 +27755,8 @@ filmes = [
         "t": "TURBO KID",
         "c": "https://image.tmdb.org/t/p/w300/ArUqADkwycYtNVuXSoSXVrdJ8iJ.jpg",
         "a": "2015",
-        "link": "https://drive.google.com/file/d/14Pidn_V5uzJXnFrbFaELhhXUDoxaQ_cu/view?usp=sharing",
-        "tags": "LEG",
+        "link": "https://drive.google.com/file/d/1rllWex88g8ccwP106Yae3wx9YY5jGB03/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

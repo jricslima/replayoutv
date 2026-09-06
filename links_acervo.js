@@ -30667,8 +30667,8 @@ filmes = [
         "t": "WING COMMANDER A BATALHA FINAL",
         "c": "https://image.tmdb.org/t/p/w300/e3p2vkA4mnFaBlyAIntkZWkzOJW.jpg",
         "a": "1999",
-        "link": "https://drive.google.com/file/d/1moXYGtohbrWulsPHjCa9dboTbMeEJIYd/view?usp=drive_open",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1fk83KK5gubywMH46HqrKg1fYaiSWbFIM/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

@@ -24652,7 +24652,7 @@ filmes = [
         "c": "https://image.tmdb.org/t/p/w300/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
         "a": "1981",
         "link": "https://drive.google.com/file/d/1-7v--6Y0e0vgh_3wYzd7j8J5TCXq4v1H/view?usp=sharing",
-        "tags": "LEG",
+        "tags": "DUAL",
         "n": 0
     },
     {

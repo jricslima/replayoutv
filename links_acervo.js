@@ -27539,8 +27539,8 @@ filmes = [
         "t": "TRÊS HISTÓRIAS, UM DESTINO",
         "c": "https://image.tmdb.org/t/p/w300/ovn5OEysi1c2rqLXLf9KiXGvXe0.jpg",
         "a": "2012",
-        "link": "https://drive.google.com/file/d/11b79SiRrKKCIgHsuHrEBgDv9Fqr1Al3E/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1WSQdkUrK5gZCAlLlk5eixxB2hrb3nyMc/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

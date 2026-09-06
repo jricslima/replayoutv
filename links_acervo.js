@@ -27139,8 +27139,8 @@ filmes = [
         "t": "THE QUIET O PREÇO DO SILÊNCIO",
         "c": "https://image.tmdb.org/t/p/w300/cNwFxuAMMRRbJf9WoO6KIdtizZO.jpg",
         "a": "2005",
-        "link": "https://drive.google.com/file/d/1uBa_DdiVWCPJt3iC790RBOyoM_owbO8w/view?usp=drive_open",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1d11UR9z-99I24C_2We0OH6rWUc6y-ZhL/view?usp=sharing",
+        "tags": "LEG",
         "n": 0
     },
     {

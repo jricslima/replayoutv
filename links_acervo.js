@@ -27099,7 +27099,7 @@ filmes = [
         "t": "THE PARENT TRAP OPERAÇÃO CUPIDO O GRANDE AMOR DE NOSSAS VIDAS",
         "c": "https://image.tmdb.org/t/p/w300/eN7c9my5w2FCLGEIPIibOxZdQtD.jpg",
         "a": "1961",
-        "link": "https://drive.google.com/file/d/1aviIj9Wwetv0sZL2O8kcDtEmXaBWr8Ul/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1OpFwebMsYhvBFlL6iNPxBCJMIZw3WRGJ/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },

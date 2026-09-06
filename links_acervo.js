@@ -27251,7 +27251,7 @@ filmes = [
         "t": "THESIS MORTE AO VIVO",
         "c": "https://image.tmdb.org/t/p/w300/kg8Dv4CMOtvmgtil7zqju180ZRp.jpg",
         "a": "1996",
-        "link": "https://drive.google.com/file/d/18HuP-1dlL7btSAVrIZhrzWAxGCbsJaYV/view?usp=sharing",
+        "link": "https://drive.google.com/file/d/1jTcbQQtETj9W4iUnGKeIa3Kr-mKY3ul0/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },

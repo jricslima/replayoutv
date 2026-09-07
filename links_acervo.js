@@ -30057,8 +30057,8 @@ filmes = [
     },
     {
         "t": "VERMELHO BRASIL",
-        "c": "https://image.tmdb.org/t/p/w300/bwTfshmCqL3ItJJHzADjiUPJeNR.jpg",
-        "a": "2022",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/gYpuQ16T6sVwVQPXcWKfV6nREJt.jpg",
+        "a": "2012",
         "link": "https://drive.google.com/file/d/1t1gCrvp8PRODpkLIXP4N3cOPnZY3APpc/view?usp=sharing",
         "tags": "DUB",
         "n": 0

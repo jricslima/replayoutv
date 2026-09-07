@@ -33094,5 +33094,13 @@ filmes = [
         "link": "https://u.pcloud.link/publink/show?code=XZsLyHJZAved7pa7MRh2wIA7PSaJUJKsbCXV",
         "tags": "DUB",
         "n": 1
+    },
+    {
+        "t": "A BARRACA DO BEIJO THE KISSING BOOTH",
+        "c": "https://image.tmdb.org/t/p/w300/n2P84bRyMhfabyPZ0nhBxHyngya.jpg",
+        "a": "2018",
+        "link": "https://u.pcloud.link/publink/show?code=XZ2R0HJZUx1CCPIqupmfUOSXzvNLx51whiIy",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

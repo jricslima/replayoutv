@@ -33009,7 +33009,7 @@ filmes = [
     },
     {
         "t": "UM SINAL DOS CÉUS ANGELS FALL",
-        "c": "https://i.ibb.co/mVMwvQNw/3-Um-Sinal-dos-C-us-2007.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/oJt3H8hyO8FST81N3Z5tTyXHcuO.jpg",
         "a": "2007",
         "link": "https://u.pcloud.link/publink/show?code=XZ2veJJZJRB65jjVgIQyis8ETkeVWjvnKoBy",
         "tags": "LEG",

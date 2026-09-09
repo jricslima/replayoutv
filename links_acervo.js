@@ -8929,7 +8929,7 @@ filmes = [
     },
     {
         "t": "CINDERELLA THE CAT - GATTA CENERENTOLA - A GATA CINDERELA",
-        "c": "https://image.tmdb.org/t/p/w300/nOsUW2vJ8NRtordn0kO9LXlr95h.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/w9Kjd0FCsFSXfaodytCAxl0k2KI.jpg",
         "a": "2017",
         "link": "https://drive.google.com/file/d/1d-ZieoUufvk2J6Y6QMZxQF9KQfI_pH7e/view?usp=sharing",
         "tags": "LEG",

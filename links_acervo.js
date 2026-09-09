@@ -2712,14 +2712,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "A BARRACA DO BEIJO",
-        "c": "https://image.tmdb.org/t/p/w300/n2P84bRyMhfabyPZ0nhBxHyngya.jpg",
-        "a": "2018",
-        "link": "https://drive.google.com/file/d/1NBrzpcDphY7c_WHEYgHdQNfOqQSO_Tig/view",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "A BATALHA DAS CORRENTES",
         "c": "https://image.tmdb.org/t/p/w300/1hXJRUdM785ogYuaOo0lXWjOCda.jpg",
         "a": "2018",
@@ -8747,7 +8739,7 @@ filmes = [
         "t": "CHRISTMAS IN BOSTON",
         "c": "https://image.tmdb.org/t/p/w300/cGV69x7VWECPSlJWBsEwtSpHsKY.jpg",
         "a": "2005",
-        "link": "https://drive.google.com/file/d/1eSPWao_9KYuxMMfkFASa-Kv4ePgcQ3p6/view?usp=drive_open",
+        "link": "https://drive.google.com/file/d/1xOVKAkaQfRbPYZ-f-x3uDqScN4J1XQG_/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },

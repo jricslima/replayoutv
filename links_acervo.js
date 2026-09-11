@@ -13648,11 +13648,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "HERÓI",
-        "c": "https://image.tmdb.org/t/p/w300/ZCgYdPapN9ckSHmcpMuLbuzi9M.jpg",
-        "a": "2024",
-        "link": "https://drive.google.com/file/d/1QYcwkkrrGqLoKeAKYlzCBLxgW6bEU-M0/view?usp=drive_open",
-        "tags": "LEG",
+        "t": "HERÓI - HERO",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/iIufrv7nFF2M5bVf3dQc0f5prja.jpg",
+        "a": "2002",
+        "link": "https://u.pcloud.link/publink/show?code=XZHemzJZPtJXrWpbTAkpYnBfljlJCJGl7KCk",
+        "tags": "DUAL",
         "n": 0
     },
     {

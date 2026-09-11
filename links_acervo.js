@@ -13160,11 +13160,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "GET OUT (CORRA)",
-        "c": "https://image.tmdb.org/t/p/w300/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg",
+        "t": "GET OUT - CORRA",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg",
         "a": "2017",
-        "link": "https://drive.google.com/file/d/1wCfp7AJLq-FmD4IU5oZluKtG20Pi0H6H/view?usp=drive_open",
-        "tags": "LEG",
+        "link": "https://u.pcloud.link/publink/show?code=XZOu8zJZG9tCTx81OG5rlLgdLfinM88talJy",
+        "tags": "DUAL",
         "n": 0
     },
     {

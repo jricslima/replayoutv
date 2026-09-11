@@ -10793,9 +10793,9 @@ filmes = [
     },
     {
         "t": "DOMINGO MALDITO",
-        "c": "https://image.tmdb.org/t/p/w300/7q1h3M1vDlsHDKRhoPOzKjmFCVq.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/oql3J4eEZTi16GFDmD1OW9oO8VC.jpg",
         "a": "1971",
-        "link": "https://drive.google.com/file/d/1v7vK3fJIvxZzYjxAtQKrCXy2es4Af7qt/view?usp=drive_open",
+        "link": "https://drive.google.com/file/d/1ww9Sl_N4RyxMh0PIq0Y1nLUmjS8BfCn5/view?usp=sharing",
         "tags": "LEG",
         "n": 0
     },

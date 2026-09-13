@@ -33120,7 +33120,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "TODAS AS FORMAS DE AMAR SEXO E MENTIRAS CAMA E CAFÉ DA MANHÃ SEX AND BREAKFAST",
+        "t": "TODAS AS FORMAS DE AMAR - SEXO E MENTIRAS - CAMA E CAFÉ DA MANHÃ - SEX AND BREAKFAST",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/wI2hFWIsRhEjrnY5KEVNcSik9Ay.jpg",
         "a": "2007",
         "link": "https://u.pcloud.link/publink/show?code=XZR42zJZwLGe1RRtAYbEpAzUF2yA6Xc720A7",

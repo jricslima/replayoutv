@@ -23680,11 +23680,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PROJETO FLÓRIDA",
+        "t": "PROJETO FLÓRIDA - THE FLORIDA PROJECT",
         "c": "https://image.tmdb.org/t/p/w300/3NoSjGM6OCcN5tUCo3RjZ1Y47pZ.jpg",
         "a": "2017",
-        "link": "https://drive.google.com/open?id=1NlQl2tb3rs8WM3hBvgyYXw4OJHsvNwfE",
-        "tags": "DUB",
+        "link": "https://u.pcloud.link/publink/show?code=XZBrfzJZYbxi4SSNljQ3cc8csbFfBXtwuJdk",
+        "tags": "DUAL",
         "n": 0
     },
     {

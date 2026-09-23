@@ -30441,7 +30441,7 @@ filmes = [
     },
     {
         "t": "VIVA A VIDA É UMA FESTA",
-        "c": "https://image.tmdb.org/t/p/w300/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/5TNcgKe7wTqCpCgCEEJQQaSCNBO.jpg",
         "a": "2017",
         "link": "https://u.pcloud.link/publink/show?code=XZRDy4JZ4FBAhjoYHcSklyPWsYm8ky4k42h7",
         "tags": "DUB",

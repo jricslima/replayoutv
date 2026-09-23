@@ -17416,11 +17416,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "MULHERES PRE HISTÓRICAS",
-        "c": "https://image.tmdb.org/t/p/w300/i6onVgaC7pehJpAVGj0U5u6EbjC.jpg",
+        "t": "MULHERES PRÉ-HISTÓRICAS - SLAVE GIRLS - PREHISTORIC WOMEN",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/hKs685rLDfmOkEJAfXzodIdWYoY.jpg",
         "a": "1967",
-        "link": "https://drive.google.com/drive/folders/1A_EkRy8wUh7xNAgbvVsEplck1kCREqy9?usp=drive_open",
-        "tags": "DUB",
+        "link": "https://u.pcloud.link/publink/show?code=XZU6y4JZSQ4wklecoLJCwExMFO2zD5O709wk",
+        "tags": "DUAL",
         "n": 0
     },
     {

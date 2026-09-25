@@ -33155,14 +33155,6 @@ filmes = [
         "t": "A CANOA FUROU DONT GIVE UP THE SHIP",
         "c": "https://image.tmdb.org/t/p/w300/dstIXqOUbNK2fpIuPZBck8dmprO.jpg",
         "a": "1959",
-        "link": "https://u.pcloud.link/publink/show?code=XZKJU4JZilgXwb2e0gVPtAdU3av3kyxyXFLX",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
-        "t": "A CANOA FUROU DONT GIVE UP THE SHIP",
-        "c": "https://image.tmdb.org/t/p/w300/dstIXqOUbNK2fpIuPZBck8dmprO.jpg",
-        "a": "1959",
         "link": "https://u.pcloud.link/publink/show?code=XZSFU4JZcGbWkQgXgHHymDy405j8lmVy8WdX",
         "tags": "DUAL",
         "n": 0

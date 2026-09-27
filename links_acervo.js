@@ -33158,5 +33158,13 @@ filmes = [
         "link": "https://u.pcloud.link/publink/show?code=XZSFU4JZcGbWkQgXgHHymDy405j8lmVy8WdX",
         "tags": "DUAL",
         "n": 0
+    },
+    {
+        "t": "BUSCA IMPLACÁVEL TAKEN",
+        "c": "https://image.tmdb.org/t/p/w300/q5Lr8E4HSK7Lc4zqWtgtYsM1iJA.jpg",
+        "a": "2008",
+        "link": "https://u.pcloud.link/publink/show?code=XZaSA4JZTsUV0XqI58bFrorU8LiCbp3nUN5V",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

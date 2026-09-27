@@ -300,8 +300,8 @@
 
 <div id="chegada-final" style="text-align: center; padding: 50px; clear: both;">--- FIM DA OPÇÃO PESQUISADA ---</div>
 
-<script src="links_acervo.js?v=202609262316"></script>
-<script src="series_acervo.js?v=202609262316"></script>
+<script src="links_acervo.js?v=202609271650"></script>
+<script src="series_acervo.js?v=202609271650"></script>
 
 <script>
 let fonteDados = [];    
@@ -398,7 +398,7 @@ function filtrarPorLetra(letra) {
     document.getElementById("inputBusca").value = '';
 	filmesExibidos = 20;
     if (letra === '0-9') {
-        listaAtual = fonteDados.filter(f => /^[0-9]/.test(f.t));
+        listaAtual = fonteDados.filter(f => /^[0-9#]/.test(f.t));
     } else {
         listaAtual = fonteDados.filter(f => {
             if (!f.t) return false;

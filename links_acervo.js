@@ -33198,5 +33198,13 @@ filmes = [
         "link": "https://drive.google.com/file/d/1bpA-eXmDsUmYpQhHy8EOGWbiEtwLz4ot/view?usp=sharing",
         "tags": "LEG",
         "n": 1
+    },
+    {
+        "t": "3096 DIAS DE CATIVEIRO TAGE",
+        "c": "https://image.tmdb.org/t/p/w300/cV5BPqLxe1BynyexKZar3KOnYV.jpg",
+        "a": "2013",
+        "link": "https://u.pcloud.link/publink/show?code=XZFmaYJZRW2nMxJjMwJiz1m5MzNCQJJjBwiX",
+        "tags": "DUB",
+        "n": 0
     }
 ];

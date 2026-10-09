@@ -344,11 +344,11 @@ filmes = [
         "n": 0
     },
     {
-        "t": "3096 DIAS DE CATIVEIRO",
+        "t": "3096 DIAS DE CATIVEIRO - TAGE",
         "c": "https://image.tmdb.org/t/p/w300/cV5BPqLxe1BynyexKZar3KOnYV.jpg",
         "a": "2013",
-        "link": "https://drive.google.com/file/d/10JJUPQkFOwCJSdj4xBzA2YCMjI40tssf/view?usp=sharing",
-        "tags": "DUB",
+        "link": "https://drive.google.com/file/d/1GyyuWI_ZIiwIQDvMHxERd_greLoNalwM/view?usp=sharing",
+        "tags": "DUAL",
         "n": 0
     },
     {

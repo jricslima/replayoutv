@@ -33233,8 +33233,8 @@ filmes = [
     },
     {
         "t": "FLICKA 2 AMIGOS PARA SEMPRE",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/arHrxRFzIx06eYhijR5SmrRU6gG.jpg",
+        "a": "2010",
         "link": "https://drive.google.com/file/d/13UdSHxoFdmMa6gkKtkZqpYaBL4WYMb05/view?usp=sharing",
         "tags": "DUB",
         "n": 0

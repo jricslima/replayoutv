@@ -33225,7 +33225,7 @@ filmes = [
     },
     {
         "t": "FLICKA",
-        "c": "https://image.tmdb.org/t/p/w300/1n7H1kdapk9GHysKxkPGPe7ITKU.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/nhJlXSmiHnlVxea5J5l3wfuATwY.jpg",
         "a": "2006",
         "link": "https://drive.google.com/file/d/12YdbyY5gyPINRY5M15T67cJ2aNYeK43f/view?usp=sharing",
         "tags": "DUB",

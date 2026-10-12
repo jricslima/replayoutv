@@ -33273,7 +33273,7 @@ filmes = [
     },
     {
         "t": "CHRISTMAS AT THE INTERLAKEN",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
+        "c": "https://m.media-amazon.com/images/M/MV5BYjJhYzY0ODEtNzc4Zi00YmQ4LWExNTgtODgzYzFjNGRlMmYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "a": "2026",
         "link": "https://m.media-amazon.com/images/M/MV5BYjJhYzY0ODEtNzc4Zi00YmQ4LWExNTgtODgzYzFjNGRlMmYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "tags": "LEG",

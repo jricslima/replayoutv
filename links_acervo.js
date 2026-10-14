@@ -33280,7 +33280,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "ALWAYS AND FOREVER ALWAYS & FOREVER PARA SEMPRE E SEMPRE 480P",
+        "t": "ALWAYS AND FOREVER - ALWAYS & FOREVER - PARA SEMPRE E SEMPRE",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bdPCg5NiURU40m6s2gQR4DfCgK4.jpg",
         "a": "2009",
         "link": "https://drive.google.com/file/d/12gy98O3sDhL0nNTLeLhsZcPf7uoBgpuU/view?usp=sharing",

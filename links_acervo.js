@@ -33281,8 +33281,8 @@ filmes = [
     },
     {
         "t": "ALWAYS AND FOREVER ALWAYS & FOREVER PARA SEMPRE E SEMPRE 480P",
-        "c": "https://image.tmdb.org/t/p/w300/y1LHdH4ODPB3hnMH7myhHIs32VW.jpg",
-        "a": "2020",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bdPCg5NiURU40m6s2gQR4DfCgK4.jpg",
+        "a": "2009",
         "link": "https://drive.google.com/file/d/12gy98O3sDhL0nNTLeLhsZcPf7uoBgpuU/view?usp=sharing",
         "tags": "LEG",
         "n": 0

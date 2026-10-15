@@ -33273,7 +33273,7 @@ filmes = [
     },
     {
         "t": "CHRISTMAS AT THE INTERLAKEN",
-        "c": "https://m.media-amazon.com/images/M/MV5BYjJhYzY0ODEtNzc4Zi00YmQ4LWExNTgtODgzYzFjNGRlMmYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "c": "https://m.media-amazon.com/images/M/MV5BYjJhYzY0ODEtNzc4Zi00YmQ4LWExNTgtODgzYzFjNGRlMmYyXkEyXkFqcGc@._V1_.jpg",
         "a": "2026",
         "link": "https://u.pcloud.link/publink/show?code=XZSWVmJZlYASpiE1OCj1XuTbwNmsf754LUd7",
         "tags": "LEG",

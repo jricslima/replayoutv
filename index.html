@@ -22,7 +22,26 @@
     }
     
     body { background: var(--dark); color: var(--text); font-family: Arial, sans-serif; padding: 0; margin: 0; }
-    header { text-align: center; border-bottom: 2px solid var(--primary); margin-bottom: 20px; padding: 10px; }
+    header { text-align: center; border-bottom: 2px solid var(--primary); margin-bottom: 20px; padding: 15px; }
+    
+    /* Estilo do botão de acesso à versão leve */
+    .btn-modo-leve {
+        display: inline-block;
+        margin-top: 10px;
+        background: #222;
+        color: #f1c40f;
+        border: 1px solid #f1c40f;
+        padding: 6px 14px;
+        border-radius: 20px;
+        font-size: 0.85rem;
+        font-weight: bold;
+        text-decoration: none;
+        transition: 0.3s;
+    }
+    .btn-modo-leve:hover {
+        background: #f1c40f;
+        color: #000;
+    }
     
     .toast-dica {
         position: absolute;
@@ -179,79 +198,50 @@
     .btn-l { background: #222; color: #fff; border: 1px solid #444; width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; border-radius: 4px; cursor: pointer; font-size: 14px; font-weight: bold; }
     .btn-l:hover { background: var(--primary); }
 
-    /* Tudo do celular fica aqui dentro */
-@media (max-width: 600px) {
-    .container { 
-        grid-template-columns: repeat(2, 1fr) !important; 
-        gap: 10px; 
+    @media (max-width: 600px) {
+        .container { 
+            grid-template-columns: repeat(2, 1fr) !important; 
+            gap: 10px; 
+        }
+        .btn-l { 
+            width: 28px; 
+            height: 28px; 
+            font-size: 12px; 
+        }
+        #area-filtros-total > div {
+            width: 100% !important;
+            max-width: 100% !important;
+        }
+        #area-filtros-total {
+            padding: 20px 12px !important;
+        }
+        #inputBusca {
+            min-width: 0 !important;
+            flex-shrink: 1 !important;
+            padding: 12px 15px !important;
+            font-size: 0.95rem !important;
+        }
+        #helpLamp {
+            width: 36px !important;
+            height: 36px !important;
+            font-size: 16px !important;
+            flex-shrink: 0 !important;
+            margin-left: 6px !important;
+        }
+        .container-busca-lampada {
+            gap: 6px !important;
+            padding: 0 !important;
+        }
     }
-    
-    .btn-l { 
-        width: 28px; 
-        height: 28px; 
-        font-size: 12px; 
-    }
-    
-    /* Usa largura toda no celular */
-    #area-filtros-total > div {
-        width: 100% !important;
-        max-width: 100% !important;
-    }
-    
-    #area-filtros-total {
-        padding: 20px 12px !important;
-    }
-    
-    /* Input encolhe e estica */
-    #inputBusca {
-        min-width: 0 !important;
-        flex-shrink: 1 !important;
-        padding: 12px 15px !important;
-        font-size: 0.95rem !important;
-    }
-    
-    /* Lâmpada garantida na tela */
-    #helpLamp {
-        width: 36px !important;
-        height: 36px !important;
-        font-size: 16px !important;
-        flex-shrink: 0 !important;
-        margin-left: 6px !important;
-    }
-    
-    .container-busca-lampada {
-        gap: 6px !important;
-        padding: 0 !important;
-    }
-    
-    /* OPCIONAL: Letras em 1 linha com scroll - descomenta se quiser */
-    /*
-    .filtros-letras {
-        flex-wrap: nowrap !important;
-        overflow-x: auto !important;
-        justify-content: flex-start !important;
-        padding: 0 10px 10px !important;
-        -webkit-overflow-scrolling: touch;
-    }
-    
-    .filtros-letras::-webkit-scrollbar {
-        height: 4px;
-    }
-    
-    .filtros-letras::-webkit-scrollbar-thumb {
-        background: var(--primary);
-        border-radius: 2px;
-    }
-    */
-}
-    
     </style>
 </head>
 <body>
 
 <header>
     <h1>Replayoutv 2.0 - Acervo</h1>
-    <p id="contador" style="font-weight: bold; color: var(--primary); font-size: 1.1rem; text-align: center;">Total no Acervo: 0 itens</p>
+    <p id="contador" style="font-weight: bold; color: var(--primary); font-size: 1.1rem; text-align: center; margin: 8px 0;">Total no Acervo: 0 itens</p>
+    <!-- LINK SIMPLES PARA A VERSÃO LEVE NO GITHUB -->
+    <p style="margin: 5px 0;"><a href="https://jricslima.github.io/replayoutv/tv_leve.html" style="color: #f1c40f; text-decoration: underline; font-size: 0.95rem;">📺 Aceder à Versão TV Antiga / Leve</a></p>
 </header>
 
 <div id="area-filtros-total" style="width: 100%; background: #000; padding: 30px 20px; text-align: center; box-sizing: border-box;">
@@ -300,8 +290,8 @@
 
 <div id="chegada-final" style="text-align: center; padding: 50px; clear: both;">--- FIM DA OPÇÃO PESQUISADA ---</div>
 
-<script src="links_acervo.js?v=202610151434"></script>
-<script src="series_acervo.js?v=202610151434"></script>
+<script src="links_acervo.js?v=202610151739"></script>
+<script src="series_acervo.js?v=202610151739"></script>
 
 <script>
 let fonteDados = [];    

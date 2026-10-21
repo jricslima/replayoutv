@@ -18,11 +18,17 @@
         .menu-topo { display: flex; justify-content: center; gap: 12px; margin-bottom: 40px; flex-wrap: wrap; position: sticky; top: 0; background-color: #141414; padding: 15px 0; z-index: 1000; border-bottom: 1px solid #222; }
         .menu-topo a { background-color: #333; color: #fff; text-decoration: none; padding: 10px 18px; font-weight: bold; border-radius: 6px; border: 2px solid #444; font-size: 15px; }
         .menu-topo a:focus, .menu-topo a:hover { background-color: #e50914; border-color: #fff; outline: none; }
-        .grid-filmes { display: flex; flex-direction: column; gap: 8px; margin-bottom: 50px; }
-        .bloco-duplo { display: flex; gap: 8px; width: 100%; }
-        .link-comp { display: block; background-color: #262626; color: #ffffff; text-decoration: none; padding: 15px; border-radius: 6px; border: 2px solid #333; font-size: 15px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex-grow: 1; }
+        
+        /* Restaura o Grid em Colunas lado a lado */
+        .grid-filmes { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 10px; margin-bottom: 50px; }
+        
+        /* Bloco duplo divide o espaço meio a meio (50% / 50%) */
+        .bloco-duplo { display: flex; gap: 6px; width: 100%; }
+        
+        .link-comp { display: block; background-color: #262626; color: #ffffff; text-decoration: none; padding: 14px 10px; border-radius: 6px; border: 2px solid #333; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex: 1; text-align: center; }
         .link-comp:focus, .link-comp:hover { background-color: #e50914 !important; border-color: #ffffff !important; color: #ffffff !important; font-weight: bold; outline: none; }
-        .link-reserva { display: block; background-color: #444; color: #ffffff; text-decoration: none; padding: 15px 20px; border-radius: 6px; border: 2px solid #555; font-size: 15px; font-weight: bold; white-space: nowrap; }
+        
+        .link-reserva { display: block; background-color: #444; color: #ffffff; text-decoration: none; padding: 14px 10px; border-radius: 6px; border: 2px solid #555; font-size: 14px; font-weight: bold; white-space: nowrap; flex: 1; text-align: center; }
         .link-reserva:focus, .link-reserva:hover { background-color: #cb1d1d !important; border-color: #ffffff !important; outline: none; }
     </style>
 </head>

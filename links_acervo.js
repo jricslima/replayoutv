@@ -336,14 +336,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "300 (",
-        "c": "https://image.tmdb.org/t/p/w300/dSCFqaPcByXMEl6IEWxWW03bhmk.jpg",
-        "a": "2014",
-        "link": "https://drive.google.com/file/d/1Kn0aE7Lvuu0YQvEfaUGaKiZm1tNYZO3F/preview",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "3096 DIAS DE CATIVEIRO - TAGE",
         "c": "https://image.tmdb.org/t/p/w300/cV5BPqLxe1BynyexKZar3KOnYV.jpg",
         "a": "2013",
@@ -33285,6 +33277,15 @@ filmes = [
         "a": "2009",
         "link": "https://drive.google.com/file/d/12gy98O3sDhL0nNTLeLhsZcPf7uoBgpuU/preview",
         "tags": "LEG",
+        "n": 0
+    },
+    {
+        "t": "300",
+        "c": "https://image.tmdb.org/t/p/w300/auVn38xLZRTlogkwFuS4Ikeiwrl.jpg",
+        "a": "2007",
+        "link": "https://drive.google.com/file/d/1ZsLR598SWusqzji-jHonSMeomN-lYT8s/preview",
+        "link2": "https://u.pcloud.link/publink/show?code=XZEUebJZn9WTwlEbtVFNGN9oJrz8tF1Og3mV",
+        "tags": "DUAL",
         "n": 0
     }
 ];

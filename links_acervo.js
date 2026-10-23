@@ -5259,9 +5259,10 @@ filmes = [
         "t": "ÁGUA PARA ELEFANTES",
         "c": "https://image.tmdb.org/t/p/w300/yU7kerZsqvhsfLCMux5qC0vrcSg.jpg",
         "a": "2011",
-        "link": "https://drive.google.com/file/d/1/preview",
-        "tags": "DUB",
-        "n": 0
+        "link": "https://drive.google.com/file/d/1qkhmoYOa7DXpk3nNSC4PwPB--0zR468L/preview",
+        "tags": "DUAL",
+        "n": 0,
+        "link2": "https://u.pcloud.link/publink/show?code=XZNOAbJZPCHBKUOY1Ch5MM62fYlFD5XUVSC7"
     },
     {
         "t": "ÁGUIA DE AÇO",

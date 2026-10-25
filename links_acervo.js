@@ -377,7 +377,7 @@ filmes = [
     },
     {
         "t": "500 DIAS COM ELA - 500 DAYS OF SUMMER",
-        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bvMTUNlJPOQgEZUdAvYaaoWEGUn.jpg",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/b2VWV3v3Tz8BMEvqG7v8cI17Gsj.jpg",
         "a": "2009",
         "link": "https://drive.google.com/file/d/1X3Es20pdQjiG-PoFBP7I2YP6LTVowsBG/preview",
         "tags": "DUAL",

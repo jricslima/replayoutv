@@ -14478,8 +14478,8 @@ filmes = [
         "t": "JOGADA DE VERÃO",
         "c": "https://image.tmdb.org/t/p/w300/ochyPpmbvoxogJA0IV2HfY1HKH9.jpg",
         "a": "2001",
-        "link": "https://drive.google.com/file/d/1BRxAT4svM5Fl8N_lEzRRuyOj40GQ-CKN/preview",
-        "tags": "LEG",
+        "link": "https://drive.google.com/file/d/1EZFBpciOgSpcoK_qrd3TKf2H2mXpD8z_/preview",
+        "tags": "DUB",
         "n": 0
     },
     {

@@ -376,12 +376,13 @@ filmes = [
         "n": 0
     },
     {
-        "t": "500 DIAS COM ELA",
-        "c": "https://image.tmdb.org/t/p/w300/lYA0g5vS43u9fqzoqOhA2sKwi0z.jpg",
+        "t": "500 DIAS COM ELA - 500 DAYS OF SUMMER",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/bvMTUNlJPOQgEZUdAvYaaoWEGUn.jpg",
         "a": "2009",
-        "link": "https://drive.google.com/file/d/1EH9-BKH6sx7pECtTvJdudK3bcoGWG94C/preview",
-        "tags": "DUB",
-        "n": 0
+        "link": "https://drive.google.com/file/d/1X3Es20pdQjiG-PoFBP7I2YP6LTVowsBG/preview",
+        "tags": "DUAL",
+        "n": 0,
+        "link2": "https://u.pcloud.link/publink/show?code=XZ1qibJZyuXvTsbnmohOCv0Cyjjj9hDDdlXX"
     },
     {
         "t": "6 DIAS",

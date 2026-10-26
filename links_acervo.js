@@ -27505,8 +27505,9 @@ filmes = [
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/onZjYCgBsDvepDAXYMP778ChSCM.jpg",
         "a": "2017",
         "link": "https://u.pcloud.link/publink/show?code=XZ5VJLJZeTpWi0U6eafMvNuE4hT0HQ4g65a7",
-        "tags": "LEG",
-        "n": 0
+        "tags": "DUAL",
+        "n": 0,
+        "link2": "https://drive.google.com/file/d/1GF1AE4HbwcQ_oJsTeuCqHw39R6gLsl1K/preview"
     },
     {
         "t": "TRÊS FORMAS DE AMAR",

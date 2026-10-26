@@ -25693,8 +25693,8 @@ filmes = [
     },
     {
         "t": "S1MONE - SIMONE",
-        "c": "https://image.tmdb.org/t/p/w300/msjuLJdcQIrzTfmCCHMDUvesaZh.jpg",
-        "a": "2021",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/ngzboW2Iqj9BRpDpnV2eCoYbaLn.jpg",
+        "a": "2002",
         "link": "https://drive.google.com/file/d/1cvG1t26BP4S1OU4WsbuMe26UuiENeUHi/preview",
         "tags": "DUB",
         "n": 0,

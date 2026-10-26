@@ -25692,12 +25692,13 @@ filmes = [
         "n": 0
     },
     {
-        "t": "SIMONE",
+        "t": "S1MONE - SIMONE",
         "c": "https://image.tmdb.org/t/p/w300/msjuLJdcQIrzTfmCCHMDUvesaZh.jpg",
         "a": "2021",
-        "link": "https://drive.google.com/file/d/1iDv2fuu43wFUSa-IEulpkJ28o6hv1R01/preview",
+        "link": "https://drive.google.com/file/d/1cvG1t26BP4S1OU4WsbuMe26UuiENeUHi/preview",
         "tags": "DUB",
-        "n": 0
+        "n": 0,
+        "link2": "https://u.pcloud.link/publink/show?code=XZAakhJZ1jSAHc7XuNyQtJx7WyxmK5G7lTaX"
     },
     {
         "t": "SIMPLESMENTE ACONTECE",

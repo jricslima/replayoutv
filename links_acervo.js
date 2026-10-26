@@ -26944,9 +26944,10 @@ filmes = [
         "t": "THE FINAL TERROR",
         "c": "https://image.tmdb.org/t/p/w300/nQaY8o8LtdkSDUYzeyJ1CcHhh1J.jpg",
         "a": "1983",
-        "link": "https://drive.google.com/file/d/1O0mzR2F9KYJYe7CRwKaH-6xoPDNdMQr7/preview",
-        "tags": "DUB",
-        "n": 0
+        "link": "https://drive.google.com/file/d/1ieaUal5fWFompuzMEb7shLZPKZV4tgDN/preview",
+        "tags": "LEG",
+        "n": 0,
+        "link2": "https://u.pcloud.link/publink/show?code=XZ5mXhJZGhvfzKTdKO5QNF733jPsM5UKBQpV"
     },
     {
         "t": "THE FIST OF THE CONDOR",

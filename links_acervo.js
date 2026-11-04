@@ -33314,5 +33314,14 @@ filmes = [
         "link2": "",
         "tags": "DUB",
         "n": 0
+    },
+    {
+        "t": "KUNG FU",
+        "c": "https://image.tmdb.org/t/p/w300/1YMs3zCt5kICK28RvVgDL1UUtkA.jpg",
+        "a": "2008",
+        "link": "https://drive.google.com/file/d/1ff_u4-WoFc6KszDhCMVxLlhrn6hsQvDY/preview",
+        "link2": "https://u.pcloud.link/publink/show?code=XZY9oSJZe6hSELmVG0JA3lnSv6D4Mfm88NW7",
+        "tags": "LEG",
+        "n": 0
     }
 ];

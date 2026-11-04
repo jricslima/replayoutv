@@ -33308,8 +33308,8 @@ filmes = [
     },
     {
         "t": "TUDO DE NOVO",
-        "c": "https://image.tmdb.org/t/p/w300/iVELstuyxA6Fx8ZhSQlQtyYnqkQ.jpg",
-        "a": "2024",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/cKJGKuAZtozaroTdlvVUrzcybxc.jpg",
+        "a": "2020",
         "link": "https://drive.google.com/file/d/1IhtqqiI2SaqfCpjfbvNDrABMaFXcWgvM/preview",
         "link2": "",
         "tags": "DUB",

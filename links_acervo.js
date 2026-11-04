@@ -33317,8 +33317,8 @@ filmes = [
     },
     {
         "t": "KUNG FU",
-        "c": "https://image.tmdb.org/t/p/w300/1YMs3zCt5kICK28RvVgDL1UUtkA.jpg",
-        "a": "2008",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/vUqmS40PRyAe3COHh7wHpDFnspC.jpg",
+        "a": "1972",
         "link": "https://drive.google.com/file/d/1ff_u4-WoFc6KszDhCMVxLlhrn6hsQvDY/preview",
         "link2": "https://u.pcloud.link/publink/show?code=XZY9oSJZe6hSELmVG0JA3lnSv6D4Mfm88NW7",
         "tags": "LEG",

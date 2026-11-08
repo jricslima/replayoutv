@@ -24764,7 +24764,7 @@ filmes = [
         "n": 0
     },
     {
-        "t": "REVIVENDO O NATAL  - 12 ENCONTROS DE NATA L",
+        "t": "REVIVENDO O NATAL - 12 ENCONTROS DE NATAL",
         "c": "https://image.tmdb.org/t/p/w300/jWYz050zW2uXH3CSTaR7JS8dGqJ.jpg",
         "a": "2011",
         "link": "https://drive.google.com/file/d/1J-lsxEDx8bpwbrkNgzsALvEG5bJL5IBc/preview",

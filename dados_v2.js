@@ -22868,14 +22868,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "PAPERMAN - O AVIÃO DE PAPEL",
-        "c": "https://image.tmdb.org/t/p/w300/unBSS0uO7GZWT4TdmUPZFgnhnAv.jpg",
-        "a": "2012",
-        "link": "https://drive.google.com/file/d/16ateLojNe33D3ICB-09ufv_5AFyD4nCo/preview",
-        "tags": "DUB",
-        "n": 0
-    },
-    {
         "t": "PAR OU ÍMPAR",
         "c": "https://image.tmdb.org/t/p/w300/czlC5OSryk4eXNk1o0pk2zwNw1h.jpg",
         "a": "1978",

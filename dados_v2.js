@@ -30457,8 +30457,8 @@ filmes = [
     },
     {
         "t": "VIZINHOS",
-        "c": "https://image.tmdb.org/t/p/w300/oT7388wlquvpGN3LPxVeD849QAI.jpg",
-        "a": "2022",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/aV6gQxbH0ue0pMbrPBNBePT9WV6.jpg",
+        "a": "2014",
         "link": "https://drive.google.com/file/d/0B3kVhZQ7U7RFSUoyLWt4V2RQaTg/preview",
         "tags": "DUB",
         "n": 0

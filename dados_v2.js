@@ -33181,9 +33181,10 @@ filmes = [
         "t": "A MAGIA DO NATAL EVERY CHRISTMAS HAS A STORY CHRISTMAS MAKEOVER",
         "c": "https://image.tmdb.org/t/p/w300/unyUTYKEL9ImktSSmoPYbz3pptB.jpg",
         "a": "2016",
-        "link": "https://drive.google.com/file/d/1bpA-eXmDsUmYpQhHy8EOGWbiEtwLz4ot/preview",
-        "tags": "LEG",
-        "n": 1
+        "link": "https://drive.google.com/file/d/1Y2xqLwqKV9f1_uuf5MsxTMKYQQx6YA6h/preview",
+        "tags": "DUB",
+        "n": 1,
+        "link2": "https://u.pcloud.link/publink/show?code=XZ3BNfJZHNCbS1VtnHBKclgoKavBgzUWvEbX"
     },
     {
         "t": "3096 DIAS DE CATIVEIRO TAGE",

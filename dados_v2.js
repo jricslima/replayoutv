@@ -33338,15 +33338,6 @@ filmes = [
         "n": 0
     },
     {
-        "t": "VIZINHOS 2 NEIGHBORS 2 SORORITY RISING",
-        "c": "https://image.tmdb.org/t/p/w300/n7fD88Zdowjcvd6IkwjD8ijxQ5P.jpg",
-        "a": "2016",
-        "link": "https://drive.google.com/file/d/1yqSMYZmASvXLx7dUc7rMEWb8Vz1tfFUe/preview",
-        "link2": "https://u.pcloud.link/publink/show?code=XZXHtfJZg4aR7kJbebRd9b3yL61nNJskmI4V",
-        "tags": "DUAL",
-        "n": 0
-    },
-    {
         "t": "A MAGIA DO NATAL EVERY CHRISTMAS HAS A STORY CHRISTMAS MAKEOVER",
         "c": "https://image.tmdb.org/t/p/w300/unyUTYKEL9ImktSSmoPYbz3pptB.jpg",
         "a": "2016",

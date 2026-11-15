@@ -33364,5 +33364,14 @@ filmes = [
         "link2": "",
         "tags": "DUB",
         "n": 1
+    },
+    {
+        "t": "AMOR GARANTIDO LOVE, GUARANTEED",
+        "c": "https://image.tmdb.org/t/p/w300/kgoAd6HFGQ4gHBABWXL17mBwte2.jpg",
+        "a": "2020",
+        "link": "https://u.pcloud.link/publink/show?code=XZGhNfJZHUBqhmEJ9pR0U2oJGF1IMByK0kFk",
+        "link2": "",
+        "tags": "DUAL",
+        "n": 0
     }
 ];

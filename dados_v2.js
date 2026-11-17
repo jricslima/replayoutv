@@ -9416,9 +9416,10 @@ filmes = [
         "t": "CORAÇÃO VALENTE",
         "c": "https://image.tmdb.org/t/p/w300/cfnhpDzEV5zTsuaa4dCHFRzPHXx.jpg",
         "a": "1995",
-        "link": "https://drive.google.com/file/d/12xA-nKgluaHMNXem9d7vEq3Rea3f52Iz/preview",
+        "link": "https://drive.google.com/file/d/1s9KSmqv8HoqiLOER6gDtzgEO6WJwjE-4/preview",
         "tags": "DUB",
-        "n": 0
+        "n": 0,
+        "link2": "https://u.pcloud.link/publink/show?code=XZRX2BJZ0UCSBHotFe430oVs5l2e2VPg65RV"
     },
     {
         "t": "CORAÇÕES DE NATAL",

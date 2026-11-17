@@ -9873,9 +9873,10 @@ filmes = [
         "t": "DIÁRIOS DE MOTOCICLETA",
         "c": "https://image.tmdb.org/t/p/w300/eIuOax8vLiRmmOfOkqYENzVDO2J.jpg",
         "a": "2004",
-        "link": "https://drive.google.com/file/d/1O4aHrCLBQt0vXZD9NmhpwaXpW9eyo1D6/preview",
-        "tags": "DUAL",
-        "n": 0
+        "link": "https://drive.google.com/file/d/1syD2b9FD3ZycEpYjXZFeBjIqhGbLz0S-/preview",
+        "tags": "DUB",
+        "n": 0,
+        "link2": "https://u.pcloud.link/publink/show?code=XZqw2BJZEVLIs8o6mRkDithCk20wazGdX8tX"
     },
     {
         "t": "DO QUE AS MULHERES GOSTAM",

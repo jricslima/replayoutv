@@ -33416,7 +33416,7 @@ filmes = [
         "n": 1
     },
     {
-        "t": "OS ALTOS E BAIXOS DO AMOR LOVER FOREVER (",
+        "t": "OS ALTOS E BAIXOS DO AMOR LOVER FOREVER",
         "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/yM4wlwdWdTR9dzMw2OIlOz7l6QP.jpg",
         "a": "2025",
         "link": "https://drive.google.com/file/d/1bZ5oo55ZPnoLuwBGRJ976ZyswrdI0sPf/preview",

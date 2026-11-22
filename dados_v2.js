@@ -33435,8 +33435,8 @@ filmes = [
     },
     {
         "t": "NATAL ENTRE OS PINHEIROS CHRISTMAS IN THE PINES",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zrY2rneJjRjjFzOm531s6f1sy6G.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1Tm-XDCpYvf9ts5-D0g26ZRaqU9vXpIeN/preview",
         "link2": "https://u.pcloud.link/publink/show?code=XZN0Q2JZUSDlSBOKf4RotBzfUgnogFH0QxaV",
         "tags": "DUB",
@@ -33444,8 +33444,8 @@ filmes = [
     },
     {
         "t": "NATAL ENTRE OS PINHEIROS CHRISTMAS IN THE PINES",
-        "c": "https://placehold.jp/24/111111/ffffff/300x450.png?text=Sem%20Capa",
-        "a": "----",
+        "c": "https://www.themoviedb.org/t/p/w600_and_h900_face/zrY2rneJjRjjFzOm531s6f1sy6G.jpg",
+        "a": "2021",
         "link": "https://drive.google.com/file/d/1yUJ8AfWTxmx-TDkjqnPa3wGLpeMzN9eU/preview",
         "link2": "https://u.pcloud.link/publink/show?code=XZp5Q2JZxRrp6GUaCjH9S47hGJG3702Flx97",
         "tags": "LEG",

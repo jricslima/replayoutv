@@ -33469,5 +33469,14 @@ filmes = [
         "link2": "https://u.pcloud.link/publink/show?code=XZ7YU2JZhiDK9KdvQGXFeeaSwNniNXpFqMWk",
         "tags": "LEG",
         "n": 0
+    },
+    {
+        "t": "O MORRO DOS VENTOS UIVANTES WUTHERING HEIGHTS",
+        "c": "https://image.tmdb.org/t/p/w300/762vOiAWzosAH95sKLzUqYaAoHR.jpg",
+        "a": "2026",
+        "link": "https://drive.google.com/file/d/1JuDIdfnMCu3SMHrUtrVF-YoL3_Pv85-N/preview",
+        "link2": "https://u.pcloud.link/publink/show?code=XZEdU2JZDS4cDPCGLofNRYTgB9PiNVbtRAOX",
+        "tags": "DUAL",
+        "n": 0
     }
 ];
